@@ -28,12 +28,11 @@ jobs:
       - name: Build Fortinet watch page
         env:
           PAGE_TITLE: "Vendor Watch — Fortinet"
-          # Any-match keywords (case-insensitive)
-          KEYWORDS: "Fortinet, FortiOS, FortiGate, FortiWeb, FortiProxy, FortiManager, FortiAnalyzer, FortiNAC, FortiSwitch, FortiAP, FortiEDR, FortiClient, FortiSASE, CVE-20"
+          # Any-match keywords (case-insensitive) — removed CVE-20
+          KEYWORDS: "Fortinet, FortiOS, FortiGate, FortiWeb, FortiProxy, FortiManager, FortiAnalyzer, FortiNAC, FortiSwitch, FortiAP, FortiEDR, FortiClient, FortiSASE"
           # Feed names that should always be included (case-insensitive substring match)
           SOURCE_MATCH: "Fortinet, FortiGuard"
           # Extra feeds to include in addition to feeds.yaml (comma-separated URLs)
-          # Reddit supports RSS via `.rss`; this is "top posts today"
           EXTRA_FEEDS: "https://www.reddit.com/r/fortinet/top/.rss?t=day"
           # Where to write the page
           OUTPUT_PATH: "curated/vendors/fortinet.md"
