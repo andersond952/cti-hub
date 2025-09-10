@@ -17,7 +17,7 @@ feeds:
     url: https://www.darkreading.com/rss.xml
 
   - name: Recorded Future (Blog)
-    url: https://www.recordedfuture.com/resources/blog/rss.xml
+    url: https://therecord.media/tag/rss
 
 # Optional keyword filter applied per run. If empty or omitted, no keyword filtering.
 # Examples: ransomware, Okta, Citrix, Fortinet, 0-day, Cobalt Strike, MOVEit
