@@ -3,16 +3,16 @@ layout: default
 title: Firehose
 ---
 
-# Firehose
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}"/>
 
+# Firehose
 Latest raw CTI snapshots.
 
-<ul>
-{% assign fh = site.static_files | where_exp: "f", "f.path contains '/firehose/'" %}
-{% assign fh = fh | sort: "modified_time" | reverse %}
-{% for f in fh %}
-  {% if f.extname == '.md' and f.name != 'index.md' %}
-    <li><a href="{{ f.path | relative_url }}">{{ f.name | replace:'.md','' }}</a></li>
+<ul class="card-list">
+{% assign files = site.pages | where_exp:"p","p.url contains '/firehose/'" | sort:"url" | reverse %}
+{% for p in files %}
+  {% if p.name != 'index.md' %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.url | split: '/' | last | replace:'.html','' }}</a></li>
   {% endif %}
 {% endfor %}
 </ul>
