@@ -1,4 +1,4 @@
-# McKee CTI Hub (GitHub-Only Template)
+# CTI Hub
 
 A low/zero-code Cyber Threat Intelligence hub that lives entirely in GitHub.
 
