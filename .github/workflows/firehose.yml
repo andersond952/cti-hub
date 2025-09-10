@@ -28,6 +28,31 @@ jobs:
       - name: Run fetch_feeds.py
         run: python scripts/fetch_feeds.py
 
+      - name: Add Jekyll front matter to today's file
+        run: |
+          today=$(date -u +%F)
+          file="firehose/${today}.md"
+          if [ -f "$file" ]; then
+            title="Firehose — $(date -u +'%B %d, %Y')"
+            tmp=$(mktemp)
+            {
+              echo '---'
+              echo 'layout: default'
+              echo "title: ${title}"
+              echo '---'
+              echo
+              cat "$file"
+            } > "$tmp"
+            mv "$tmp" "$file"
+          fi
+
+      - name: Make/refresh latest pointer
+        run: |
+          today=$(date -u +%F)
+          if [ -f "firehose/${today}.md" ]; then
+            cp "firehose/${today}.md" "firehose/latest.md"
+          fi
+
       - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
