@@ -1,0 +1,508 @@
+---
+layout: default
+title: Firehose — September 10, 2025
+---
+
+# Daily CTI Firehose — 2025-09-10
+
+_Feeds: 6 | Items: 100 | Keyword filter: none_
+
+- **Chinese Hackers Allegedly Pose as US Lawmaker**  
+  Source: *Dark Reading* — Wed, 10 Sep 2025 16:44:30 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/chinese-hackers-allegedly-pose-us-lawmaker  
+  Chinese state-backed threat actors are suspected of posing as Michigan congressman John Moolenaar in a series of spear-phishing attacks.
+
+- **The Quiet Revolution in Kubernetes Security**  
+  Source: *Dark Reading* — Wed, 10 Sep 2025 14:00:00 GMT  
+  Link: https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security  
+  As Kubernetes becomes the foundation of enterprise infrastructure, the underlying operating system must evolve alongside it.
+
+- **Dormant macOS Backdoor ChillyHell Resurfaces**  
+  Source: *Dark Reading* — Wed, 10 Sep 2025 11:59:20 GMT  
+  Link: https://www.darkreading.com/endpoint-security/dormant-macos-backdoor-chillyhell-resurfaces  
+  With multiple persistence mechanisms, the modular malware can brute-force passwords, drop payloads, and communicate over different protocols.
+
+- **Southeast Asian Scam Centers Face More Financial Sanctions**  
+  Source: *Dark Reading* — Wed, 10 Sep 2025 02:00:00 GMT  
+  Link: https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions  
+  Firms cooperating with cybercrime syndicates in Burma and Cambodia face sanctions by the US government and enforcement actions by China, but the scams continue to grow.
+
+- **Microsoft Patch Tuesday, September 2025 Edition**  
+  Source: *Krebs on Security* — Tue, 09 Sep 2025 21:21:14 +0000  
+  Link: https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/  
+  Microsoft Corp. today issued security updates to fix more than 80 vulnerabilities in its Windows operating systems and software. There are no known "zero-day" or actively exploited vulnerabilities in this month's bundle from Redmond, which nevertheless includes patches for 13 flaws that earned Mi...
+
+- **EoP Flaws Again Lead Microsoft Patch Tuesday**  
+  Source: *Dark Reading* — Tue, 09 Sep 2025 20:48:26 GMT  
+  Link: https://www.darkreading.com/application-security/eop-flaws-again-lead-microsoft-patch-day  
+  Nearly half the CVEs Microsoft disclosed in its September security update, including one publicly known bug, enable escalation of privileges.
+
+- **Is the Browser Becoming the New Endpoint?**  
+  Source: *Dark Reading* — Tue, 09 Sep 2025 19:23:53 GMT  
+  Link: https://www.darkreading.com/endpoint-security/browser-becoming-new-endpoint  
+  While the jury is still out, it's clear that use has skyrocketed and security needs to align.
+
+- **Qantas Reduces Executive Pay Following Cyberattack**  
+  Source: *Dark Reading* — Tue, 09 Sep 2025 19:17:18 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/qantas-reduces-executive-pay-cyberattack  
+  The data breach, which occurred earlier this year, saw threat actors compromise a third-party platform to obtain Qantas customers' personal information.
+
+- **Huge NPM Supply Chain Attack Goes Out With Whimper**  
+  Source: *Dark Reading* — Tue, 09 Sep 2025 18:16:15 GMT  
+  Link: https://www.darkreading.com/application-security/huge-npm-supply-chain-attack-whimper  
+  Threat actors phished Qix's NPM account, then used their access to publish poisoned versions of 18 popular open source packages accounting for more than 2 billion weekly downloads.
+
+- **Salty2FA Takes Phishing Kits to Enterprise Level**  
+  Source: *Dark Reading* — Tue, 09 Sep 2025 15:50:11 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/salty2fa-phishing-kits-enterprise-level  
+  Cybercriminal operations use the same strategy and planning as legitimate organizations as they arm adversarial phishing kits with advanced features.
+
+- **Rockwell Automation FactoryTalk Optix**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-04  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 7.3</strong></li> <li><strong>ATTENTION:</strong> Exploitable remotely</li> <li><strong>Vendor:</strong> Rockwell Automat...
+
+- **ABB Cylon Aspect BMS/BAS**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-02  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 9.3</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **Rockwell Automation Stratix IOS**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-03  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.6</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **Rockwell Automation CompactLogix® 5480**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-06  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 7.0</strong></li> <li><strong>ATTENTION:</strong> Low attack complexity</li> <li><strong>Vendor:</strong> Rockwell Automa...
+
+- **Rockwell Automation 1783-NATR**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-09  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 6.9</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **CISA Releases Fourteen Industrial Control Systems Advisories**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/09/09/cisa-releases-fourteen-industrial-control-systems-advisories  
+  <p>CISA released fourteen Industrial Control Systems (ICS) advisories on September 9, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p> <ul> <li>ICSA-25-252-01 <a href="https://www.cisa.gov/news-events/ics-advisorie...
+
+- **Rockwell Automation FactoryTalk Activation Manager**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-05  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.7</strong></li> <li><strong>ATTENTION:</strong> Exploitable remotely/Low attack complexity</li> <li><strong>Vendor:</st...
+
+- **Rockwell Automation Analytics LogixAI**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-08  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.7</strong></li> <li><strong>ATTENTION</strong>: Exploitable from an adjacent network/low attack complexity</li> <li><st...
+
+- **Rockwell Automation ThinManager**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-01  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.6</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **Rockwell Automation ControlLogix 5580**  
+  Source: *CISA Alerts* — Tue, 09 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-252-07  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.2</strong></li> <li><strong>ATTENTION:</strong> Exploitable remotely/Low attack complexity</li> <li><strong>Vendor:</st...
+
+- **18 Popular Code Packages Hacked, Rigged to Steal Crypto**  
+  Source: *Krebs on Security* — Mon, 08 Sep 2025 22:53:41 +0000  
+  Link: https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/  
+  At least 18 popular JavaScript code packages that are collectively downloaded more than two billion times each week were briefly compromised with malicious software today, after a developer involved in maintaining the projects was phished. The attack appears to have been quickly contained and was...
+
+- **SentinelOne Announces Plans to Acquire Observo AI**  
+  Source: *Dark Reading* — Mon, 08 Sep 2025 21:13:40 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/sentinelone-acquire-observo-ai  
+  The combined company will help customers separate data ingestion from SIEM to improve threat detection and response.
+
+- **'MostereRAT' Malware Blends In, Blocks Security Tools**  
+  Source: *Dark Reading* — Mon, 08 Sep 2025 20:49:13 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/mostererat-blocks-security-tools  
+  A threat actor is using a sophisticated EDR-killing malware tool in a campaign to maintain long-term, persistent access on Windows systems.
+
+- **Salesloft Breached via GitHub Account Compromise**  
+  Source: *Dark Reading* — Mon, 08 Sep 2025 20:17:59 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/salesloft-breached-github-account-compromise  
+  The breach kickstarted a massive supply chain attack that led to the compromise of hundreds of Salesforce instances through stolen OAuth tokens.
+
+- **The Critical Failure in Vulnerability Management**  
+  Source: *Dark Reading* — Mon, 08 Sep 2025 14:00:00 GMT  
+  Link: https://www.darkreading.com/vulnerabilities-threats/the-critical-failure-in-vulnerability-management  
+  Organizations are seeking assistance to fix critical vulnerabilities. Solutions that orchestrate and automate network device protection put us on the right path.
+
+- **45 New Domains Linked to Salt Typhoon, UNC4841**  
+  Source: *Dark Reading* — Mon, 08 Sep 2025 10:08:51 GMT  
+  Link: https://www.darkreading.com/threat-intelligence/new-domains-salt-typhoon-unc4841  
+  The China-backed threat actors have used the previously undiscovered infrastructure to obtain long-term, stealthy access to targeted organizations.
+
+- **GOP Cries Censorship Over Spam Filters That Work**  
+  Source: *Krebs on Security* — Sat, 06 Sep 2025 03:23:35 +0000  
+  Link: https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/  
+  The chairman of the Federal Trade Commission (FTC) last week sent a letter to Google's CEO demanding to know why Gmail was blocking messages from Republican senders while allegedly failing to block similar missives supporting Democrats. The letter followed media reports accusing Gmail of dispropo...
+
+- **How Has IoT Security Changed Over the Past 5 Years?**  
+  Source: *Dark Reading* — Fri, 05 Sep 2025 20:46:04 GMT  
+  Link: https://www.darkreading.com/ics-ot-security/how-has-iot-security-changed-over-the-past-5-years-  
+  Experts see subtle improvements from new laws and best practices, but much work remains.
+
+- **Critical SAP S/4HANA Vulnerability Under Attack, Patch Now**  
+  Source: *Dark Reading* — Fri, 05 Sep 2025 20:11:30 GMT  
+  Link: https://www.darkreading.com/vulnerabilities-threats/sap-4hana-vulnerability-under-attack  
+  Exploitation of CVE-2025-42957 requires "minimal effort" and can result in a complete compromise of the SAP system and host OS, according to researchers.
+
+- **Anyone Using Agentic AI Needs to Understand Toxic Flows**  
+  Source: *Dark Reading* — Fri, 05 Sep 2025 19:34:47 GMT  
+  Link: https://www.darkreading.com/cyber-risk/anyone-using-agentic-ai-needs-understand-toxic-flows  
+  The biggest vulnerabilities may lie at the boundaries of where the AI agent connects with the enterprise system.
+
+- **Secretive MaaS Group 'TAG-150' Develops Novel 'CastleRAT'**  
+  Source: *Dark Reading* — Fri, 05 Sep 2025 18:28:14 GMT  
+  Link: https://www.darkreading.com/threat-intelligence/secretive-maas-group-tag-150-novel-castlerat  
+  TAG-150 is running a multifaceted and relatively successful malware-as-a-service operation, without advertising itself on the Dark Web.
+
+- **Scammers Are Using Grok to Spread Malicious Links on X**  
+  Source: *Dark Reading* — Fri, 05 Sep 2025 15:41:48 GMT  
+  Link: https://www.darkreading.com/threat-intelligence/scammers-grok-malicious-links-x  
+  It's called "grokking," and gives spammers a way to skirt X's ban on links in promoted posts and reach larger audiences than ever before.
+
+- **Azure mandatory multifactor authentication: Phase 2 starting in October 2025**  
+  Source: *Microsoft Security Blog* — Fri, 05 Sep 2025 15:00:00 +0000  
+  Link: https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/  
+  <p>Microsoft Azure is announcing the start of Phase 2 multi-factor authentication enforcement at the Azure Resource Manager layer, starting October 1, 2025.</p> <p>The post <a href="https://azure.microsoft.com/en-us/blog/azure-mandatory-multifactor-authentication-phase-2-starting-in-october-2025/...
+
+- **Embracing the Next Generation of Cybersecurity Talent**  
+  Source: *Dark Reading* — Fri, 05 Sep 2025 14:00:00 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/embracing-next-generation-cybersecurity-talent  
+  Programs like student-run SOCs can expand our cybersecurity workforce and better secure our public and private entities for when, not if, cyberattacks occur.
+
+- **Federal Cuts Put Local, State Agencies at Cyber-Risk**  
+  Source: *Dark Reading* — Fri, 05 Sep 2025 13:00:00 GMT  
+  Link: https://www.darkreading.com/cyber-risk/federal-cuts-local-state-agencies-risk  
+  Cyberattackers target local and state agencies, a problem as the Trump administration cuts cybersecurity funds and culls workers at federal security agencies.
+
+- **Sitecore Zero-Day Sparks New Round of ViewState Threats**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 22:05:51 GMT  
+  Link: https://www.darkreading.com/vulnerabilities-threats/sitecore-zero-day-viewstate-threats  
+  The vulnerability marks the latest example of threat actors weaponizing exposed ASP.NET machine keys for remote injection and deserialization attacks.
+
+- **Bridgestone Americas Confirms Cyberattack**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 21:03:35 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/bridgestone-americas-cyberattack  
+  Reports of disruptions at North American plants emerged earlier this week, though the nature of the attack on the tire manufacturer remains unclear.
+
+- **Chinese Hackers Game Google to Boost Gambling Sites**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 20:59:27 GMT  
+  Link: https://www.darkreading.com/cyber-risk/chinese-hackers-google-boost-gambling-sites  
+  New threat actor "GhostRedirector" is using a malicious IIS module to inject links that try to artificially boost search engine ranking for target sites.
+
+- **ISC2 Aims to Bridge DFIR Skills Gap With New Certificate**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 20:22:51 GMT  
+  Link: https://www.darkreading.com/cybersecurity-careers/isc2-aims-to-bridge-dfir-skill-gap-with-new-certificate  
+  The nonprofit training organization's new program addresses digital forensics, incident management, and network threat hunting.
+
+- **Phishing Empire Runs Undetected on Google, Cloudflare**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 20:05:10 GMT  
+  Link: https://www.darkreading.com/cloud-security/phishing-empire-undetected-google-cloudflare  
+  What's believed to be a global phishing-as-a-service enterprise using cloaking techniques has been riding on public cloud infrastructure for more than 3 years.
+
+- **Czech Warning Highlights China Stealing User Data**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 20:04:51 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/czech-warning-highlights-china-stealing-user-data  
+  Czech cyber agency NÚKIB warned of the risks of using products and software that send data back to China.
+
+- **Blast Radius of Salesloft Drift Attacks Remains Uncertain**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 16:52:25 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/salesloft-drift-attacks-blast-radius-uncertain  
+  Many high-profile Salesloft Drift customers have disclosed data breaches as a result of a recent supply chain attack, but the extent and severity of this campaign are unclear.
+
+- **UltraViolet Expands AppSec Capabilities With Black Duck's Testing Business**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 14:30:54 GMT  
+  Link: https://www.darkreading.com/application-security/ultraviolet-expands-appsec-capabilities-black-duck-testing-business  
+  The addition of Black Duck's application security testing offering to UltraViolet Cyber's portfolio helps security teams find and remediate issues earlier in the security lifecycle.
+
+- **Why Threat Hunting Should Be Part of Every Security Program**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 14:00:00 GMT  
+  Link: https://www.darkreading.com/threat-intelligence/threat-hunting-part-every-security-program  
+  The more you hunt, the more you learn.
+
+- **How Gray-Zone Hosting Companies Protect Data the US Wants Erased**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 13:45:18 GMT  
+  Link: https://www.darkreading.com/cloud-security/how-gray-zone-hosting-companies-protect-data-us-wants-erased  
+  The digital refuge: Abortion clinics, activist groups, and other organizations are turning to overseas hosting providers willing to keep their data — and their work — safe.
+
+- **CISA Adds Three Known Exploited Vulnerabilities to Catalog**  
+  Source: *CISA Alerts* — Thu, 04 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-adds-three-known-exploited-vulnerabilities-catalog  
+  <p>CISA has added three new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" title="Known Exploited Vulnerabilities (KEV) Catalog">Known Exploited Vulnerabilities (KEV) Catalog</a>, based on evidence of active exploitation.</p> <ul> <li><a href="https:...
+
+- **Honeywell OneWireless Wireless Device Manager (WDM)**  
+  Source: *CISA Alerts* — Thu, 04 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-247-01  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.8</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **CISA Releases Five Industrial Control Systems Advisories**  
+  Source: *CISA Alerts* — Thu, 04 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-releases-five-industrial-control-systems-advisories  
+  <p>CISA released five Industrial Control Systems (ICS) advisories on September 4, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p> <ul> <li>ICSA-25-247-01 <a href="https://www.cisa.gov/news-events/ics-advisories/ic...
+
+- **Iran MOIS Phishes 50+ Embassies, Ministries, Int'l Orgs**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 06:00:00 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/iran-mois-50-embassies-ministries-intl-orgs  
+  The Homeland Justice APT tried spying on countries and organizations from six continents, using more than 100 hijacked email accounts.
+
+- **Japan, South Korea Take Aim at North Korean IT Worker Scam**  
+  Source: *Dark Reading* — Thu, 04 Sep 2025 01:00:00 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/japan-south-korea-north-korean-it-worker-scam  
+  With the continued success of North Korea's IT worker scams, Asia-Pacific nations are working with private firms to blunt the scheme's effectiveness.
+
+- **Hybrid Clouds Provide a Practical Approach to Post-Quantum Migration**  
+  Source: *Dark Reading* — Wed, 03 Sep 2025 22:04:23 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/a-practical-approach-for-post-quantum-migration-with-hybrid-clouds  
+  This Tech Tip outlines how organizations can make the shift with minimal disruption.
+
+- **Russia's APT28 Targets Microsoft Outlook With 'NotDoor' Malware**  
+  Source: *Dark Reading* — Wed, 03 Sep 2025 20:49:14 GMT  
+  Link: https://www.darkreading.com/endpoint-security/apt28-outlook-notdoor-backdoor  
+  The notorious Russian state-sponsored hacking unit, also known as Fancy Bear, is abusing Microsoft Outlook for covert data exfiltration.
+
+- **Cloudflare Holds Back the Tide on 11.5Tbps DDoS Attack**  
+  Source: *Dark Reading* — Wed, 03 Sep 2025 20:34:48 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/cloudflare-ddos-attacks-new-heights  
+  It's the equivalent of watching more than 9,350 full-length HD movies or streaming 7,480 hours of high-def video nonstop in less than a minute.
+
+- **Hacked Routers Linger on the Internet for Years, Data Shows**  
+  Source: *Dark Reading* — Wed, 03 Sep 2025 13:56:08 GMT  
+  Link: https://www.darkreading.com/endpoint-security/hacked-routers-linger-on-the-internet-for-years-data-shows  
+  While trawling Internet scan data for signs of compromised infrastructure, researchers found that asset owners may not know for years their devices had been hacked.
+
+- **WhatsApp Bug Anchors Targeted Zero-Click iPhone Attacks**  
+  Source: *Dark Reading* — Wed, 03 Sep 2025 13:24:11 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/whatsapp-bug-zero-click-iphone-attacks  
+  A "sophisticated" attack that also exploits an Apple zero-day flaw is targeting a specific group of iPhone users, potentially with spyware.
+
+- **CISA, NSA, and Global Partners Release a Shared Vision of Software Bill of Materials (SBOM) Guidance**  
+  Source: *CISA Alerts* — Wed, 03 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-nsa-and-global-partners-release-shared-vision-software-bill-materials-sbom-guidance  
+  <p>CISA, in collaboration with NSA and 19 international partners, released joint guidance outlining<strong> </strong><a href="https://www.cisa.gov/resources-tools/resources/shared-vision-software-bill-materials-sbom-cybersecurity" title="A Shared Vision of Software Bill of Materials (SBOM) for Cy...
+
+- **CISA Adds Two Known Exploited Vulnerabilities to Catalog**  
+  Source: *CISA Alerts* — Wed, 03 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-adds-two-known-exploited-vulnerabilities-catalog  
+  <p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" title="Known Exploited Vulnerabilities (KEV) Catalog">Known Exploited Vulnerabilities (KEV) Catalog</a>, based on evidence of active exploitation.</p> <ul> <li><a href="https://...
+
+- **Varonis Acquires Email Security Provider SlashNext to Enhance BEC Defenses**  
+  Source: *Dark Reading* — Wed, 03 Sep 2025 12:00:00 GMT  
+  Link: https://www.darkreading.com/endpoint-security/varonis-acquires-email-security-provider-slashnext-enhance-bec-defenses  
+  Varonis plans to integrate SlashNext's advanced phishing, BEC, and social engineering attack protection capabilities into its data security platform.
+
+- **UAE to Implement Cyber Education Initiative**  
+  Source: *Dark Reading* — Wed, 03 Sep 2025 06:00:00 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/uae-cyber-education-initiative  
+  The initiative will be tailored to students and their growth in cybersecurity preparedness.
+
+- **Amazon Stymies APT29 Credential Theft Campaign**  
+  Source: *Dark Reading* — Tue, 02 Sep 2025 20:25:13 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/amazon-apt29-credential-theft-campaign  
+  A group linked to Russian intelligence services redirected victims to fake Cloudflare verification pages and exploited Microsoft's device code authentication flow.
+
+- **WordPress Woes Continue Amid ClickFix Attacks, TDS Threats**  
+  Source: *Dark Reading* — Tue, 02 Sep 2025 18:54:03 GMT  
+  Link: https://www.darkreading.com/vulnerabilities-threats/wordpress-woes-clickfix-attacks-tds-threats  
+  Vulnerable and malicious plug-ins are giving threat actors the ability to compromise WordPress sites and use them as a springboard to a variety of cyber threats and scams.
+
+- **Zscaler, Palo Alto Networks Breached via Salesloft Drift**  
+  Source: *Dark Reading* — Tue, 02 Sep 2025 17:24:37 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/zscaler-palo-alto-networks-breached-salesloft-drift  
+  Two major security firms suffered downstream compromises as part of a large-scale supply chain attack involving Salesloft Drift, a marketing SaaS application.
+
+- **Jaguar Land Rover Shuts Down in Scramble to Secure 'Cyber Incident'**  
+  Source: *Dark Reading* — Tue, 02 Sep 2025 16:44:27 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/jaguar-land-rover-cyber-incident  
+  The luxury automaker said its retail and production activities have been "severely disrupted."
+
+- **Hackers Are Sophisticated &amp; Impatient — That Can Be Good**  
+  Source: *Dark Reading* — Tue, 02 Sep 2025 14:00:00 GMT  
+  Link: https://www.darkreading.com/cyberattacks-data-breaches/hackers-sophisticated-impatient-good  
+  You can't negotiate with hackers from a place of fear — but you can turn their urgency against them with the right playbook, people, and preparation.
+
+- **NIST Enhances Security Controls for Improved Patching**  
+  Source: *Dark Reading* — Tue, 02 Sep 2025 13:01:53 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/nist-enhances-security-controls-for-improved-patching  
+  The US National Institute of Standards and Technology released Security and Privacy Control version 5.2.0 to help organizations be more proactive regarding patching.
+
+- **Delta Electronics EIP Builder**  
+  Source: *CISA Alerts* — Tue, 02 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-245-01  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 6.7</strong></li> <li><strong>ATTENTION</strong>: Low attack complexity</li> <li><strong>Vendor</strong>: Delta Electroni...
+
+- **CISA Releases Four Industrial Control Systems Advisories**  
+  Source: *CISA Alerts* — Tue, 02 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-releases-four-industrial-control-systems-advisories  
+  <p>CISA released four Industrial Control Systems (ICS) advisories on September 2, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p> <ul> <li>ICSA-25-245-01 <a href="https://www.cisa.gov/news-events/ics-advisories/ic...
+
+- **SunPower PVS6**  
+  Source: *CISA Alerts* — Tue, 02 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-245-03  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 9.4</strong></li> <li><strong>ATTENTION</strong>: Exploitable from an adjacent network/low attack complexity</li> <li><st...
+
+- **Fuji Electric FRENIC-Loader 4**  
+  Source: *CISA Alerts* — Tue, 02 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-245-02  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.4</strong></li> <li><strong>ATTENTION</strong>: Low attack complexity</li> <li><strong>Vendor</strong>: Fuji Electric</...
+
+- **CISA Adds Two Known Exploited Vulnerabilities to Catalog**  
+  Source: *CISA Alerts* — Tue, 02 Sep 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/09/02/cisa-adds-two-known-exploited-vulnerabilities-catalog  
+  <p>CISA has added two new vulnerabilities to its <a href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" title="Known Exploited Vulnerabilities (KEV) Catalog">Known Exploited Vulnerabilities (KEV) Catalog</a>, based on evidence of active exploitation.</p> <ul> <li><a href="https://...
+
+- **JSON Config File Leaks Azure ActiveDirectory Credentials**  
+  Source: *Dark Reading* — Tue, 02 Sep 2025 11:52:51 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/public-file-leaks-azure-activedirectory-credentials  
+  In this type of misconfiguration, cyberattackers could use exposed secrets to authenticate directly via Microsoft’s OAuth 2.0 endpoints and infiltrate Azure cloud environments.
+
+- **The Ongoing Fallout from a Breach at AI Chatbot Maker Salesloft**  
+  Source: *Krebs on Security* — Mon, 01 Sep 2025 21:55:04 +0000  
+  Link: https://krebsonsecurity.com/2025/09/the-ongoing-fallout-from-a-breach-at-ai-chatbot-maker-salesloft/  
+  The recent mass-theft of authentication tokens from Salesloft, whose AI chatbot is used by a broad swath of corporate America to convert customer interaction into Salesforce leads, has left many companies racing to invalidate the stolen credentials before hackers can exploit them. Now Google warn...
+
+- **An Audit Isn't a Speed Bump — It's Your Cloud Co-Pilot**  
+  Source: *Dark Reading* — Fri, 29 Aug 2025 14:00:00 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/audit-speed-bump-cloud-co-pilot  
+  Auditing must be seen for what it truly can be: a multiplier of trust, not a bottleneck of progress.
+
+- **Proof-of-Concept in 15 Minutes? AI Turbocharges Exploitation**  
+  Source: *Dark Reading* — Fri, 29 Aug 2025 13:01:00 GMT  
+  Link: https://www.darkreading.com/vulnerabilities-threats/proof-concept-15-minutes-ai-turbocharges-exploitation  
+  Generating exploits with AI and large language models shrinks the time to target software flaws, giving security teams scant time to patch. Can enterprises adapt?
+
+- **CISA Adds One Known Exploited Vulnerability to Catalog**  
+  Source: *CISA Alerts* — Fri, 29 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/08/29/cisa-adds-one-known-exploited-vulnerability-catalog  
+  <p>CISA has added one new vulnerability to its <a class="Hyperlink SCXW206421139 BCX8" href="https://www.cisa.gov/known-exploited-vulnerabilities-catalog" rel="noreferrer noopener" title="Known Exploited Vulnerabilities (KEV) Catalog"><u>Known Exploited Vulnerabilities (KEV) Catalog</u></a>, base...
+
+- **CISA, FBI, NSA Warn of Chinese 'Global Espionage System'**  
+  Source: *Dark Reading* — Thu, 28 Aug 2025 20:10:08 GMT  
+  Link: https://www.darkreading.com/cybersecurity-operations/cisa-fbi-nsa-warn-chinese-global-espionage-system  
+  Three federal agencies were parties to a global security advisory this week warning about the extensive threat posed by Chinese nation-state actors targeting network devices.
+
+- **Affiliates Flock to ‘Soulless’ Scam Gambling Machine**  
+  Source: *Krebs on Security* — Thu, 28 Aug 2025 17:21:32 +0000  
+  Link: https://krebsonsecurity.com/2025/08/affiliates-flock-to-soulless-scam-gambling-machine/  
+  Last month, KrebsOnSecurity tracked the sudden emergence of hundreds of polished online gaming and wagering websites that lure people with free credits and eventually abscond with any cryptocurrency funds deposited by players. We've since learned that these scam gambling sites have proliferated t...
+
+- **CISA Releases Nine Industrial Control Systems Advisories**  
+  Source: *CISA Alerts* — Thu, 28 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/08/28/cisa-releases-nine-industrial-control-systems-advisories  
+  <p>CISA released nine Industrial Control Systems (ICS) advisories on August 28, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS.</p> <ul> <li>ICSA-25-240-01 <a href="https://www.cisa.gov/news-events/ics-advisories/icsa...
+
+- **Delta Electronics COMMGR**  
+  Source: *CISA Alerts* — Thu, 28 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-05  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.8</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **Mitsubishi Electric MELSEC iQ-F Series CPU Module**  
+  Source: *CISA Alerts* — Thu, 28 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-02  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.7</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **GE Vernova CIMPLICITY**  
+  Source: *CISA Alerts* — Thu, 28 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-06  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 7.0</strong></li> <li><strong>ATTENTION</strong>: Low attack complexity</li> <li><strong>Vendor</strong>: GE Vernova</li>...
+
+- **Delta Electronics CNCSoft-G2**  
+  Source: *CISA Alerts* — Thu, 28 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-04  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 8.5</strong></li> <li><strong>ATTENTION</strong>: Low attack complexity</li> <li><strong>Vendor</strong>: Delta Electroni...
+
+- **Mitsubishi Electric MELSEC iQ-F Series CPU Module**  
+  Source: *CISA Alerts* — Thu, 28 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-01  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v4 6.9</strong></li> <li><strong>ATTENTION</strong>: Exploitable remotely/low attack complexity</li> <li><strong>Vendor</str...
+
+- **Schneider Electric Saitel DR & Saitel DP Remote Terminal Unit**  
+  Source: *CISA Alerts* — Thu, 28 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/ics-advisories/icsa-25-240-03  
+  <p><a href="https://github.com/cisagov/CSAF" target="_blank"><strong>View CSAF</strong></a></p> <h2 id="1-executive-summary">1. EXECUTIVE SUMMARY</h2> <ul> <li><strong>CVSS v3 6.7</strong></li> <li><strong>ATTENTION</strong>: Low Attack Complexity</li> <li><strong>Vendor</strong>: Schneider Elect...
+
+- **Storm-0501’s evolving techniques lead to cloud-based ransomware**  
+  Source: *Microsoft Security Blog* — Wed, 27 Aug 2025 16:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/  
+  <p>Financially motivated threat actor Storm-0501 has continuously evolved their campaigns to achieve sharpened focus on cloud-based tactics, techniques, and procedures (TTPs). While the threat actor has been known for targeting hybrid cloud environments, their primary objective has shifted from d...
+
+- **Microsoft ranked number one in modern endpoint security market share third year in a row**  
+  Source: *Microsoft Security Blog* — Wed, 27 Aug 2025 15:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/27/microsoft-ranked-number-one-in-modern-endpoint-security-market-share-third-year-in-a-row/  
+  <p>For a third year a row, Microsoft has been named the number one leader for endpoint security market share, as featured in a new IDC report.</p> <p>The post <a href="https://www.microsoft.com/en-us/security/blog/2025/08/27/microsoft-ranked-number-one-in-modern-endpoint-security-market-share-thi...
+
+- **CISA and Partners Release Joint Advisory on Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage Systems**  
+  Source: *CISA Alerts* — Wed, 27 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/alerts/2025/08/27/cisa-and-partners-release-joint-advisory-countering-chinese-state-sponsored-actors-compromise  
+  <p>CISA, along with the National Security Agency, Federal Bureau of Investigation, and international partners, released a <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a?utm_source=SaltTyphoon&utm_medium=AlertAdvisory" title="joint Cybersecurity Advisory">joint Cybers...
+
+- **Countering Chinese State-Sponsored Actors Compromise of Networks Worldwide to Feed Global Espionage System**  
+  Source: *CISA Alerts* — Wed, 27 Aug 25 12:00:00 +0000  
+  Link: https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-239a  
+  <h2><strong>Executive summary</strong></h2> <p>People’s Republic of China (PRC) state-sponsored cyber threat actors are targeting networks globally, including, but not limited to, telecommunications, government, transportation, lodging, and military infrastructure networks. While these actors foc...
+
+- **Securing and governing the rise of autonomous agents​​**  
+  Source: *Microsoft Security Blog* — Tue, 26 Aug 2025 16:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/26/securing-and-governing-the-rise-of-autonomous-agents/  
+  <p>Hear directly from Corporate Vice President and Deputy Chief Information Security Officer (CISO) for Identity, Igor Sakhnov, about how to secure and govern autonomous agents. This blog is part of a new ongoing series where our Deputy CISOs share their thoughts on what is most important in thei...
+
+- **DSLRoot, Proxies, and the Threat of ‘Legal Botnets’**  
+  Source: *Krebs on Security* — Tue, 26 Aug 2025 14:05:12 +0000  
+  Link: https://krebsonsecurity.com/2025/08/dslroot-proxies-and-the-threat-of-legal-botnets/  
+  The cybersecurity community on Reddit responded in disbelief this month when a self-described Air National Guard member with top secret security clearance began questioning the arrangement they'd made with company called DSLRoot, which was paying $250 a month to plug a pair of laptops into the Re...
+
+- **Think before you Click(Fix): Analyzing the ClickFix social engineering technique**  
+  Source: *Microsoft Security Blog* — Thu, 21 Aug 2025 16:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/21/think-before-you-clickfix-analyzing-the-clickfix-social-engineering-technique/  
+  <p>The ClickFix social engineering technique has been growing in popularity, with campaigns targeting thousands of enterprise and end-user devices daily. This technique exploits users’ tendency to resolve technical issues by tricking them into running malicious commands. These commands, in turn, ...
+
+- **SIM-Swapper, Scattered Spider Hacker Gets 10 Years**  
+  Source: *Krebs on Security* — Thu, 21 Aug 2025 01:47:22 +0000  
+  Link: https://krebsonsecurity.com/2025/08/sim-swapper-scattered-spider-hacker-gets-10-years/  
+  A 21-year-old Florida man at the center of a prolific cybercrime group known as "Scattered Spider" was sentenced to 10 years in federal prison today, and ordered to pay roughly $13 million in restitution to victims. Noah Michael Urban of Palm Coast, Fla. pleaded guilty in April 2025 to charges of...
+
+- **Quantum-safe security: Progress towards next-generation cryptography**  
+  Source: *Microsoft Security Blog* — Wed, 20 Aug 2025 16:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/20/quantum-safe-security-progress-towards-next-generation-cryptography/  
+  <p>Microsoft is proactively leading the transition to quantum-safe security by advancing post-quantum cryptography, collaborating with global standards bodies, and helping organizations prepare for the coming quantum era. </p> <p>The post <a href="https://www.microsoft.com/en-us/security/blog/202...
+
+- **Oregon Man Charged in ‘Rapper Bot’ DDoS Service**  
+  Source: *Krebs on Security* — Tue, 19 Aug 2025 20:51:06 +0000  
+  Link: https://krebsonsecurity.com/2025/08/oregon-man-charged-in-rapper-bot-ddos-service/  
+  A 22-year-old Oregon man has been arrested on suspicion of operating "Rapper Bot," a massive botnet used to power a service for launching distributed denial-of-service (DDoS) attacks against targets -- including a March 2025 DDoS that knocked Twitter/X offline. The Justice Department asserts the ...
+
+- **Dissecting PipeMagic: Inside the architecture of a modular backdoor framework**  
+  Source: *Microsoft Security Blog* — Mon, 18 Aug 2025 15:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/18/dissecting-pipemagic-inside-the-architecture-of-a-modular-backdoor-framework/  
+  <p>A comprehensive technical deep dive on PipeMagic, a highly modular backdoor used by Storm-2460 masquerading as a legitimate open-source ChatGPT Desktop Application. Beneath its disguise, PipeMagic is a sophisticated malware framework designed for flexibility and persistence. Once deployed, it ...
+
+- **Mobile Phishers Target Brokerage Accounts in ‘Ramp and Dump’ Cashout Scheme**  
+  Source: *Krebs on Security* — Fri, 15 Aug 2025 18:27:05 +0000  
+  Link: https://krebsonsecurity.com/2025/08/mobile-phishers-target-brokerage-accounts-in-ramp-and-dump-cashout-scheme/  
+  Cybercriminal groups peddling sophisticated phishing kits that convert stolen card data into mobile wallets have recently shifted their focus to targeting customers of brokerage services, new research shows. Undeterred by security controls at these trading platforms that block users from wiring f...
+
+- **Connect with the security community at Microsoft Ignite 2025**  
+  Source: *Microsoft Security Blog* — Wed, 13 Aug 2025 16:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/13/connect-with-the-security-community-at-microsoft-ignite-2025/  
+  <p>Join us at Microsoft Ignite 2025 for a week of immersive learning, hands-on experiences, and strategic insights tailored for security leaders, practitioners, and innovators.</p> <p>The post <a href="https://www.microsoft.com/en-us/security/blog/2025/08/13/connect-with-the-security-community-at...
+
+- **Microsoft Patch Tuesday, August 2025 Edition**  
+  Source: *Krebs on Security* — Tue, 12 Aug 2025 22:14:41 +0000  
+  Link: https://krebsonsecurity.com/2025/08/microsoft-patch-tuesday-august-2025-edition/  
+  Microsoft today released updates to fix more than 100 security flaws in its Windows operating systems and other software. At least 13 of the bugs received Microsoft's most-dire "critical" rating, meaning they could be abused by malware or malcontents to gain remote access to a Windows system with...
+
+- **Dow’s 125-year legacy: Innovating with AI to secure a long future**  
+  Source: *Microsoft Security Blog* — Tue, 12 Aug 2025 16:00:00 +0000  
+  Link: https://www.microsoft.com/en-us/security/blog/2025/08/12/dows-125-year-legacy-innovating-with-ai-to-secure-a-long-future/  
+  <p>Microsoft recently spoke with Mario Ferket, Chief Information Security Officer for Dow, about the company’s approach to AI in security.</p> <p>The post <a href="https://www.microsoft.com/en-us/security/blog/2025/08/12/dows-125-year-legacy-innovating-with-ai-to-secure-a-long-future/">Dow’s 125-...
+
+- **Announcing public preview: Phishing triage agent in Microsoft Defender**  
+  Source: *Microsoft Security Blog* — Thu, 07 Aug 2025 16:00:00 +0000  
+  Link: https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-public-preview-phishing-triage-agent-in-microsoft-defender/4438301  
+  <p>The Phishing Triage Agent in Microsoft Defender is now available in Public Preview. It tackles one of the most repetitive tasks in the SOC: handling reports of user-submitted phish. </p> <p>The post <a href="https://techcommunity.microsoft.com/blog/microsoftthreatprotectionblog/announcing-publ...
