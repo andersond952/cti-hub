@@ -33,7 +33,7 @@ jobs:
           # Feed names that should always be included (case-insensitive substring match)
           SOURCE_MATCH: "Fortinet, FortiGuard"
           # Extra feeds to include in addition to feeds.yaml (comma-separated URLs)
-          EXTRA_FEEDS: "https://www.reddit.com/r/fortinet/top/.rss?t=day"
+          EXTRA_FEEDS: "https://www.reddit.com/r/fortinet/top/.rss?t=day", "https://feeds.fortinet.com/fortinet/blogs"
           # Where to write the page
           OUTPUT_PATH: "curated/vendors/fortinet.md"
           # How many articles to fetch OG metadata for (performance knob)
