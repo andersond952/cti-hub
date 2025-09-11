@@ -13,6 +13,46 @@ _Updated: September 11, 2025 • Sources filter: fortinet, fortiguard • Keywor
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ne4k22/reset_button_not_working_on_fortigate100f/" target="_blank" rel="noopener">Reset button not working on Fortigate-100F?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-11T09:48:48+00:00</div>
+    <p>Hi, I have tried using the reset button during operation and also after one power cycle, but the reset button is not resetting my Fortigate-100F with FortiOS 7.4.7. I have left the button pressed for more than 30 seconds but it does not ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ne2ie1/fortianal_fortigate_upgrade/" target="_blank" rel="noopener">FortiAnal &amp; Fortigate Upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-11T07:32:42+00:00</div>
+    <p>Hi all, We are currently facing a dilemma with our FAZ 3500G running 7.2.10 and our FTG 2600F running 7.2.5. Since version 7.2.12 has just been released, we are considering whether to upgrade to the latest version of 7.2 and stay there f...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ne2cpw/possbile_bug_on_fortios_7210/" target="_blank" rel="noopener">Possbile bug on Fortios 7.2.10</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-11T07:22:12+00:00</div>
+    <p>Hi, so I have been struggling the last 2 weeks with an issue and the Fortinet support team is sadly not able to help much. I got a HA setup with 2 600F fortigates running in VDOM mode with root and 1 extra vdom running multiple EMAC vlan...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ne1nu4/fortisoar_microsoft_sentinel_deployment/" target="_blank" rel="noopener">FortiSoar Microsoft Sentinel Deployment</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-11T06:37:21+00:00</div>
+    <p>Hello, I am in the process on deploying FortiSOAR in a SOC environment with the goal of having a single tool for alert and incident triaging. I am currently ingesting Sentinel Incident however, the data that comes through is very basic. ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ne0d2b/sslvpn_vs_ipsec/" target="_blank" rel="noopener">SSLVPN vs IPSec</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-11T05:16:28+00:00</div>
+    <p>We just had security audit and they dinged us for having SSLVPN for our remote users. I get it, they have had some massive zero days but I stay upto date in the mature train so mostly mitigated. Anyways the company wants us to switch to ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1ndy38h/ems_windows/" target="_blank" rel="noopener">EMS Windows</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-11T03:09:39+00:00</div>
     <p>Hi Team Like many we ran our EMS on a Windows Server. Easy to configure and support. Worked no issues. Now it looks like we are being forced to go to Linux to use EMS now. Looking at the migration it&#x27;s even harder. It&#x27;s not point and cli...</p>
@@ -109,6 +149,14 @@ _Updated: September 11, 2025 • Sources filter: fortinet, fortiguard • Keywor
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ndeuc5/admin_access_to_msp_fortigates/" target="_blank" rel="noopener">Admin Access to MSP FortiGates</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T13:53:56+00:00</div>
+    <p>Hello everyone, To all Fortinet MSPs: We have many Fortinet devices at customer sites across the country. We do not have an IPsec tunnel to every FortiGate. Please let me know how you manage secure (and centralized) admin access to your ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1nde6yd/guys_i_formatted_the_firewall_and_now_the_console/" target="_blank" rel="noopener">Guys I formatted the firewall and now the console is blank</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T13:27:14+00:00</div>
     <p>I just formatted a firewall to bypass previous authentication and during that process just after the format it rebooted again but then i was late to press a key. Then i reboot the firewall again to get the boot menu, and nothing appears ...</p>
@@ -120,22 +168,6 @@ _Updated: September 11, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1ndaobd/recommendation_for_fortigate_equipment/" target="_blank" rel="noopener">Recommendation for Fortigate equipment</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T10:38:20+00:00</div>
     <p>Hello, I need a recommendation on Fortigates for a new office building. We&#x27;ve currently got a Cisco RV340 that has hit EoL and we&#x27;re about to move to a brand new building. Given the EoL we would like a new router to replace the Cisco and...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nd5chg/edge_vdom/" target="_blank" rel="noopener">edge vdom</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T05:00:41+00:00</div>
-    <p>Hi, Due to budget limitations, the company has decided not to upgrade the end-of-support edge firewall and is instead requesting that the data center firewall be used for edge functions as well. Currently, the edge firewall handles servi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nd4mfq/fortigate_traffic_syslog_outboundinbound_fields/" target="_blank" rel="noopener">FortiGate Traffic Syslog Outbound/Inbound fields</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T04:19:29+00:00</div>
-    <p>Hello Fortinet community, I was checking a Syslog message (Traffic) and I came to a disagreement with my team about the sentbyte and rcvdbyte fields, which field represents the outbound traffic volume ? for example, the log message below...</p>
   </div>
 </li>
 <li class="card">
