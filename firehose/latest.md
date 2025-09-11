@@ -14,7 +14,7 @@ _Feeds: 7 | Items: 116 | Keyword filter: none_
   <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary.html?rss" target="_blank" rel="noopener">Infocon: green</a></h3>
-    <div class="meta">SANS Internet Storm Center · Thu, 11 Sep 2025 02:15:04 +0000</div>
+    <div class="meta">SANS Internet Storm Center · Thu, 11 Sep 2025 09:20:03 +0000</div>
     <p>Internet Storm Center Diary 2025-09-10, Author: Johannes Ullrich</p>
   </div>
 </li>
@@ -131,7 +131,7 @@ _Feeds: 7 | Items: 116 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-gartner/3.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-sysdig/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/" target="_blank" rel="noopener">Microsoft Patch Tuesday, September 2025 Edition</a></h3>
     <div class="meta">@briankrebs · Tue, 09 Sep 2025 21:21:14 +0000</div>
@@ -275,7 +275,7 @@ _Feeds: 7 | Items: 116 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-gartner/7.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-gartner/3.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/" target="_blank" rel="noopener">18 Popular Code Packages Hacked, Rigged to Steal Crypto</a></h3>
     <div class="meta">@briankrebs · Mon, 08 Sep 2025 22:53:41 +0000</div>
@@ -339,7 +339,7 @@ _Feeds: 7 | Items: 116 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-sysdig/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-ninjio/9.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/" target="_blank" rel="noopener">GOP Cries Censorship Over Spam Filters That Work</a></h3>
     <div class="meta">@briankrebs · Sat, 06 Sep 2025 03:23:35 +0000</div>
