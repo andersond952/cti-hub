@@ -7,9 +7,41 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 10, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 11, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ndy38h/ems_windows/" target="_blank" rel="noopener">EMS Windows</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-11T03:09:39+00:00</div>
+    <p>Hi Team Like many we ran our EMS on a Windows Server. Easy to configure and support. Worked no issues. Now it looks like we are being forced to go to Linux to use EMS now. Looking at the migration it&#x27;s even harder. It&#x27;s not point and cli...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ndsjf3/weirdness_with_full_tunnel_ipsec_client_vpn_wan/" target="_blank" rel="noopener">Weirdness with full tunnel IPsec client VPN wan access.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T22:41:16+00:00</div>
+    <p>Very strange. I’ve done this before many times but had a weird thing today. Moving from split tunnel to full tunnel. Connects fine but no Internet access. “Doh” forgot to create a rule allowing vpn to go out WAN1 for web access my bad. C...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ndsg73/ssl_vpn_trouble_shooting_issue/" target="_blank" rel="noopener">SSL VPN trouble shooting issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T22:37:16+00:00</div>
+    <p>I configured SSL vpn tunnel for an internal network and I can login with VPN client. using Split Tunnel. I can ping the GW of the internal Network but nothing pass that. Fom the Intenral Network the GW is the Lan Port on the FW. I can pi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ndox6y/throughput_issues_over_ipsec_vpn/" target="_blank" rel="noopener">Throughput issues over IPSec VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T20:10:06+00:00</div>
+    <p>Running out of steam on this issue, have a TAC case open but posting here for ideas/feedback. Topology - https://imgur.com/7NYEeB9 We have a handful of small remote sites (40F and 60F), mainly cable circuits in the 300/35 range, some as ...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
@@ -104,38 +136,6 @@ _Updated: September 10, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1nd4mfq/fortigate_traffic_syslog_outboundinbound_fields/" target="_blank" rel="noopener">FortiGate Traffic Syslog Outbound/Inbound fields</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T04:19:29+00:00</div>
     <p>Hello Fortinet community, I was checking a Syslog message (Traffic) and I came to a disagreement with my team about the sentbyte and rcvdbyte fields, which field represents the outbound traffic volume ? for example, the log message below...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nd3qq2/cant_add_vlan_to_a_zone_made_a_huge_mess_with/" target="_blank" rel="noopener">Can&#x27;t add VLAN to a Zone. Made a huge mess with naming conflict.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-10T03:33:12+00:00</div>
-    <p>Fortigate 3400E, 7.4.8 I caused an outage at work today and had to restart the firewalls. Everyone hates me. Anyway, after turning the machines back on there was a naming conflict between a zone on the root VDOM called &quot;DMZ&quot;, and a VLAN ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/KDJqW66JMCy-pMYcccJ7-XmxBfCUYE9-qW3jNXCvAaQ.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ncw0yc/forticlient_744_removes_vpnonly_option/" target="_blank" rel="noopener">Forticlient 7.4.4 removes VPN-Only option?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-09T21:41:25+00:00</div>
-    <p>Hi - Am I reading the release notes wrong? In the downloads there&#x27;s no longer a VPN-only installer. https://preview.redd.it/8vgidus3l7of1.png?width=1164&amp;format=png&amp;auto=webp&amp;s=c815352343fe7d4271aab09a37d56be190079169 Did I miss a memo th...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ncvf1x/locallogd_crashs_permanently_on_one_ha/" target="_blank" rel="noopener">Locallogd Crashs permanently on one HA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-09T21:16:48+00:00</div>
-    <p>Hi, We‘ve got two 901G in HA. Both on 7.4.8 One of them Doing his Job. It Logs locally and send the Logs to the fortianalyzer too. But if the other one is the primary the locallogd Service Crashs permanently. I think there is more as I g...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nctlfu/fortiguard_intermittent/" target="_blank" rel="noopener">Fortiguard intermittent?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-09T20:07:35+00:00</div>
-    <p>We received &quot;fortiguard servers unavailable&quot; around 12:47 PT and again at 12:52 PT. Went in and servers had 900ms response times. First changed from US only to &quot;Lowest Latency Locations&quot;. Then changed from 443 to 53. Used these commands ...</p>
   </div>
 </li>
 <li class="card">
