@@ -3,11 +3,14 @@
 Fetch RSS/Atom feeds and write a dated markdown page (with Jekyll front matter)
 containing card-style previews.
 
-This version:
-- ALWAYS strips HTML tags from descriptions (no raw <p>…</p> on Pages)
-- Image priority: OG image -> first <img> in article -> feed media ->
-  first <img> in summary -> DuckDuckGo favicon -> SVG data URI placeholder
+Features:
+- ALWAYS strips HTML tags for descriptions (no raw <p>…</p>)
+- Image priority:
+  OG image -> first <img> in article -> feed media ->
+  first <img> in summary -> per-domain override (e.g., CISA logo) ->
+  DuckDuckGo favicon -> inline SVG placeholder
 - Resolves relative image URLs against the article URL
+- Jekyll front matter so GitHub Pages applies your theme
 """
 
 import os, re, sys, yaml, time, html, datetime as dt, urllib.parse
@@ -21,6 +24,12 @@ FEEDS_YAML = os.path.join(ROOT, "feeds.yaml")
 
 OG_SCRAPE_LIMIT = 60
 USER_AGENT = "Mozilla/5.0 (CTI Hub Bot)"
+
+# Per-domain image overrides (used when no meaningful preview image is found)
+DOMAIN_IMAGE_OVERRIDES = {
+    "cisa.gov": "https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg",
+    "www.cisa.gov": "https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg",
+}
 
 SVG_PLACEHOLDER_DATAURI = (
     "data:image/svg+xml;utf8,"
@@ -142,10 +151,15 @@ def pick_image(link, e, og, summary_html):
     if not image:
         img_in_summary = first_img_src(summary_html)
         image = resolve_url(link, img_in_summary) if img_in_summary else ""
-    # 5) DuckDuckGo favicon service
+    # 5) Per-domain override (e.g., CISA logo)
+    if not image:
+        host = domain_from_url(link)
+        if host in DOMAIN_IMAGE_OVERRIDES:
+            image = DOMAIN_IMAGE_OVERRIDES[host]
+    # 6) Favicon (always something)
     if not image:
         image = ddg_favicon_for(link)
-    # 6) Final fallback: inline SVG placeholder (always works)
+    # 7) Final fallback: inline SVG placeholder (always works)
     if not image:
         image = SVG_PLACEHOLDER_DATAURI
     return image
@@ -155,7 +169,7 @@ def entry_to_card(feed_name, e, og):
     title = norm(e.get("title", "")) or "(untitled)"
     pub   = e.get("published", e.get("updated", "")) or ""
 
-    # ALWAYS plain-text description: prefer OG desc, else summary HTML → strip
+    # Plain-text description: prefer OG desc, else summary HTML → strip
     sum_text, sum_html = entry_summary_pair(e)
     desc_source = og.get("desc") or sum_html or sum_text
     desc = strip_html(desc_source)
@@ -165,7 +179,7 @@ def entry_to_card(feed_name, e, og):
     # Site label
     site = og.get("site") or feed_name or domain_from_url(link)
 
-    # Image with robust fallbacks
+    # Image with robust fallbacks (incl. CISA override)
     image = pick_image(link, e, og, sum_html)
 
     img_html = f'<img src="{html.escape(image)}" alt="preview">'
@@ -188,7 +202,7 @@ def main():
     entries = []
     for f in feeds:
         name = f.get("name") or f.get("url")
-        url = f.get("url")
+        url  = f.get("url")
         if not url:
             continue
         d = feedparser.parse(url)
