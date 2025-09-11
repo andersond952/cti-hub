@@ -7,15 +7,39 @@ title: Firehose — September 11, 2025
 
 # Daily CTI Firehose — 2025-09-11
 
-_Feeds: 6 | Items: 100 | Keyword filter: none_
+_Feeds: 6 | Items: 105 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/capitol_fc3cd76bc3.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/house-passes-defense-policy-bill-ai-cyber" target="_blank" rel="noopener">House moves ahead with defense bill that includes AI, cyber provisions</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 10 Sep 2025 18:40:22 GMT</div>
+    <p>The policy roadmap’s digital security text is tame in comparison to the last two years, when the idea of studying a U.S. Cyber Force dominated the debate.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/skyscrapers_e4bb0b76cc.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/us-investors-in-spyware-tripled-in-2024" target="_blank" rel="noopener">US investors in spyware firms nearly tripled in 2024: report</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 10 Sep 2025 18:34:34 GMT</div>
+    <p>The role American investors are playing in propping up spyware vendors is notable given the aggressive actions the U.S. government has taken to rein in the sector, including through sanctions, entity listings and visa restrictions.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf257242becf10d9e/68c220108b3179369539323a/student-marcelo-mayo-alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/insider-threats/students-inside-threat-education-sector" target="_blank" rel="noopener">Students Pose Inside Threat to Education Sector</a></h3>
     <div class="meta">Dark Reading · Wed, 10 Sep 2025 18:17:16 GMT</div>
     <p>The threats may not be malicious, but they are more than many security teams can handle.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/moshed_01_10_15_12_49_0bb64fcf0d.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/researchers-spyware-kenya-filmmaker-phone" target="_blank" rel="noopener">Researchers find spyware on phones belonging to Kenyan filmmakers</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 10 Sep 2025 17:04:38 GMT</div>
+    <p>FlexiSPY, which is commercially available, can be more easily detected than far more expensive mercenary spyware available to nation states but has similar capabilities once installed, said John Scott-Railton, a forensic researcher at Th...</p>
   </div>
 </li>
 <li class="card">
@@ -27,11 +51,27 @@ _Feeds: 6 | Items: 100 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/vitiuk_eb85656982.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/vitiuk-bail-anti-corruption-case" target="_blank" rel="noopener">Ukraine’s ousted cyber chief posts bail in corruption case</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 10 Sep 2025 14:42:25 GMT</div>
+    <p>Under the bail conditions, Illia Vitiuk must appear when summoned, report any change of residence, avoid contact with certain individuals and surrender his foreign passports to investigators.</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0090ff26429a37d/68b058bfeb57216eeaa94c87/Kubernetes_(1800)_dennizn_Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/vulnerabilities-threats/quiet-revolution-kubernetes-security" target="_blank" rel="noopener">The Quiet Revolution in Kubernetes Security</a></h3>
     <div class="meta">Dark Reading · Wed, 10 Sep 2025 14:00:00 GMT</div>
     <p>As Kubernetes becomes the foundation of enterprise infrastructure, the underlying operating system must evolve alongside it.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/dominic_kurniawan_suryaputra_2_Hj_I_tmjrvw_unsplash_14dd08cc8b.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/china-cybersecurity-law-update-penalties-companies-executives" target="_blank" rel="noopener">Chinese companies and bosses to face major fines over cybersecurity incidents</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 10 Sep 2025 13:17:59 GMT</div>
+    <p>A proposed update to China&#x27;s national Cybersecurity Law would give Beijing firmer oversight over tech products while increasing penalties for companies and executives that don&#x27;t meet requirements.</p>
   </div>
 </li>
 <li class="card">
@@ -51,7 +91,7 @@ _Feeds: 6 | Items: 100 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/36.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-sysdig/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/" target="_blank" rel="noopener">Microsoft Patch Tuesday, September 2025 Edition</a></h3>
     <div class="meta">@briankrebs · Tue, 09 Sep 2025 21:21:14 +0000</div>
@@ -179,7 +219,7 @@ _Feeds: 6 | Items: 100 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/36.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-gartner/7.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/" target="_blank" rel="noopener">18 Popular Code Packages Hacked, Rigged to Steal Crypto</a></h3>
     <div class="meta">@briankrebs · Mon, 08 Sep 2025 22:53:41 +0000</div>
@@ -227,7 +267,7 @@ _Feeds: 6 | Items: 100 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-gartner/7.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/36.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/" target="_blank" rel="noopener">GOP Cries Censorship Over Spam Filters That Work</a></h3>
     <div class="meta">@briankrebs · Sat, 06 Sep 2025 03:23:35 +0000</div>
@@ -459,19 +499,19 @@ _Feeds: 6 | Items: 100 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-nsa-and-global-partners-release-shared-vision-software-bill-materials-sbom-guidance" target="_blank" rel="noopener">CISA, NSA, and Global Partners Release a Shared Vision of Software Bill of Materials (SBOM) Guidance</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Wed, 03 Sep 25 12:00:00 +0000</div>
-    <p>This joint guidance highlights the benefits of SBOM adoption for software producers, purchasers, operators, and national security organizations.</p>
+    <div class="meta">CISA Alerts · Wed, 03 Sep 25 12:00:00 +0000</div>
+    <p>CISA, in collaboration with NSA and 19 international partners, released joint guidance outlining A Shared Vision of Software Bill of Materials (SBOM) for Cybersecurity . This marks a significant step forward in strengthening software sup...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2025/09/03/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Wed, 03 Sep 25 12:00:00 +0000</div>
-    <p>CISA has added two new vulnerabilities to its KEV Catalog, based on evidence of active exploitation.</p>
+    <div class="meta">CISA Alerts · Wed, 03 Sep 25 12:00:00 +0000</div>
+    <p>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-50224 TP-Link TL-WR841N Authentication Bypass by Spoofing Vulnerability CVE-2025-9377 TP-Lin...</p>
   </div>
 </li>
 <li class="card">
