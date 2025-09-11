@@ -7,9 +7,33 @@ title: Firehose — September 11, 2025
 
 # Daily CTI Firehose — 2025-09-11
 
-_Feeds: 6 | Items: 105 | Keyword filter: none_
+_Feeds: 7 | Items: 116 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary.html?rss" target="_blank" rel="noopener">Infocon: green</a></h3>
+    <div class="meta">SANS Internet Storm Center · Thu, 11 Sep 2025 02:15:04 +0000</div>
+    <p>Internet Storm Center Diary 2025-09-10, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32278" target="_blank" rel="noopener">ISC Stormcast For Thursday, September 11th, 2025 https://isc.sans.edu/podcastdetail/9608, (Thu, Sep 11th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Thu, 11 Sep 2025 02:00:02 GMT</div>
+    <p>ISC Stormcast For Thursday, September 11th, 2025 https://isc.sans.edu/podcastdetail/9608, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/DShield_Main_Page.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32276" target="_blank" rel="noopener">DShield SIEM Docker Updates, (Wed, Sep 10th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Thu, 11 Sep 2025 00:26:25 GMT</div>
+    <p>DShield SIEM Docker Updates, Author: Guy Bruneau</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://cms.therecord.media/uploads/format_webp/capitol_fc3cd76bc3.jpg" alt="preview">
   <div>
@@ -51,6 +75,14 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/20250908-213508.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32274" target="_blank" rel="noopener">BASE64 Over DNS, (Wed, Sep 10th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Wed, 10 Sep 2025 14:55:07 GMT</div>
+    <p>BASE64 Over DNS, Author: Didier Stevens</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://cms.therecord.media/uploads/format_webp/vitiuk_eb85656982.jpg" alt="preview">
   <div>
     <h3><a href="https://therecord.media/vitiuk-bail-anti-corruption-case" target="_blank" rel="noopener">Ukraine’s ousted cyber chief posts bail in corruption case</a></h3>
@@ -83,6 +115,14 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32272" target="_blank" rel="noopener">ISC Stormcast For Wednesday, September 10th, 2025 https://isc.sans.edu/podcastdetail/9606, (Wed, Sep 10th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Wed, 10 Sep 2025 02:00:02 GMT</div>
+    <p>ISC Stormcast For Wednesday, September 10th, 2025 https://isc.sans.edu/podcastdetail/9606, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a31e03506d8e24/682cf11744afb6bd8a3b90a5/asia-night-lights-kmls-shutterstock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/southeast-asian-scam-centers-financial-sanctions" target="_blank" rel="noopener">Southeast Asian Scam Centers Face More Financial Sanctions</a></h3>
@@ -91,7 +131,7 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-sysdig/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-gartner/3.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/microsoft-patch-tuesday-september-2025-edition/" target="_blank" rel="noopener">Microsoft Patch Tuesday, September 2025 Edition</a></h3>
     <div class="meta">@briankrebs · Tue, 09 Sep 2025 21:21:14 +0000</div>
@@ -128,6 +168,14 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/application-security/huge-npm-supply-chain-attack-whimper" target="_blank" rel="noopener">Huge NPM Supply Chain Attack Goes Out With Whimper</a></h3>
     <div class="meta">Dark Reading · Tue, 09 Sep 2025 18:16:15 GMT</div>
     <p>Threat actors phished Qix&#x27;s NPM account, then used their access to publish poisoned versions of 18 popular open source packages accounting for more than 2 billion weekly downloads.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32270" target="_blank" rel="noopener">Microsoft Patch Tuesday September 2025, (Tue, Sep 9th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Tue, 09 Sep 2025 17:42:34 GMT</div>
+    <p>Microsoft Patch Tuesday September 2025, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -219,6 +267,14 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32268" target="_blank" rel="noopener">ISC Stormcast For Tuesday, September 9th, 2025 https://isc.sans.edu/podcastdetail/9604, (Tue, Sep 9th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Tue, 09 Sep 2025 02:00:02 GMT</div>
+    <p>ISC Stormcast For Tuesday, September 9th, 2025 https://isc.sans.edu/podcastdetail/9604, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://krebsonsecurity.com/b-gartner/7.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/18-popular-code-packages-hacked-rigged-to-steal-crypto/" target="_blank" rel="noopener">18 Popular Code Packages Hacked, Rigged to Steal Crypto</a></h3>
@@ -259,6 +315,14 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32266" target="_blank" rel="noopener">HTTP Request Signatures, (Mon, Sep 8th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 08 Sep 2025 12:40:58 GMT</div>
+    <p>HTTP Request Signatures, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt964f456efd340a7c/68beb5d9001ad51ee809c58e/chinaiptheft_Pixels_Hunter_shutterstock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/threat-intelligence/new-domains-salt-typhoon-unc4841" target="_blank" rel="noopener">45 New Domains Linked to Salt Typhoon, UNC4841</a></h3>
@@ -267,7 +331,15 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/36.jpg" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32264" target="_blank" rel="noopener">ISC Stormcast For Monday, September 8th, 2025 https://isc.sans.edu/podcastdetail/9602, (Mon, Sep 8th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 08 Sep 2025 02:00:03 GMT</div>
+    <p>ISC Stormcast For Monday, September 8th, 2025 https://isc.sans.edu/podcastdetail/9602, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://krebsonsecurity.com/b-sysdig/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2025/09/gop-cries-censorship-over-spam-filters-that-work/" target="_blank" rel="noopener">GOP Cries Censorship Over Spam Filters That Work</a></h3>
     <div class="meta">@briankrebs · Sat, 06 Sep 2025 03:23:35 +0000</div>
@@ -336,6 +408,22 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyber-risk/federal-cuts-local-state-agencies-risk" target="_blank" rel="noopener">Federal Cuts Put Local, State Agencies at Cyber-Risk</a></h3>
     <div class="meta">Dark Reading · Fri, 05 Sep 2025 13:00:00 GMT</div>
     <p>Cyberattackers target local and state agencies, a problem as the Trump administration cuts cybersecurity funds and culls workers at federal security agencies.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/isc-20250905-1.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32262" target="_blank" rel="noopener">From YARA Offsets to Virtual Addresses, (Fri, Sep 5th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Fri, 05 Sep 2025 06:18:43 GMT</div>
+    <p>From YARA Offsets to Virtual Addresses, Author: Xavier Mertens</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32260" target="_blank" rel="noopener">ISC Stormcast For Friday, September 5th, 2025 https://isc.sans.edu/podcastdetail/9600, (Fri, Sep 5th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Fri, 05 Sep 2025 02:00:02 GMT</div>
+    <p>ISC Stormcast For Friday, September 5th, 2025 https://isc.sans.edu/podcastdetail/9600, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -419,26 +507,26 @@ _Feeds: 6 | Items: 105 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-adds-three-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Three Known Exploited Vulnerabilities to Catalog</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 04 Sep 25 12:00:00 +0000</div>
-    <p>CISA has added three new vulnerabilities to its KEV Catalog, based on evidence of active exploitation.</p>
+    <div class="meta">CISA Alerts · Thu, 04 Sep 25 12:00:00 +0000</div>
+    <p>CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-38352 Linux Kernel Time-of-Check Time-of-Use (TOCTOU) Race Condition Vulnerability CVE-202...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-25-247-01" target="_blank" rel="noopener">Honeywell OneWireless Wireless Device Manager (WDM)</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 04 Sep 25 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 04 Sep 25 12:00:00 +0000</div>
     <p>View CSAF 1. EXECUTIVE SUMMARY CVSS v4 8.8 ATTENTION : Exploitable remotely/low attack complexity Vendor : Honeywell Equipment : OneWireless Wireless Device Manager (WDM) Vulnerabilities : Improper Restriction of Operations within the Bo...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2025/09/04/cisa-releases-five-industrial-control-systems-advisories" target="_blank" rel="noopener">CISA Releases Five Industrial Control Systems Advisories</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 04 Sep 25 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 04 Sep 25 12:00:00 +0000</div>
     <p>CISA released five Industrial Control Systems (ICS) advisories on September 4, 2025. These advisories provide timely information about current security issues, vulnerabilities, and exploits surrounding ICS. ICSA-25-247-01 Honeywell OneWi...</p>
   </div>
 </li>
