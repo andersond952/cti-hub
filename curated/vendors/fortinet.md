@@ -7,47 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 16, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 17, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1niaje4/forticlient_744_bug_with_sslvpn_multiple_remote/" target="_blank" rel="noopener">Forticlient 7.4.4 bug with SSL-VPN multiple remote gateways / SAML</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T07:03:19+00:00</div>
-    <p>Just opened a ticket. with a SSL-VPN configured the 2 remote gw : vpn1.domail.tld:443/wan1 and vpn2.domail.tld:443/wan2 , the url sent to the external browser is a mix of the 2 URLs : https://vpn1.domai.tld/remote/saml/start?redirect=1&amp;r...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nj5u2l/fortigate_email_collection_captive_portal/" target="_blank" rel="noopener">FortiGate Email Collection Captive Portal – Automation to Clear Auth &amp; Export Emails?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-17T06:39:54+00:00</div>
+    <p>Hey all, We’re currently using the Email Collection captive portal on our FortiGate firewalls to gather user emails during guest Wi-Fi onboarding. It works well, but we’ve hit a snag with the default authentication timeout, which is set ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ni49i0/fortinet_certified_professional_fcp_study_guide_a/" target="_blank" rel="noopener">Fortinet Certified Professional (FCP) Study Guide – A (?) Definitive Guide</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T01:27:22+00:00</div>
-    <p>Alright friends, I’m sorry in advance, this post is long. And sorry for taking so long into getting this completed, just got caught up with work... Yeah! that&#x27;s my excuse alright? Deal with it! - Without fugther ado, grab a snack, maybe ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1niyobi/rename_secondarysubordinate_ha_member_hostname/" target="_blank" rel="noopener">Rename Secondary/Subordinate HA member hostname</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-17T00:30:55+00:00</div>
+    <p>Hello! I&#x27;ve a 3x Fortigate HA cluster, managed by FortiManager. I need to change hostname in one of the Subordinates. I cannot get the &quot;Edit&quot; button shown in Configuring model HA cluster members , under &quot;Cluster Member&quot; table within &quot;HA ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nhyu5d/fortiswitch_72x_standalone_question/" target="_blank" rel="noopener">Fortiswitch 7.2.x standalone question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-15T21:32:59+00:00</div>
-    <p>Manage Fortiswitches Standalone. 7.2.x To avoid any unintentional FortiLink settings From https://community.fortinet.com/t5/FortiSwitch/Technical-Tip-Good-practices-for-a-standalone-FortiSwitch/ta-p/293164 Set global setting: config swit...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1niy1uo/fortisandbox/" target="_blank" rel="noopener">Fortisandbox</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-17T00:02:06+00:00</div>
+    <p>Looking for someone who have experience with Fortisandbox submitted by /u/aski12476 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nht7kk/fgr50g5g_apn_issues/" target="_blank" rel="noopener">FGR50G-5G APN Issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-15T18:03:32+00:00</div>
-    <p>Update It looks like the problem was that whenever you set the modem to an auto-carrier config, it will ignore your custom APNs. So you have to set the carrier-config to &quot;manual&quot; and then use the &quot;exe 5g-modem carrier-config switch&quot; to s...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1niv69z/proactive_upgrade_cancelled/" target="_blank" rel="noopener">Proactive Upgrade Cancelled?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T21:59:57+00:00</div>
+    <p>Hi. We have a couple of test 40 and 60F&#x27;s we keep around for testing/training purposes. Support long since expired. I believe I saw recently, Fortinet said it would provide firmware updates to address security vulns even if a customer wa...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nhoyog/monitoring_fgt_statuses_without_snmp/" target="_blank" rel="noopener">Monitoring FGT statuses without SNMP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-15T15:27:40+00:00</div>
-    <p>Hello everyone, I&#x27;ve been tasked with helping with a situation for a couple of clients that we have. They use SD-WAN, so we have the FMG/FAZ combo. Problem: Firewalls are not reachable directly, neither by SNMP or SSH (we can access them...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1niuyk3/mixing_different_speed_ports_in_lags_and_mlag_isls/" target="_blank" rel="noopener">Mixing different speed ports in LAGs and MLAG ISLs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T21:51:29+00:00</div>
+    <p>I&#x27;d like to set up an MLAG setup between 2 core switches (1048Es). At the moment, there are only 4 of the QSFP ports are in use on each switch, and I&#x27;d like to use the remaining 2 QSFP ports on each switch as a 2x40Gb ISL. If, in the fut...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1niru51/unable_to_get_lets_encrypt_certificate_via_acme/" target="_blank" rel="noopener">Unable to Get Let&#x27;s Encrypt Certificate via ACME - Error &quot;Can&#x27;t retrieve certificate chain&quot;</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T19:51:59+00:00</div>
+    <p>I&#x27;m out of ideas. I&#x27;ve been working on getting a Let&#x27;s encrypt certificate for a FortiGate 70F, and I can&#x27;t get anything except a &quot;Can&#x27;t retrieve certificate chain&quot; error. I have followed all of the directions in this KB article from For...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nip1x9/fortigate_security_profiles/" target="_blank" rel="noopener">Fortigate Security profiles</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T18:09:43+00:00</div>
+    <p>Hey all, How do you guys deal with your security profiles in bigger scale companies for internet traffic especially? Proxy based and DPI delivers better security but performance is impacted a lot so can&#x27;t really use it. Thanks! submitted...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nioy56/ipsec_vpn_works_from_wifi_but_not_cabled/" target="_blank" rel="noopener">IPsec vpn works from wifi but not cabled</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T18:05:50+00:00</div>
+    <p>Hi, I&#x27;ve got a bit of an head scratcher... Let me start by adding a bit of info: We have multiple locations that are setup identical, all of them experience the same issue. We have AD-VPN setup between sites. We&#x27;re using FortiGates, Fort...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nin2w8/saml_authentication_fails_after_firmware_upgrade/" target="_blank" rel="noopener">SAML Authentication fails after firmware upgrade to v7.6.4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T16:58:42+00:00</div>
+    <p>Just FYI. This article published by Fortinet identifies changes that you need to make to the SAML certificate used in SSO. https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-SAML-Authentication-fails-after-firmware/ta-p/4078...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1niiw68/advice_on_an_sdwan_architecture_with_vdoms/" target="_blank" rel="noopener">Advice on an SD-WAN architecture with VDOMs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T14:22:47+00:00</div>
+    <p>Hi everyone, I’d like to get your opinions and feedback on an SD-WAN design using VDOMs. My client has two HUBs: one Admin HUB and one Production HUB. He wants to manage all spokes via the Admin HUB. Each spoke (&gt;300 spokes) will therefo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nihomu/fortinet_3rd_party_support/" target="_blank" rel="noopener">Fortinet 3rd Party Support</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T13:35:39+00:00</div>
+    <p>Hi all, We are looking at moving to a pair of 120Gs in HA for our main routers. Looking at having Forticare Premium along with FortiGuard UTP. We&#x27;ve been told that Forticare doesn&#x27;t help with any config questions or support for setting u...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nih1ii/problems_with_the_policies_search_fgt_748/" target="_blank" rel="noopener">Problems with the policies search - FGT 7.4.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-16T13:09:37+00:00</div>
+    <p>Hey guys, since I update my FGT to a newer version 7.4.8 I can see that now it&#x27;s really difficult to find the policies by GUI It seems like i try to search something but all kind of results come on the screen with the ones that i want. D...</p>
   </div>
 </li>
 <li class="card">
@@ -56,38 +112,6 @@ _Updated: September 16, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/924856310/0/fortinet/blogs~Why-Hybrid-Mesh-Firewalls-Are-the-Future-and-Why-Fortinet-Is-Leading-the-Way" target="_blank" rel="noopener">Why Hybrid Mesh Firewalls Are the Future (and Why Fortinet Is Leading the Way)</a></h3>
     <div class="meta">Fortinet Blog · Mon, 15 Sep 2025 15:00:00 +0000</div>
     <p>Fortinet hybrid mesh firewalls secure hybrid and multi-cloud environments with unified visibility, AI-driven intelligence, and unmatched performance.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nhmc12/pfs_is_disabled/" target="_blank" rel="noopener">PFS is disabled</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-15T13:47:50+00:00</div>
-    <p>Hi all, Trying to setup up an IPSec remote access tunnel and I cannot get PFS to enable. I am running: Latest Fortclient 7.4 (VPN-Only) FortiOS 7.2.12 70F in HA A/P Snippet of config: config vpn ipsec phase2-interface edit &quot;Test&quot; set pha...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nhl7by/why_would_i_not_want_auxiliary_session_enabled_by/" target="_blank" rel="noopener">Why would I not want auxiliary session enabled by default with this SD-WAN scenario below</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-15T13:00:57+00:00</div>
-    <p>Good morning everyone, Lets assume a scenario where I have a hub and a bunch of spoke sites and have embedded SLA going from spoke sites to hub and all of the appropriate configurations have been done so the spokes are using SD-WAN rules...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nhj1sn/port_config_template_for_managed_fortiswitch/" target="_blank" rel="noopener">Port config template for managed FortiSwitch?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-15T11:18:09+00:00</div>
-    <p>Is it possible to implement a port configuration template on a FortiGate for automatic provisoning a managed FortiSwitch (setting specific native VLAN and allowed VLANs on all ports) upon connecting to the FortiGate? The FSW serial numbe...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nhhyff/forticlient_ztna_7441877_connect_to_missing_from/" target="_blank" rel="noopener">Forticlient ZTNA 7.4.4.1877 - &quot;Connect to...&quot; missing from Tray icon context menu?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-15T10:16:13+00:00</div>
-    <p>Hi all, I am testing 7.44.1877 (with EMS) and noticed that in the tray icon context menu the &quot;Connect to...&quot; entry for all configured connections is missing. I looked in the release notes and also in EMS (new settings?) why this could be...</p>
   </div>
 </li>
 <li class="card">
