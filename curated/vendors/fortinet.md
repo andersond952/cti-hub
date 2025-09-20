@@ -7,135 +7,119 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 19, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 20, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkyh0h/fortigate_dialup_ipsec_tunnel_issues/" target="_blank" rel="noopener">Fortigate Dialup IPSec Tunnel issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T08:59:47+00:00</div>
-    <p>Hello Community, We have this dialup ipsec tunnel in place and it works perfectly fine for several users however this one user(with iPhone 16) keeps getting disconnected after couple of minutes. The firewall logs don&#x27;t say anything usefu...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl9vw4/fortirewards_denied/" target="_blank" rel="noopener">FortiRewards Denied</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T17:29:31+00:00</div>
+    <p>My NSE7 Public Cloud security was due to expire. I took the exam 2 days before the expiration and passed. I tried to submit this to FortiRewards, and it was denied. They said when you re-certify, it does not count. Has anyone else experi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkxo9k/activating_my_air_gapped_fortigate_support/" target="_blank" rel="noopener">Activating my air gapped Fortigate Support license on FortiOS 6.4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T08:07:05+00:00</div>
-    <p>Hi I have a few Fortigate firewalls located in an air gapped network that need to activate support license. There is no have a fortimanager installed. I heard that it is possible to activate manually but only for FortiOS 7.0 and above. I...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl9jqf/fortimanager_upgrade_for_fortigate/" target="_blank" rel="noopener">Fortimanager upgrade for FortiGate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T17:16:36+00:00</div>
+    <p>Hi all, I am relatively new to Fortimanager. But my team ordered a bunch of FortiGate-70G&#x27;s for companies out in the field. Now I cannot absorb those for the Fortimanager v7.4.5 because it says that it is unsupported device model. I saw ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkxi9q/fortinet_sdwan_in_a_multiple_vdom_setup_emac_vlan/" target="_blank" rel="noopener">Fortinet SDWAN in a multiple VDOM Setup , EMAC VLAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T07:56:32+00:00</div>
-    <p>Hello Community, I&#x27;m working on a pretty complex project for a client and could really use some help from anyone who&#x27;s tackled something similar. So here&#x27;s the situation: my client currently has multiple services that need to be separate...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl6bkc/is_there_a_way_to_view_the_signature_of_the_built/" target="_blank" rel="noopener">Is there a way to view the signature of the built in IPS signatures?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T15:15:48+00:00</div>
+    <p>You can obviously edit and create your own signatures but is there any way to view the makeup of one of the built in signatures that IPS uses? Thanks submitted by /u/Busbyuk [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkwbnh/50g_fap23jf_kind_of_throughput_issues_on_iphones/" target="_blank" rel="noopener">50G + FAP23JF - kind of throughput issues on iphones and others</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T06:40:41+00:00</div>
-    <p>Hi everyone, got a weird issue on a 50G (7.4.8) and some FAP23JF (running on 7.2 and 7.4.6). There&#x27;s a SSID in WPA3 Transition mode and ALL clients can connect and get an IP. SOME of them (some iphones but some windows-clients as well) a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/IFo_g73Hd2_ar1gcTuNZBYtvg_7J3bDYn7w-UxZDkeo.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkuuyj/network_ssl_configuration_issue_pop_up_help_please/" target="_blank" rel="noopener">network SSL configuration issue pop up. Help please😭🙏</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T05:13:33+00:00</div>
-    <p>Hi everyone, so yesterday first I got a random pop up on chatgpt asking to find devices on local networks but I was weirded out by the “null” and I never turn on it so I pressed don’t allow. Then I went to ChatGPT for 20 mins and I got a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl4s06/has_anyone_successfully_implemented_ipsec_over/" target="_blank" rel="noopener">Has anyone successfully implemented IPSec over TCP for Remote Access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T14:16:12+00:00</div>
+    <p>I’ve been working on several firewalls to either migrate from SSL VPN or new setups to use IPSec over TCP. Most use SAML for authentication and I can’t get it to connect. I’ve gone through all “setups” and guides. My general setups are: ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nknlv6/fortigate_sdwan_and_vips/" target="_blank" rel="noopener">Fortigate SD-WAN and VIPs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T23:20:19+00:00</div>
-    <p>Fairly recent converts to enterprise-wide Fortigates, but have a few on-prem servers with VIPs configured for service access from the internet. The company has 3 WAN interfaces configured in an SDWAN zone, primarily for load balancing/fa...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl4qlf/is_it_possible_to_map_a_vip_to_a_vs/" target="_blank" rel="noopener">Is it possible to map a vip to a vs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T14:14:40+00:00</div>
+    <p>Hi, I have multiple virtual servers configured, their Virtual server IP is in a dedicated class A subnet just for this. The VS are then reachable through the SSL-VPN. I now need to make some of those VS reachable from the internet. I&#x27;d l...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/925073666/0/fortinet/blogs~Fortinet-Recognized-for-Leadership-in-Three-KuppingerCole-CNAPP-Compass-Categories" target="_blank" rel="noopener">Fortinet Recognized for Leadership in Three KuppingerCole CNAPP Compass Categories</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 19 Sep 2025 14:00:00 +0000</div>
+    <p>FortiCNAPP has been recognized as a Leader across three categories—Overall, Market, and Innovation—in the 2025 KuppingerCole CNAPP Compass Report, underscoring Fortinet’s strength in cloud security…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nki2o1/help_with_fortifone_375/" target="_blank" rel="noopener">Help with FortiFone 375</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T19:38:01+00:00</div>
-    <p>Does anyone know why, whenever I want to register a FortiFone 375 to a FortiVoice on version 7.2.2, the phone always freezes? As in, the phone just stays frozen on the page it was left before registering manually. The settings for the ph...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl3z87/fortigate_utm_blocked_for_policy_without_utm/" target="_blank" rel="noopener">Fortigate - UTM Blocked for Policy without UTM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T13:44:22+00:00</div>
+    <p>Hi! I am having a strange problem: On my Fortigate 200F with Firmware 7.2.10, HTTPS-sessions are blocked. The log is showing: Deny (Deny: UTM Blocked) But: The affected policy does not have any UTM-policies. Log Details is not showing an...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nken9y/fortigate_failing_to_adopt_an_ip_device/" target="_blank" rel="noopener">Fortigate failing to adopt an IP device</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T17:29:06+00:00</div>
-    <p>I am struggling to figure out why a device is failing to be adopted on a vlan. 60E w/ 7.2.8 192.168.1.1/24 network Never had an issue in the past adding IP cameras to our vlan. If I connect it to the camera/dvr vlan through a POE injecto...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl39m3/748_mature_and_prod_ready/" target="_blank" rel="noopener">7.4.8 mature and Prod ready?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T13:14:48+00:00</div>
+    <p>I have larger 400Fs still on 7.2.x and all has been well. We have 80Fs that we got bit on 7.4.8 with bugs on combo ports not coming up which required site rolls to fix. We need to upgrade to 7.4 on the 400’s to supporr the new G access p...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkdiv6/new_to_fortimanager_cloud_best_practice_guides_or/" target="_blank" rel="noopener">New to FortiManager (Cloud). Best Practice guides or &quot;How to start&quot; Guides?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T16:47:26+00:00</div>
-    <p>I like to consider myself pretty good with FG itself. I have managed 3 FGs at my current company. All VM64s, 60+ IPSec tunnels, static routes galore and hundreds of policies... We moved to a new Cloud Datacenter meaning we nearly tripled...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl2vsm/fcp_fortigate_76_administrator_selfpaced/" target="_blank" rel="noopener">FCP - FortiGate 7.6 Administrator Self-Paced</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T12:58:42+00:00</div>
+    <p>Hey guys, Quick question — is the FCP – FortiGate 7.6 Administrator Self-Paced course enough on its own, or did you use other resources as well? My main goal isn’t just to pass the exam, but to actually understand how FortiGate works in ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkbg8f/security_newbie/" target="_blank" rel="noopener">Security newbie</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T15:30:40+00:00</div>
-    <p>Hi there I&#x27;m new to security field but I work as a network engineer for 4+ years now And I wanna start to learn fortigate But I can&#x27;t find a good reference and tbh the material on the official site wasn&#x27;t satisfying So does anyone know a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/6Tb_qvEBi-4S1lvXDHwWHZWvwPyYZLRQt3mj59J4BZg.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkahrg/ha_upgrade_in_fortios_72x/" target="_blank" rel="noopener">HA upgrade in FortiOS 7.2.x</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T14:55:04+00:00</div>
-    <p>Hello Gate Experts, On our 100F HA pair at FortiOS 7.2.11(recently upgraded from 7.0.x) in the Fabric Management we seeing only one Fortigate device however in HA tab there are two 100F nodes fully synced and online. Does this mean that ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/w63YF9uXO3Df8vgCZysSQRo0ES05zq8Ug5iGdiZOgog.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nka6m5/forticlient_webfilter_browser_extension/" target="_blank" rel="noopener">FortiClient Webfilter Browser Extension</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T14:42:47+00:00</div>
-    <p>Hi, we are using the browser extension for clients which are off fabric, its working fine in standard browser windows, but not in private tabs. in the new EMS (7.4.4) there is a function called: &quot;Enforce WF plugin permission in private b...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/gyu9M46lV_M-UtHrbRslCplLL46xBqJUz2Bwh6VPNIY.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nk98x9/connecting_fortigate_to_fortimanager_onprem_lab/" target="_blank" rel="noopener">Connecting Fortigate to Fortimanager (on-prem) LAB</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T14:06:13+00:00</div>
-    <p>Hi, i hope that someone can point me in the right direction on my problem. i am stuck trying to connect an eval Fortigate-KVM 7.4.8 and an eval Fortimanager-KVM 7.4.8. I have read the official documentation: https://docs.fortinet.com/doc...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl25oi/best_way_to_change_stp_cost_on_redundant_isl/" target="_blank" rel="noopener">Best way to change STP cost on redundant ISL connections?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T12:26:11+00:00</div>
+    <p>Good morning everyone. I am doing a design similar to this article below where we have HA split between 2 datacenters and each datacenter has its own tier1 MCLAG stack. https://docs.fortinet.com/document/fortigate/7.4.7/administration-gu...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nk855s/documentação_das_regras_de_firewall_fortigate/" target="_blank" rel="noopener">Documentação das regras de firewall fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T13:21:46+00:00</div>
-    <p>Alguém já conseguiu documentar as regras de firewall do fortigate de maneira automatzada ? submitted by /u/Foreign-Associate-86 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl1rld/disable_nat_by_default_on_policy/" target="_blank" rel="noopener">Disable NAT by default on policy</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T12:07:33+00:00</div>
+    <p>Hello All, I have a Fortigate 121G running 7.4.8 and when I create a new policy in the GUI NAT is enabled by default. My google FU fails me so I come here to ask... IS there anyway to disable this so NAT is not enabled by default ? submi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nk7d7j/fortinet_al_la_carte_options_ips_worth_it/" target="_blank" rel="noopener">Fortinet - Al la Carte options (IPS) - Worth it?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T12:48:34+00:00</div>
-    <p>I need to get a few Fortigate 50G&#x27;s but I only actually need the IPS (not the web-filtering, AV, etc) due to some custom signatures we need. As I only need the IPS it looks like you can do this via the &#x27;Al la carte&#x27; option. Is it much of...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nl188g/forticlient_replacement/" target="_blank" rel="noopener">FortiClient Replacement</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T11:41:16+00:00</div>
+    <p>Hello all, I&#x27;m curious to know if anyone has replaced their FortiClient (SSLVPN/IPSec/ZTNA) with another vendor&#x27;s product. I&#x27;m currently looking at TwinGate and TailScale but wondering if there is anything else out there that this commun...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nk53hr/ssl_vpn_idle_time_out/" target="_blank" rel="noopener">SSL VPN Idle time out</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-18T10:56:32+00:00</div>
-    <p>Can I change idle time out per ssl portal ? The vpn disconnect every 5 min based on ssl global idle timeout settings. Is there a way to change that per portal? Instead of changing it globally. submitted by /u/Emotional-Marsupial6 [link] ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkzoyq/forti_ems_server_on_ubuntu_24x/" target="_blank" rel="noopener">Forti EMS server on Ubuntu 24.x</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T10:15:41+00:00</div>
+    <p>Hello! I am trying to install Forti EMS 7.4.4 on Ubuntu 24.x but the documentation is not so specific about Ubuntu. I am using the below. https://docs.fortinet.com/document/forticlient/7.4.4/ems-administration-guide/598033/installing-ems...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nkznj0/central_logging_in_fortimanager/" target="_blank" rel="noopener">Central Logging in Fortimanager?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-19T10:13:16+00:00</div>
+    <p>I&#x27;m setting up a pair of new Fortigate VM firewalls &amp; managing them via Fortimanager. My firewall appliances are both licensed as far as I can see. I want to start viewing traffic logs from Fortimanager but how do you do that? I&#x27;ve got o...</p>
   </div>
 </li>
 <li class="card">
@@ -208,14 +192,6 @@ _Updated: September 19, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/923961695/0/fortinet/blogs~How-Fortinet-AIDriven-SecOps-Delivers-Faster-Smarter-SecOps" target="_blank" rel="noopener">How Fortinet AI-Driven SecOps Delivers Faster, Smarter SecOps</a></h3>
     <div class="meta">Fortinet Blog · Thu, 28 Aug 2025 13:00:00 +0000</div>
     <p>Learn how Fortinet SecOps helps security teams detect, investigate, and respond to threats faster with integrated tools, AI-driven automation, and unified visibility across the attack surface.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/923902502/0/fortinet/blogs~How-CNAPP-Secures-CloudNative-Workloads%e2%80%94From-Code-to-Runtime" target="_blank" rel="noopener">How CNAPP Secures Cloud-Native Workloads—From Code to Runtime</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 27 Aug 2025 13:00:00 +0000</div>
-    <p>Discover how Fortinet’s CNAPP secures cloud-native workloads at every stage—from development to runtime—by unifying CSPM, CWP, CIEM, and CDR into a single, integrated platform.…</p>
   </div>
 </li>
 </ul>
