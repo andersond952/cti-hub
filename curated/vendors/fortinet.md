@@ -7,9 +7,65 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 21, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 22, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/gaBoyx862m3Hmw94ZlBXuUDG45Ya24C4lyyGg5sCeMc.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nng5kr/fortinac_role_assignment_issue_with_ldap_users/" target="_blank" rel="noopener">FortiNAC Role Assignment Issue with LDAP Users</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T07:37:05+00:00</div>
+    <p>Users are connecting to the corporate network with their LDAP credentials and I have configured their roles accordingly. However for some reason, about 1-2 out of every 10 users end up coming to FortiNAC-F with the NAC-Default role, even...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/Zl8hNGDYnvS2K_JF_ZGhKu7LtWpV5MOMhlaEA9gn2no.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nng5dx/fortinacf_not_sending_3799_coa_requests_on_wired/" target="_blank" rel="noopener">FortiNAC-F Not Sending 3799 CoA Requests on Wired Switches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T07:36:42+00:00</div>
+    <p>Despite VLAN switching being active for some reason FortiNAC is not sending 3799 CoA requests on any of my wired switches (I have no issues with access points, 3799 requests are being sent there). If I connect the same device wirelessly,...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnfur4/fortigate_vpn_configuration_query/" target="_blank" rel="noopener">Fortigate VPN configuration query</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T07:17:19+00:00</div>
+    <p>Hi, I&#x27;m curious to hear if anyone has confirmed their fortigate as a VPN client and assigned that VPN connection to a vlan so that only a subset of fortigate clients can use the VPN, with the rest of us clients using the regular internet...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnctfi/do_you_use_fortiedge_for_your_home_network/" target="_blank" rel="noopener">Do you use FortiEdge for your home network?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T04:15:43+00:00</div>
+    <p>Or do you just run FortiManager locally? submitted by /u/not-a-co-conspirator [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nmzzxj/its_not_possible_to_change_the_summary_network/" target="_blank" rel="noopener">it&#x27;s not possible to change the summary network priority anymore</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-21T18:44:03+00:00</div>
+    <p>Hello, I noticed that for managed gateways in the VPN community, like hub gateways, it&#x27;s not possible to change the summary network priority anymore in Forti manager. For example, hub 1 had priority 10 and hub 2 had 20, but now when I tr...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nmy07f/fortigate_61_f/" target="_blank" rel="noopener">Fortigate 61 F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-21T17:28:05+00:00</div>
+    <p>Picked up two on eBay, finally got into one and got it upgraded. The other is a tough nut to crack. Anyone know about getting in using a maintainer account? Also, cheapest place to get license? Should I apply to be a reseller since I do ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nmsaoy/using_ibgp_community_strings_to_identify_bgp/" target="_blank" rel="noopener">Using iBGP Community Strings to identify bgp peers and Filter Route Advertisements to Spokes - ADVPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-21T13:42:09+00:00</div>
+    <p>Hi all, I’m working on a Fortinet ADVPN hub-and-spoke setup with iBGP to share routes between my hub and multiple spokes. Right now, I want to refine how routes are advertised so that each spoke only receives the routes intended for it. ...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
