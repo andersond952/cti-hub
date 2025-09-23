@@ -7,63 +7,127 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 22, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 23, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/gaBoyx862m3Hmw94ZlBXuUDG45Ya24C4lyyGg5sCeMc.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nng5kr/fortinac_role_assignment_issue_with_ldap_users/" target="_blank" rel="noopener">FortiNAC Role Assignment Issue with LDAP Users</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T07:37:05+00:00</div>
-    <p>Users are connecting to the corporate network with their LDAP credentials and I have configured their roles accordingly. However for some reason, about 1-2 out of every 10 users end up coming to FortiNAC-F with the NAC-Default role, even...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/Zl8hNGDYnvS2K_JF_ZGhKu7LtWpV5MOMhlaEA9gn2no.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nng5dx/fortinacf_not_sending_3799_coa_requests_on_wired/" target="_blank" rel="noopener">FortiNAC-F Not Sending 3799 CoA Requests on Wired Switches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T07:36:42+00:00</div>
-    <p>Despite VLAN switching being active for some reason FortiNAC is not sending 3799 CoA requests on any of my wired switches (I have no issues with access points, 3799 requests are being sent there). If I connect the same device wirelessly,...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nocgfk/advice_on_blocklists/" target="_blank" rel="noopener">Advice on Blocklists</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-23T09:08:14+00:00</div>
+    <p>Hey all, I’m pulling some external block lists into Fortigate to deal with TOR exit nodes, VPN abuse, and random scanning. The feeds I’m looking at (MaliciousIP . com) includes things like: high-1wk (~4k IPs – active attackers in the las...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnfur4/fortigate_vpn_configuration_query/" target="_blank" rel="noopener">Fortigate VPN configuration query</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T07:17:19+00:00</div>
-    <p>Hi, I&#x27;m curious to hear if anyone has confirmed their fortigate as a VPN client and assigned that VPN connection to a vlan so that only a subset of fortigate clients can use the VPN, with the rest of us clients using the regular internet...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nob76c/fortianalyzer_300g810g_cpuram_specs/" target="_blank" rel="noopener">FortiAnalyzer 300G/810G CPU/RAM specs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-23T07:42:42+00:00</div>
+    <p>Hello everyone, Anyone knows what CPU and RAM configuration is on a FAZ 300G or 810G? Disappointingly FTNT doesn&#x27;t disclose that information in the usual datasheets and I can&#x27;t seem to find anything online. If anyone has access to a FAZ-...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://a.thumbs.redditmedia.com/SsrsPr4X878UvYlSfd4XY4eqJhXkPc-QrDThOcqMsN0.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1no71jx/forticonverter/" target="_blank" rel="noopener">Forticonverter</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-23T03:34:54+00:00</div>
+    <p>Although it wasn&#x27;t that expensive but it was an utter waste of time and patience. Coming from FPR and even though objects were named per documentation, the forticonverter team just ran the tool&gt;&gt;exported without bothering to change the n...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnctfi/do_you_use_fortiedge_for_your_home_network/" target="_blank" rel="noopener">Do you use FortiEdge for your home network?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T04:15:43+00:00</div>
-    <p>Or do you just run FortiManager locally? submitted by /u/not-a-co-conspirator [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnyqt3/does_anyone_know_a_solution_i_can_implement_to/" target="_blank" rel="noopener">Does anyone know a solution I can implement to monitor fortiap channel usage?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T21:11:28+00:00</div>
+    <p>Simple requirements. Does anyone know a solution I can implement to monitor fortiap channel usage? I have looked at snmp and the info isn&#x27;t presented, I can get the data from fortiaiops or fortiap cloud but this will cost me 3x the purch...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nmzzxj/its_not_possible_to_change_the_summary_network/" target="_blank" rel="noopener">it&#x27;s not possible to change the summary network priority anymore</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-21T18:44:03+00:00</div>
-    <p>Hello, I noticed that for managed gateways in the VPN community, like hub gateways, it&#x27;s not possible to change the summary network priority anymore in Forti manager. For example, hub 1 had priority 10 and hub 2 had 20, but now when I tr...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnx8x0/looking_thoughts_on_bridgetunnel_for_fortiap/" target="_blank" rel="noopener">Looking Thoughts on Bridge/Tunnel for FortiAP.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T20:13:53+00:00</div>
+    <p>I currently have 4 FortiAP&#x27;s managed by a Fg-40f the 40F is only job in life is to manage those AP&#x27;s and the switches, I had it laying around its cheaper to keep paying for forticare for it than run cloud managed. I am currently in bridg...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nmy07f/fortigate_61_f/" target="_blank" rel="noopener">Fortigate 61 F</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-21T17:28:05+00:00</div>
-    <p>Picked up two on eBay, finally got into one and got it upgraded. The other is a tough nut to crack. Anyone know about getting in using a maintainer account? Also, cheapest place to get license? Should I apply to be a reseller since I do ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnsbg8/warning_from_my_lab_about_fortiswitch_764/" target="_blank" rel="noopener">Warning From my LAB about FortiSwitch 7.6.4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T17:09:20+00:00</div>
+    <p>I upgraded 3 fortiswitches from 7.6.2 to 7.6.4, one of those switches only has one 1gbps desktop plugged into it. All switches went to 100% CPU usage and stayed that way for ever 24 hours before I downgraded. So warning for other lab use...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nmsaoy/using_ibgp_community_strings_to_identify_bgp/" target="_blank" rel="noopener">Using iBGP Community Strings to identify bgp peers and Filter Route Advertisements to Spokes - ADVPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-21T13:42:09+00:00</div>
-    <p>Hi all, I’m working on a Fortinet ADVPN hub-and-spoke setup with iBGP to share routes between my hub and multiple spokes. Right now, I want to refine how routes are advertised so that each spoke only receives the routes intended for it. ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnphk7/fortiap_with_cisco_switch/" target="_blank" rel="noopener">FortiAP with cisco switch</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T15:24:07+00:00</div>
+    <p>Hi, I have FortiGate connected to FortiAP through Cisco SW. Kindly need to understand what the difference is if I go with a Tunnel or a Bridge? And what configuration should I do on the Cisco switch, whether to go with tunnel or bridge? ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnouhf/wifi_saml_entra_if_loop/" target="_blank" rel="noopener">Wifi SAML entra if loop</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T15:00:36+00:00</div>
+    <p>Hi I setuped a ssid with entra id for authentication It&#x27;s working fine except for users who are signed in into their chrome browser and their default browser is chrome It&#x27;s looping ! I have to tell them to open edge to complete authentic...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/lux9a1691qqf1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=56665e4c38f0b8afd9db601eba2d6cd8befb5cab" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnn7f1/connection_failes_on_url/" target="_blank" rel="noopener">Connection failes on URL</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T13:57:51+00:00</div>
+    <p>On an remote location we have a Linux VM running our internal wiki page, since this morning i cannot load the page anymore from our LAN al other networks (5G, home network etc.) can acces the page without any problems. I have tried to ac...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnmzkr/forticlient_vpn_on_ios/" target="_blank" rel="noopener">FortiClient VPN on iOS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T13:48:56+00:00</div>
+    <p>So for whatever reason the FortiClient version for iOS only supports DH Groups 14-18. I have my current IPSec dial up tunnel all configured with SAML and IPSec over TCP but it&#x27;s set to DH 21 for that. Do I just back the DH Group down to ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/925193354/0/fortinet/blogs~The-Security-Implications-of-Quantum-Computing-What-CISOs-Need-to-Know" target="_blank" rel="noopener">The Security Implications of Quantum Computing: What CISOs Need to Know</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 22 Sep 2025 13:00:00 +0000</div>
+    <p>The quantum era is coming. Security leaders who prepare now will future-proof their defenses while others will be stuck playing catch-up. Read more.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnkspm/missing_logs_in_faz_could_exceeding_daily_log/" target="_blank" rel="noopener">Missing logs in FAZ – could exceeding daily log quota be the cause?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T12:14:04+00:00</div>
+    <p>Hi all, I’m running a FortiGate setup forwarding logs to a FortiAnalyzer (FAZ) VM with a configured daily log quota of 6GB. For the past six months, I’ve consistently exceeded this limit, and logging appeared normal. Today, I observed th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnkcmj/good_practices_removedisable_admin_account/" target="_blank" rel="noopener">good practices - remove/disable admin account</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T11:52:01+00:00</div>
+    <p>I wonder how you handle it when your administrator leaves. Do you delete their account, or do you disable it in some way? If so, how? submitted by /u/Bolendox [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnjhhe/forticlient_ems_trial/" target="_blank" rel="noopener">Forticlient EMS Trial</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T11:06:10+00:00</div>
+    <p>I’ve installed EMS 7.4.4, the documentation says to login and go to the license widget to activate a trial license. But, I cannot login at all, the web gui displays a hardware ID and when I login to forticloud I don’t see any option to a...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nnit5g/web_filter_blocking_business_site_login_despite/" target="_blank" rel="noopener">Web Filter Blocking Business Site Login Despite Category Access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-22T10:27:54+00:00</div>
+    <p>I have a web filter in place that blocks social networking sites but allows access to business-related categories. I&#x27;m trying to access a website that&#x27;s categorized under &quot;Business,&quot; but the URI ( website.com/login ) doesn&#x27;t load unless ...</p>
   </div>
 </li>
 <li class="card">
@@ -136,14 +200,6 @@ _Updated: September 22, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/924174986/0/fortinet/blogs~Fortinet-Celebrates-International-Women-in-Cybersecurity-Day" target="_blank" rel="noopener">Fortinet Celebrates International Women in Cybersecurity Day 2025</a></h3>
     <div class="meta">Fortinet Blog · Mon, 1 Sep 2025 15:00:00 +0000</div>
     <p>Fortinet honors International Women in Cyber Day 2025—a global movement recognizing women’s contributions in cybersecurity and spotlighting pathways to help more women build cyber careers.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/923961695/0/fortinet/blogs~How-Fortinet-AIDriven-SecOps-Delivers-Faster-Smarter-SecOps" target="_blank" rel="noopener">How Fortinet AI-Driven SecOps Delivers Faster, Smarter SecOps</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 28 Aug 2025 13:00:00 +0000</div>
-    <p>Learn how Fortinet SecOps helps security teams detect, investigate, and respond to threats faster with integrated tools, AI-driven automation, and unified visibility across the attack surface.…</p>
   </div>
 </li>
 </ul>
