@@ -7,103 +7,95 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 26, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 27, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqx3s4/eveng_network_error_connection_refused_with/" target="_blank" rel="noopener">EVE-NG &quot;Network error: Connection refused&quot; with Fortinet node</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T09:47:35+00:00</div>
-    <p>Hi all, I’m running into an issue with EVE-NG. I installed the latest KVM firmware ( 7.6.4 ) and followed the correct naming system from the official EVE-NG support page Fortinet images . I can access the Fortinet node inside EVE, but wh...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrosii/palo_sdwan_and_network_security_engineer_here_to/" target="_blank" rel="noopener">Palo Sdwan and network security engineer here to transfer to Fortinet Domain..</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T07:12:48+00:00</div>
+    <p>Hi Guys, I am about to start my new job as Fortinet SDWan engineer + other network security jobs. .my last job: my primary role was Palo Panorama SDWAN implementation engineer. What would be the major difference between Palo Panorama SDW...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqw7qv/apple_devices_with_captive_portal_help/" target="_blank" rel="noopener">Apple Devices with Captive Portal Help</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T08:49:51+00:00</div>
-    <p>Having had quite a few issues, there is one annoying one that is remaining, I have a Fortigate running an SSID using the FAC as the Portal for registration etc, which is working fine on Android, Laptops etc. but any apple device when sel...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrmzi2/how_to_integrate_a_branch_fortigate_firewall_with/" target="_blank" rel="noopener">How to Integrate a Branch FortiGate Firewall with FortiSASE</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T05:21:46+00:00</div>
+    <p>Hello Fortinet Community, I have a FortiGate firewall deployed at my branch location. Currently, the device is not configured with SD-WAN or BGP routing. I want to integrate this branch FortiGate with FortiSASE to enable secure cloud-del...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nquois/voice_on_sdwan/" target="_blank" rel="noopener">Voice on SDWAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T07:08:18+00:00</div>
-    <p>Hello, I have an SDWAN solution ( bgp on underlays) I have very unstable voice and myQ service, from spoke to hub, I did reduce the mtu to 1400 on the firewall policies.. it came up a bit and then went down again. Looking for insights on...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrj6ji/sdwan_gui_major_downgrade/" target="_blank" rel="noopener">SDWAN GUI Major Downgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T01:54:35+00:00</div>
+    <p>Am I the only one who thinks that the SDWAN GUI in v7.4 is far worse than it was in v7.2? You can no longer see all of the health check results for all members at a glance. When you do click on a specific health check, in order to scruti...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqu2aq/forti_authenticator_tacacs_percommand/" target="_blank" rel="noopener">Forti Authenticator TACACS+ per-command authorization</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T06:29:15+00:00</div>
-    <p>Has anyone configured Forti Authenticator as a TACACS+ server, and per-command Authorization? So far I only could managed to get it successful for main commands such as, configure and I can specify which arguments I want to give access, ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrbwaa/fortigate_azure_sdn_connector/" target="_blank" rel="noopener">Fortigate Azure SDN Connector</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T20:21:04+00:00</div>
+    <p>Has anyone out there successfully implemented the Azure SDN connector to create dynamic addresses? I have created a Service Principal and give it the appropriate reader role in all subscriptions. However when building filters I see some ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqknx4/fortios_749_has_released/" target="_blank" rel="noopener">FortiOS 7.4.9 has released</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T22:29:54+00:00</div>
-    <p>Release notes can be found here: Introduction and supported models | FortiGate / FortiOS 7.4.9 | Fortinet Document Library Resolved Issues: Resolved issues | FortiGate / FortiOS 7.4.9 | Fortinet Document Library Known Issues: Known issue...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrbsga/newb_question_hyper_v_host_with_multiple_vlans/" target="_blank" rel="noopener">Newb Question - Hyper V Host with Multiple Vlans</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T20:16:47+00:00</div>
+    <p>I have a 50G fortigate with a single switch hanging off of it. There are a few VLANs (Production, Dev, etc....). I plan to have vswitches on the host that allow me to direct one vlan at a VM, but they will not all be the same. Is the Swi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqkm6w/fortios_749_was_just_released/" target="_blank" rel="noopener">FortiOS 7.4.9 was just released</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T22:27:49+00:00</div>
-    <p>submitted by /u/dMailonG [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nratml/navigation_failed_because_the_request_was_for_an/" target="_blank" rel="noopener">&quot;Navigation failed because the request was for an HTTP URL with HTTPS-only enabled&quot; after finishing authentication using FortiClient on iOS for SSLVPN with SAML</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T19:39:21+00:00</div>
+    <p>Posting for visibility. If anyone is facing this issue, it can be resolved by going to the Settings app, going to the Safari settings, and disabling “Not Secure Connection Warning&quot;. submitted by /u/rowankaag [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqdt9q/ztna_and_ad_remote_user_password_sync/" target="_blank" rel="noopener">ZTNA and AD remote user password sync</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T17:59:40+00:00</div>
-    <p>For anyone that has gone full ZTNA how have you handeled users logging in to their windows laptops and syncing their AD password with their laptops over ZTNA? I am on Fortigate 7.6.2 and FortiClient EMS 7.4.2 and while I have tried to cr...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nr4w75/forticlient_stickypersistent_dns_issue_on/" target="_blank" rel="noopener">FortiClient Sticky/Persistent DNS Issue on Wireless Adapter Preventing Internet Access after Windows 10 -&gt; 11 Upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T15:48:57+00:00</div>
+    <p>We are facing an issue with Wi-Fi adapters keeping the VPN DNS servers (internal to the corp network) resulting in no Internet and no VPN access for users. It is strange because it only affects certain Wi-Fi networks. I have a suspicion ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/505jcsepwirf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a7189cd62f3d5d1df32da0fd86a29b8f0601f24" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nr3ofe/port_channel_connection_not_failing_over_in_ha/" target="_blank" rel="noopener">port channel connection not failing over in HA pair</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T15:02:00+00:00</div>
+    <p>Maybe someone can help me with this issue. I have 2x 200F in HA active-passive, I have a virtual IP for the WAN, a lab IT lan connection and an IB-management for network equipment on a 802.3AD port-channel connection. When I change prior...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqdels/8021x_dynamic_vlan_with_windows_server_nps/" target="_blank" rel="noopener">802.1X Dynamic VLAN with Windows Server NPS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T17:44:21+00:00</div>
-    <p>Hello. For the past few days I&#x27;m struggling to get dynamic VLAN assignment to work using 802.1X with Windows Server NPS acting as RADIUS server. I&#x27;ve configured the necessary settings in the NPS policy: - Tunnel-Pvt-Group-ID: IT (that&#x27;s ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nr371l/fortigate_90g_7015_ping_issue_to_next_hop_and/" target="_blank" rel="noopener">FortiGate 90G 7.0.15 ping issue to next hop and solved after disabling asic-offload</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T14:43:13+00:00</div>
+    <p>Hello! I had strange issue on 90G when I used sub interface. On port 10 I created sub interfaces with 2 VLANS. I configured point to point on one VLAN and I was able to ping the point to point link. I configured static route for the next...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/925395818/0/fortinet/blogs~SVG-Phishing-hits-Ukraine-with-Amatera-Stealer-PureMiner" target="_blank" rel="noopener">SVG Phishing hits Ukraine with Amatera Stealer, PureMiner</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 26 Sep 2025 13:00:00 +0000</div>
+    <p>A phishing campaign in Ukraine uses malicious SVG files to drop Amatera Stealer and PureMiner, enabling data theft and cryptomining. Learn more.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqcr5b/stat_ehp1_incr_frag_what_the_purpose_of_this/" target="_blank" rel="noopener">STAT_EHP1_INCR_FRAG : what the purpose of this counter (np6xlite) ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T17:19:42+00:00</div>
-    <p>Hello All, On a Fortigate 40F via the command &quot;diagnose npu np6xlite dce&quot;, i can see the counter STAT_EHP1_INCR_FRAG increasing. FGT40F (global) $ diagnose npu np6xlite dce STAT_EHP1_INCR_FRAG:0000000000000147[a7] FGT40F (global) $ diagn...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqbw2o/ike_routes_priority/" target="_blank" rel="noopener">IKE routes Priority.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T16:46:58+00:00</div>
-    <p>Hi all I’m looking to adjust the priority of IKE routes, which according to CLI guidance should be a command under ipsec phase1-interface, set priority x. But the command/option doesn’t seem to exist. This is an advpn / bgp on loopback c...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nq6qml/bizarre_random_3060_second_packet_delay_on/" target="_blank" rel="noopener">Bizarre random 30-60 second packet delay on FortiGate 40F</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T13:26:50+00:00</div>
-    <p>Hi everyone, I’m running into a strange issue with my FortiGate and I wanted to see if anyone else has come across something like this. We have a remote service that delivers TCP packets into our network, and those packets are supposed t...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nq36vu/is_it_possible_to_make_forticlient_work_on_a/" target="_blank" rel="noopener">Is It Possible to Make FortiClient Work on a Per-Session Basis in a Windows Environment?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-25T10:31:36+00:00</div>
-    <p>I have a virtual server, and 10–15 users connect to it. They can log in simultaneously. FortiClient is installed on this server, and when a VPN connection is established from session X, the user in session Y can also see the VPN session ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqyi0g/748_to_763/" target="_blank" rel="noopener">7.4.8 to 7.6.3</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T11:10:10+00:00</div>
+    <p>Hi, All my fortis (117) are on 7.4.8 Is there interest to upgrade to 7.6.3 ? Benefit ? Problems to solve ? Thank you submitted by /u/fredo2a [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -176,14 +168,6 @@ _Updated: September 26, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/924574256/0/fortinet/blogs~Fortinet-AI-The-Next-Generation-of-Cloud-Security" target="_blank" rel="noopener">Fortinet + AI: The Next Generation of Cloud Security</a></h3>
     <div class="meta">Fortinet Blog · Tue, 9 Sep 2025 13:00:00 +0000</div>
     <p>Fortinet strengthens AI security in the cloud with a unified platform and AI that integrates with Google’s innovations to boost detection and response.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/924516446/0/fortinet/blogs~MostereRAT-Deployed-AnyDeskTightVNC-for-Covert-Full-Access" target="_blank" rel="noopener">MostereRAT Deployed AnyDesk/TightVNC for Covert Full Access</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 8 Sep 2025 13:00:00 +0000</div>
-    <p>FortiGuard Labs uncovers MostereRAT’s use of phishing, EPL code, and remote access tools like AnyDesk and TightVNC to evade defenses and seize full system control.…</p>
   </div>
 </li>
 </ul>
