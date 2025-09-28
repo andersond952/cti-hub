@@ -7,79 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 27, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 28, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrosii/palo_sdwan_and_network_security_engineer_here_to/" target="_blank" rel="noopener">Palo Sdwan and network security engineer here to transfer to Fortinet Domain..</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T07:12:48+00:00</div>
-    <p>Hi Guys, I am about to start my new job as Fortinet SDWan engineer + other network security jobs. .my last job: my primary role was Palo Panorama SDWAN implementation engineer. What would be the major difference between Palo Panorama SDW...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nsfb3k/forticlient_ipsec_tunnels/" target="_blank" rel="noopener">FortiClient IPsec Tunnels</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-28T04:33:23+00:00</div>
+    <p>I am on my personal laptop and I have to connect to forti client IPSEC Tunnels in order to remote into the companies remote However I want to work from a different country and connect to there vpn but they dont allow vpn connection from ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrmzi2/how_to_integrate_a_branch_fortigate_firewall_with/" target="_blank" rel="noopener">How to Integrate a Branch FortiGate Firewall with FortiSASE</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T05:21:46+00:00</div>
-    <p>Hello Fortinet Community, I have a FortiGate firewall deployed at my branch location. Currently, the device is not configured with SD-WAN or BGP routing. I want to integrate this branch FortiGate with FortiSASE to enable secure cloud-del...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ns8ahn/need_help_to_understand_this_interface/" target="_blank" rel="noopener">Need help to understand this interface?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T22:31:37+00:00</div>
+    <p>Hi All. I have an FG-70G that have been running for 6 mounts without anything. It&#x27;s a small office that have around 10 users and an 500Mbit fiber connection. This week I had one network that is failing in an odd way. No IP&#x27;s from the DHC...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrj6ji/sdwan_gui_major_downgrade/" target="_blank" rel="noopener">SDWAN GUI Major Downgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T01:54:35+00:00</div>
-    <p>Am I the only one who thinks that the SDWAN GUI in v7.4 is far worse than it was in v7.2? You can no longer see all of the health check results for all members at a glance. When you do click on a specific health check, in order to scruti...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrx1ur/fortigate_ipsec_vpn_to_azure_tunnel_up_but/" target="_blank" rel="noopener">FortiGate IPsec VPN to Azure: Tunnel Up but Intermittent Access Due to SA Flapping</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T14:46:07+00:00</div>
+    <p>I&#x27;m experiencing an issue with my FortiGate IPsec VPN between on-prem and Azure (no BGP). The tunnel shows as &quot;up&quot; in the dashboard, but we have intermittent connectivity issues to Azure servers. From the logs, I can see there&#x27;s SA (Secu...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://a.thumbs.redditmedia.com/3dDyNDFscCOhtAkTrHPtsX11HpGGFY7PJ6t5DxWwfU0.jpg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrbwaa/fortigate_azure_sdn_connector/" target="_blank" rel="noopener">Fortigate Azure SDN Connector</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T20:21:04+00:00</div>
-    <p>Has anyone out there successfully implemented the Azure SDN connector to create dynamic addresses? I have created a Service Principal and give it the appropriate reader role in all subscriptions. However when building filters I see some ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrvr0u/question_about_changing_from_sslvpn_to_ipsec/" target="_blank" rel="noopener">Question about changing from SSLVPN to IPSec</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T13:50:23+00:00</div>
+    <p>Hey all, I had a quick question. I am currently changing my Remote Access VPN from SSL to IPSec. With the SSL, I was able to limit hosts from all other countries but my own and I thought this was a really great feature with FortiGate. Un...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://b.thumbs.redditmedia.com/XOQVa_dZiPW4L6GWmvhWz87geJKNL_iCasfx6rsaozs.jpg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrbsga/newb_question_hyper_v_host_with_multiple_vlans/" target="_blank" rel="noopener">Newb Question - Hyper V Host with Multiple Vlans</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T20:16:47+00:00</div>
-    <p>I have a 50G fortigate with a single switch hanging off of it. There are a few VLANs (Production, Dev, etc....). I plan to have vswitches on the host that allow me to direct one vlan at a VM, but they will not all be the same. Is the Swi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nratml/navigation_failed_because_the_request_was_for_an/" target="_blank" rel="noopener">&quot;Navigation failed because the request was for an HTTP URL with HTTPS-only enabled&quot; after finishing authentication using FortiClient on iOS for SSLVPN with SAML</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T19:39:21+00:00</div>
-    <p>Posting for visibility. If anyone is facing this issue, it can be resolved by going to the Settings app, going to the Safari settings, and disabling “Not Secure Connection Warning&quot;. submitted by /u/rowankaag [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nr4w75/forticlient_stickypersistent_dns_issue_on/" target="_blank" rel="noopener">FortiClient Sticky/Persistent DNS Issue on Wireless Adapter Preventing Internet Access after Windows 10 -&gt; 11 Upgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T15:48:57+00:00</div>
-    <p>We are facing an issue with Wi-Fi adapters keeping the VPN DNS servers (internal to the corp network) resulting in no Internet and no VPN access for users. It is strange because it only affects certain Wi-Fi networks. I have a suspicion ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/505jcsepwirf1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=1a7189cd62f3d5d1df32da0fd86a29b8f0601f24" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nr3ofe/port_channel_connection_not_failing_over_in_ha/" target="_blank" rel="noopener">port channel connection not failing over in HA pair</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T15:02:00+00:00</div>
-    <p>Maybe someone can help me with this issue. I have 2x 200F in HA active-passive, I have a virtual IP for the WAN, a lab IT lan connection and an IB-management for network equipment on a 802.3AD port-channel connection. When I change prior...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nr371l/fortigate_90g_7015_ping_issue_to_next_hop_and/" target="_blank" rel="noopener">FortiGate 90G 7.0.15 ping issue to next hop and solved after disabling asic-offload</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T14:43:13+00:00</div>
-    <p>Hello! I had strange issue on 90G when I used sub interface. On port 10 I created sub interfaces with 2 VLANS. I configured point to point on one VLAN and I was able to ping the point to point link. I configured static route for the next...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrv4gn/90g_748_to_749_fortiswitch_topology_view_not/" target="_blank" rel="noopener">90G - 7.4.8 to 7.4.9 fortiswitch topology view not working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T13:22:14+00:00</div>
+    <p>After upgrading a 90G HA pair fortiswitch topology view stops working properly. Confirmed downgrade to 7.4.8 fixes the issue. Any ideas for a work around? Switch functionality doesn’t seem impacted. Seems to be just a cosmetic issue in t...</p>
   </div>
 </li>
 <li class="card">
@@ -88,14 +56,6 @@ _Updated: September 27, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/925395818/0/fortinet/blogs~SVG-Phishing-hits-Ukraine-with-Amatera-Stealer-PureMiner" target="_blank" rel="noopener">SVG Phishing hits Ukraine with Amatera Stealer, PureMiner</a></h3>
     <div class="meta">Fortinet Blog · Fri, 26 Sep 2025 13:00:00 +0000</div>
     <p>A phishing campaign in Ukraine uses malicious SVG files to drop Amatera Stealer and PureMiner, enabling data theft and cryptomining. Learn more.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nqyi0g/748_to_763/" target="_blank" rel="noopener">7.4.8 to 7.6.3</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-26T11:10:10+00:00</div>
-    <p>Hi, All my fortis (117) are on 7.4.8 Is there interest to upgrade to 7.6.3 ? Benefit ? Problems to solve ? Thank you submitted by /u/fredo2a [link] [comments]</p>
   </div>
 </li>
 <li class="card">
