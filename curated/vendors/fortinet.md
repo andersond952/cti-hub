@@ -7,49 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 28, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 29, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nsfb3k/forticlient_ipsec_tunnels/" target="_blank" rel="noopener">FortiClient IPsec Tunnels</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-28T04:33:23+00:00</div>
-    <p>I am on my personal laptop and I have to connect to forti client IPSEC Tunnels in order to remote into the companies remote However I want to work from a different country and connect to there vpn but they dont allow vpn connection from ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ns8ahn/need_help_to_understand_this_interface/" target="_blank" rel="noopener">Need help to understand this interface?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T22:31:37+00:00</div>
-    <p>Hi All. I have an FG-70G that have been running for 6 mounts without anything. It&#x27;s a small office that have around 10 users and an 500Mbit fiber connection. This week I had one network that is failing in an odd way. No IP&#x27;s from the DHC...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrx1ur/fortigate_ipsec_vpn_to_azure_tunnel_up_but/" target="_blank" rel="noopener">FortiGate IPsec VPN to Azure: Tunnel Up but Intermittent Access Due to SA Flapping</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T14:46:07+00:00</div>
-    <p>I&#x27;m experiencing an issue with my FortiGate IPsec VPN between on-prem and Azure (no BGP). The tunnel shows as &quot;up&quot; in the dashboard, but we have intermittent connectivity issues to Azure servers. From the logs, I can see there&#x27;s SA (Secu...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://a.thumbs.redditmedia.com/3dDyNDFscCOhtAkTrHPtsX11HpGGFY7PJ6t5DxWwfU0.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrvr0u/question_about_changing_from_sslvpn_to_ipsec/" target="_blank" rel="noopener">Question about changing from SSLVPN to IPSec</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T13:50:23+00:00</div>
-    <p>Hey all, I had a quick question. I am currently changing my Remote Access VPN from SSL to IPSec. With the SSL, I was able to limit hosts from all other countries but my own and I thought this was a really great feature with FortiGate. Un...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/XOQVa_dZiPW4L6GWmvhWz87geJKNL_iCasfx6rsaozs.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nrv4gn/90g_748_to_749_fortiswitch_topology_view_not/" target="_blank" rel="noopener">90G - 7.4.8 to 7.4.9 fortiswitch topology view not working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-09-27T13:22:14+00:00</div>
-    <p>After upgrading a 90G HA pair fortiswitch topology view stops working properly. Confirmed downgrade to 7.4.8 fixes the issue. Any ideas for a work around? Switch functionality doesn’t seem impacted. Seems to be just a cosmetic issue in t...</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
