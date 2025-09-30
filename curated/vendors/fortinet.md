@@ -7,9 +7,17 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 29, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 30, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/925534115/0/fortinet/blogs~From-SDWAN-to-SASE-Accelerating-Your-Customers%e2%80%99-Journey" target="_blank" rel="noopener">From SD-WAN to SASE: Accelerating Your Customers’ Journey</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 29 Sep 2025 15:00:00 +0000</div>
+    <p>Help your customers move from SD-WAN to SASE. See why Fortinet Unified SASE is the fastest path to growth. Read more.…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -80,14 +88,6 @@ _Updated: September 29, 2025 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/924582716/0/fortinet/blogs~Secure-Your-Web-Applications-and-Simplify-Operations-with-AI" target="_blank" rel="noopener">Secure Your Web Applications and Simplify Operations with AI</a></h3>
     <div class="meta">Fortinet Blog · Tue, 9 Sep 2025 15:00:00 +0000</div>
     <p>Fortinet adds an AI-assistant and payment data protection to improve web application security. Learn more.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/924574256/0/fortinet/blogs~Fortinet-AI-The-Next-Generation-of-Cloud-Security" target="_blank" rel="noopener">Fortinet + AI: The Next Generation of Cloud Security</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 9 Sep 2025 13:00:00 +0000</div>
-    <p>Fortinet strengthens AI security in the cloud with a unified platform and AI that integrates with Google’s innovations to boost detection and response.…</p>
   </div>
 </li>
 </ul>
