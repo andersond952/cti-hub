@@ -7,95 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 03, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 04, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/DE1vue6Y1FI_8-DYDPJwiESD9ZYlbW0vqGKRMXQA5nI.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwrttl/dnat_query/" target="_blank" rel="noopener">DNAT Query</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T06:41:22+00:00</div>
-    <p>Hi everyone, When setting up DNAT on the FortiGate Im running into some bother with it forcing SNAT onto the same policy.. The DNAT itselfs works as expected and Ive followed the tech docs on how to setup DNAT with a VIP etc.. and to ena...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/txzwXHJfFpg15EXHeE6k4Mw5p5aQENC1RHtg-ZPKfXU.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwj6hi/log_action_paramatersvariables_like_date_not/" target="_blank" rel="noopener">Log Action Paramaters/Variables like %%date%% not being processes by my automation stitch (v6.2.17 build1405)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T23:14:10+00:00</div>
-    <p>Encountering this strange issue. CLI in my automation stich for automated config backup via FTP is written as follows: execute backup config ftp /[directory]/&quot;%%log.devname%%_%%date%%_%%time%%.conf&quot; [IP] [username] [password] This is out...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nxgztt/ipsec_tunnel_wizard/" target="_blank" rel="noopener">IPSEC Tunnel Wizard</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-04T01:24:48+00:00</div>
+    <p>Im using the IPSec tunnel wizard (Remote-Access) to setup my vpn. When try to connect to the public IP I get timeout. Please if someone can help. config vpn ipsec phase1-interface edit &quot;vpn&quot; set type dynamic set interface &quot;wan1&quot; set mode...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwi7bo/help_with_fortinet_f40_dialup_ipsec_vpn_behind/" target="_blank" rel="noopener">Help with Fortinet F40 Dial-Up IPSec VPN behind CGNAT and SD-WAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T22:31:42+00:00</div>
-    <p>Hi all, I have a Fortinet F40 at a branch with two links behind CGNAT, configured with SD-WAN, IPSec dial-up VPN, and BGP. The hub has a public IP to accept connections from the branches. I tried creating a tunnel with a public IP on the...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/jkejvvqecrsf1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4ad96edd444778d6d252a321684099f9a2586037" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwffv9/adding_second_mclag_pair_of_fortiswitches_brings/" target="_blank" rel="noopener">Adding Second MCLAG Pair of FortiSwitches Brings Down Network</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T20:43:29+00:00</div>
-    <p>I&#x27;ve got a pair of FS-224E (green background) that have been in production for a few months now. We have since purchased a pair of FS-T1024E switches (red background), and I&#x27;m trying to get them online now. I had the switches pre-provisi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nxblwj/firewall_policy_for_credit_card_machines/" target="_blank" rel="noopener">Firewall Policy for Credit Card Machines</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T21:23:03+00:00</div>
+    <p>We are having two new credit card machines added to our system and I&#x27;m wanting to lockdown the interface for these machines. These are the first point of sale systems we have ever had on our network. They are on their own interface and V...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwdkmk/port_mirror_issue/" target="_blank" rel="noopener">Port mirror issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T19:34:52+00:00</div>
-    <p>Hello smart people. I’m trying to set up a port mirror for a voice recorder on port 21. I need to push the voice over IP traffic for my phone on Port 19 to the recorder. In the command line, I have added the following per the documentati...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nxb9di/fortiauthenticator_800/" target="_blank" rel="noopener">FortiAuthenticator 8.0.0</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T21:08:46+00:00</div>
+    <p>submitted by /u/ocdtrekkie [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwcdhy/non_public_domain_marked_as_phishing/" target="_blank" rel="noopener">Non public domain marked as Phishing?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T18:49:50+00:00</div>
-    <p>VirusTotal shows Fortinet marked my mobile app&#x27;s backend api subdomain as Phishing? This is a non-public, non-email, completely inert subdomain that&#x27;s only purpose it to have a CNAME record for my app to make https requests to my load ba...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nx7at2/pre_and_postchange_healthchecks_on_fortigates/" target="_blank" rel="noopener">Pre- and Post-change healthchecks on Fortigates using Ansible</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T18:35:07+00:00</div>
+    <p>--- - hosts: fortigate collections: - fortinet.fortios gather_facts: no connection: ssh tasks: - name: pass config global raw: | config global get system status get system performance status diagnose sys ha status diagnose sys top get sy...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwb0dg/fortimail_recipient_policies/" target="_blank" rel="noopener">FortiMail Recipient Policies</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T17:59:12+00:00</div>
-    <p>Pushing the (my) envelope a bit with our spam filter. Ive been managing and tuning our fortimail for a while now and things are working well, but using Fortiguard&#x27;s Antispam library still causes a lot of messages to be delivered that we ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nx35wc/fortigate_v748_advpn_hubspoke_w_bgp_on_loopback/" target="_blank" rel="noopener">Fortigate [v7.4.8] ADVPN Hub-Spoke w\ BGP on loopback, SD-WAN breaks spoke to spoke traffic (again!)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T16:01:47+00:00</div>
+    <p>A couple of weeks ago, I wrote about a strange problem I was having with ADVPN and BGP on a loopback. Everything was working fine until I moved the ADVPN ipsec interfaces into an SD-WAN zone. At that point, the spoke wouldn&#x27;t be able to ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwaphm/fortigate_dynamic_port_policy_fortiswitch_8021x/" target="_blank" rel="noopener">FortiGate Dynamic Port Policy + FortiSwitch 802.1X — No RADIUS Traffic Seen</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T17:48:18+00:00</div>
-    <p>Hi everyone, I’m looking to brainstorm possible reasons for a strange behavior I’m seeing in my Fortinet setup. I’ve configured a Dynamic Port Policy on my FortiGate v7.4.9, which applies to ports on my FortiSwitches running v7.4.8. The ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nx2h57/fcp_fgt_76_ad/" target="_blank" rel="noopener">FCP_FGT_7.6_AD</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T15:36:14+00:00</div>
+    <p>Wtf. I wrote this exam earlier this week and it was nothing like what the exam desc had. I got the voucher from my company and now idk if to tell them I passed or failed because i am nervous. I was basically hired me to support all their...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/925732502/0/fortinet/blogs~AI-and-Cybersecurity-Webinar-What%e2%80%99s-New-and-What%e2%80%99s-Next-with-Fortinet-and-NTT-DATA" target="_blank" rel="noopener">AI and Cybersecurity Webinar: What’s New and What’s Next with Fortinet and NTT DATA</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 3 Oct 2025 15:00:00 +0000</div>
+    <p>Discover key insights from Fortinet and NTT DATA’s webinar on AI and cybersecurity—learn how to adopt AI securely and transform enterprise defense.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nw7i4i/what_features_are_useful_without_deep_packet/" target="_blank" rel="noopener">What Features are Useful without Deep Packet Inspection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T15:49:58+00:00</div>
-    <p>Heya folks, I&#x27;m someone who is considering getting a Fortigate firewall here in the future. I don&#x27;t have any other Fortigate equipment on my network, so there is no switch or access point integration. I know one of the big features on Fo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nx07a8/fortigate_ip_address_threat_feed_changes/" target="_blank" rel="noopener">Fortigate IP Address Threat Feed Changes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T14:09:28+00:00</div>
+    <p>Upgraded the HA cluster at our main site this week and got bit by a change that I&#x27;m not sure if I missed, or if it simply wasn&#x27;t in the release notes. (7.2.8 &gt;&gt; 7.4.9) CONTEXT: Was using this blocklist : https://github.com/bitwire-it/ipb...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nw7cu0/forticlient_free_how_are_you_deploying_ipsec/" target="_blank" rel="noopener">Forticlient Free - How are you deploying IPsec config for clients</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T15:44:30+00:00</div>
-    <p>Hey All, I know I am late to the game, but we are running 7.2.11 at the moment and just now starting to look at IPsec with dial-up. I have everything working with SAML and overall happy, but I sent the configuration to my MDM admin, and ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nw4kqc/upgraded_mac_and_not_the_window_is_blank/" target="_blank" rel="noopener">Upgraded Mac and not the window is blank?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T13:59:43+00:00</div>
-    <p>I had been using fortinet on my mac when I had the last/older os, and it worked fine, I opened it and got a simple window, asking for username, and password, and then you could connect to the VPN. when I opened the app on my updated (os ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nwzoak/fortianalyzer_api_report_rundownload/" target="_blank" rel="noopener">Fortianalyzer API report run/download</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-03T13:48:48+00:00</div>
+    <p>Hi Everyone, I have been trying to use the API in Fortianalyzer 7.4.6 to run and download a report that I created. I have been using the API reference, and I am able to log in and send successful API requests, but I can&#x27;t specify the rep...</p>
   </div>
 </li>
 <li class="card">
@@ -104,22 +88,6 @@ _Updated: October 03, 2025 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/925674278/0/fortinet/blogs~Confucius-Espionage-From-Stealer-to-Backdoor" target="_blank" rel="noopener">Confucius Espionage: From Stealer to Backdoor</a></h3>
     <div class="meta">Fortinet Blog · Thu, 2 Oct 2025 13:00:00 +0000</div>
     <p>FortiGuard Labs has uncovered a shift in the tactics of threat actor Confucius, from stealers to Python backdoors, highlighting advanced techniques used in South Asian cyber espionage. Read more.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nw1k0l/reminder_to_check_if_your_fortimanager_is/" target="_blank" rel="noopener">Reminder to check if your FortiManager is Compatible with FortiOS 7.4.9</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T11:47:52+00:00</div>
-    <p>It happened to me but luckily I followed proper procedures and it was all in staging but still.. If you didn&#x27;t know, as I didn&#x27;t, there is a compatibility matrix for between FortiManager and FortiOS... yep.. In my mind I thought FortiMan...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nw0pk3/best_practices_for_chaning_interfaces_on_a/" target="_blank" rel="noopener">Best Practices for Chaning Interfaces on a Fortinet 100F Cluster (Fiber Migration)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-02T11:03:37+00:00</div>
-    <p>Hi guys, I need to replace some interfaces on a Fortinet 100F cluster because we are migrating to fiber connections. The challenge is that these interfaces are referenced in many places, like firewall policies and other configurations. W...</p>
   </div>
 </li>
 <li class="card">
@@ -184,14 +152,6 @@ _Updated: October 03, 2025 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/925193354/0/fortinet/blogs~The-Security-Implications-of-Quantum-Computing-What-CISOs-Need-to-Know" target="_blank" rel="noopener">The Security Implications of Quantum Computing: What CISOs Need to Know</a></h3>
     <div class="meta">Fortinet Blog · Mon, 22 Sep 2025 13:00:00 +0000</div>
     <p>The quantum era is coming. Security leaders who prepare now will future-proof their defenses while others will be stuck playing catch-up. Read more.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/925073666/0/fortinet/blogs~Fortinet-Recognized-for-Leadership-in-Three-KuppingerCole-CNAPP-Compass-Categories" target="_blank" rel="noopener">Fortinet Recognized for Leadership in Three KuppingerCole CNAPP Compass Categories</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 19 Sep 2025 14:00:00 +0000</div>
-    <p>FortiCNAPP has been recognized as a Leader across three categories—Overall, Market, and Innovation—in the 2025 KuppingerCole CNAPP Compass Report, underscoring Fortinet’s strength in cloud security…</p>
   </div>
 </li>
 </ul>
