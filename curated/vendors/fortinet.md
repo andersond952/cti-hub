@@ -7,55 +7,175 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 06, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 07, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzeb78/authentication_for_backround_services_in_ztna/" target="_blank" rel="noopener">Authentication for backround Services in ZTNA?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T09:23:12+00:00</div>
-    <p>I wonder if there are ways to enable an authentication check for services other than HTTP, FTP or SSH. Right now, ZTNA mostly checks the device identity with the ability to check the user trough ZTNA Tags or authentication Rules. When I ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://a.thumbs.redditmedia.com/0rW09Hd3Ov-wb6FXvwc56itTJgB64Jb_t8qq7Gz7618.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nze578/incredibly_confused_with_fortis_certifications/" target="_blank" rel="noopener">Incredibly Confused with Forti&#x27;s Certifications.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T09:11:57+00:00</div>
-    <p>Hey everyone, I recently joined a big organization. I am very new to engineering in general and I need some help. I am 25 and I have about 4 years of work experience in IT Security. I have joined this company as a Cyber Security Engineer...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o0ahr1/configuration_support_fortilink/" target="_blank" rel="noopener">Configuration support - Fortilink</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T09:59:09+00:00</div>
+    <p>Hey! I am needing to help me company setup our new network. We have put up FortiAP everywhere with the intention of them connecting to 5 FortiSwitch 148F&#x27;s through the building then connecting to our FortiGate 100F. I have created the in...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzc50p/fortilink_isl_timingout_for_trunk_flinkdhcpdisc/" target="_blank" rel="noopener">FortiLink: ISL timing-out for trunk(_FLinkDhcpDisc_) after Update from 7.2.10 to 7.4.9</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T06:59:38+00:00</div>
-    <p>Hi, I´ve upgrade from FortiOS 7.2.10 to 7.4.9 and from FortiwichtOS 7.6 to 7.6.4. Everything is working without Problems but I´ve seen a lot of log entrys with the error above and the uplink Port from different switches. Before the upgra...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o0a8wy/newbie_fortigate_100f_licenses/" target="_blank" rel="noopener">newbie - FortiGate 100F licenses</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T09:43:31+00:00</div>
+    <p>Hello fellow engineers, I am new to all this fortigate stuff and we have some 100F&#x27;s laying around in the office. I had some spare time so I was playing with one 100F a little bit. There is FW v6.4.15 running rn and from what I understan...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nz5duw/exam_name_changes/" target="_blank" rel="noopener">Exam name changes?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T00:57:22+00:00</div>
-    <p>I have been chasing FCSS - Network Security. I sat and passed FCSS - LAN Edge Architect a few months ago, I have FCSS - Enterprise Firewall Administrator scheduled for 17th October. However I understand the names are changing on 15th Oct...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o0a8an/fmg_api_how_to_handle_workspace_mode/" target="_blank" rel="noopener">FMG API - How to handle workspace mode</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T09:42:27+00:00</div>
+    <p>Hi We are currently integrating our Infoblox IPAM with the FMG API. Basically we want to automatically create address objects in our FMG ADOM whenever a new host record is defined in the Infoblox IPAM. Functionally we are able to do this...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nyxuo0/looking_for_a_realworld_network_administrator/" target="_blank" rel="noopener">Looking for a real-world Network Administrator course or mentorship (not theory, but workflow &amp; tools)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-05T19:39:04+00:00</div>
-    <p>Hey everyone, I’m a certified Network Engineer (CCNA, CCNP, NSE4, CompTIA A+) and I’m trying to take the next step — not into more protocols or exam prep, but into how to actually work like a professional Network Administrator in the rea...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o09sc8/how_to_get_snmp_while_using_vdoms/" target="_blank" rel="noopener">How to get SNMP while using VDOMs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T09:13:46+00:00</div>
+    <p>Hey everyone, I have set up 2 VDOMs apart from root. 1 is for routed traffic and 1 for transparent. Anyways for now let&#x27;s consider only Transparent VDOM. I want to get SNMP from firewall to my SNMP Server however I am not able to get SNM...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nylu37/module_reinitialized_to_recover_from_error_state/" target="_blank" rel="noopener">&quot;Module re-initialized to recover from ERROR state&quot; on FortiSwitch 448E</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-05T11:33:13+00:00</div>
-    <p>Hi everyone, I&#x27;m currently troubleshooting an issue with a pair of FortiSwitch 448E units running firmware version 7.4.8. On two of them, I&#x27;m seeing the following log messages related to ports 51 and 52, which are connected via DAC cable...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o09a84/fortios_74_and_fortianalyzer_70_compatibility/" target="_blank" rel="noopener">FortiOS 7.4 and Fortianalyzer 7.0 compatibility question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T08:41:48+00:00</div>
+    <p>Hey, due to the fact, that FortiOS ended its support on 30 september 2025, we want to upgrade our OS version to 7.4.x. (we got 7.0.17 atm). I would like to ask if any of you tried to connect this kind of FortiOS version (7.4) to Fortiana...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o098r3/microsoft_rdp_over_ztna/" target="_blank" rel="noopener">Microsoft RDP over ZTNA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T08:39:07+00:00</div>
+    <p>Hi everyone, We are converting from SSLVPN to ZTNA. We have procured the FC EMS Cloud service, connected a firewall, and we used to allow users to RDP to their local pc for doing some of the tasks, with configraing ZTNA for off-fabric us...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o07786/fortigate_heartbeat_on_subinterface/" target="_blank" rel="noopener">FortiGate heartbeat on subinterface</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T06:26:58+00:00</div>
+    <p>Is it possible, in HA Active-passive on 7.4, to designate a subinterface as the heartbeat interface (the idea being to have data plane + heartbeat going through a single physical port, with heartbeat being on one VLAN, and data plane bei...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o02jcx/issues_logging_into_trainingfortinetcom/" target="_blank" rel="noopener">Issues logging into Training.fortinet.com</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T02:14:00+00:00</div>
+    <p>Hey All, Just today i&#x27;m starting to run into issues logging into the fortinet training portal from my personal account. i can log into support. with the same account without issue. I only care because i just wrote and passed FGT Admin 7....</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o01dxa/anyone_use_github_for_dynamic_configs/" target="_blank" rel="noopener">Anyone use GitHub for dynamic configs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-07T01:20:43+00:00</div>
+    <p>Just curious what your thought process was and how you mitigate any practical security risks. submitted by /u/not-a-co-conspirator [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzyb88/3node_fortigate_cluster/" target="_blank" rel="noopener">3-node Fortigate cluster</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T23:01:17+00:00</div>
+    <p>I’m looking for some info/guides/best practices or gotchas associated with a 3-node Fortigate cluster in an active/active/active configuration. Due to space constraints in a CoLo, budgets and need to scale up a later date, an active/pass...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzuk9g/fortigate_dns_resolution_issues/" target="_blank" rel="noopener">Fortigate DNS Resolution issues?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T20:34:23+00:00</div>
+    <p>Hi All, I have a Windows domain and workstations point to DCs for DNS and then the Windows DNS server is set to forward to external DNS resolvers. The issue I am having is that since DNS requests are not being sent to the Fortigate, in s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/tck5hCqZOOcthvdMzmuk8fhJcufPSWyp48dCiGNm_gs.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nztwax/v749_registration_issues/" target="_blank" rel="noopener">v7.4.9 registration issues.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T20:10:34+00:00</div>
+    <p>Two new sets of FG90G and 70G received today, tech updated them in our lab from 7.4.7 that they were shipped with to v7.4.9. Now he is stuck with not being able to setup interfaces to get them online to get them registered. What is this ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzs5q5/fortios_749_and_switch_controller_conserve_mode/" target="_blank" rel="noopener">FortiOS 7.4.9 and switch controller (conserve mode)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T19:07:12+00:00</div>
+    <p>Hi, We upgraded our 1000F from 7.2.11 to 7.4.9 last weekend and I got a really weird issue that caused entering conserve mode. Here is what I did. Names of fortiswitches are now hardcoded to 16 letters instead of 35[?] in 7.2. To maintai...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzkzs5/weird_issue_with_viewing_sessions_since_upgrade/" target="_blank" rel="noopener">Weird issue with viewing sessions since upgrade to 7.4.9</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T14:43:22+00:00</div>
+    <p>Since upgrading to version 7.4.9 whenever I try to view sessions or source via fortiview it changes the source ip to [object object] as shown in the below example: https://imgbox.com/omZ5USng It&#x27;s only cosmetic but it&#x27;s obviously very an...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzj88w/sdwan_inbound_traffic/" target="_blank" rel="noopener">SDWan inbound traffic</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T13:34:55+00:00</div>
+    <p>Hi! I’m deploying a 80F fortigate with two wans (wan1 &amp; wan2) from different isp providers. Outgoing traffic is ok, but now I’m having trouble with inbound traffic as I’m hosting a few webservers and they’re not working. I set an allow i...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzj4cy/password_history_on_fortigate/" target="_blank" rel="noopener">password History on Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T13:30:26+00:00</div>
+    <p>Hello All, on FortiGate 601F, i configure password policy and i need to configure password history min (8) my FortiOS is v7.4.9 build2829 how i can do that ? Thanks submitted by /u/Visual_Peanut5679 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nziam5/trying_to_use_sso_login_for_starting_new_session/" target="_blank" rel="noopener">Trying to use SSO login for starting new session with forticlient</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T12:56:09+00:00</div>
+    <p>Logging to Microsoft account for SSO works fine, but then logging page says &quot;Logging off from all accounts&quot; and then it shows me Forticlient page where it says &quot;Session ended&quot;. How I can start to solve this or should I just use another V...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzguid/software_switch_or_multicast_forwarding/" target="_blank" rel="noopener">Software switch or multicast forwarding?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T11:49:53+00:00</div>
+    <p>What is your recommended setup on FortiWiFi firewalls, to enable communication between wireless devices and wired devices? E.g. for wired clients to communicate with Chromecast and Airplay, for wireless clients to communicate with wired ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzgt21/wishful_vlan_thought/" target="_blank" rel="noopener">Wishful vlan thought</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T11:47:51+00:00</div>
+    <p>Was gonna be nice if fortigate allows different internal aka switch firewall ports to be able to be untagged with different vlan ids. Wishful thought. submitted by /u/jozatan [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzgk31/multiple_upgrades_and_then_rollback_to_the_first/" target="_blank" rel="noopener">Multiple upgrades and then rollback to the first release</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T11:35:04+00:00</div>
+    <p>Hello, I would like to upgrade an HA clsuter from 7.2.7 to the latest 7.4.9 release. The upgrade path needs several upgrade to acheive this I see this sk which allows to downgrade to another partition https://community.fortinet.com/t5/Fo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1nzfoud/fw_local_in_handler_iprope_in_check_check_failed/" target="_blank" rel="noopener">fw_local_in_handler - iprope_in_check() check failed on policy 0, drop</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-06T10:48:47+00:00</div>
+    <p>Hi One of our branch offices has a Wi-Fi controlled fused spur time switch that can be programmed to schedule signage on/off. We have a dedicated iot vlan (172.20.9.225/28) on a FortiGate 40F 7.2.12 with a Unifi AP patched in. The iOS ap...</p>
   </div>
 </li>
 <li class="card">
