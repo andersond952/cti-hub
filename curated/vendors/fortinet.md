@@ -7,39 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 12, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 13, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o47ocr/between_hardware_and_vlan_switches_why_ever/" target="_blank" rel="noopener">Between hardware and VLAN switches, why ever choose one over the other?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-11T21:43:14+00:00</div>
-    <p>From what I can tell, you can do VLANs on both of them (I was able to create a VLAN and add my hardware switch as a member). The only difference is that VLAN switches also have a VLAN ID field in them (but they can still send untagged tr...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o5bu0i/question_about_windows_sandbox_and_hyperv/" target="_blank" rel="noopener">Question about windows sandbox and hyper-v</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-13T06:03:34+00:00</div>
+    <p>If a computer has Fortinet and fortiient installed because it’s part of a business network would fortinet be able to Flag and monitor content from virtual machines and windows sandbox? submitted by /u/Forward-Sugar7727 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o42vdl/fortigate_upgrade_from_749_to_764/" target="_blank" rel="noopener">FortiGate Upgrade From 7.4.9 to 7.6.4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-11T18:24:35+00:00</div>
-    <p>Hello Guys, I need to ask my FortiGate version is 7.4.9 and configured with vdoms and VPN IPSEC . if i will perform, upgrade to 7.6.4 is it recommended ? i use Upgrade Path Tool and output Recommended Upgrade Path show i can directly upg...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o51soc/30g_pppoecpu_affinity/" target="_blank" rel="noopener">30G, PPPoE/CPU Affinity?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-12T21:47:45+00:00</div>
+    <p>Hi, Everyone. This: https://docs.fortinet.com/document/fortigate/7.6.0/cli-reference/255714620/config-system-affinity-packet-redistribution Seems to indicate that &quot;config system affinity-packet-redistribution&quot; for PPPoE connections is su...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o3zz8x/apply_or_modify_webfilter_via_api_any_experiences/" target="_blank" rel="noopener">Apply or Modify Web-Filter via API? Any experiences?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-11T16:27:57+00:00</div>
-    <p>I&#x27;m looking to see if there is an option where a customer of ours can update/add/remove web-filtering options via a webpage but not directly on the Fortigate itself. The webpage will need to update the Fortigate itself via API I guess. T...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o4yvee/question_about_turning_on_ipam_with_existing/" target="_blank" rel="noopener">Question about turning on IPAM with existing networks</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-12T19:52:24+00:00</div>
+    <p>I have several networks and most have DHCP enabled but for our server LAN we have all static IPs, manually configured on the endpoints and tracked in a spreadsheet. I just saw the IPAM dashboard and it&#x27;s currently not enabled at all. I w...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o3zb1t/fortigate_localinpolicy_modify/" target="_blank" rel="noopener">FortiGate local-in-policy modify</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-11T16:01:17+00:00</div>
-    <p>Hello ALL , On FortiGate with FortiOS v7.4.9 there local in policy i not create any policy (The Default on) i see there is network provided (RIP,OSPF,IGMP,PIM) and the action is Accept and source interface is Any . so i need to delete or...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o4yu3w/is_there_a_free_trail_for_fortisiem_on_azure/" target="_blank" rel="noopener">Is there a free trail for Fortisiem on azure ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-12T19:51:01+00:00</div>
+    <p>here guys , the companu i work for uses managed Soc services using Forisiem. but i dont have administrative access to perform tasks and create rules i want to practice and be comfortable with it so is there a free trail access to fortisi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o4phic/how_to_save_password_for_forticlient_vpn_linux_cli/" target="_blank" rel="noopener">How to save password for &quot;forticlient vpn&quot; Linux CLI</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-12T13:46:03+00:00</div>
+    <p>I have to use the FortiClient VPN on Linux CLI. I can configure to remember only the username, by use the command &quot;forticlient vpn edit XXX&quot;, where XXX is VPN profile name. but this can save only username Please anyone tell me, How to sa...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/7Y_sTA_Ihobbg7y26W1gLNGiZUx3jT5mdzWRqGNyqxw.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1o4ox2o/fortigatevm_evaluation_license_invalid_on_eveng_0/" target="_blank" rel="noopener">FortiGate-VM Evaluation License Invalid on EVE-NG (“0 CPU and 0 B RAM”) After Working Fine on VMware Workstation</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-12T13:21:05+00:00</div>
+    <p>Hi everyone, I’m facing a strange problem with FortiGate-VM evaluation licensing when moving from VMware Workstation to EVE-NG. Here’s the full story: I already had a Fortinet account. I downloaded the FortiGate-VM image from it and depl...</p>
   </div>
 </li>
 <li class="card">
@@ -61,17 +77,17 @@ _Updated: October 12, 2025 • Sources filter: fortinet, fortiguard • Keywords
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/925949441/0/fortinet/blogs~The-Evolution-of-Chaos-Ransomware-Faster-Smarter-and-More-Dangerous" target="_blank" rel="noopener">The Evolution of Chaos Ransomware: Faster, Smarter, and More Dangerous</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/925949693/0/fortinet/blogs~AIPowered-Alert-Investigation-and-Remediation-with-FortiCNAPP" target="_blank" rel="noopener">AI-Powered Alert Investigation and Remediation with FortiCNAPP</a></h3>
     <div class="meta">Fortinet Blog · Wed, 8 Oct 2025 13:00:00 +0000</div>
-    <p>FortiGuard Labs details Chaos-C++, a ransomware variant using destructive encryption and clipboard hijacking to amplify damage and theft. Read more.…</p>
+    <p>FortiCNAPP’s AI Assistant transforms SOC alert investigation with composite alerts, contextual timelines, and guided remediation—accelerating response to cloud-native threats.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/925949693/0/fortinet/blogs~AIPowered-Alert-Investigation-and-Remediation-with-FortiCNAPP" target="_blank" rel="noopener">AI-Powered Alert Investigation and Remediation with FortiCNAPP</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/925949441/0/fortinet/blogs~The-Evolution-of-Chaos-Ransomware-Faster-Smarter-and-More-Dangerous" target="_blank" rel="noopener">The Evolution of Chaos Ransomware: Faster, Smarter, and More Dangerous</a></h3>
     <div class="meta">Fortinet Blog · Wed, 8 Oct 2025 13:00:00 +0000</div>
-    <p>FortiCNAPP’s AI Assistant transforms SOC alert investigation with composite alerts, contextual timelines, and guided remediation—accelerating response to cloud-native threats.…</p>
+    <p>FortiGuard Labs details Chaos-C++, a ransomware variant using destructive encryption and clipboard hijacking to amplify damage and theft. Read more.…</p>
   </div>
 </li>
 <li class="card">
