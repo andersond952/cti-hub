@@ -7,49 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 19, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 20, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oale8h/your_thoughts_on_fortinet_communicationimage/" target="_blank" rel="noopener">Your thoughts on Fortinet communication/image</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-19T09:33:19+00:00</div>
-    <p>Hi esteemed Fortinet community, Long time reader, first post. I personally start to feel sick and tired of the « Fortinet vulnerabilities bashing ». And I feel that I am not the only one. While we all know that there has been a few crisi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oahupt/certificate/" target="_blank" rel="noopener">Certificate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-19T05:47:08+00:00</div>
-    <p>Does latest 7.6 NSE 4 doesn&#x27;t provide course completion certificate and just only ISC letter actually I&#x27;ve completed FortiOS 7.6 administrator but didn&#x27;t receive any certificate so anybody lnows about this As far I know to get certificat...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oa9w7b/fortiswitch_showing_down_but_working/" target="_blank" rel="noopener">Fortiswitch showing down but working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-18T22:52:17+00:00</div>
-    <p>Hello Everyone, so i have one fortiswitch connected via fortilink. It shows down (red) but it still works passing traffic. All ports showing down but all vlans on it works. Is it something like gui issue? There is another fortiswitch on ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oa53hy/deal_with_apple_devices_that_changes_mac/" target="_blank" rel="noopener">Deal with Apple devices that changes MAC dinamically</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-18T19:36:28+00:00</div>
-    <p>Hi, I&#x27;m having problems with this Dinamically changed MAC Address, there are a very few devices that I need to put on a VIP policy, but they keep changing MAC address, there are a workaround besides turning off that option on the devices...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oa22ag/firewall_rule_order_am_i_missing_something/" target="_blank" rel="noopener">firewall rule order. am i missing something?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-18T17:40:02+00:00</div>
-    <p>My RSSO users are matching correct, my FSSO users are not, names and group membership are being pulled in and their groups are in the FSSO user groups. lets say I have the following rules Rule 1 LAN Wireless Pupil DHCP range RSSO_Pupil F...</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -117,17 +77,17 @@ _Updated: October 19, 2025 • Sources filter: fortinet, fortiguard • Keywords
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/925949441/0/fortinet/blogs~The-Evolution-of-Chaos-Ransomware-Faster-Smarter-and-More-Dangerous" target="_blank" rel="noopener">The Evolution of Chaos Ransomware: Faster, Smarter, and More Dangerous</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/925949693/0/fortinet/blogs~AIPowered-Alert-Investigation-and-Remediation-with-FortiCNAPP" target="_blank" rel="noopener">AI-Powered Alert Investigation and Remediation with FortiCNAPP</a></h3>
     <div class="meta">Fortinet Blog · Wed, 8 Oct 2025 13:00:00 +0000</div>
-    <p>FortiGuard Labs details Chaos-C++, a ransomware variant using destructive encryption and clipboard hijacking to amplify damage and theft. Read more.…</p>
+    <p>FortiCNAPP’s AI Assistant transforms SOC alert investigation with composite alerts, contextual timelines, and guided remediation—accelerating response to cloud-native threats.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/925949693/0/fortinet/blogs~AIPowered-Alert-Investigation-and-Remediation-with-FortiCNAPP" target="_blank" rel="noopener">AI-Powered Alert Investigation and Remediation with FortiCNAPP</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/925949441/0/fortinet/blogs~The-Evolution-of-Chaos-Ransomware-Faster-Smarter-and-More-Dangerous" target="_blank" rel="noopener">The Evolution of Chaos Ransomware: Faster, Smarter, and More Dangerous</a></h3>
     <div class="meta">Fortinet Blog · Wed, 8 Oct 2025 13:00:00 +0000</div>
-    <p>FortiCNAPP’s AI Assistant transforms SOC alert investigation with composite alerts, contextual timelines, and guided remediation—accelerating response to cloud-native threats.…</p>
+    <p>FortiGuard Labs details Chaos-C++, a ransomware variant using destructive encryption and clipboard hijacking to amplify damage and theft. Read more.…</p>
   </div>
 </li>
 </ul>
