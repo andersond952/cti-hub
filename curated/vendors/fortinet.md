@@ -7,103 +7,135 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 22, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 23, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1od3ij4/sanity_check_tls_certs_with_ips_and_resolving/" target="_blank" rel="noopener">Sanity Check: TLS certs with IPs and resolving local hostnames on a FGT for RADSEC</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T09:24:14+00:00</div>
-    <p>Hi all I am trying to setup RADSEC (tcp over tls) for Fortigates to our FortiAuthenticator Radius Server. The FAC is availabe via IP (internal, private IP) only, but not via FQDN. Reason: we have our FGTs on public or customer DNS only a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odywqy/is_there_any_big_difference_between_fortigate/" target="_blank" rel="noopener">Is there any big difference between fortigate admin 7.4 and 7.6?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T09:40:29+00:00</div>
+    <p>been leaning the 7.4 but same is no longer available for exams. so is there any big difference/update between those 2? submitted by /u/ianik7777 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1od1fcr/forticlientvpn_72121269_x64_causing_lagging_of/" target="_blank" rel="noopener">FortiClientVPN 7.2.12.1269 x64 causing lagging of Windows 11 24H2/25H2</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T07:08:31+00:00</div>
-    <p>Anyone else have this problem? After uninstalling Windows works smooth as before submitted by /u/Crossbonez7 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ody9ib/unable_to_download_the_required_report/" target="_blank" rel="noopener">Unable to Download the required report</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T08:58:26+00:00</div>
+    <p>Hi, I’m trying to download a generated report from FortiAnalyzer using the API. Using the List Reports API , I successfully retrieved the tid of the report. Then I attempted to download the report in PDF format with the following request...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ocr5t6/blocking_consumer_vpns/" target="_blank" rel="noopener">Blocking consumer VPNs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T22:29:39+00:00</div>
-    <p>I’m having an issue blocking consumer VPNs. The environment I’m in requires WiFi calling to work for all carriers, which also happens to use the same protocols many of the consumer VPNs use, IKE and ESP, to tunnel traffic. I have one pol...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/zTvarsKEvyI_ZXqNgppQgJb-51wpyOnePxRaibEfsBs.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ocpj14/standalone_fortiextender_for_remote_device_access/" target="_blank" rel="noopener">Standalone FortiExtender for Remote Device Access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T21:24:19+00:00</div>
-    <p>I do not have much FEX experience, and was looking to see if this setup is possible. We have a dual-hub ADVPN set up and BGP. This is great and works perfectly as each site has its own FortiGate at the edge. We have a warehouse that has ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odr396/fmg_policy_package_overrides/" target="_blank" rel="noopener">FMG Policy Package overrides</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T01:57:55+00:00</div>
+    <p>I have a policy package that is used at all my branch sites, and it works great. Each site has the same policies. If I wanted to add an additional firewall rule for just one site, is it possible to somehow add some sort of site-specific ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ocnx1y/question_about_vm_series/" target="_blank" rel="noopener">Question about VM Series</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T20:22:24+00:00</div>
-    <p>I am looking for a Fortigate VM04 solution that is subscription-only mode, meaning that a single SKU includes both the base installation and the UTP bundle. Is this SKU correct? I need it for 12 months: FC3-10-FGVVS-990-02-12 I understan...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odm7qe/forticlient_vpn_issue/" target="_blank" rel="noopener">Forticlient VPN issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T22:13:25+00:00</div>
+    <p>So recently I upgraded computers and couldn’t install the old Forticlient I used to use. Now using version 7.4.4.1887 I usually remote into my works server and navigate to do my job. I am able to connect to the server still, but I get an...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ockt40/hardware_vpns_for_selected_users/" target="_blank" rel="noopener">Hardware VPN’s for selected users</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T18:27:24+00:00</div>
-    <p>Before I joined our company they had a meraki firewall and a few hardware vpns for a few select people. We have a 100f in the datacentre and wondered do Fortinet have any hardware vpn devices for the other side? submitted by /u/Differenc...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odfry4/forticlient_does_the_ikev1_drop_also_affect_the/" target="_blank" rel="noopener">FortiClient: Does the IKEv1 drop also affect the free VPN client?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T18:06:56+00:00</div>
+    <p>Hey everyone, I just saw that starting with FortiClient 7.4.4, IKEv1 is no longer supported. But I’m not sure if this also affects the free VPN-only client or just the EMS-managed version. Many of our VPN setups still use IKEv1. I’m wond...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ochu65/fortinet_error_but_ive_never_tried_to_install_it/" target="_blank" rel="noopener">Fortinet error but I&#x27;ve never tried to install it and I have no IT manager?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T16:36:56+00:00</div>
-    <p>I&#x27;m getting this error when I try to access an everyday website for me: &quot;Fortinet&quot; wasn’t installed properly on your computer or network. Ask your IT administrator to resolve this issue. I&#x27;m on my mobile hotspot (MintMobile), I&#x27;m on my p...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odepbk/azure_fortigate_vm_deployment_issues_because_an/" target="_blank" rel="noopener">Azure Fortigate VM deployment issues because an existing VM already uses the template&#x27;s default IPs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T17:28:12+00:00</div>
+    <p>Greetings all: Deploying a new FGT VM HA ELB/ILB active/active pair in Azure but when deploying we see a &quot;Deployment template failed &quot;sn2IP&quot; is not valid&quot; error. We think this is because the template auto assigns IP addresses .4, .5, and...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ocgu9q/question_regarding_automation_stitch_with_cli/" target="_blank" rel="noopener">Question regarding automation stitch with cli script action</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T15:59:43+00:00</div>
-    <p>In an automation stitch with the trigger being a Critical Anomaly, is it somehow possible to fire a script that includes the source IP or any other information of that log from the anomaly detected? As in, is there a variable assigned to...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odeg9r/cleanest_way_for_dns_setup/" target="_blank" rel="noopener">Cleanest way for DNS setup</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T17:18:56+00:00</div>
+    <p>I wish to use DNS filtering per access rule (staff, pupils etc) my issue is we push DNS via DHCP and which is a internal DNS, as you will know if all DNS resolutions is done via our internal servers then we can only have one DNS filter o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oce3sj/fortigate_100f_get_off_password_for_wifi/" target="_blank" rel="noopener">Fortigate 100F - get off password for wi-fi</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T14:13:58+00:00</div>
-    <p>Running a Foritgate 100F on 7.4.9 Currently using just a password with WPA2 to connect our clients I want to change this to something that is just automatic (certificate, SSO, anything but a password) Some of my Wi-fi AP&#x27;s are on 6.4 - b...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odbu26/finisar_10g_simplex/" target="_blank" rel="noopener">Finisar 10G simplex</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T15:43:38+00:00</div>
+    <p>Due to ISP hardware restrictions we are forced to switch (upgrade) from duplex 1G to simplex 10G, specifically they demand Finisar SFP+. Anyone running simplex fiber (10G or more) via non Fortinet transceivers without issue? submitted by...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/pW6VakoFUw471kQo8iEGPSgPWlpYDAG3lpQ-cKoZVUg.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odbm0c/unable_to_install_to_central_managed_fortisase/" target="_blank" rel="noopener">Unable to install to central managed FortiSASE after FortiManager Update 7.4.6 -&gt; 7.4.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T15:35:36+00:00</div>
+    <p>Yesterday I updated my fortimanager from 7.4.6 to 7.4.8 and afterwards I&#x27;m no longer able to install new objects etc to my fortisase that is managed by my fortimanager. Fortisase is currently running on version v1.23.22_Mature-25.3.139 W...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/ZqfA1772OszqM9VxRXimPnQoWcwf4oEuHUytBRIp49c.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odb7xq/ingresar_a_la_shell_de_configuracion_de_fcems_744/" target="_blank" rel="noopener">ingresar a la Shell de configuracion de FCEMS 7.4.4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T15:21:18+00:00</div>
+    <p>Buenas me pueden ayuda, acabo de instalar el &quot;forticlientems_vm.7.4.4.2034.F.ova&quot; cuando ingrese me pidió el cambio de clave del usuario &quot;ems&quot; lo cambie, hasta ahí todo bien. Pero cuando quiero ingresar a la shell de configuraciones me p...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ocdu85/forticlient_with_entra/" target="_blank" rel="noopener">Forticlient with Entra</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T14:03:21+00:00</div>
-    <p>Hello, How do you do when you have setup forticlient with SAML to Entra and are using Conditional access policies. Have you licensed all users in entra even external with P1 license? submitted by /u/No_Airline2100 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1odayv1/fcp_network_security_fortigate_76_vs_nse4_fortios/" target="_blank" rel="noopener">FCP Network Security FortiGate 7.6 vs NSE4 FortiOS 7.6 – what’s the difference?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T15:11:37+00:00</div>
+    <p>Hi, Starting last week (October 15th, 2025), Fortinet changed the exam/certification path again, reverting to the NSEx exam convention. However, does anyone know how the new FortiOS 7.6 Administrator differs from FortiGate 7.6 Administra...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1occv9t/ha_reserved_mgmt_interface/" target="_blank" rel="noopener">HA reserved mgmt interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T13:24:21+00:00</div>
-    <p>Hello all, I have a pair of 80F that will be in HA. I will be using port &quot;a&quot; and &quot;b&quot; for the HA, and port &quot;internal1&quot; for the reserved mgmt. I&#x27;m trying to understand the HA reserved management interface. What is the procedure when settin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1od9thy/rack_mountable_options_for_100_users_in_dealership/" target="_blank" rel="noopener">Rack mountable options for &gt;100 users in Dealership</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T14:28:52+00:00</div>
+    <p>Hello! My company is switching over from a failing WatchGuard to FortiGate (My pick). I was looking at the 100F, but the release date/potential EOL worries me. This device will be in a dealership with ~60 employees. Is the 100f still a g...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1occq0g/confusing_fortiap_firmware_does_anyone_understand/" target="_blank" rel="noopener">Confusing FortiAP firmware - does anyone understand this?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T13:18:10+00:00</div>
-    <p>Our firewall is running FortiOS 7.4.9. According to the AP compatibility matrix, our many FortiAP 421Es are topped out at 6.4.9. Our firewall shows all of them as running 6.4.0 build 0492, but according to Fortinet&#x27;s website, build 0492 ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1od8pvb/eem_like_fortinet_script/" target="_blank" rel="noopener">eem like Fortinet script</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T13:45:48+00:00</div>
+    <p>Hi everyone, I&#x27;m kinda new to Fortinet and I&#x27;ve checked for a while without finding a solution (with Cisco is kinda easy). I have a standalone Fortiswitch and I need to do the following: once I detect port2 is down I activate port1 which...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1od7ukb/anyone_else_seeing_forticlient_ipsec_vpn_sessions/" target="_blank" rel="noopener">Anyone else seeing FortiClient IPsec VPN sessions dropping frequently for users in China?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T13:10:20+00:00</div>
+    <p>Hello all, Looking to see if anyone has run into this — we’ve got a remote user located in China who’s connecting to our corporate FortiGate using FortiClient IPsec (XAuth) . The connection establishes cleanly and authenticates without i...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1od70ui/nse3_recert_really_fortinet/" target="_blank" rel="noopener">NSE3 Re-Cert - Really, Fortinet???</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T12:34:29+00:00</div>
+    <p>Premise: I&#x27;ve been working with Fortinet/Fortigate since FortiOS 4.3.0, have had NSE4 certification and am still working with the devices every day for dozens of customers. I had my NSE4 lapse, and started clicking through NSE1-3 ... 1 a...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1od4qfx/recertifying/" target="_blank" rel="noopener">Recertifying</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-22T10:38:19+00:00</div>
+    <p>Hello, I&#x27;ve passed NSE8-Written on March 2023. But since I haven&#x27;t proceeded with the lab exam, it has expired. I&#x27;m planning to proceed again with NSE8. But when checking the availability on PearsonVUE, I saw the below: *Important notice...</p>
   </div>
 </li>
 <li class="card">
@@ -112,14 +144,6 @@ _Updated: October 22, 2025 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/926573489/0/fortinet/blogs~Leading-By-Example-in-Sustainability-Fortinet%e2%80%99s-Journey-to-Environmental-Product-Declaration" target="_blank" rel="noopener">Leading By Example in Sustainability: Fortinet’s Journey to Environmental Product Declaration</a></h3>
     <div class="meta">Fortinet Blog · Tue, 21 Oct 2025 13:00:00 +0000</div>
     <p>At Fortinet, we recognize that advancing cybersecurity must go hand in hand with reducing environmental impacts. Learn more about Fortinet becoming the first cybersecurity company to publish an Env…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ocbs5k/how_are_you_laying_out_a_closet_with_8/" target="_blank" rel="noopener">How are you laying out a closet with 8 FortiSwitches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-21T12:37:26+00:00</div>
-    <p>Good morning everyone, We have a remote closet with 8 switches in it and are swapping from Cisco to FortiSwitch. Currently all 8 Cisco switches are stacked together. I know FortiSwitch stacking is very different and limited compared to w...</p>
   </div>
 </li>
 <li class="card">
