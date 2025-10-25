@@ -7,111 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 24, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 25, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oessm4/is_it_possible_to_use_eapmschapv2_to_etablish_a/" target="_blank" rel="noopener">Is it possible to use EAP-MSCHAPV2 to etablish a VPN IPSEC with IKEV2 (Windows native client)?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T09:03:42+00:00</div>
-    <p>Hello, I am trying to configure an IPsec tunnel and when connection from my W11 computer I get this error message &quot;IKE authentication credentials are unacceptable&quot;. I was wondering if it is possible to use EAP-MSCHAPV2 as an authenticati...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oflvh5/dns_suffix_deployment_issue_on_fortigate_dialup/" target="_blank" rel="noopener">DNS Suffix Deployment Issue on FortiGate Dial-Up IPSec IKEv2 VPN with Entra SAML and Intune Clients</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-25T07:58:04+00:00</div>
+    <p>Hi everyone, Has anyone found a solution for deploying a DNS suffix to clients using a Dial-Up IPsec VPN with IKEv2 and Entra SAML authentication? We’re using Intune-deployed clients without admin rights. I’ve tried using post scripts, b...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oeobxm/issue_on_macos_forticlient_ipsec_ikev2_packet_too/" target="_blank" rel="noopener">Issue on MacOS FortiClient IPSEC IKEv2 - packet too large</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T04:19:41+00:00</div>
-    <p>Now that mouthful is out of the way - I&#x27;m having an issue only on MacOS FortiClient (of course). It was working, so I&#x27;ve no idea what has changed to suddenly have this behaviour. Windows clients are working fine. We&#x27;re currently trying t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1offfri/anyone_having_issues_with_fortitoken_right_now/" target="_blank" rel="noopener">Anyone having issues with FortiToken right now?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-25T01:45:25+00:00</div>
+    <p>I upgrade to 7.4.9 two days ago and users cannot connect to IPSEC VPN. I can connect fine. They cannot. They get to FortiToken, enter their token and it says XAUTH failed. submitted by /u/No_Loss_3996 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oelcyq/ssl_offloading_proxy_vs_flow/" target="_blank" rel="noopener">SSL Offloading proxy vs flow</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T01:46:33+00:00</div>
-    <p>Hello community, I ran into an article from a source I trust that mention the need of using proxy mode inspection when using the SSL offloading features on the virtual servers. Is this 100% accurate? I know that SSL DPI is compatible wit...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of6w46/ipsec_dialup_with_entra_id_port_with_sslvpn_active/" target="_blank" rel="noopener">Ipsec Dialup with Entra ID port (with SSLVPN active)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T19:23:14+00:00</div>
+    <p>I&#x27;m setting up Ipsec Dialup VPN with Entra ID SAML but I&#x27;m hitting a wall... FGT-60F running v7.2.12 SAML Config identifier - https://vpn.company.com:10428/metadata vpn.company.com resolves to public IP on wan1 SSLVPN is using vpn.compan...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/oEICLPcG0-86_tcaFoY4qB8AZicdIioGi2q8nOvyPUo.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of4mum/strange_questions_about_virtual_wire_pairs_and/" target="_blank" rel="noopener">Strange questions about Virtual Wire pairs and MAC addresses?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T17:55:26+00:00</div>
+    <p>https://preview.redd.it/5s8gn024l3xf1.png?width=401&amp;format=png&amp;auto=webp&amp;s=870818ef50dba64b4d3f4ea516162dbb106222c1 Switching from case1 to case2 and then back to case1 results in an issue where obtaining an IP address fails, and even ma...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oehh6e/fap_441k/" target="_blank" rel="noopener">FAP 441K</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T22:41:15+00:00</div>
-    <p>Anyone out there using 441Ks with a gate that can’t be upgraded to 7.4? submitted by /u/mallard3914 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of4a7b/selecionar_quem_acessas/" target="_blank" rel="noopener">Selecionar quem acessas</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T17:41:55+00:00</div>
+    <p>Boa tarde, como faço para selecionar os IP&#x27;s que podem visualizar meu dispositivo? Pois detectei que IP&#x27;s estrangeiros tentaram invadir meu dispositivo para fins maliciosos. submitted by /u/Curious-Artichoke591 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oeejgk/l2tpipsec_vpn_worked_in_home_lab_but_not_in/" target="_blank" rel="noopener">L2TP/IPsec VPN worked in home lab but not in datacenter?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T20:40:25+00:00</div>
-    <p>I&#x27;m no networking guru, but I&#x27;m attempting to get a VPN working on a pair of active-passive Fortigate 100F&#x27;s and I feel like I&#x27;m losing my mind. I set it up at home initially, and was able to have a coworker connect to the VPN remotely. ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of23vt/restricting_traffic_egress_on_sdwan_member/" target="_blank" rel="noopener">Restricting Traffic Egress on SDWAN Member</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T16:18:31+00:00</div>
+    <p>I have a Fortigate 70F running 7.4.7 and I have run into an issue I cannot find a solution for. I have SD-WAN configured with 3 members, 1 of them is a metered failover connection and I have applied priority to that one to prevent it fro...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oeecxc/dualhub_hubandspoke_vpn_policies/" target="_blank" rel="noopener">Dual-hub hub-and-spoke VPN policies</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T20:33:14+00:00</div>
-    <p>Not really a Fortinet-spceific question but here goes. If you have a hub and spoke VPN, you can create a nice zone based firewall. Say on every spoke, the VPN is in the HUB zone and you allow all to/from HUB. Then on the hub you have zon...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oeckvc/how_can_i_dump_all_session_table_entries_from_a/" target="_blank" rel="noopener">How can I dump all session table entries from a FortiADC?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T19:24:54+00:00</div>
-    <p>Hi, Is there a way to dump to / download Session Table as file on FortiADC 7.6.2 ? I’m trying to analyse active sessions and would like to get the full list for troubleshooting. On a busy systems &quot;Show 100 entries&quot; pagination is totally ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://a.thumbs.redditmedia.com/rNYBTnVDzkRIyHl6Xj_b56I8r7UPExucEvnreSmOJ08.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oeaueo/fortigate_cluster_with_bgp_and_graceful_restart/" target="_blank" rel="noopener">Fortigate cluster with BGP and graceful restart</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T18:18:44+00:00</div>
-    <p>Hey everyone, I’m working on a FortiGate cluster running BGP. It peers with two routers that provide uplink connectivity to the core. Graceful restart is mostly fine — failovers complete within about 2 seconds except for switch failure. ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/5U_5P-Gx-V6_Jy5aWuSnCWRjCweQTHim0WedL_ATyCM.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oe8zkr/fortimail_policy_for_spammers/" target="_blank" rel="noopener">FortiMail Policy for Spammers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T17:08:54+00:00</div>
-    <p>Hello everyone, I need some help I am unable to understand what kind of measure I should implement on FortiMail to stop these kind of spammers, we are daily getting spam mails from different domains where the &quot;Header From&quot; and &quot;From&quot; dom...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oe4vaf/sfp_interfaces_not_coming_up/" target="_blank" rel="noopener">SFP interfaces not coming up</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T14:33:03+00:00</div>
-    <p>I have a bit of a strange issue. I have purchased 3 Fortinet transceivers, FN-TRAN-LX, for 3 different sites to create a DMZ. (I only need 1GB and the site is already wired with single mode) I have it connected to “port13” on my Fortigat...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oe239q/provisionning_problem_with_fg40_on_the_latest/" target="_blank" rel="noopener">Provisionning problem with FG40 on the latest version of Fortimanager</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T12:35:31+00:00</div>
-    <p>Hello everyone ! I&#x27;m having a problem provisioning FG40s automatically. We use a platform that uses anslible scripts to configure the FWs. The scripts then come to the Fortimanager which then pushes the configuration onto the FG. I&#x27;ve ha...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oe19s0/downgrade_approach_from_748_to_7017/" target="_blank" rel="noopener">Downgrade approach from 7.4.8 to 7.0.17</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T11:56:15+00:00</div>
-    <p>Hello! I will upgrade my FGT200F tomorrow from 7.0.17 to 7.4.8. I am running SSL VPN on loopback, L2TP, IPSEC and basic Firewall policy towards internet and between VLANS. I have LAG interface between by FGT to HP switch. I am using DUO ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oe0ktl/config_restore_from_100f_to_200g_on_72_not_working/" target="_blank" rel="noopener">config restore from 100F to 200G on 7.2 not working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-23T11:19:28+00:00</div>
-    <p>Hi everyone, got a new 200G model, used the same firmware as on the 100F, took the config backup of the old device, updated the header in the config and used an usb-device to transfer it to the new device. After the reboot, no login is p...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oezutl/certification_path/" target="_blank" rel="noopener">Certification Path</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T14:52:33+00:00</div>
+    <p>Hi I just want to know the certification path of Fortinet from beginner to advance ? submitted by /u/Working_Walrus_8497 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
