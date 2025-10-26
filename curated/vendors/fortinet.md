@@ -7,63 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 25, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 26, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oflvh5/dns_suffix_deployment_issue_on_fortigate_dialup/" target="_blank" rel="noopener">DNS Suffix Deployment Issue on FortiGate Dial-Up IPSec IKEv2 VPN with Entra SAML and Intune Clients</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-25T07:58:04+00:00</div>
-    <p>Hi everyone, Has anyone found a solution for deploying a DNS suffix to clients using a Dial-Up IPsec VPN with IKEv2 and Entra SAML authentication? We’re using Intune-deployed clients without admin rights. I’ve tried using post scripts, b...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1offfri/anyone_having_issues_with_fortitoken_right_now/" target="_blank" rel="noopener">Anyone having issues with FortiToken right now?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-25T01:45:25+00:00</div>
-    <p>I upgrade to 7.4.9 two days ago and users cannot connect to IPSEC VPN. I can connect fine. They cannot. They get to FortiToken, enter their token and it says XAUTH failed. submitted by /u/No_Loss_3996 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of6w46/ipsec_dialup_with_entra_id_port_with_sslvpn_active/" target="_blank" rel="noopener">Ipsec Dialup with Entra ID port (with SSLVPN active)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T19:23:14+00:00</div>
-    <p>I&#x27;m setting up Ipsec Dialup VPN with Entra ID SAML but I&#x27;m hitting a wall... FGT-60F running v7.2.12 SAML Config identifier - https://vpn.company.com:10428/metadata vpn.company.com resolves to public IP on wan1 SSLVPN is using vpn.compan...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/oEICLPcG0-86_tcaFoY4qB8AZicdIioGi2q8nOvyPUo.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of4mum/strange_questions_about_virtual_wire_pairs_and/" target="_blank" rel="noopener">Strange questions about Virtual Wire pairs and MAC addresses?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T17:55:26+00:00</div>
-    <p>https://preview.redd.it/5s8gn024l3xf1.png?width=401&amp;format=png&amp;auto=webp&amp;s=870818ef50dba64b4d3f4ea516162dbb106222c1 Switching from case1 to case2 and then back to case1 results in an issue where obtaining an IP address fails, and even ma...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of4a7b/selecionar_quem_acessas/" target="_blank" rel="noopener">Selecionar quem acessas</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T17:41:55+00:00</div>
-    <p>Boa tarde, como faço para selecionar os IP&#x27;s que podem visualizar meu dispositivo? Pois detectei que IP&#x27;s estrangeiros tentaram invadir meu dispositivo para fins maliciosos. submitted by /u/Curious-Artichoke591 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1of23vt/restricting_traffic_egress_on_sdwan_member/" target="_blank" rel="noopener">Restricting Traffic Egress on SDWAN Member</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T16:18:31+00:00</div>
-    <p>I have a Fortigate 70F running 7.4.7 and I have run into an issue I cannot find a solution for. I have SD-WAN configured with 3 members, 1 of them is a metered failover connection and I have applied priority to that one to prevent it fro...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oezutl/certification_path/" target="_blank" rel="noopener">Certification Path</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-24T14:52:33+00:00</div>
-    <p>Hi I just want to know the certification path of Fortinet from beginner to advance ? submitted by /u/Working_Walrus_8497 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1og2v50/stp_en_fortilink_configuracion_recomendada/" target="_blank" rel="noopener">STP EN FORTILINK CONFIGURACION RECOMENDADA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-25T21:14:35+00:00</div>
+    <p>Sigo buscando una guía sobre configuración y mejores practicas para configurar un cluster de fortigates con un core basado de dos fortiswitches 1024E en MCLAG. Tengo el problema que al conectar switches de acceso en topología de anillo, ...</p>
   </div>
 </li>
 <li class="card">
