@@ -7,63 +7,199 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 29, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 30, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oizy1l/which_certification_path_is_the_most_interesting/" target="_blank" rel="noopener">Which Certification Path is the most interesting ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T09:31:12+00:00</div>
-    <p>Hey friends, My work is asking me to get cert in Fortinet (or Palo Alto), which certification path is not important. I could do pretty much everything at work except maybe for the ‘Security Operations’. I need to chose one of the followi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojujkn/reset_a_fortinet_200f_but_console_isnt_responding/" target="_blank" rel="noopener">Reset a fortinet 200F, but console isnt responding to typing.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-30T08:55:26+00:00</div>
+    <p>Hi, have a Fortigate 200F and need to fabricreset the box. Have tried the reset pinhole (in front), but not working. Have connected with serial port (com) and the console cable. See text on screen and the press anykey to display configur...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oiqabw/fortianalyzer_76_ingest_service/" target="_blank" rel="noopener">FortiAnalyzer 7.6 ingest service</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T00:23:43+00:00</div>
-    <p>Dear Everyone, Is there anyone experiencing on configuring FortiAnalyzer 7.6 ingest event (Fabric Event Collection). I have tired to configured incoming webhook with FortiCNAPP and FortiDLP but it cannot make it down. I have tried to acc...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojsfzu/forticlient_7014_issue/" target="_blank" rel="noopener">forticlient 7.0.14 issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-30T06:32:02+00:00</div>
+    <p>we recently updated forticlient on clients machines and several laptops and PCs have problems with logonUI.exe users cannot login until we delete or downgrade foriclient. Is there any solution to this without downgrade? There are like 5-...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oikgn0/ipv6_ipsec_not_listening/" target="_blank" rel="noopener">IPV6 IPsec not listening</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T20:27:30+00:00</div>
-    <p>Hello All - I have a set of shiny new 120Gs that are configured with several VDOMs. On one of those VDOMs we have an IPv6 address that works exactly as expected. We&#x27;d like this to act as an endpoint for SAML-auth&#x27;d remote access users wh...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojky2d/looking_for_device_help/" target="_blank" rel="noopener">Looking for device help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-30T00:02:52+00:00</div>
+    <p>Hello, I’m looking for a fortune’s expert to help me troubleshoot my site to site vpn setup and IPsec tunnels issues. Side gig please DM me your experience and location. submitted by /u/Defiant-Rabbit-841 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oijg5c/just_got_the_green_light_for_fortianalyzer_hit_me/" target="_blank" rel="noopener">Just got the green light for FortiAnalyzer. Hit me with your best tips!</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T19:49:34+00:00</div>
-    <p>I&#x27;m about to roll out FortiAnalyzer in our environment. We manage a bit more than 40 FortiGates for multiple customers, and until now we&#x27;ve only used the logging feature of FortiManager. We&#x27;ve used more than the 2 GB/day limit, so now is...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojkq37/fortinac_just_to_setup_access_points/" target="_blank" rel="noopener">FortiNAC just to setup Access Points?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T23:53:22+00:00</div>
+    <p>Background: I work for a smaller city with a small IT staff. We have a FortiAuthenticator and fortiAPs that will replace our Cisco APs. Our senior IT guy left and I’m just an IT Technician. I’m getting more experience with System Adminis...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oihyj9/fortisiem_experiences/" target="_blank" rel="noopener">Fortisiem - Experiences?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T18:52:31+00:00</div>
-    <p>One of our clients have a requirement for a SIEM solution. How have the people who have used it found it to be? Client are &quot;all in&quot; on Fortinet for their Firewall, Switching and Wifi and we have Forticlient deployed with EMS so it seems ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojisja/fortigate_vpn_specific_os_restriction_bypasses/" target="_blank" rel="noopener">Fortigate VPN Specific OS Restriction bypasses rule</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T22:32:35+00:00</div>
+    <p>In 7.2.x when restricting specific OS Version on the SSL VPN, the Fortigate allows traffic from a Windows 10 client even if it is setup to Deny, and Windows 11 is setup to Allow. Is this normal? I changed Windows 11 to &quot;check up to date&quot;...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oieyy4/allowing_access_to_microsoft_for_authentication/" target="_blank" rel="noopener">Allowing Access to Microsoft for Authentication, Updates and AzureBackup?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T17:01:20+00:00</div>
-    <p>Hi, WE struggle all the time with this, trying to keep current with MIcrosoft FQDNs to allow restricted vlans to be able to access Microsoft for such things as: OFfice365 authentication, MIcrosoft Updates and Azure Backup. What are peopl...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojiir7/fortigate_100f_749_with_google_saml/" target="_blank" rel="noopener">Fortigate 100F 7.4.9 with Google SAML</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T22:21:32+00:00</div>
+    <p>Hi, I need your advice because I’m at my wit’s end. Since upgrading to FortiOS 7.4.9, we are unable to authenticate via VPN using Google SAML. According to the release notes, starting with FortiOS 7.4.9 (and also 7.2.12/7.6.4) the device...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oidl7v/fortigate_1800f_v_7211_severe_gui_slowness_and/" target="_blank" rel="noopener">FortiGate 1800F v 7.2.11 Severe GUI Slowness and 7.4.8 Upgrade Recommendation</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T16:10:46+00:00</div>
-    <p>I’m currently experiencing significant GUI slowness and occasional inaccessibility issues on a FortiGate 1800F series device. While the issue doesn’t seem to affect the firewall’s core functionality, it’s becoming quite disruptive and fr...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojgqyb/ipsec_saml_problems_when_connection_has_dual/" target="_blank" rel="noopener">IPSec Saml Problems when Connection has dual Stack ipv4/6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T21:10:45+00:00</div>
+    <p>Running Fortios 7.4.9 with the VPN only Client Version 7.4.3. Azure + Saml mfa everything is working Perfect when im using a ipv4 only Connection. If i‘m using a Hotspot with Dual Stack cant get a Connect to the VPN Gw. If the Connection...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojfm4p/i_think_a_se_at_fortinet_lied_to_cto_at_my_firm/" target="_blank" rel="noopener">I think a SE at fortinet lied to CTO at my firm</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T20:26:45+00:00</div>
+    <p>I work for a MSP and since ssl vpn is no longer a thing I have been having issues getting ikev1 and ikev2 vpn working on ios devices. I keep telling everyone we need certificate authentication since in ikev2 we cannot use pre shared key ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojffcq/fsso_not_working_after_migration_to_entra_id/" target="_blank" rel="noopener">FSSO not working after migration to Entra ID</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T20:19:39+00:00</div>
+    <p>Hi, I recently migrated all my computers to Entra ID only. This means they were removed from the local Active Directory and are now associated only with the cloud account. Since then, authentication has stopped working because the log ev...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oje98e/need_assistance_on_ssl_inspection_for_fortinet_vm/" target="_blank" rel="noopener">Need assistance on SSL Inspection for Fortinet VM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T19:35:14+00:00</div>
+    <p>Been trying to make Fortinet work in GNS3. Internet connection is fine and I can connect to any website via ping and browser (Firefox) when nothing is applied to my firewall policy. As soon as I turn on any security feature (AV, Web Filt...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojbs4a/need_help_is_it_possible_to_use_a_fortinet/" target="_blank" rel="noopener">Need Help. Is it possible to use a fortinet fortigate with a cisco SG-300-28PP?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T18:02:47+00:00</div>
+    <p>Hello all, I have a FortiGate 60E and a Cisco SG-300-28PP managed switch. I also have an existing home network using a Netgear modem connected to a Netgear Nighthawk router. From the router, I have an uplink Ethernet connection that plug...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojbmv2/ipsec_vpn_issues_with_cox_due_to_custom_dns/" target="_blank" rel="noopener">IPSEC VPN issues with Cox - due to custom DNS server in environment</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T17:57:40+00:00</div>
+    <p>So, some context: One of our clients has decided they want a static DNS set on ALL devices. This is to prevent accessing any site off of the VPN - they had historically until now used OPENVPN in an SSL fashion - this works fine. They tra...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ojao77/the_document_how_the_fortigate_behaves_when/" target="_blank" rel="noopener">The document: How the FortiGate behaves when asymmetric routing is enabled</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T17:22:52+00:00</div>
+    <p>Hi all. To make it very simple, I don&#x27;t even want to ask about the touchy subject itself, just please give me a sanity check regarding these two lines from the article ( https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-the-F...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/L4smhxlJ169A2iQJKwIiGnYFYKz3jTnaAUsskNpBXHA.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oja3xc/is_this_a_good_ztna_config/" target="_blank" rel="noopener">Is this a good ZTNA config?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T17:02:14+00:00</div>
+    <p>So, i have tried to configure ZTNA for the first time. It works, but i&#x27;m not sure however if this is the best (or secure) way to configure it. This is my config on a 7.4.8 firewall: config firewall vip edit &quot;ZTNA&quot; set type access-proxy s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/926926157/0/fortinet/blogs~Cyber-Awareness-Month-Why-AI-Literacy-Matters-for-Cybersecurity" target="_blank" rel="noopener">Cyber Awareness Month: Why AI Literacy Matters for Cybersecurity</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 29 Oct 2025 17:00:00 +0000</div>
+    <p>Fortinet’s Cybersecurity Skills Gap Report shows AI expertise is in short supply. Learn why AI literacy is critical for professionals and society alike.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj91ov/anyone_using_fortinet_switches_for_avdante/" target="_blank" rel="noopener">Anyone Using Fortinet Switches for AV/Dante Networks?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T16:22:59+00:00</div>
+    <p>I’m taking over managed services for a client and they want to refresh their conference-rooms AV infrastructure. Currently they have a Netgear AV switch handling all the microphones, DSPs and controllers, while the rest of the network ru...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj720h/replacing_cisco_asa_with_fortinets_does_the_free/" target="_blank" rel="noopener">Replacing Cisco ASA with Fortinet&#x27;s, does the &quot;Free&quot; Remote VPN access allow me to configure SAML auth? or do i need additional licensing?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T15:08:17+00:00</div>
+    <p>Hey All, Currently using ASA&#x27;s with Cisco anyconnect that leverage Entra ID SAML idp for remote user VPN authentication. Does the Fortinet &quot;free&quot; VPN allow me to configure SAML Auth, or do i need additional VPN licensing? Thanks! submitt...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj71y4/web_filters_for_guest_connectivity/" target="_blank" rel="noopener">Web Filters for Guest Connectivity</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T15:08:13+00:00</div>
+    <p>With Web filtering, we have to install the Certificate on all machines, but we cant do that with guest devices. Is there a way or configuration that will allow me to apply Web Filtering to the guest VLAN withotu needing to install the Fo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/926921399/0/fortinet/blogs~Expanding-Our-Leadership-in-Unified-SASE" target="_blank" rel="noopener">Expanding Our Leadership in Unified SASE</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 29 Oct 2025 15:00:00 +0000</div>
+    <p>Fortinet strengthens Unified SASE leadership with expanded global coverage, advanced AI, and SaaS security innovations. Learn more.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj6tl8/fg_to_fmg_issue_during_sdwan_deployment/" target="_blank" rel="noopener">FG to FMG issue during SDWAN deployment</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T14:59:22+00:00</div>
+    <p>Hello Community, I&#x27;m currently working on an SD-WAN deployment using FortiManager with ZTP blueprints, including a pre-run script and provisioning templates (CLI, etc.). The goal is to configure FG-30Gs where the WAN interface connects t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj51uf/what_switches_do_you_guys_use_with_your_fortigates/" target="_blank" rel="noopener">What switches do you guys use with your FortiGates?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T13:49:40+00:00</div>
+    <p>Another way to ask, for those of you using FortiGates and non-Fortinet switch hardware, what make/model switches are you using and why? I&#x27;m currently running Dell N series switches which are now end of life and I&#x27;m considering replacing ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj4xxr/why_is_the_forticlient_webfilter_not_acting_as_a/" target="_blank" rel="noopener">Why is the FortiClient webfilter not acting as a web proxy for deep inspection ???</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T13:45:14+00:00</div>
+    <p>Compared to other antivirus solutions like ESET, FortiClient doesn&#x27;t act as a webproxy for HTTPS deep inspection... I understand that it&#x27;s by design and that we have to use the web extensionsé...... but why ??? What are the technical imp...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj4arf/rules_issues/" target="_blank" rel="noopener">Rules issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T13:18:29+00:00</div>
+    <p>I work for a healthcare group as the firewall administrator. I am experiencing issues with access to specific government and financial websites. Although I have whitelisted these sites in the Web Filter profile, I am struggling to identi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oj2b58/fortiauthenticator_standalonelb_deployment_sanity/" target="_blank" rel="noopener">FortiAuthenticator Standalone/LB deployment sanity check</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-29T11:46:26+00:00</div>
+    <p>I inherited a v6.6.x FortiAuthenticator Standalone Primary with 1 Load Balancer node deployment that we are using for Remote VPN and TACACS. For the most part everything is running well, but we sometimes see weird behavior with Remote VP...</p>
   </div>
 </li>
 <li class="card">
@@ -72,46 +208,6 @@ _Updated: October 29, 2025 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/926870336/0/fortinet/blogs~Cyber-Awareness-Month-Building-Data-Security-from-the-Inside-Out" target="_blank" rel="noopener">Cyber Awareness Month: Building Data Security from the Inside Out</a></h3>
     <div class="meta">Fortinet Blog · Tue, 28 Oct 2025 15:00:00 +0000</div>
     <p>Read steps on how organizations can implement the right tools, apply effective coaching, and adopt smarter behaviors to strengthen data security.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oibep8/recert_current_cfp_nse4_fortios_72_and_nse5/" target="_blank" rel="noopener">Recert (Current CFP) NSE4 FortiOS 7.2 and NSE5 FortiManager 7.2</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T14:49:00+00:00</div>
-    <p>Hello, i am up for recertification in a couple of weeks and want to clarify what is the simplest path to for me to rectify. I have checked this document where it says that i can pass one NSE6 or one NSE7 exam in the same track. Do i unde...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oiao18/ztna_to_emc_file_share/" target="_blank" rel="noopener">ZTNA to EMC file share</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T14:20:14+00:00</div>
-    <p>Hi, Using ZTNA I&#x27;m having trouble connecting to an EMC fileshare, but can connect to a windows server with a shared folder ok. Either by mapping a drive or backslashing in Works fine on the VPN I get a credentials challenge, and then it ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oia4by/fortigate_dns_filter_i_use_an_redirect_block_page/" target="_blank" rel="noopener">fortigate dns filter i use an redirect block page but i got ssl_error_bad_cert_domain</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T13:58:55+00:00</div>
-    <p>Hi ! I use dns filter on fg and if i open an site which should be blocked it should redirect to a block page ! This block page has an lets encyt cert But on certain sites it doesnt open the block page and i see an CERT ERROR firefox does...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oi8zr6/saml_authentication_failing_to_verify_signature/" target="_blank" rel="noopener">SAML Authentication failing to verify signature but the certificate is valid - solved.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T13:12:35+00:00</div>
-    <p>Posting here in case anybody else runs in to a similar issue (or so when I search this years from now I find my own post). We&#x27;ve had an ongoing issue with SAML authentication for IPsec VPN at a customer site - SSL-VPN has been working fi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oi75rr/fortigate_eu_updates_failing_since_yesterday/" target="_blank" rel="noopener">Fortigate - EU - Updates failing since yesterday</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-10-28T11:47:53+00:00</div>
-    <p>Hey everyone, since last night my FortiGate units in the EU have stopped receiving FortiGuard updates (AV, IPS, etc.). I’ve checked connectivity, DNS, and FortiGuard servers — everything seems fine on my end, but the updates just won’t c...</p>
   </div>
 </li>
 <li class="card">
@@ -168,22 +264,6 @@ _Updated: October 29, 2025 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/926236940/0/fortinet/blogs~Fortinet-Strengthens-Global-Collaboration-through-the-World-Economic-Forum%e2%80%99s-Cybercrime-Atlas" target="_blank" rel="noopener">Fortinet Strengthens Global Collaboration through the World Economic Forum’s Cybercrime Atlas</a></h3>
     <div class="meta">Fortinet Blog · Tue, 14 Oct 2025 13:00:00 +0000</div>
     <p>Released ahead of the forum’s Annual Meeting on Cybersecurity 2025, the Cybercrime Atlas Impact Report 2025 highlights the tangible progress achieved through multi-sector collaboration in dismantli…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/926187488/0/fortinet/blogs~AI-Governance-Building-a-Responsible-Foundation-for-Innovation" target="_blank" rel="noopener">AI Governance: Building a Responsible Foundation for Innovation</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 13 Oct 2025 13:00:00 +0000</div>
-    <p>AI is becoming increasingly central to digital transformation strategies, but a corresponding responsibility must match its potential. Read insights about AI governance from Fortinet&#x27;s CISO and VP …</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/926060729/0/fortinet/blogs~New-Stealit-Campaign-Abuses-Nodejs-Single-Executable-Application" target="_blank" rel="noopener">New Stealit Campaign Abuses Node.js Single Executable Application</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 10 Oct 2025 13:00:00 +0000</div>
-    <p>A new Stealit campaign uses Node.js Single Executable Application (SEA) to deliver obfuscated malware. FortiGuard Labs details tactics and defenses. Learn more.…</p>
   </div>
 </li>
 </ul>
