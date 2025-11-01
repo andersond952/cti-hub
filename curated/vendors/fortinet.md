@@ -7,9 +7,17 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 31, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 01, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/927010508/0/fortinet/blogs~Cloud-Abuse-at-Scale" target="_blank" rel="noopener">Cloud Abuse at Scale</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 31 Oct 2025 13:00:00 +0000</div>
+    <p>FortiGuard Labs analyzes TruffleNet, a large-scale campaign abusing AWS SES with stolen credentials and linked to Business Email Compromise (BEC).…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -80,14 +88,6 @@ _Updated: October 31, 2025 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/926392919/0/fortinet/blogs~Tracking-Malware-and-Attack-Expansion-A-Hacker-Group%e2%80%99s-Journey-across-Asia" target="_blank" rel="noopener">Tracking Malware and Attack Expansion: A Hacker Group’s Journey across Asia</a></h3>
     <div class="meta">Fortinet Blog · Fri, 17 Oct 2025 13:00:00 +0000</div>
     <p>FortiGuard Labs has tracked a hacker group expanding attacks from Mainland China to Malaysia, linking campaigns through shared code, infrastructure, and tactics.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/926339915/0/fortinet/blogs~Insider-Risk-Report-The-Hidden-Cost-of-Everyday-Actions" target="_blank" rel="noopener">2025 Insider Risk Report: The Hidden Cost of Everyday Actions</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 16 Oct 2025 13:00:00 +0000</div>
-    <p>Insider risk is on the rise as everyday actions inadvertently expose sensitive data. Discover insights, trends, and best practices from Fortinet’s 2025 Insider Risk Report.…</p>
   </div>
 </li>
 </ul>
