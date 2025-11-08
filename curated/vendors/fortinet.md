@@ -7,79 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 07, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 08, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://b.thumbs.redditmedia.com/vAanMQJrpYWSVpeMqmLBZm06jFW5kGD9-dw3mN9E4-g.jpg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqhyec/fortinet_xperts_2025_us/" target="_blank" rel="noopener">Fortinet XPERTS 2025 US</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T02:00:32+00:00</div>
-    <p>With Fortinet Xperts being next week and the FAA announcing cancellations starting tomorrow, is anyone here going next week? Just curious with the gov shutdown if Fortinet has said anything about it the conference impacted. Worried about...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/-ho-xUP5iyKu8vYzm5JnndaSvCisSHIH693KeRJmUcM.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqecxb/fortiswitch_nac_database/" target="_blank" rel="noopener">FortiSwitch NAC Database</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T23:21:33+00:00</div>
-    <p>I am playing around with the FortiGate/switch/AP built-in NAC policies. You can do NAC based on hardware vendor, device type, etc, but it is unclear how granular you can get with this. A while ago, I stumbled across a large database docu...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/TDkkosao5AVWG0Iv7Dn2MNsFfxndNpC1fgWTTBXMKdM.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqe2fd/cyberratings_2025_q4_enterprise_firewall_report/" target="_blank" rel="noopener">CyberRatings 2025 Q4 Enterprise Firewall Report out for Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T23:09:45+00:00</div>
-    <p>as per title, not a great result for the 200G https://cyberratings.org/resources/2025-q4-enterprise-firewall-report-fortinet/ https://preview.redd.it/rzgul7kbxpzf1.png?width=1052&amp;format=png&amp;auto=webp&amp;s=91fc7e2e85623a55a2fac216fdc4f7cc9a6...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orj3ps/what_am_i_missing_here_that_is_causing_traffic_to/" target="_blank" rel="noopener">What am I missing here that is causing traffic to fall through to the implicity_deny policy?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T07:17:38+00:00</div>
+    <p>Firmware version: v7.4.9 build2829 (Mature) I can see in the debug flow that pings are not going through due to a lack of policy match, but I can&#x27;t see why the policy isn&#x27;t matching. (Btw, I started by using the &quot;ALL&quot; service on both of ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqctfu/fortigate_200f_ikev2_remote_access_vpn_not/" target="_blank" rel="noopener">FortiGate 200F – IKEv2 Remote Access VPN not working after upgrade to 7.6.4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T22:18:33+00:00</div>
-    <p>Hi everyone, After updating our FortiGate 200F from version 7.4.8 to 7.6.4, our clients can no longer establish IPsec IKEv2 tunnels. The client configuration is distributed via EMS Cloud and worked perfectly fine under 7.4.8. Authenticat...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orcwww/sdwan_underlay_monitoring_not_working_on_wan_link/" target="_blank" rel="noopener">SD-WAN Underlay Monitoring not working on WAN link behind FEX</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T01:48:33+00:00</div>
+    <p>I have SD-WAN Underlay &amp; App Monitoring licensed and working on my DIA WAN interface. Same feature fails on a second WAN interface that goes through a FortiExtender (not Fabric-joined, managed via FortiExtender Cloud). Error when running...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oq75ig/av_dedicated_software_vs_av_inspection/" target="_blank" rel="noopener">AV dedicated software vs AV inspection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T18:42:20+00:00</div>
-    <p>Hello everyone, If we are already using an AV software installed on every user PC, would it be crazy to disabled AV from fw sec policies? what are your thoughts on that? submitted by /u/ontracks [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1or7e2l/which_fortinet_nse_5_certification_is_easier/" target="_blank" rel="noopener">Which Fortinet NSE 5 certification is easier — FortiSwitch Administrator or FortiAnalyzer Analyst?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T21:49:39+00:00</div>
+    <p>For work reasons, I need to reach the FCP (Fortinet Certified Professional) level, but I have a very short timeframe to prepare. Based on your experience, which one is easier and faster to obtain ? I have some experience with both , but ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://a.thumbs.redditmedia.com/A03OdlWYLQyyRyqaR6N_o2VtukMHyFvo2KtQT_LvYG0.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1or4t2f/failed_ssh_login_despite_being_able_to_ssh_into/" target="_blank" rel="noopener">Failed ssh login despite being able to ssh into switch</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T20:08:08+00:00</div>
+    <p>Hey all, We have fortiswitches that are managed by the foritgate via fortilink. In the fortigate, I type something like: FORTIGATE-HA1 # exec ssh user@10.X.X.X I put the password in, and it works, I can manage the switch. HOWEVER, we get...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oq3m67/forticlient_keeps_on_disconnecting_on_my_mac/" target="_blank" rel="noopener">Forticlient keeps on disconnecting on my Mac</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T16:31:23+00:00</div>
-    <p>Hi everyone, I am currently using a client&#x27;s vpn that uses forticlient. Recently, everything is fine until one day our connection keeps on disconnecting after 5 minute of usage. However, this issue is only happening in Macbooks and the W...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqy3sv/traffic_shaping_for_rokustreaming_devices/" target="_blank" rel="noopener">Traffic Shaping for Roku/Streaming Devices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T15:55:57+00:00</div>
+    <p>submitted by /u/simba-kun [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oq2zb2/swapping_fortigates_but_reusing_fortiswitches/" target="_blank" rel="noopener">Swapping fortigates but reusing fortiswitches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T16:07:58+00:00</div>
-    <p>Hello! As the title states I need to swap an HA pair of 301E for a pair of 200G. I plan to reuse the switches though. Is it as simple as connecting the switches and authorizing on the new gates? Or do I need factory reset the switches fi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/E05DpImK9x2LhJ4eTQLI7XGU5_NCUqkKl5xOge6hPQA.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1opw80o/smbv3_signatures_on_fortinet/" target="_blank" rel="noopener">SMBv3 signatures on Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T11:15:50+00:00</div>
-    <p>Hello everyone, I&#x27;m facing a frustrating challenge while trying to implement a security policy on my FortiGate firewall. My goal is to create a specific security policy for SMBv3 traffic. I searched the built-in IPS signatures, but could...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqxztg/forticlient_744_monitor_categories/" target="_blank" rel="noopener">FortiClient 7.4.4 - monitor Categories</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T15:51:41+00:00</div>
+    <p>Reaching out to the collective before I open a ticket. We recently upgraded our FortiClient environment (endpoints and EMS server) from 7.4.3 to 7.4.4. With that change we are experiencing about a 30 second lag on first loading of some w...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1opvbog/import_a_selfsigned_certificatekey_pair_to_the/" target="_blank" rel="noopener">Import a self-signed certificate/key pair to the local certificates store - how?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-06T10:22:56+00:00</div>
-    <p>I&#x27;m trying to import a self-signed certificate in PFX format for use with an IKEv2 VPN. Whenever I import the file it shows up in &quot;Local CA Certificates&quot; and I can&#x27;t select it for use by the VPN. It seems the VPN configuration only allow...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqrtcu/device_added_to_fortianalyzer_shows_down_status/" target="_blank" rel="noopener">Device added to fortianalyzer shows &quot;down&quot; status</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T11:21:37+00:00</div>
+    <p>Hi all, a new fortianalyzer VM, located in a datacenter, everything is setup and working properly, latest version. Added a single device, status shows &quot;down&quot;, device was added using its serial number, external IP automatically detected. ...</p>
   </div>
 </li>
 <li class="card">
