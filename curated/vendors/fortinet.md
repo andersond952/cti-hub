@@ -7,63 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 08, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 09, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/vAanMQJrpYWSVpeMqmLBZm06jFW5kGD9-dw3mN9E4-g.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orj3ps/what_am_i_missing_here_that_is_causing_traffic_to/" target="_blank" rel="noopener">What am I missing here that is causing traffic to fall through to the implicity_deny policy?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T07:17:38+00:00</div>
-    <p>Firmware version: v7.4.9 build2829 (Mature) I can see in the debug flow that pings are not going through due to a lack of policy match, but I can&#x27;t see why the policy isn&#x27;t matching. (Btw, I started by using the &quot;ALL&quot; service on both of ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1osf56j/soc5_performance_numbers/" target="_blank" rel="noopener">SOC5: Performance numbers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T09:31:09+00:00</div>
+    <p>So I scrolled the PDF file. Comparing the datasheet of the tested FortiGate 200G with the results above I&#x27;m disappointed with the 200G (which I would like to order as replacement for 500E units) Fortinet promises: Concurrent Sessions: 11...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orcwww/sdwan_underlay_monitoring_not_working_on_wan_link/" target="_blank" rel="noopener">SD-WAN Underlay Monitoring not working on WAN link behind FEX</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T01:48:33+00:00</div>
-    <p>I have SD-WAN Underlay &amp; App Monitoring licensed and working on my DIA WAN interface. Same feature fails on a second WAN interface that goes through a FortiExtender (not Fabric-joined, managed via FortiExtender Cloud). Error when running...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oscvbs/fortimanager_can_you_modify_security_profiles_for/" target="_blank" rel="noopener">FortiManager - Can you modify security profiles for individual FortiGates using the same Policy Package?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T07:08:53+00:00</div>
+    <p>Hey guys, I have a fortimanager instance managing all of our gates and, as my company is a retail chain, they all use the same policy package across, this includes security profiles, like web filtering, dns filtering.. etc. Now, these re...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1or7e2l/which_fortinet_nse_5_certification_is_easier/" target="_blank" rel="noopener">Which Fortinet NSE 5 certification is easier — FortiSwitch Administrator or FortiAnalyzer Analyst?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T21:49:39+00:00</div>
-    <p>For work reasons, I need to reach the FCP (Fortinet Certified Professional) level, but I have a very short timeframe to prepare. Based on your experience, which one is easier and faster to obtain ? I have some experience with both , but ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://a.thumbs.redditmedia.com/A03OdlWYLQyyRyqaR6N_o2VtukMHyFvo2KtQT_LvYG0.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1or4t2f/failed_ssh_login_despite_being_able_to_ssh_into/" target="_blank" rel="noopener">Failed ssh login despite being able to ssh into switch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T20:08:08+00:00</div>
-    <p>Hey all, We have fortiswitches that are managed by the foritgate via fortilink. In the fortigate, I type something like: FORTIGATE-HA1 # exec ssh user@10.X.X.X I put the password in, and it works, I can manage the switch. HOWEVER, we get...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1os07vr/fortios_7018_released/" target="_blank" rel="noopener">Fortios 7.0.18 released</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T20:53:06+00:00</div>
+    <p>The 7.0.x support ended in September 2025 and I find no CVE fixes mentioned, so kinda nice of Fortinet. https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/attachments/4ad1668a-ba62-11f0-8b43-d2943efe5b2f/fortios-v7.0.18-release-no...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqy3sv/traffic_shaping_for_rokustreaming_devices/" target="_blank" rel="noopener">Traffic Shaping for Roku/Streaming Devices</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T15:55:57+00:00</div>
-    <p>submitted by /u/simba-kun [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orvdwh/ospfv3_alias_ospf6_and_ipsec_tunnel/" target="_blank" rel="noopener">ospfv3 alias ospf6 and IPsec Tunnel</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T17:37:04+00:00</div>
+    <p>Has someone ospf6 running over a IPsec Tunnel? Ipv6 over the tunnel is working fine. Adding the interface to &quot;router ospf6 interfaces&quot; does not work: The IPsec interface does not appear unter &quot;get router info6 ospf interface&quot;. There is o...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://b.thumbs.redditmedia.com/_fAXwYEQF2tatdZiBgwj3KMndrdBMFRGuMiIVCGKLHk.jpg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqxztg/forticlient_744_monitor_categories/" target="_blank" rel="noopener">FortiClient 7.4.4 - monitor Categories</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T15:51:41+00:00</div>
-    <p>Reaching out to the collective before I open a ticket. We recently upgraded our FortiClient environment (endpoints and EMS server) from 7.4.3 to 7.4.4. With that change we are experiencing about a 30 second lag on first loading of some w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ort7fu/strange_ha_failover_issue_with_fortigate_601f_and/" target="_blank" rel="noopener">Strange HA Failover issue with Fortigate 601F and managed Fortiswitches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T16:09:01+00:00</div>
+    <p>Hello Fortinet people, I have a strange issue with a new deployment for managed Fortiswitches with HA Foritgate. When we do a Foritgate failover we have traffic loss from the switches. So we have 2 Fortigates 601F with version 7.4.8 with...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/d390dmndf10g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5439302c53f8c114d9d58e8a64ba19bfb410da9" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oqrtcu/device_added_to_fortianalyzer_shows_down_status/" target="_blank" rel="noopener">Device added to fortianalyzer shows &quot;down&quot; status</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-07T11:21:37+00:00</div>
-    <p>Hi all, a new fortianalyzer VM, located in a datacenter, everything is setup and working properly, latest version. Added a single device, status shows &quot;down&quot;, device was added using its serial number, external IP automatically detected. ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orpu2s/cert_error_on_forticloud/" target="_blank" rel="noopener">Cert Error on Forticloud?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T13:47:19+00:00</div>
+    <p>Is this just me? submitted by /u/eld101 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
