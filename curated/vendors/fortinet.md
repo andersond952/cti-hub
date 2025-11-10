@@ -7,55 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 09, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 10, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1osf56j/soc5_performance_numbers/" target="_blank" rel="noopener">SOC5: Performance numbers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T09:31:09+00:00</div>
-    <p>So I scrolled the PDF file. Comparing the datasheet of the tested FortiGate 200G with the results above I&#x27;m disappointed with the 200G (which I would like to order as replacement for 500E units) Fortinet promises: Concurrent Sessions: 11...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ot94gs/fcp_fortinet_recertification_after_2_years/" target="_blank" rel="noopener">FCP - Fortinet Recertification after 2 years</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-10T09:10:43+00:00</div>
+    <p>As in topic I got Fortinet Certified Professional - Secure Networking (ForitOS+FortiAnalyzer). It is going to expire in next 90 days. To extended it for next 2 year is it enought if I take NSE5-FortiSwitch Administrator? Or need to take ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/5m3o2ZIG0JbG81BwCZ-Kur2UOkgB2uLsOy8euc44cnQ.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ot6jtg/the_port_does_not_come_up_when_assembling_lacp/" target="_blank" rel="noopener">The port does not come up when assembling LACP between FortiSwitch 1024E and 148F.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-10T06:25:24+00:00</div>
+    <p>Hello everyone. I have five Fortinet devices: 1 x FortiGate 120G 2 x FortiSwitch 1024E (SW01-C and SW02-C) 2 x FortiSwitch 148F (SW03-A and SW04-A) FortiLink is configured to manage switches on ports X1–X4, which are connected to ports 1...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://a.thumbs.redditmedia.com/27coLwKrC8y0ciXnJurITCOmHivi75FHChVZucQxBh0.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ot3s6r/fortios_749_missing_sdwan_interface/" target="_blank" rel="noopener">FortiOs 7.4.9 missing SD-WAN Interface</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-10T03:50:51+00:00</div>
+    <p>Anyone encountered this on 7.4.9? The member interface is not showing up in the SD-WAN Rule. https://preview.redd.it/eo198cxlqc0g1.png?width=965&amp;format=png&amp;auto=webp&amp;s=a1be527711791974b8ad6c6992c9ba5fa9be71f9 https://preview.redd.it/xin3...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oscvbs/fortimanager_can_you_modify_security_profiles_for/" target="_blank" rel="noopener">FortiManager - Can you modify security profiles for individual FortiGates using the same Policy Package?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T07:08:53+00:00</div>
-    <p>Hey guys, I have a fortimanager instance managing all of our gates and, as my company is a retail chain, they all use the same policy package across, this includes security profiles, like web filtering, dns filtering.. etc. Now, these re...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ossdia/virus_outbreak_protection/" target="_blank" rel="noopener">Virus Outbreak Protection</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T19:31:44+00:00</div>
+    <p>I was digging into this feature wanted to get some real-world understanding. Have you of had this service block something? Is it only malware / file-based (assuming so since its in the AV Profile) Is there anything comparable in the Palo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1os07vr/fortios_7018_released/" target="_blank" rel="noopener">Fortios 7.0.18 released</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T20:53:06+00:00</div>
-    <p>The 7.0.x support ended in September 2025 and I find no CVE fixes mentioned, so kinda nice of Fortinet. https://fortinetweb.s3.amazonaws.com/docs.fortinet.com/v2/attachments/4ad1668a-ba62-11f0-8b43-d2943efe5b2f/fortios-v7.0.18-release-no...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oslt0e/fmg_vm_upgrade/" target="_blank" rel="noopener">FMG VM upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T15:13:46+00:00</div>
+    <p>I wanted to upgrade FMG VM to 7.4.8. The upgrade path tool recommends upgrading from FMG 7.2.10 to 7.2.11, and then to 7.4.8, but 7.2.11 is not available for download. The latest version available from the 7.2 branch is 7.2.10. As far as...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orvdwh/ospfv3_alias_ospf6_and_ipsec_tunnel/" target="_blank" rel="noopener">ospfv3 alias ospf6 and IPsec Tunnel</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T17:37:04+00:00</div>
-    <p>Has someone ospf6 running over a IPsec Tunnel? Ipv6 over the tunnel is working fine. Adding the interface to &quot;router ospf6 interfaces&quot; does not work: The IPsec interface does not appear unter &quot;get router info6 ospf interface&quot;. There is o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1osk4rp/fortiswitch_to_cisco/" target="_blank" rel="noopener">FortiSwitch to Cisco</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T14:01:51+00:00</div>
+    <p>Ok strange one or maybe my configs off… We are trying to migrate from a Cisco 4500 switch to Fortiswitch, and all our IDFs are staying Cisco for right now, We replaced to 4500 and everything is fine but when we tried to migrate the IDFs ...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/_fAXwYEQF2tatdZiBgwj3KMndrdBMFRGuMiIVCGKLHk.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ort7fu/strange_ha_failover_issue_with_fortigate_601f_and/" target="_blank" rel="noopener">Strange HA Failover issue with Fortigate 601F and managed Fortiswitches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T16:09:01+00:00</div>
-    <p>Hello Fortinet people, I have a strange issue with a new deployment for managed Fortiswitches with HA Foritgate. When we do a Foritgate failover we have traffic loss from the switches. So we have 2 Fortigates 601F with version 7.4.8 with...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1osjh0o/fortinet_fcx_nse_8/" target="_blank" rel="noopener">Fortinet FCX (NSE 8)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T13:32:54+00:00</div>
+    <p>Hey guys, I have a question, why is the Fortinet NSE 8 not in such high demand as a CCIE was? I mean most companies use Forti’s? Would it be a bad idea or waste of time for me to pursue it? I’m a network engineer and I do work on fortine...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/d390dmndf10g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5439302c53f8c114d9d58e8a64ba19bfb410da9" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1orpu2s/cert_error_on_forticloud/" target="_blank" rel="noopener">Cert Error on Forticloud?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-08T13:47:19+00:00</div>
-    <p>Is this just me? submitted by /u/eld101 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1osg4fw/wan_interface_stops_passing_traffic_for_circa_1/" target="_blank" rel="noopener">WAN interface stops passing traffic for circa 1 hour at random times.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-09T10:31:55+00:00</div>
+    <p>After any ideas on an issue we&#x27;ve struggled with for a few weeks. HA FortiGate 100F (7.4.9) pair connected to dual managed internet circuits. ISP sent a new router for one of circuits as part of a speed upgrade (no other changes) and all...</p>
   </div>
 </li>
 <li class="card">
