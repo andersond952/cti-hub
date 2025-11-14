@@ -7,79 +7,127 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 13, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 14, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovwey7/fortigate_in_azure_ha_with_elbilb_dial_up_tunnels/" target="_blank" rel="noopener">FortiGate in Azure HA with ELB/ILB - Dial Up tunnels not coming up after fialover</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T09:07:27+00:00</div>
-    <p>I have two FortiGates in Azure running 7.4.9. The configuration was deployed using the Marketplace templates, and the deployment was uneventful and just works. I added in our SDWAN and Hub/Spoke VPN templates via FortiManager, pushed out...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owsnrv/confusion_about_vlans/" target="_blank" rel="noopener">Confusion about VLANs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T10:10:43+00:00</div>
+    <p>I’m a student whose only ever worked with Cisco and I can’t seem to grasp how vlans work in fortinet, I’m doing a lab with a fortigate and a fortiswitch but I am confused how vlans work, what’s the difference between a vlan created in in...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovnv65/could_you_tell_me_the_way_to_take_the_3_levels_of/" target="_blank" rel="noopener">Could you tell me the way to take the 3 levels of &quot;free&quot; Fortimet courses, I already have a Fortimet account with an outsourced contract. I didn&#x27;t find the first 3 free courses</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T01:24:03+00:00</div>
-    <p>submitted by /u/privjmsecurity [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/N8tvCzk0D7em3xnP5V9opulg-QJ0x4mdWd8ks0GVppE.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovn53e/route_lan_and_vlan_on_same_vlan_switch/" target="_blank" rel="noopener">Route lan and vlan on same vlan switch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T00:52:07+00:00</div>
-    <p>I have all my lan ports on 1 vlan switch. I want both lan and vlan to be able to get to a printer thats on the lan. I need to move the vlan to a different physical port to be able to do that right. I can&#x27;t route an ip from the vlan to la...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owr2lq/different_dnz_zones_for_different_interfaces_dns/" target="_blank" rel="noopener">Different DNZ zones for different interfaces - DNS filter?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T08:29:04+00:00</div>
+    <p>Hello again, Customer wants to move their DNS services to the firewall. Creating Zones and applying them to interfaces is easy, but now they want that different interfaces get different zones, and public IPs should work as well. Afaik, e...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovkvc3/conversion_tools/" target="_blank" rel="noopener">Conversion tools</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T23:15:47+00:00</div>
-    <p>Hi Anyone used the conversion tool provided by FortiGate. How well does it work. Is there any tools out there that I can use other then the FortiGate? Thanks submitted by /u/IAnetworking [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owo49o/fortimanager_best_practices/" target="_blank" rel="noopener">Fortimanager Best Practices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T05:28:37+00:00</div>
+    <p>Hi there, New to Fortimanager and trying to figure out some simple best practices. I have to roll out around 20 x 70G firewalls across 20 locations. The configuration of these firewalls will be identical. Struggling a little in Fortimana...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://external-preview.redd.it/FazVx6APm1-B8VP4qkJzbHNSX-u2AWgRFQ_6hsETDVs.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bfd035880302d3a8af57ae9b01b216f9d5429ce5" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ownacx/fortinet_fortiweb_flaw_with_public_poc_exploited/" target="_blank" rel="noopener">Fortinet FortiWeb flaw with public PoC exploited to create admin users</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T04:44:44+00:00</div>
+    <p>submitted by /u/waihtis [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovfhwo/problemas_para_detectar_bloqueos_según_políticas/" target="_blank" rel="noopener">Problemas para detectar bloqueos según políticas de restricción</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T19:52:00+00:00</div>
-    <p>Soy algo inexperto. Cree una política con un nivel de restricción &quot;medio&quot;, estoy aplicando web filter, app control y deep inspection. Sin embargo, al aplicar de manera general esta política también he bloqueado apps que no quiero bloquea...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owgs80/asking_noob_ip6_question_better_to_ask_than_to/" target="_blank" rel="noopener">Asking Noob IP6 question better to ask than to find out.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T23:39:27+00:00</div>
+    <p>I want to start using IPV6, but I want to make sure I understand the basic controls and check points I should be looking at. I have two fortigates FGCore this is gateway for all my vlans, and egress this is gateway for my isps. FGCore is...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovbv1k/ssl_dpi_logs/" target="_blank" rel="noopener">SSL DPI Logs?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T17:42:15+00:00</div>
-    <p>I have configured SSL DPI on my FortiGate firewalls. It is working well for the most part. I have had a few sites that are not working. Is there a way to view the errors in the log files? I do not seem to be able to find relevant logs. I...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owdih3/new_firewall_policies_referencing_applications/" target="_blank" rel="noopener">New firewall policies referencing applications individually</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T21:26:07+00:00</div>
+    <p>I came from a palo alto shop, so I am curious if this can done on fortigates. Lets say by default the company wants to block all collaboration applications, but then wants to allow zoom for 5 users. On the palo alto the default web rule ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovabaj/fortimail_ha_ap_adding_hdds_to_primary/" target="_blank" rel="noopener">FortiMail HA (A-P) — adding HDDs to primary</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T16:47:12+00:00</div>
-    <p>I have a FortiMail Active-Passive HA pair. I need to add new HDDs to the primary unit. I know the disks will be reinitialized(raid level should be changed after adding), so local data there will be wiped.(I have already added to the seco...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owazj0/fortigate_crashes_and_weird_error_message/" target="_blank" rel="noopener">FortiGate Crashes and weird error message</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T19:49:06+00:00</div>
+    <p>To start, we are opening a ticket with TAC on this. We have our firewall crashing 3 times in the last 6 months. The same error message is shown: 16376: 2025-08-26 11:51:06 &lt;00187&gt; Node.JS restarted: (uncaught exception) 16377: 2025-08-26...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ova0i8/execute_command_of_fabric_switch/" target="_blank" rel="noopener">Execute command of Fabric Switch?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T16:35:56+00:00</div>
-    <p>I am trying to create an automation with this command: execute switch-controller switch-action poe reset &quot;S224DFTF190XXXXX&quot; port15 I can&#x27;t make an automation that does this on the firewall in question because I get: &quot;Automation cannot be...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ow7jnx/where_to_get_a_tamper_seal_part_fipssealred/" target="_blank" rel="noopener">Where to get a tamper seal part# FIPS-SEAL-RED</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T17:41:11+00:00</div>
+    <p>My sales rep tells me she cannot get me one and Ingrammicro.com does not have it listed. Anyone know what I need to do to get a tamper seal for my 70F Fortigate Firewall? Not finding much info on it at all. Need it for CMMC Level 2 compl...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/927612836/0/fortinet/blogs~Fortinet-Named-Inaugural-Google-Unified-Security-Recommended-Partner-for-Network-Protection-Powered-by-FortiSASE-and-FortiGate-NGFW" target="_blank" rel="noopener">Fortinet Named Inaugural Google Unified Security Recommended Partner for Network Protection, Powered by FortiSASE and FortiGate NGFW</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 13 Nov 2025 17:00:00 +0000</div>
+    <p>Fortinet was named the inaugural Google Unified Security Recommended network protection provider.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ov9dru/forticlient_vpn_free_version_status_whats_the/" target="_blank" rel="noopener">FortiClient VPN free version status - what&#x27;s the official stance?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T16:12:34+00:00</div>
-    <p>Hello everyone, I&#x27;m trying to find out if the free FortiClient VPN will still be available in future. I have come across conflicting information: some sources claim that it has been discontinued, while others suggest that it will remain ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ow3vbh/new_to_fortinet_and_my_fortigate_says_no_upgrade/" target="_blank" rel="noopener">new to fortinet and my fortigate says &quot;No upgrade path available&quot; but the build # is higher than the upgrade path?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T15:22:04+00:00</div>
+    <p>Hello everyone, My fortigate is on build 7.4.8 Build6484, it says &quot;upgrade available&quot; to 7.4.9 Build 2829, however, it wont let me, it says no path available. When i use the upgrade path tool it says the path is actually 7.4.8Build2795-&gt;...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ow2yab/uninstall_why_is_fcremove_hidden_behind_a_login/" target="_blank" rel="noopener">Uninstall. Why is FCremove hidden behind a login page</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T14:46:34+00:00</div>
+    <p>I just want to remove EVERYTHING related to Forticlient. Including previous connection I have had. Why do you make it so difficult? Even if you register on suppport page it still says , &quot;Sorry, you don&#x27;t have any product covered by a For...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ow2hkb/fortisiem_version_for_production/" target="_blank" rel="noopener">FortiSIEM version for production</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T14:28:12+00:00</div>
+    <p>Hi, Which FSM version is preferred for critical production environnement in terms of stabilty? 7.2.7, 7.3.5 or 7.4.2 ? submitted by /u/cczsec001 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ow060d/egress_traffic_issue_via_l2l_failover/" target="_blank" rel="noopener">Egress traffic issue via L2L failover</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T12:48:04+00:00</div>
+    <p>Today, one of our remote iffices experienced a complete WAN outage on all internet links. We have a redundant L2L (LAN-to-LAN) VPN tunnel configured to handle this failover scenario, which should route internet-bound traffic through our ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovzyyv/default_autofortilink_ports/" target="_blank" rel="noopener">Default Auto-FortiLink Ports</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T12:38:18+00:00</div>
+    <p>Hi Fortiguru&#x27;s, Does anybody know what they mean in this document with the default-auto-FortiLink ports? Auto-discovery of the FortiSwitch ports The document says under: 3. Auto-discovery of the FortiSwitch ports: All FortiSwitch ports a...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ovznwu/sdwan_question/" target="_blank" rel="noopener">SD-Wan question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-13T12:22:48+00:00</div>
+    <p>Hello, I have a question about SD-Wan, i have 2 providers now. My provider gives me a /30 subnet for my interfaces and connectivity but the /30 has no internet. On top of that they route a subnet to my fortigate. Outbound with NAT and se...</p>
   </div>
 </li>
 <li class="card">
@@ -88,54 +136,6 @@ _Updated: November 13, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/927560168/0/fortinet/blogs~Fortinet-Is-the-Only-Vendor-Recognized-as-a-Gartner-Peer-Insights%e2%84%a2-Customers%e2%80%99-Choice-for-Security-Service-Edge-Three-Years-in-a-Row" target="_blank" rel="noopener">Fortinet Is the Only Vendor Recognized as a Gartner Peer Insights™ Customers’ Choice for Security Service Edge Three Years in a Row</a></h3>
     <div class="meta">Fortinet Blog · Wed, 12 Nov 2025 16:00:00 +0000</div>
     <p>Fortinet Recognized as a Gartner Peer Insights™️ Customers’ Choice for Security Service Edge…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ov8ir6/fortiap_23jf_question/" target="_blank" rel="noopener">fortiap 23jf question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T15:40:58+00:00</div>
-    <p>i am interested in getting a fortiap 23jf and i saw it can power a device over poe af. i have in the same room as the fortiap i want to add a fortiswitch 108e that is currently powered over poe from another switch 224d-fpoe. so can i go ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ov8gdr/fortigate_policy_for_fqdn_plus_geo/" target="_blank" rel="noopener">Fortigate policy for FQDN plus Geo</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T15:38:26+00:00</div>
-    <p>I&#x27;m trying to find if there&#x27;s a way to have a outbound policy which allows a FQDN but only if it&#x27;s within a specify geo region. An example is *.domain-A.com but only if the geo region is USA or Canada. All other regions would be denied. ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ov81fp/issues_configuring_vxlan_with_snat/" target="_blank" rel="noopener">Issues configuring VXLAN with SNAT</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T15:22:41+00:00</div>
-    <p>Hi, We need to span the same subnet across 2 physical sites. In order to achieve this, we are trying to work with a VXLAN setup. VXLANs are new for us so we&#x27;re still figuring out the proper configuration. The current (working) setup is: ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ov6z9z/vxlan_over_ipsec/" target="_blank" rel="noopener">VXLAN over IPSec</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T14:43:27+00:00</div>
-    <p>Hello, I configured a VXLAN over IPSec to interconnect two infrastructures and allow me to migrate VMs from the old to the new infrastructure. I followed tutorials and can ping between the two interfaces of the two FortiGates through VXL...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ov52bt/migrating_from_e_fws_to_g_fws_config_gotchas/" target="_blank" rel="noopener">Migrating from E FW&#x27;s to G FW&#x27;s - Config gotchas?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T13:25:28+00:00</div>
-    <p>My company has a customer who previously managed their own Fortigate E FW&#x27;s (HA pair) and have contracted us to manage new ones for them as they don&#x27;t want the hassle anymore. We&#x27;re putting in a new G HA pair and are planning the migrati...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ov495i/ztna_error_061/" target="_blank" rel="noopener">ZTNA Error 061</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-12T12:49:45+00:00</div>
-    <p>We’re trying to get ZTNA running with a really simple setup. The client only has a NAS on-prem; everything else is managed in Entra. There’s a FortiGate 80F, and we created a destination for SMB to the NAS. The configuration works, but a...</p>
   </div>
 </li>
 <li class="card">
@@ -200,14 +200,6 @@ _Updated: November 13, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/926921399/0/fortinet/blogs~Expanding-Our-Leadership-in-Unified-SASE" target="_blank" rel="noopener">Expanding Our Leadership in Unified SASE</a></h3>
     <div class="meta">Fortinet Blog · Wed, 29 Oct 2025 15:00:00 +0000</div>
     <p>Fortinet strengthens Unified SASE leadership with expanded global coverage, advanced AI, and SaaS security innovations. Learn more.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/926870336/0/fortinet/blogs~Cyber-Awareness-Month-Building-Data-Security-from-the-Inside-Out" target="_blank" rel="noopener">Cyber Awareness Month: Building Data Security from the Inside Out</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 28 Oct 2025 15:00:00 +0000</div>
-    <p>Read steps on how organizations can implement the right tools, apply effective coaching, and adopt smarter behaviors to strengthen data security.…</p>
   </div>
 </li>
 </ul>
