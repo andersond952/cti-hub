@@ -7,9 +7,57 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 15, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 16, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oy9or4/traffic_arrives_at_virtual_server_but_is_blocked/" target="_blank" rel="noopener">Traffic arrives at Virtual Server but is blocked for reasons I can&#x27;t figure out</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-16T02:10:31+00:00</div>
+    <p>*edit - I figured it out and here is what is was. In the policy below, I had the private load-balanced server set as the Destination, when in reality what it needs to be is the Virtual Server. So changing it from: set name &quot;PA virt site&quot;...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oy0uqq/fortigate_100f/" target="_blank" rel="noopener">Fortigate 100F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-15T19:40:37+00:00</div>
+    <p>Hey everyone, I’m currently working on my internship project, which involves integrating a FortiGate firewall with a UniFi Dream Machine. All VLANs and security policies need to be managed on the FortiGate, but I’m running into an issue:...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oxxntw/fortios_747_ssl_to_ipsec_saml_migration_path/" target="_blank" rel="noopener">FortiOS 7.4.7 SSL to IPsec SAML migration path</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-15T17:34:13+00:00</div>
+    <p>Question 1: I&#x27;m on FortiOS 7.4.7, Forticlient 7.4.3 (free). Our users connect via Forticlient SSL with SAML authentication, external browser so we can do the Entra compliance check. I work for a SMB company with 2 * 90G&#x27;s in HA. I&#x27;ve don...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oxwxr8/fortiap_question/" target="_blank" rel="noopener">FortiAP Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-15T17:05:04+00:00</div>
+    <p>I recently got a Fortigate and FortiSwitch (both used) and a couple of the FAP-231 APs. Ive had zero issues getting the FG to detect the Switch right away using the FortiLink. However, im trying to get the AP to show up so I can assign S...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oxuxql/best_way_to_build_vpns_in_a_lab_that_will_be/" target="_blank" rel="noopener">Best way to build VPNs in a lab that will be moved to production</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-15T15:46:43+00:00</div>
+    <p>Disclaimer: I&#x27;m 100% self-taught and consider myself mid-high novice level at best. I&#x27;m trying to setup some Fortigates in my lab (including VPNs) before moving to remote sites and I&#x27;m trying to decide the best way to setup in the lab to...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/LCsXKukWQXHhopqeFAwUQVROPYj3rZ4rY60XyLNfz0w.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1oxsrc4/connecting_a_trialfgvm_to_a_trialfmg/" target="_blank" rel="noopener">Connecting a trial-FGVM to a trial-FMG</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-15T14:14:53+00:00</div>
+    <p>Hi there, I&#x27;m trying hard to setup a little trial lab with a FortiGate-VM and a FortiManager-VM. Both are running 7.6.4 with trial licenses, which are activated and valid. The auto-link is working with a physical Fortigate, but the Forti...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
@@ -19,75 +67,11 @@ _Updated: November 15, 2025 • Sources filter: fortinet, fortiguard • Keyword
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ox7pyt/what_is_the_precedence_between_items_in/" target="_blank" rel="noopener">what is the precedence between items in application control?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T20:32:57+00:00</div>
-    <p>I want to allow only one specific application in for a range of ports. I defined an custom signature. It works. For non-SSL use, my policy defines that port, uses a profile with everything reject and that custom signature accept, and I g...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ox65t4/fortigate_proof_of_concept_ideas/" target="_blank" rel="noopener">FortiGate proof of concept ideas.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T19:33:24+00:00</div>
-    <p>Hi all, I am going to be installing a Fortigate 7.4.x in an enterprise environment. The test is to be non affecting production traffic for them to evaluate. My idea was to create a span port on the Cisco Core and monitor the outside/insi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ox4lfk/need_help_with_ms_office_install_whitelist_on_web/" target="_blank" rel="noopener">Need help with MS Office install whitelist on Web filter</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T18:34:14+00:00</div>
-    <p>Hello Folks, i have a customer who is not able install MS office on their end devices due to applied web filter, i have whitelisted FQDN wildcards like. *.office.com, *.microsoftonline.com, *.msocdn.com, *.microsoft.com, *.live.com, *.of...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ox2vqp/749_auto_broke_my_vpn/" target="_blank" rel="noopener">7.4.9 Auto broke my VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T17:31:14+00:00</div>
-    <p>Hi All, A little cranky here. We just started with a new customer who had switched over from Sonicwall to Fortigate just before we started. The MPS doing the firewall migration did a nice job overall. Looks like they reviewed and rebuilt...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ox24wr/ssl_vpn_brute_force_tactics/" target="_blank" rel="noopener">SSL VPN brute force tactics</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T17:03:36+00:00</div>
-    <p>We&#x27;re still using SSL VPN while rolling out IPsec. We&#x27;re dealing with constant brute-force login attempts on the VPN that occasionally lock out user accounts. I created an automation stitch that blocks IPs after failed logins. It has hel...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/927683696/0/fortinet/blogs~The-Journey-from-Military-Service-to-Cybersecurity" target="_blank" rel="noopener">The Journey from Military Service to Cybersecurity</a></h3>
     <div class="meta">Fortinet Blog · Fri, 14 Nov 2025 16:00:00 +0000</div>
     <p>Veterans bring mission-first focus and resilience to cybersecurity. See how BCIT, Cyber Catalyst, and Fortinet are helping them build new digital careers.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owyx1j/stable_versions_of_the_7xx_firmware_family/" target="_blank" rel="noopener">Stable versions of the 7.x.x firmware family</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T15:05:42+00:00</div>
-    <p>I have Forti devices with the 7.2.x firmware family, and i&#x27;m planning security updates to mitigate vulnerabilities. However, the PSIRT vulnerabilities site recommend migrate to 7.4.x family to fix them, and in some cases, the vulnerabili...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owxx4l/ipsec_with_ssl_vpn_failover_supported/" target="_blank" rel="noopener">IPsec with SSL VPN Failover / Supported?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T14:27:23+00:00</div>
-    <p>Hi everybody, im confused with some EMS Features. Ive build a IPsec remote Profile with failover to SSL VPN. This didnt work with forticlient 7.4.4 on windows in my configuration, with forticlient 7.4.2 no problem. So i created a TAC. Th...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/6y2y1hef981g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ca95e97077414ae190e3987b0d556b46521974a3" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1owx05o/fortigate_60f_what_does_the_orange_light_on_port/" target="_blank" rel="noopener">Fortigate 60F - What does the orange light on Port 1 of this device mean?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-14T13:50:29+00:00</div>
-    <p>submitted by /u/Network__Redditor [link] [comments]</p>
   </div>
 </li>
 <li class="card">
