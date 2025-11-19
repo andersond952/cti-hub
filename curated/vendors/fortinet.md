@@ -7,31 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 18, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 19, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p04gwb/fortisase_and_forticlient_on_net_detection_problem/" target="_blank" rel="noopener">FortiSASE and FortiClient on net detection problem</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-18T06:12:14+00:00</div>
-    <p>As the title, we have configured on net detection rule as well as exempt FortiClient automatically connect to PoP when the device is connected to our trusted IP addresses. The thing is after sometime FortClient itself doesn&#x27;t realize the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p132x2/fortigate_security_fabric_and_logging_advice/" target="_blank" rel="noopener">Fortigate Security Fabric and logging advice needed.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-19T09:27:53+00:00</div>
+    <p>Hello, I would like to ask for your advice on how you would configure logging on Fortigate routers and whether it is worth enabling security fabric in such a configuration: -one main Fortigate and Fortianalyzer in the main location. -fou...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozvp0o/any_concerns_going_from_7211_to_749_on_300e/" target="_blank" rel="noopener">any concerns going from 7.2.11 to 7.4.9 on 300E?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T23:14:59+00:00</div>
-    <p>we&#x27;ve got a mix of SSL VPN and IPSEC VPN for users and several dedicated IPSEC VPN tunnels for cloud stuff. upgrading the firewalls early next year and want to get to modern firmware for the configuration tool, to get legacy firewall con...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p10zi9/how_to_manage_hundreds_of_fortigates/" target="_blank" rel="noopener">How to Manage hundreds of FortiGates?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-19T07:16:09+00:00</div>
+    <p>Hello everyone, What do you think would be the best option to manage hundreds of customer FortiGate’s from one management panel. Thought FortiGate Cloud but these devices are register in the customer’s own support portal. I am not entire...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozve1v/best_practice_for_vlan_sub_interfaces_on/" target="_blank" rel="noopener">Best Practice for VLAN sub interfaces on Fortigates</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T23:02:34+00:00</div>
-    <p>Hey all, Working on a fleet of new Fortigates and By default they come with a &quot;LAN&quot; Interface which is a VLAN switch interface with all the ports in it. Should i remove this and just put VLAN subinterfaces under a single physical interfa...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0zod1/how_to_keep_forticlient_vpn_always_connected_on/" target="_blank" rel="noopener">How to keep FortiClient VPN always connected on an Azure Windows Server?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-19T05:58:48+00:00</div>
+    <p>Hey everyone, I’ve got a Windows Server VM running in Azure. Nothing fancy, just a regular Windows Server with no firewall appliance or VNet Gateway. On-prem I’m running a FortiGate. What I’m trying to do is keep a permanent VPN connecti...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0ujwq/100f_or_120g_switch_ports_use_case_check/" target="_blank" rel="noopener">100f or 120g switch ports? Use case check</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-19T01:41:44+00:00</div>
+    <p>Sanity check... So I found some documentation on something called quick path. And some diagrams that suggest that all of the front ports on either of these units are configurable switch. Right now I have a managed switch in front of my r...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0mlco/we_are_trying_to_reset_1800f_with_reset_button/" target="_blank" rel="noopener">We are trying to reset 1800F with reset button</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-18T20:14:42+00:00</div>
+    <p>They is a pin hole button that doesn&#x27;t say anything. We tried to press reset button. But it&#x27;s not resetting. Anyone can help submitted by /u/Sure-Hat-8634 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0m634/study_guide_pdf_nse4/" target="_blank" rel="noopener">Study Guide PDF NSE4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-18T19:59:04+00:00</div>
+    <p>Hello, My company is Partner with Fortinet, and i heard that we had access to a Study Guide PDF for NSE4. Where could I find it ? I&#x27;m looking for it in the Training portal but I don&#x27;t seem to find it, could somebody point it out for me ?...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0io0a/fortissoma_process_not_launching/" target="_blank" rel="noopener">FortiSSOMA process not launching</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-18T17:49:09+00:00</div>
+    <p>Running into an issue where the FortiSSOMA process refuses to start on random Windows endpoints. Re-installing doesn&#x27;t always fix it, rebooting doesn&#x27;t always fix it, and on the few I have that are affected...the process won&#x27;t start even...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/928069607/0/fortinet/blogs~Driving-Accountability-New-Cybercrime-Bounty-Program-Expands-the-Fight-Against-Cybercrime" target="_blank" rel="noopener">Driving Accountability: New Cybercrime Bounty Program Expands the Fight Against Cybercrime</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 18 Nov 2025 14:00:00 +0000</div>
+    <p>The Fortinet-CSI Cybercrime Bounty program mobilizes global communities to report cyberthreats safely, helping scale deterrence and strengthen digital resilience.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0cg5s/help_intermittent_total_network_loss_after/" target="_blank" rel="noopener">[Help] Intermittent Total Network Loss after FortiAuthenticator Upgrade (FortiGate 7.2.11 / FAC 6.6.6)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-18T13:50:43+00:00</div>
+    <p>Hi all, We are experiencing a critical and intermittent issue across our entire user base (total loss of Internet and internal resource access) after recently performing a staged upgrade of our FortiAuthenticator from v6.4.5 → 6.5.6 → 6....</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0brpi/fortigate_upgrade/" target="_blank" rel="noopener">Fortigate upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-18T13:21:32+00:00</div>
+    <p>If the FortiGate license is active during the upgrade to version 7.4.9, and later the license expires, will this cause any issues? Will the firewall continue to work normally even after the license expires? submitted by /u/aliloujazen [l...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p0ax4y/forticlient_ems_744_ubuntu_package_upgrade/" target="_blank" rel="noopener">FortiClient EMS 7.4.4 Ubuntu package upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-18T12:42:58+00:00</div>
+    <p>Since upgrading to 7.4.4, only emscli is available. When I log in, I see the following message: 13 updates can be installed immediately. To view these additional updates, run the following command: apt list --upgradable How can I update ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2025/11/18/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 18 Nov 25 12:00:00 +0000</div>
+    <p>CISA has added one new vulnerability to its KEV Catalog, based on evidence of active exploitation.</p>
   </div>
 </li>
 <li class="card">
@@ -40,78 +112,6 @@ _Updated: November 18, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://www.darkreading.com/application-security/critical-fortinet-fortiweb-waf-bug-exploited-in-wild" target="_blank" rel="noopener">Critical Fortinet FortiWeb WAF Bug Exploited in the Wild</a></h3>
     <div class="meta">Dark Reading · Mon, 17 Nov 2025 21:10:01 GMT</div>
     <p>The vulnerability could allow an unauthenticated attacker to remotely execute administrative commands.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozp5qu/fortiweb_distinction/" target="_blank" rel="noopener">FortiWeb distinction</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T19:06:35+00:00</div>
-    <p>Hello All! I have a very simple stupid question that I feel like I have answered, but I haven&#x27;t been able to get consensus from my co-workers. I don&#x27;t work much with FortiNet but I was asked to check to make sure all the FortiGate firewa...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozoe35/can_someone_explain_this_config_warning_when/" target="_blank" rel="noopener">Can someone explain this config warning when adding interface as SDWAN member with gateway</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T18:38:48+00:00</div>
-    <p>So this is what happens: config system sdwan config members edit 1 set interface &quot;wan1&quot; set gateway 1.2.3.4 next Gateway conflicts with static route rule 8, which may cause a specific rule to become disabled. Do you want to continue? (y/...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozls60/allowing_traffic_from_customer_that_uses_zscaler/" target="_blank" rel="noopener">Allowing traffic from customer that uses Zscaler</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T17:04:36+00:00</div>
-    <p>So we have this customer that we provide a SaaS to. We used to have IP whitelisting in place for the public IP from their proxy, always worked fine. But now they moved to Zscaler and the whitelisting no longer works as expected. But how ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozjb1p/configuring_forticlient_via_file_upload_for/" target="_blank" rel="noopener">Configuring FortiClient via File Upload for Dial-Up VPN on Windows (FortiGate 7.6.3)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T15:31:28+00:00</div>
-    <p>I have heard that FortiClient can be configured on Windows devices using a configuration file upload. How can this be done in FortiGate version 7.6.3 to simplify the dial-up VPN setup for all users? submitted by /u/Gijizlle-242 [link] [c...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozicz3/dnat_on_sdwan_member_help_me_understand_this/" target="_blank" rel="noopener">DNAT on SDWAN member - help me understand this article</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T14:54:34+00:00</div>
-    <p>I have a WAN interface in a SDWAN zone which is used for DNAT. And occasionally the policy that contains the VIP won&#x27;t get hit and traffic doesn&#x27;t pass. Now there&#x27;s this article explaining how to handle VIPs when the interface is a SDWAN...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozib7h/fntransfp2_sw_transievers/" target="_blank" rel="noopener">FN-TRAN-SFP2 SW transievers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T14:52:40+00:00</div>
-    <p>What fiber patch cable is supposed to work with these? The LC-LC ones I have do not work as I think they are OM2 submitted by /u/Rocknbob69 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozia6y/lag_port_from_fortigate_ha_pair_to_cisco_switch/" target="_blank" rel="noopener">LAG port from Fortigate HA pair to cisco switch stack?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T14:51:30+00:00</div>
-    <p>I&#x27;m trying to set up a LAG from a pair of Fortigate firewalls in active/passive HA to a pair of stacked Cisco switches. I -thought- I should do them as two different port channels on the Cisco switch config, one to each of the two switch...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozfxl1/zones_or_sdwan_for_bgp_to_aws/" target="_blank" rel="noopener">Zones or SDWAN for BGP to AWS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T13:13:25+00:00</div>
-    <p>Hi All Ive been looking but im unable to get a clear picture of why SDWAN would be favoured. Scenario, Fortigate with 2 direct connect links to AWS. + 1 IPSec tunnel to AWS. ( 3 seperate WAN links) The 2 direct connect links have their o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ozftt8/internetfw_fortigateunifi_udm_pro_max/" target="_blank" rel="noopener">Internet&lt;--FW FORTIGATE&lt;--UniFi UDM Pro Max</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-17T13:08:49+00:00</div>
-    <p>Hola Buenas Por si alguien me puede echar una mano, Exquema de Red FW-600D | Conectado directamente (cable a un puerto) ( Red de enlace FW Gateway -192.168.40.1--&gt; UDM GT -192.168.40.2) SW UniFi1 (Red [192.160.20.2]) Lo tengo segmentado....</p>
   </div>
 </li>
 <li class="card">
@@ -208,14 +208,6 @@ _Updated: November 18, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/926970515/0/fortinet/blogs~Fortinet-Honored-by-Crime-Stoppers-International-for-Global-Leadership-in-Cybercrime-Prevention" target="_blank" rel="noopener">Fortinet Honored by Crime Stoppers International for Global Leadership in Cybercrime Prevention</a></h3>
     <div class="meta">Fortinet Blog · Thu, 30 Oct 2025 15:00:00 +0000</div>
     <p>Crime Stoppers International has recognized Fortinet with two 2025 awards honoring its leadership in cybercrime disruption, intelligence sharing, and community resilience.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/926926157/0/fortinet/blogs~Cyber-Awareness-Month-Why-AI-Literacy-Matters-for-Cybersecurity" target="_blank" rel="noopener">Cyber Awareness Month: Why AI Literacy Matters for Cybersecurity</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 29 Oct 2025 17:00:00 +0000</div>
-    <p>Fortinet’s Cybersecurity Skills Gap Report shows AI expertise is in short supply. Learn why AI literacy is critical for professionals and society alike.…</p>
   </div>
 </li>
 </ul>
