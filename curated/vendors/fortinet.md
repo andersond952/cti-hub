@@ -7,95 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 21, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 22, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2ssdg/inconsistent_whastapp_block_on_my_wifi/" target="_blank" rel="noopener">Inconsistent WhastApp block on my WiFi</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-21T07:54:53+00:00</div>
-    <p>I&#x27;m using the FortiGate 200F v7.2.12, as said in the title, we have a Policy for our Wifi to let WA work (set in the Security Profile, AppFilter) and even put it in the override yet it still block it sometimes. It&#x27;s not a costant block b...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2nr02/anyone_else_confused_by_the_fndn_fortinac_lab/" target="_blank" rel="noopener">Anyone else confused by the FNDN FortiNAC lab design? Looking for advice.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-21T03:16:02+00:00</div>
-    <p>I’m going through the Fortinet FNDN FortiNAC labs and I’m honestly confused by the way they’ve structured things. I expected a basic FortiNAC fundamentals lab, something like a single FNAC setup, switch integration, basic onboarding flow...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2n1dp/advice_needed_on_hubspoke_policies_who_rules_and/" target="_blank" rel="noopener">Advice needed on hub-spoke policies, who rules and whats best practice?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-21T02:42:28+00:00</div>
-    <p>Hey all, I built out an ADVPN SDWAN hub and spoke setup. 1 hub, 3 spokes. no fortimanager, so each gate is individually configured. I build out the hub first and took my time with all the firewall policies. regarding the firewall policie...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2l1sq/fortigate_cluster/" target="_blank" rel="noopener">fortigate cluster</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-21T01:10:16+00:00</div>
-    <p>2 fortigate cluster, 1 master the second is salve. only the master has valid connection for the internet. the salve will have connection to the internet just when he will become the master of the cluster. when the license is expired and ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/53tAhv6znuiuPeEocCT9DtlkV9K8lOPg_u83JZfeMeI.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2k9uc/dhcp_not_working_fortigate_to_fortinet_ap/" target="_blank" rel="noopener">DHCP not working. Fortigate to Fortinet AP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-21T00:36:24+00:00</div>
-    <p>is there something special i need to do in order for this to work . I am having an issue with bridge mode AP , Whenever i do test connect. i am able to see the SSID advertising but i cant connect to it. when i reviewed the logs. it seems...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2c7dp/is_there_any_way_to_assign_static_ips_to/" target="_blank" rel="noopener">Is there any way to assign static IPs to Forticlients when using IPSEC?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-20T19:16:20+00:00</div>
-    <p>This is causing so much pain. Client connects via IPSEC with FortiClient, and they are assigned an IP from the pool. I would love to map each remote host to a specific address so we aren&#x27;t playing round robin every time a user connects. ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2c5u6/ips_alerting_exemption/" target="_blank" rel="noopener">IPS alerting exemption?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-20T19:14:41+00:00</div>
-    <p>Hello all, We have a security server that scans for vulnerabilities. It triggers a lot of IPS alerts. We don&#x27;t want to allow this server, we just want to not alert if the IPS is triggered by this specific address. But we still want to bl...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2bh8s/issues_with_fortigate_gseries_50g120g_reboots/" target="_blank" rel="noopener">Issues With FortiGate G-Series (50G/120G): Reboots, Boot Loops, Kernel Panic</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-20T18:49:34+00:00</div>
-    <p>We’ve deployed FortiGate 50G and 120G units in our SD-WAN setup, running FortiOS 7.4.9 (also tested 7.4.8 with the same issues). Ever since we put these boxes into production, we’ve had multiple unexpected reboots on the 50G units with n...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p2a9cp/finally_new_forticlient_vpnonly/" target="_blank" rel="noopener">Finally new FortiClient VPN-only?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-20T18:06:49+00:00</div>
-    <p>Well, considering the latest 7+ CVE for FortiClient up to 7.4.3, I&#x27;m wondering whether Fortinet will finally release a fixed VPN-only client ... especially considering they have known about the bug for a while now, before publishing the ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p277v8/issues_allowing_crlocsp_traffic_through_fortigate/" target="_blank" rel="noopener">Issues allowing CRL/OCSP traffic through FortiGate — how do you handle this?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-20T16:12:57+00:00</div>
-    <p>Hi everyone, how do you allow CRL/OCSP downloads from external CAs (e.g., DigiCert, GlobalSign) for Windows Server clients? I’ve already tried using an ISDB policy with the corresponding Internet Services like DigiCert-OCSP, etc. However...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p21zh8/fortinet_reboot_causes_m365_universal_print_to/" target="_blank" rel="noopener">Fortinet Reboot causes M365 universal print to lose registration</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-20T12:33:28+00:00</div>
-    <p>Long shot.. But would anyone know why rebooting a FWF 61F would cause a local printer on-site to lose M365 universal print registration. Dropping internet or rebooting printer doesn&#x27;t cause this, just rebooting the firewall. I&#x27;m stumped....</p>
+    <h3><a href="https://feeds.fortinet.com/~/928637117/0/fortinet/blogs~Inside-the-Industrialization-of-Cybercrime-What-to-Expect-in" target="_blank" rel="noopener">Inside the Industrialization of Cybercrime: What to Expect in 2026</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 21 Nov 2025 14:00:00 +0000</div>
+    <p>Fortinet’s 2026 Cyberthreat Predictions Report examines how cybercrime is evolving into an industrialized, AI-driven ecosystem and how CISOs can adapt by unifying threat intelligence, exposure mana…</p>
   </div>
 </li>
 <li class="card">
@@ -208,14 +128,6 @@ _Updated: November 21, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/927010508/0/fortinet/blogs~Cloud-Abuse-at-Scale" target="_blank" rel="noopener">Cloud Abuse at Scale</a></h3>
     <div class="meta">Fortinet Blog · Fri, 31 Oct 2025 13:00:00 +0000</div>
     <p>FortiGuard Labs analyzes TruffleNet, a large-scale campaign abusing AWS SES with stolen credentials and linked to Business Email Compromise (BEC).…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/926961680/0/fortinet/blogs~Stolen-Credentials-and-Valid-Account-Abuse-Remain-Integral-to-Financially-Motivated-Intrusions" target="_blank" rel="noopener">Stolen Credentials and Valid Account Abuse Remain Integral to Financially Motivated Intrusions</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 30 Oct 2025 15:00:00 +0000</div>
-    <p>FortiGuard IR analysis of H1 2025 shows financially motivated actors increasingly abusing valid accounts and legitimate remote access tools to bypass detection, emphasizing the need for identity-ce…</p>
   </div>
 </li>
 </ul>
