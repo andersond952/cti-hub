@@ -7,95 +7,135 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 26, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 27, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p71n9m/issues_with_ipsec_vpn_on_fortigate_90g_with/" target="_blank" rel="noopener">Issues with IPsec VPN on FortiGate 90G with FortiOS 7.4.8 - works on mobile hotspot but fails on some home networks</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T07:31:34+00:00</div>
-    <p>Hi! We’re using a FortiGate 90G running FortiOS 7.4.8. We’ve implemented an IPsec VPN with SAML following this Fortinet guide: https://community.fortinet.com/t5/FortiGate/Technical-Tip-FortiGate-IPSec-Dial-up-IKEv2-SAML-based/ta-p/361025...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7vfga/diagnose_commands_guide/" target="_blank" rel="noopener">Diagnose commands guide</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T06:46:31+00:00</div>
+    <p>Hi all, this is my first post overhere and I&#x27;m kinda new to all of this. I&#x27;m in studying for FCSS EFW AD 7.4 exam and I have a queistion related to debug output - is there anyware a guide that tells what exactly all of the outputs tell? ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p71i40/ipsec_vpn_linux_client/" target="_blank" rel="noopener">IPSEC VPN - LINUX CLIENT</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T07:22:51+00:00</div>
-    <p>Hi, I managed to configure an IPSEC VPN on Linux using StrongSwan. My firewall policy is such that traffic that matches the target source is nated. Can I use StrongSwan to do this like in FortiClient—without manually adding public addres...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7r0da/do_we_actually_need_config_firewall_proxypolicy/" target="_blank" rel="noopener">Do we actually need config firewall proxy-policy for all ZTNA access proxy types (HTTPS &amp; TCP Forward), or only for SaaS/web apps?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T02:46:48+00:00</div>
+    <p>I’m running into some inconsistent behavior in ZTNA labs and wanted to check with others who have worked deeply with FortiGate ZTNA / Access Proxy. What I’m seeing: When I create ZTNA for SaaS / Web applications (example: Gmail, Salesfor...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6xo32/g_generation_for_100_model/" target="_blank" rel="noopener">G generation for 100 model?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T03:51:09+00:00</div>
-    <p>Folks, is there any rumor regarding 100 model G generation? 120G is too expansive for me and 90G looks a little bit weak (hardware). 100 serials looks fit but 100F near end of lifecycle. Is it no 100 model anymore? or it&#x27;s just need to w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7l3h7/registering_fortiswitch_via_fortigate_gui/" target="_blank" rel="noopener">Registering FortiSwitch Via FortiGate GUI</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T22:10:00+00:00</div>
+    <p>Has anyone had any issues with being able to register their switch via FortiGate GUI? I have had a ticket open with TAC since February of this year about this issue with multiple troubleshooting sessions and was stated to be fixed in 7.4...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6pw1l/fortiswitches_and_stp_priority/" target="_blank" rel="noopener">FortiSwitches and STP Priority</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T21:59:49+00:00</div>
-    <p>Hello! When having FortiSwitches managed by a FortiGate over an FortiLink interface, the switches changes their STP-priority from the default 32768 to something else, where can I find more information about how it works? submitted by /u/...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7j1ym/fgcp_mac_address_logic/" target="_blank" rel="noopener">FGCP MAC ADDRESS LOGIC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T20:48:36+00:00</div>
+    <p>How to differentiate between Logic1 and Logic4 ? For example: e0:23:ff:fc:00:86 submitted by /u/Emotional-Marsupial6 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6pvcj/fortinet_client_over_optus_4g_issues/" target="_blank" rel="noopener">Fortinet client over Optus 4G issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T21:59:03+00:00</div>
-    <p>Hi all. I&#x27;m the IT guy for a medium sized (by Australian standards, tiny by US/EU standards I know) company that has about 150 laptops out at various stores around Australia. Almost all of them use their built in LTE modem and an install...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7eh2b/ems_upgrade_from_649/" target="_blank" rel="noopener">EMS upgrade from 6.4.9</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T17:53:22+00:00</div>
+    <p>Hello, I have a customer with an old EMS 6.4.9 , we&#x27;re planning to upgrade it all the way to the latest 7.2 and later to 7.4, but let&#x27;s focus on 7.2. I&#x27;m testing this upgrade by using a lab with an EMS evaluation, I&#x27;ve installed 6.4.9 an...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6ogki/is_it_possible_for_a_fortigate_100f_to_create_dns/" target="_blank" rel="noopener">Is it possible, for a Fortigate 100F, to create DNS entries tied to a DHCP address that dynamically updates itself if the DHCP address changes?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T21:04:10+00:00</div>
-    <p>I&#x27;d like to setup DNS entries (server1.processors.example.local) that&#x27;d point to a specific server (10.x.x.x), whose IP address can change (depending on that vlan&#x27;s DHCP). Is that possible? Would that be bad-practice in the first place a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7cjqo/провайдер_с_двумя_ip/" target="_blank" rel="noopener">Провайдер с двумя IP...</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T16:42:01+00:00</div>
+    <p>Всем привет! Объясните принцип, как реализовать это: Один провайдер по одному кабелю даёт интернет с двумя статичными IP, причём оба не из одного пула и с разными шлюзами. Имеем дело с Fortigate 120G оптика провайдера подал в порт 24. Ка...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6nrrh/vpn_site_to_site_with_nat_traslated/" target="_blank" rel="noopener">VPN Site to Site with NAT traslated</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T20:38:32+00:00</div>
-    <p>Good evening everyone, I have established a Site-to-Site VPN between a Fortinet firewall and a Sophos. Since on the Sophos side the 192.168.0.0/24 network is already present (this is the client’s network that has the Sophos), we need to ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7bkxo/it_manager_told_adminsengineers_to_useenable_rsat/" target="_blank" rel="noopener">IT Manager told Admins/Engineers to use/enable RSAT on their personal/assigned computers for convenience. Many places that I have worked (Government and Corporate) prohibited RSAT usage due to security/attack surface concerns. Your views?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T16:05:37+00:00</div>
+    <p>submitted by /u/Artistic-Injury-9386 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6k9b1/consolidate_into_a_single_120g_from_a_91g_and_108/" target="_blank" rel="noopener">Consolidate into a single 120G from a 91G and 108 switch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T18:28:37+00:00</div>
-    <p>I&#x27;m thinking about consolidating two devices into one. FGT 91G and FS 108 into a single FGT 121G. Question. Whether I&#x27;m using a single HW or SW switch on the 121G, can I establish a LACP / LAG / PortChannel to my FortiAP in the same VLAN...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7b68b/fortianalyzeranalytics_adom/" target="_blank" rel="noopener">FortiAnalyzer-Analytics ADOM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T15:50:16+00:00</div>
+    <p>I&#x27;m poking around my FortAnalyzer install and using ChatGPT to look at some SSLVPN analytics. ChatGPT suggested I create a new separate Analytics ADOM I don&#x27;t have that option. I have other ADOMs I can create but none are Analytics. Chat...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6jwvy/cyberratings_update/" target="_blank" rel="noopener">Cyberratings update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T18:16:14+00:00</div>
-    <p>Cyberratings have released an update on their recent Enterprise Firewall 2025 report. Both Fortinet and Palo Alto Networks have improved their score. The new scores are: - FG-200: 99.24% - PA-1410: 96.07% Reason for the initial poor test...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7ayr8/ipsec_over_tcp_443_and_authikesamlport/" target="_blank" rel="noopener">IPSEC over TCP 443 and auth‑ike‑saml‑port</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T15:42:10+00:00</div>
+    <p>Hi Been testing different flavours of Fortigate OS for some months now and we we are strugling to decide on a good solution for our customers moving from SSL VPN. We use SAML Entra and this has been super stable with the SSL VPN. Now we ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6g8st/ipsec_vpn_break_after_upgrading_to_748/" target="_blank" rel="noopener">IPSEC vpn break after upgrading to 7.4.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T16:01:53+00:00</div>
-    <p>Hello! I have FGT 90G running 7.4.8. I setup IPSEC vpn on when it was running 7.0.x and it was working till 7.4.2. I upgrade it to 7.4.8 and the IPSEC vpn is not working. I havent done the troubleshooting and only asking if there is some...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7avdb/help_please_with_ipsec_vpn/" target="_blank" rel="noopener">Help please with ipsec vpn</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T15:38:31+00:00</div>
+    <p>Guys, hope everyone is doing well and that you can help me. I spent the last 2 days trying to setup ipsec vpn for remote users. No matter what I do, it doesn&#x27;t connect the client. No error, just trying to connect. Watched 2 different vid...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6fc5b/30g_model_vpn_feedback/" target="_blank" rel="noopener">30G model &amp; VPN feedback</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T15:27:54+00:00</div>
-    <p>Hi all, for one of my customer, 4 laptops in office, im planning to deploy 30G model. Internet access is PPPoE with dynamic ip, fw policy will be flow based and there is need for VPN. 5-6 aditional laptops will connect to access some int...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p78iet/policy_baseline_with_different_adoms_on/" target="_blank" rel="noopener">Policy Baseline with different ADOMs on FortiManager</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T14:02:55+00:00</div>
+    <p>Hi :) I&#x27;d like to create a Policy Baseline set on FortiManager with different ADOMs enabled. So bascially when I create a new ADOM I&#x27;d like to copy/paste or whatever a given Policybaseline set so I don&#x27;t have to start fresh every time. A...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/929681342/0/fortinet/blogs~ShadowV-Casts-a-Shadow-Over-IoT-Devices-FortiGuard-Lab" target="_blank" rel="noopener">ShadowV2 Casts a Shadow Over IoT Devices | FortiGuard Lab</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 26 Nov 2025 14:00:00 +0000</div>
+    <p>ShadowV2, a new Mirai-based botnet targeting IoT devices, surfaced during the recent AWS outage. FortiGuard Labs examines its propagation, DDoS capabilities, and global footprint.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7682x/forti_7018_ipv6_on_wan/" target="_blank" rel="noopener">Forti 7.0.18 IPv6 on WAN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T12:15:31+00:00</div>
+    <p>Hi, I am struggeling with configurating IPv6 on WAN. I have FortiGate 120G. We have 2 WAN ports, where one should have IPv6 enabled at ISP and they gave us IPv6/Prefix and gateway. I edited WAN1 (lets say) and added this IPv6/prefix, I a...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/qM4MnmVZW0C2Cv7Mv1DpTuKXHx6V4_iW8qQfvt6yW7s.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p75kqa/2_ipsec_vpn_tunnels_for_same_user_1_spilt_1_full/" target="_blank" rel="noopener">2 ipsec vpn tunnels for same user (1 spilt, 1 full) - possible ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T11:39:32+00:00</div>
+    <p>as titles says i tried 2 hours create 2 tunnels, but its always one working the other one not all i want is 1 tunnel will be proxy surfing (which is using full tunnel) to use the WAN ip for hour country ands spilt tunnel is to connect co...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p75bu4/forticlient_vpn_connection_speed_problems/" target="_blank" rel="noopener">FortiClient VPN connection speed problems</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T11:25:27+00:00</div>
+    <p>I&#x27;m using FortiClient VPN to connect to work network (on Windows 11). I have 2GBit line and all works fine in full speed. After VPN is connected, download speed drops to ~50% so I&#x27;m on 900-1000. This is 1st problem. When I disconnect, sp...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p752i9/fortinet_support_constantly_ignoring_meeting_times/" target="_blank" rel="noopener">Fortinet support constantly ignoring meeting times</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T11:09:50+00:00</div>
+    <p>This is more of a complaint than anything else, but I&#x27;m wondering if others are running into the same thing. We run a pretty tight ship with a single fortiadmin for 6 FG600 units across 3 countries. When we run into issues that are beyon...</p>
   </div>
 </li>
 <li class="card">
@@ -104,30 +144,6 @@ _Updated: November 26, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/929465012/0/fortinet/blogs~Cyberthreats-Targeting-the-Holiday-Season-What-CISOs-Need-to-Know" target="_blank" rel="noopener">Cyberthreats Targeting the 2025 Holiday Season: What CISOs Need to Know</a></h3>
     <div class="meta">Fortinet Blog · Tue, 25 Nov 2025 14:00:00 +0000</div>
     <p>Cybercriminal activity is surging ahead of the 2025 holiday season. Deceptive domains, stolen accounts, and e-commerce attacks are accelerating. Here’s what leaders need to know.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6cuxg/network_security/" target="_blank" rel="noopener">Network Security</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T13:47:18+00:00</div>
-    <p>I have Forcepoint as edge firewall and Forti-Sandbox and I want to make integration between them which Forcepoint will send all file to Forti-SandBox To scan it and get send the result back to Forti-Sandbox ... How can i do this ? submit...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6ctza/forticlient_ipsec_saml_woes/" target="_blank" rel="noopener">Forticlient IPsec SAML woes</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T13:46:09+00:00</div>
-    <p>Hi there, I&#x27;m beginning a migration from SSLVPN to IPSec. I&#x27;d like to have both tunnels running concurrently so we can migrate users in batches. Running FortiGate 121G 7.4.9. I&#x27;m using FortiEMS Cloud to push FortiClient 7.4.4.1887 to use...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p6c1y8/recently_passed_enterprise_firewall_administrator/" target="_blank" rel="noopener">Recently passed Enterprise Firewall Administrator NSE7 exam, hit me up for help</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-25T13:11:19+00:00</div>
-    <p>I have recently passed NSE7 Enterprise Firewall Administrator. Hit me in DM if you need any help. submitted by /u/yozha96 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -232,14 +248,6 @@ _Updated: November 26, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/927504689/0/fortinet/blogs~Fortinet-Expands-Managed-SOCasaService-Accessible-Cyber-Defense-for-Every-Organization" target="_blank" rel="noopener">Fortinet Expands Managed SOC-as-a-Service: Accessible Cyber Defense for Every Organization</a></h3>
     <div class="meta">Fortinet Blog · Tue, 11 Nov 2025 14:00:00 +0000</div>
     <p>Fortinet expands managed SOCaaS with AI-driven efficiency, deeper integrations, and FortiSASE alignment, bringing expert-led SOC capabilities to any organization.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/927178706/0/fortinet/blogs~CISO-Predictions-for" target="_blank" rel="noopener">CISO Predictions for 2026</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 4 Nov 2025 14:00:00 +0000</div>
-    <p>Explore Fortinet’s 2026 cybersecurity predictions from global CISOs. Discover how AI-driven threats, geopolitical tensions, and emerging technologies, such as quantum computing and satellite networ…</p>
   </div>
 </li>
 </ul>
