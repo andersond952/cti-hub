@@ -7,95 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 27, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 28, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7vfga/diagnose_commands_guide/" target="_blank" rel="noopener">Diagnose commands guide</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T06:46:31+00:00</div>
-    <p>Hi all, this is my first post overhere and I&#x27;m kinda new to all of this. I&#x27;m in studying for FCSS EFW AD 7.4 exam and I have a queistion related to debug output - is there anyware a guide that tells what exactly all of the outputs tell? ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p8qqxl/how_to_use_a_custom_port_for_health_checks_in/" target="_blank" rel="noopener">How to Use a Custom Port for Health Checks in FortiWeb 7.4.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-28T09:32:48+00:00</div>
+    <p>Can we specify a custom port in a FortiWeb health check? I&#x27;m using version 7.4.8 and would like to use a port that isn’t part of the default options (TCP, TCP Half-Open, HTTP, ICMP, TCP SSL). For example, can I configure a health check t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7r0da/do_we_actually_need_config_firewall_proxypolicy/" target="_blank" rel="noopener">Do we actually need config firewall proxy-policy for all ZTNA access proxy types (HTTPS &amp; TCP Forward), or only for SaaS/web apps?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T02:46:48+00:00</div>
-    <p>I’m running into some inconsistent behavior in ZTNA labs and wanted to check with others who have worked deeply with FortiGate ZTNA / Access Proxy. What I’m seeing: When I create ZTNA for SaaS / Web applications (example: Gmail, Salesfor...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p8odoj/side2side_vpn_static_routing/" target="_blank" rel="noopener">Side2Side VPN, static routing</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-28T07:00:35+00:00</div>
+    <p>We got on side B a 172.22.x.x net with two devices, a gateway and a terminal, which can interact with each other and with internet based services. The hardware/services provider gave static rule sets which are set on both Fortigate FWs o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7l3h7/registering_fortiswitch_via_fortigate_gui/" target="_blank" rel="noopener">Registering FortiSwitch Via FortiGate GUI</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T22:10:00+00:00</div>
-    <p>Has anyone had any issues with being able to register their switch via FortiGate GUI? I have had a ticket open with TAC since February of this year about this issue with multiple troubleshooting sessions and was stated to be fixed in 7.4...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p8nimv/is_that_passible_to_connect_the_fap231e_orver_40/" target="_blank" rel="noopener">Is that passible to connect the FAP231E orver 40 devices ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-28T06:08:59+00:00</div>
+    <p>We have a training class need over 40 device (labtop and mobile phone) to connect the fap231e at the same time. Does it possible ? or maybe too much 2.4g device will cause disconnect ? submitted by /u/Timely_Hope9122 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7j1ym/fgcp_mac_address_logic/" target="_blank" rel="noopener">FGCP MAC ADDRESS LOGIC</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T20:48:36+00:00</div>
-    <p>How to differentiate between Logic1 and Logic4 ? For example: e0:23:ff:fc:00:86 submitted by /u/Emotional-Marsupial6 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p8ikkd/fac_wont_let_me_restore_a_config_i_literally_just/" target="_blank" rel="noopener">FAC won’t let me restore a config I literally just downloaded (ztna FNDN lab)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-28T01:40:01+00:00</div>
+    <p>I’m running into something weird on the FNDN FortiAuthenticator in the ztna lab. I’m trying to restore a config backup that I just downloaded from the same FAC. Firmware version on this lab appliance is: v6.4.6, build 1043 (GA). Same iss...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7eh2b/ems_upgrade_from_649/" target="_blank" rel="noopener">EMS upgrade from 6.4.9</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T17:53:22+00:00</div>
-    <p>Hello, I have a customer with an old EMS 6.4.9 , we&#x27;re planning to upgrade it all the way to the latest 7.2 and later to 7.4, but let&#x27;s focus on 7.2. I&#x27;m testing this upgrade by using a lab with an EMS evaluation, I&#x27;ve installed 6.4.9 an...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p8amvv/issue_with_getting_ip_on_wan_through_dhcp/" target="_blank" rel="noopener">Issue with getting IP on WAN through DHCP - Resolved but I don&#x27;t know why</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T19:19:40+00:00</div>
+    <p>Was setting up a new out of box Fortigate, something I have done dozens of times before. Connected to port 1. Logged in. Enabled HTTP/HTTPS access on WAN2 and ensured DHCP was enabled. Connected WAN2 to my switch. WAN2 in the GUI lit up ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7cjqo/провайдер_с_двумя_ip/" target="_blank" rel="noopener">Провайдер с двумя IP...</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T16:42:01+00:00</div>
-    <p>Всем привет! Объясните принцип, как реализовать это: Один провайдер по одному кабелю даёт интернет с двумя статичными IP, причём оба не из одного пула и с разными шлюзами. Имеем дело с Fortigate 120G оптика провайдера подал в порт 24. Ка...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p820kc/trouble_with_dhcp_for_wifi_clients_after_update/" target="_blank" rel="noopener">Trouble with DHCP for WiFi clients after update from 7.2.10 to higher version</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T13:19:13+00:00</div>
+    <p>Hi all, We are running a FortiGate 600F with firmware version 7.2.10. About six months ago, we performed an update to version 7.2.11. After the upgrade, we noticed that Wi-Fi clients were no longer receiving IP addresses. In the case men...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7bkxo/it_manager_told_adminsengineers_to_useenable_rsat/" target="_blank" rel="noopener">IT Manager told Admins/Engineers to use/enable RSAT on their personal/assigned computers for convenience. Many places that I have worked (Government and Corporate) prohibited RSAT usage due to security/attack surface concerns. Your views?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T16:05:37+00:00</div>
-    <p>submitted by /u/Artistic-Injury-9386 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p80jt8/gemini_statement_about_ike_daemon_default_gateway/" target="_blank" rel="noopener">Gemini statement about IKE daemon default gateway per tunnel</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T12:02:56+00:00</div>
+    <p>Hello, Could you please tell me if this statement is true? I cannot find any information online about it. Physical Interface: When you specify a physical interface ( set interface wanX ) in the IPsec phase1-interface configuration, the F...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7b68b/fortianalyzeranalytics_adom/" target="_blank" rel="noopener">FortiAnalyzer-Analytics ADOM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T15:50:16+00:00</div>
-    <p>I&#x27;m poking around my FortAnalyzer install and using ChatGPT to look at some SSLVPN analytics. ChatGPT suggested I create a new separate Analytics ADOM I don&#x27;t have that option. I have other ADOMs I can create but none are Analytics. Chat...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7ayr8/ipsec_over_tcp_443_and_authikesamlport/" target="_blank" rel="noopener">IPSEC over TCP 443 and auth‑ike‑saml‑port</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T15:42:10+00:00</div>
-    <p>Hi Been testing different flavours of Fortigate OS for some months now and we we are strugling to decide on a good solution for our customers moving from SSL VPN. We use SAML Entra and this has been super stable with the SSL VPN. Now we ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7avdb/help_please_with_ipsec_vpn/" target="_blank" rel="noopener">Help please with ipsec vpn</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T15:38:31+00:00</div>
-    <p>Guys, hope everyone is doing well and that you can help me. I spent the last 2 days trying to setup ipsec vpn for remote users. No matter what I do, it doesn&#x27;t connect the client. No error, just trying to connect. Watched 2 different vid...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p78iet/policy_baseline_with_different_adoms_on/" target="_blank" rel="noopener">Policy Baseline with different ADOMs on FortiManager</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T14:02:55+00:00</div>
-    <p>Hi :) I&#x27;d like to create a Policy Baseline set on FortiManager with different ADOMs enabled. So bascially when I create a new ADOM I&#x27;d like to copy/paste or whatever a given Policybaseline set so I don&#x27;t have to start fresh every time. A...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p802me/fortigate_sdwan_hub_and_spokes/" target="_blank" rel="noopener">FortiGate SD-WAN Hub and Spokes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-27T11:35:42+00:00</div>
+    <p>Hello there I have just started in new company where they wanna deploy SD-WAN hub to spokes we have single hub (active standby firewall) the approximates Spokes they are estimating is about 400-500 sites currently I have no experience wi...</p>
   </div>
 </li>
 <li class="card">
@@ -104,38 +80,6 @@ _Updated: November 27, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/929681342/0/fortinet/blogs~ShadowV-Casts-a-Shadow-Over-IoT-Devices-FortiGuard-Lab" target="_blank" rel="noopener">ShadowV2 Casts a Shadow Over IoT Devices | FortiGuard Lab</a></h3>
     <div class="meta">Fortinet Blog · Wed, 26 Nov 2025 14:00:00 +0000</div>
     <p>ShadowV2, a new Mirai-based botnet targeting IoT devices, surfaced during the recent AWS outage. FortiGuard Labs examines its propagation, DDoS capabilities, and global footprint.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p7682x/forti_7018_ipv6_on_wan/" target="_blank" rel="noopener">Forti 7.0.18 IPv6 on WAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T12:15:31+00:00</div>
-    <p>Hi, I am struggeling with configurating IPv6 on WAN. I have FortiGate 120G. We have 2 WAN ports, where one should have IPv6 enabled at ISP and they gave us IPv6/Prefix and gateway. I edited WAN1 (lets say) and added this IPv6/prefix, I a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/qM4MnmVZW0C2Cv7Mv1DpTuKXHx6V4_iW8qQfvt6yW7s.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p75kqa/2_ipsec_vpn_tunnels_for_same_user_1_spilt_1_full/" target="_blank" rel="noopener">2 ipsec vpn tunnels for same user (1 spilt, 1 full) - possible ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T11:39:32+00:00</div>
-    <p>as titles says i tried 2 hours create 2 tunnels, but its always one working the other one not all i want is 1 tunnel will be proxy surfing (which is using full tunnel) to use the WAN ip for hour country ands spilt tunnel is to connect co...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p75bu4/forticlient_vpn_connection_speed_problems/" target="_blank" rel="noopener">FortiClient VPN connection speed problems</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T11:25:27+00:00</div>
-    <p>I&#x27;m using FortiClient VPN to connect to work network (on Windows 11). I have 2GBit line and all works fine in full speed. After VPN is connected, download speed drops to ~50% so I&#x27;m on 900-1000. This is 1st problem. When I disconnect, sp...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p752i9/fortinet_support_constantly_ignoring_meeting_times/" target="_blank" rel="noopener">Fortinet support constantly ignoring meeting times</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-26T11:09:50+00:00</div>
-    <p>This is more of a complaint than anything else, but I&#x27;m wondering if others are running into the same thing. We run a pretty tight ship with a single fortiadmin for 6 FG600 units across 3 countries. When we run into issues that are beyon...</p>
   </div>
 </li>
 <li class="card">
