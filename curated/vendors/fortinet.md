@@ -7,39 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 29, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 30, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p9kmmh/entra_joined_devices/" target="_blank" rel="noopener">Entra Joined Devices</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-29T09:18:23+00:00</div>
-    <p>Hi all, We&#x27;re looking at Fortinet firewalls and I had a query with the sales person around user/host identification for company devices especially for Entra Joined Devices. We use a different remote access solution so Fortisase isn&#x27;t an ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p9q77f/ssh_interception_host_key_persistency/" target="_blank" rel="noopener">SSH interception host key persistency</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-29T14:25:08+00:00</div>
+    <p>The host key shown during SSH interception seems to be a new one on each connection, even for the same destination host. How would I make it static? Besides general issues like acknowledging a forever changing host key not providing any ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p94yci/fortinac_fortiswitch_fortilink_postscan_vlan/" target="_blank" rel="noopener">FortiNAC + FortiSwitch (FortiLink): Post-Scan VLAN switch fails (CoA issue). Requires physical replug to move from Isolation to Production.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-28T20:16:59+00:00</div>
-    <p>Hi everyone, ​I’m running a FortiLink environment and hitting a wall with FortiNAC automation. The logic works (devices get isolated/remediated correctly), but the actual VLAN change on the switch port doesn&#x27;t happen automatically. The e...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p90itl/no_fortigate_av_updates_today_ai_malware/" target="_blank" rel="noopener">No FortiGate AV updates today? - AI Malware Detection 4.03476; AV Definitions &amp; Mobile Malware 93.06337 (EU)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-28T17:22:02+00:00</div>
-    <p>Hey all - quick one: we didn’t receive any FortiGate AV updates today (today = Nov 28, 2025). Our AI Malware Detection Model is at 4.03476, and our AntiVirus Definitions &amp; Mobile Malware are at 93.06337 (those are from yesterday, Nov 27,...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p8zuqw/sdn_connector_with_nutanix/" target="_blank" rel="noopener">SDN Connector with Nutanix</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-28T16:56:37+00:00</div>
-    <p>Hello, I&#x27;m about to setup an nutanix connector to my Fortimanager, is there anybody out there who&#x27;s done it before? Should the connector be to the Nutanix Prism or anything else? I&#x27;ve done it with Vspehre before but not nutanix. submitte...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p9pv6y/yet_another_ipsec_vpn_saml_question/" target="_blank" rel="noopener">yet another IPSEC vpn SAML question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-29T14:10:19+00:00</div>
+    <p>**Update** Seems to have gotten it working. I ended up deleting the config off of the firewall completely for the IPSEC dialup and recreating it.. I didn&#x27;t remove the SAML portions, just the IPSEC phase 1 and phase 2 settings.. and the f...</p>
   </div>
 </li>
 <li class="card">
