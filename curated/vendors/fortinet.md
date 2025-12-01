@@ -7,23 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 30, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 01, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p9q77f/ssh_interception_host_key_persistency/" target="_blank" rel="noopener">SSH interception host key persistency</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-29T14:25:08+00:00</div>
-    <p>The host key shown during SSH interception seems to be a new one on each connection, even for the same destination host. How would I make it static? Besides general issues like acknowledging a forever changing host key not providing any ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pb517u/frequent_vs_code_disconnections_triggering/" target="_blank" rel="noopener">Frequent VS Code Disconnections Triggering Firewall ip-conn / client-rst — Anyone Seen This?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T05:57:44+00:00</div>
+    <p>Hey everyone, I’m having a strange issue with Visual Studio Code. Whenever VS Code disconnects (remote SSH / remote dev), my internet connection on the same client also drops for a moment. On the firewall side (FortiGate), I consistently...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1p9pv6y/yet_another_ipsec_vpn_saml_question/" target="_blank" rel="noopener">yet another IPSEC vpn SAML question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-29T14:10:19+00:00</div>
-    <p>**Update** Seems to have gotten it working. I ended up deleting the config off of the firewall completely for the IPSEC dialup and recreating it.. I didn&#x27;t remove the SAML portions, just the IPSEC phase 1 and phase 2 settings.. and the f...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1paxmon/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T00:01:19+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1parwzr/nse4_76_exam/" target="_blank" rel="noopener">NSE4 7.6 Exam</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-30T20:03:25+00:00</div>
+    <p>Hello community, I am about to take exam 7.6 of the NSE4, I already have around 3 years with daily experience in FGT with basic and intermediate troubleshooting, what do you recommend to pass this exam? submitted by /u/StreakyRal [link] ...</p>
   </div>
 </li>
 <li class="card">
