@@ -7,31 +7,135 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 01, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 02, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pb517u/frequent_vs_code_disconnections_triggering/" target="_blank" rel="noopener">Frequent VS Code Disconnections Triggering Firewall ip-conn / client-rst — Anyone Seen This?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T05:57:44+00:00</div>
-    <p>Hey everyone, I’m having a strange issue with Visual Studio Code. Whenever VS Code disconnects (remote SSH / remote dev), my internet connection on the same client also drops for a moment. On the firewall side (FortiGate), I consistently...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pc430w/749m_ipv6_wrong_gw/" target="_blank" rel="noopener">7.4.9M - IPv6 wrong GW?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-02T09:23:32+00:00</div>
+    <p>Hi, I&#x27;ve never configured IPv6 on Fortinet so I am not sure if my situation is right or not, but I guess its not. I&#x27;ve been following these steps: IPv6 quick start | FortiGate / FortiOS 7.6.4 | Fortinet Document Library I set up SLAAC + ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1paxmon/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T00:01:19+00:00</div>
-    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pc3jf7/best_practice_regarding_backup_of/" target="_blank" rel="noopener">Best practice regarding backup of FortiManager/FortiAnalyzer</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-02T08:47:30+00:00</div>
+    <p>Hello, do we have any best practice regarding backup of Fortimanager? When I read administrator guide it describes how to create schedules etc: https://docs.fortinet.com/document/fortimanager/7.6.4/administration-guide/112240/backing-up-...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1parwzr/nse4_76_exam/" target="_blank" rel="noopener">NSE4 7.6 Exam</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-11-30T20:03:25+00:00</div>
-    <p>Hello community, I am about to take exam 7.6 of the NSE4, I already have around 3 years with daily experience in FGT with basic and intermediate troubleshooting, what do you recommend to pass this exam? submitted by /u/StreakyRal [link] ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pc2mjm/ssl_deep_inspection_certificate_deploy/" target="_blank" rel="noopener">SSL Deep Inspection - Certificate Deploy</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-02T07:47:39+00:00</div>
+    <p>Hi, I&#x27;d like to implement deep inspection on Fortigate. This requires deploying CA certificates to all endpoints. Does the certificate used for SSL inspection have to be self-signed, or can I use one that&#x27;s globally trusted? My manager s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pc23kp/fortimanager_pushing_to_a_200f/" target="_blank" rel="noopener">Fortimanager pushing to a 200F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-02T07:14:23+00:00</div>
+    <p>Hi I am having a problem where a config from Fortimanager pushing to a 200F keeps failing; Fortimanager is 7.4.8 and the Fortigate 200F is 7.4.9. I have an identical cluster that works fine. The error is definitely in the device portion ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbyllf/hub_connection_full_mesh/" target="_blank" rel="noopener">Hub Connection - Full Mesh</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-02T04:03:24+00:00</div>
+    <p>Hi FortiExperts We’re looking to enhance spoke-to-hub redundancy. Hub and Spoke both have two WAN connections. Hub will have - single Dial-Up endpoint terminated on each of the Internet connections on the Hub (two Dial-Up endpoints in to...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbrwpl/fssofsae_agent_and_dc_event_id_10028_error/" target="_blank" rel="noopener">FSSO/FSAE Agent and DC Event ID 10028 error suppression</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T23:06:03+00:00</div>
+    <p>We have FG200E running v7.4.8 and we use FSSO Agents v5.0.0314 on DCs to track user logins. On the primary DC where the Collector runs we get Event ID 10028 Distributed COM errors such as &quot;DCOM was unable to communicate with the computer...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbr04w/arm_installer_through_ems/" target="_blank" rel="noopener">ARM installer through EMS?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T22:29:19+00:00</div>
+    <p>Under https://docs.fortinet.com/document/forticlient/7.4.0/new-features/302559/support-forticlient-arm-installer-creation-and-deployment-7-4-4 I see an option for ARM install files, however I don&#x27;t see those options under my own tenant. ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbpx2u/fortiapfortigate_matter_over_thread/" target="_blank" rel="noopener">FortiAP/FortiGate Matter Over Thread</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T21:47:09+00:00</div>
+    <p>Has anyone got Matter over Thread working for smart homes? I&#x27;ve had nothing but failure on everything I&#x27;ve tried! submitted by /u/hahdjdjwbeifijsbwbru [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbl26q/failed_fcp_twice_considering_diff_career/" target="_blank" rel="noopener">Failed FCP twice considering diff career</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T18:45:10+00:00</div>
+    <p>Hey all I took my FcP first time through end of October. I had been studying hard 2-4 hours per day on weekdays and 4 hours every Saturday or Sunday. Only day off was Friday from mid August till test day October 28. I failed… horribly. I...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbj4id/is_fortios_765_slated_to_be_in_the_mature_track/" target="_blank" rel="noopener">Is FortiOS 7.6.5 slated to be in the mature track and come out before EOY?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T17:35:39+00:00</div>
+    <p>Just curious what the timeline for 7.6.5 is as the .4 version took a while. Looking to give this a test go when it is available. submitted by /u/OpeningFeeds [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbf6qr/what_is_the_latest_tsagent_setup_software/" target="_blank" rel="noopener">What is the latest TSAgent_Setup software?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T15:09:33+00:00</div>
+    <p>I&#x27;m trying to look for what the latest TSAgent_Setup software is by looking in each folder of the Forticlient sofware on the portal but can&#x27;t find it. is there an easier way to search? Can someone advise which folder of Forticlient I can...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbdz47/fortigate_azure_s2s_vpn/" target="_blank" rel="noopener">Fortigate / Azure S2S VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T14:20:33+00:00</div>
+    <p>Hallo, ich habe in Azure bzw. in meiner Fortigate (7.2.10) ein site2site VPN ipsec erstellt. Ich habe auch eine Connection laut Protokoll haben die Policys auch eine Verbindung. Ich habe dann eine virtuelle Maschine erstellt, diese mit e...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbd2uj/cwdmdwdm_optics/" target="_blank" rel="noopener">CWDM/DWDM optics?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T13:42:04+00:00</div>
+    <p>Normally if I use a non Fortinet coded SFP optic, our FortiGate units will just complain about it and I can still use it. Unfortunately this isn´t the case with CWDM or DWDM optics, i.e. - 1000BASE-CWDM SFP, 80KM - 10GBASE-CWDM SFP+ 40KM...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/5Mdt__srGTRvwtvictam7uXgrrjSRUUjcJWGSmccALU.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbcg86/red_shield_logo_showing_on_objects_in_fortimanager/" target="_blank" rel="noopener">Red shield logo showing on objects in FortiManager</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T13:13:51+00:00</div>
+    <p>Hello, After replacing a Fortigate with a new one, some firewalls objects are displayed with a &quot;red shield&quot; logo in firewall rules on FortiManager https://preview.redd.it/2gz73la9el4g1.png?width=1442&amp;format=png&amp;auto=webp&amp;s=6df838b1e72b0b...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbbrh7/ems_set_default_login_page_to_saml/" target="_blank" rel="noopener">EMS set default login page to SAML</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T12:42:03+00:00</div>
+    <p>Minor thing, but it&#x27;s been bugging me for a while. Does anyone know of a way to make EMS 7.4.3 to default to a SAML based login, when using multitenancy? (this is SAML against the global config, not per-site - none of our sites have thei...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pbaow6/vodafone_uk_fttp_ipv6/" target="_blank" rel="noopener">Vodafone UK FTTP IPv6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-01T11:45:43+00:00</div>
+    <p>Hi, Has anyone got IPv6 working with Vodafone UK for their openreach FTTP service? IPv4 with PPPoe is working perfectly but IPv6 doesn’t seem to get an IP. I know IPv6 does work on this circuit as the Vodafone router works perfectly with...</p>
   </div>
 </li>
 <li class="card">
