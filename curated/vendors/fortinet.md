@@ -7,9 +7,113 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 03, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 04, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pdvdmg/ems_azure_tenant_migration_question/" target="_blank" rel="noopener">EMS Azure Tenant Migration Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T09:06:40+00:00</div>
+    <p>Hi all, Wondering if anyone can advise on this situation, pretty new to EMS. Current set up: We have 1 EMS platform, in there we have 2 different profiles for UK and IE users, which points to 2 different Azure tenants ( UK and IE) Each t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pds093/fcp_elective/" target="_blank" rel="noopener">FCP Elective</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T05:39:38+00:00</div>
+    <p>Hello everyone, I am planning to take an elective exam either FortiManager or FortiSASE. However, I am having doubts on taking FortiSASE since this is a new exam. For those who already took it, how was it? Is FortiSASE not for those who ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pdpuxe/ipsec_vpn_with_749_fortios_and_forticlientems_7212/" target="_blank" rel="noopener">IPsec VPN with 7.4.9 FortiOS and Forticlient/EMS 7.2.12</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T03:49:18+00:00</div>
+    <p>Hi All, As the titles states we have our test firewall on 7.4.9 with EMS/FC on 7.2.12. We are using Azure SAML for SSO. For some reason we just can&#x27;t connect to the IPSEC VPN profile when trying to connect to Azure. Compared and mirrored...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pdgq57/free_vpn_always_minimizing_to_tray_when_setting/" target="_blank" rel="noopener">Free VPN - always minimizing to tray when setting is disabled</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T21:15:03+00:00</div>
+    <p>I cannot work out how to get my FortiClient (7.4.3.1790) to NOT minimize after connecting (free vpn). I am running Windows 11, using IPsec VPN. I have set in the config file &lt;minimize\_window\_on\_connect&gt;0&lt;/minimize\_window\_on\_connect...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pdfbou/searching_all_the_logs_and_events_on_a_fortigate/" target="_blank" rel="noopener">Searching all the logs and events on a fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T20:21:37+00:00</div>
+    <p>This may be a simple thing I am just missing. I want to be able to quickly check all the logs on a fortigate for a particular IP address. We mainly use smaller ones like the 50 and 90 in smaller offices. Occasionally we will have an issu...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pd9lus/can_i_run_docker_on_fortios_fw/" target="_blank" rel="noopener">Can I run docker on FortiOS / FW?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T16:55:56+00:00</div>
+    <p>Hi there, So the LLMs say I can&#x27;t, but wanted to ask folks w/ real experience - is it possible to get docker/podman on a FW appliance, and run my own containers there? Thanks! submitted by /u/TheRanshe [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/931248119/0/fortinet/blogs~SDWAN-Is-the-Foundation-of-Every-Successful-SASE-Strategy" target="_blank" rel="noopener">SD-WAN Is the Foundation of Every Successful SASE Strategy</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 3 Dec 2025 16:00:00 +0000</div>
+    <p>Discover why Secure SD-WAN is the essential foundation for SASE, enabling unified management, stronger security, and optimized cloud performance.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/931248341/0/fortinet/blogs~Fortinet-Named-a-Challenger-in-the-Gartner%c2%ae-Magic-Quadrant%e2%84%a2-for-Email-Security-Report" target="_blank" rel="noopener">Fortinet Named a Challenger in the 2025 Gartner® Magic Quadrant™ for Email Security Report</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 3 Dec 2025 16:00:00 +0000</div>
+    <p>Fortinet named a Challenger in the Gartner Magic Quadrant for Email Security…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pd6vu6/create_static_mac_list_for_port_on_fortiswitch/" target="_blank" rel="noopener">Create static mac list for port on Fortiswitch managed by Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T15:15:32+00:00</div>
+    <p>I am trying to understand how static mac entries work with FortiSwitch. I only want to allow one specific mac (that is not presently on, but mac is known) and deny everything else. Can I achieve this with a static entry? If I put set act...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pd6e92/design_options_w_fortigate_hubs/" target="_blank" rel="noopener">Design options w/ Fortigate hubs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T14:57:17+00:00</div>
+    <p>Hello We are doing a new network design for our customer to two of their core sites. This will be a hub-and-spoke design with VXLAN and SD-WAN where the spokes and hub will run VXLAN over IPsec. Fortigates will be 90G (both HUBs and spok...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pd6djp/ssl_ipsec_is_everyone_using_ike_v1_or_v2/" target="_blank" rel="noopener">ssl -&gt; ipsec : Is everyone using IKE v1 or v2?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T14:56:35+00:00</div>
+    <p>Hi gang, Like most, I am migrating from ssl vpn to ipsec. We cannot add DNS suffix when using IKE v2. What is your approach for this? submitted by /u/AdventurousYellow922 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pd4bev/sdwan_health_check_over_ipsec_and_wan_interfaces/" target="_blank" rel="noopener">SDWAN health check over IPSec and WAN interfaces</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T13:35:21+00:00</div>
+    <p>I have fortigate with one IPSec tunnel from wan1, and 2 ISP connections wan1 and wan2. (Don&#x27;t question why like this;) I try to create healtcheck that corporates all three above. If I have no source address added to the health check, ISP...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pd36cx/fgt200g_initial_setup_wtf_fortinet/" target="_blank" rel="noopener">FGT200G Initial setup - WTF, Fortinet???</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-03T12:45:04+00:00</div>
+    <p>From the category &quot;what were they thinking&quot; ... #RANT Just received a bunch of 200G boxes for a customer HW upgrade ... Firmware 7.2.11 ... But unlike e.g. 120G or any other previous devices, I get an enforced &quot;register with FortiCare&quot; w...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -88,22 +192,6 @@ _Updated: December 03, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/927683696/0/fortinet/blogs~The-Journey-from-Military-Service-to-Cybersecurity" target="_blank" rel="noopener">The Journey from Military Service to Cybersecurity</a></h3>
     <div class="meta">Fortinet Blog · Fri, 14 Nov 2025 16:00:00 +0000</div>
     <p>Veterans bring mission-first focus and resilience to cybersecurity. See how BCIT, Cyber Catalyst, and Fortinet are helping them build new digital careers.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/927612836/0/fortinet/blogs~Fortinet-Named-Inaugural-Google-Unified-Security-Recommended-Partner-for-Network-Protection-Powered-by-FortiSASE-and-FortiGate-NGFW" target="_blank" rel="noopener">Fortinet Named Inaugural Google Unified Security Recommended Partner for Network Protection, Powered by FortiSASE and FortiGate NGFW</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 13 Nov 2025 17:00:00 +0000</div>
-    <p>Fortinet was named the inaugural Google Unified Security Recommended network protection provider.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/927560168/0/fortinet/blogs~Fortinet-Is-the-Only-Vendor-Recognized-as-a-Gartner-Peer-Insights%e2%84%a2-Customers%e2%80%99-Choice-for-Security-Service-Edge-Three-Years-in-a-Row" target="_blank" rel="noopener">Fortinet Is the Only Vendor Recognized as a Gartner Peer Insights™ Customers’ Choice for Security Service Edge Three Years in a Row</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 12 Nov 2025 16:00:00 +0000</div>
-    <p>Fortinet Recognized as a Gartner Peer Insights™️ Customers’ Choice for Security Service Edge…</p>
   </div>
 </li>
 </ul>
