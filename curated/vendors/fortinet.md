@@ -7,79 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 05, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 06, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/rm00WYfp24o1WC4HHGB3llkur2VJ-TLhT9WB0jQPwdc.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1per9kt/fortilink_l3_stability_and_connectiviy_issues/" target="_blank" rel="noopener">Fortilink L3 - stability and connectiviy issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T10:00:38+00:00</div>
-    <p>Hello, In our company we have bought around 30 FSW (mix of 124F-PoE, 148F-PoE). We want to replace current old Cisco SG switches, but not all of them cause of bugdet. These FSW are not core switches, they will be at the end as access. Ou...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pfb8xe/fortigate_and_fortiweb_solution_on_oci_cloud/" target="_blank" rel="noopener">Fortigate and Fortiweb Solution on OCI Cloud</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-06T00:19:03+00:00</div>
+    <p>Hello, I am looking to implement a Fortigate HA solution with Fortiweb HA in the Oracle cloud. I am opting for a Hub and Spoke architecture, where both devices would be in the VCN Hub, and the Fortigate would have a vNIC that would commu...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1per19o/sdwan_manual_strategy_getting_ignored_bug/" target="_blank" rel="noopener">SDWAN manual strategy getting ignored - bug?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T09:46:03+00:00</div>
-    <p>I have health check configured for two members without SLA targets and without update static route, just for monitoring. These two members are used in a SD WAN rule with manual interface selection strategy. Now, if the health check targe...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pf4fm7/error_importing_pkcs12_certificate_into_fortigate/" target="_blank" rel="noopener">Error Importing PKCS#12 Certificate into Fortigate Firewall</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T19:35:54+00:00</div>
+    <p>Hello everyone, I&#x27;ve been tasked at my job to import a renewed PKCS#12 certificate into our Fortigate firewalls. We have a few, and the import has been successful for all but one. When attempting to do so, I receive an error stating &quot;The...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pelhd9/fortinet_youve_defined_mature_and_feature/" target="_blank" rel="noopener">Fortinet, you&#x27;ve defined &quot;Mature&quot; and &quot;Feature&quot; releases, so, like, stick to it? [RANT]</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T04:12:53+00:00</div>
-    <p>I&#x27;m getting a bit frustrated. Upgrading to 7.4.8 with FIPS-mode firewalls was rough enough, because they dropped support for TACACS+ (and didn&#x27;t bother to mention it in release notes until a month after release). So scrambling to replace...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pf0tsw/using_same_nac_policies_and_vlans_between/" target="_blank" rel="noopener">Using same NAC policies and VLANS between Switches and AP connected users.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T17:17:19+00:00</div>
+    <p>I am testing out NAC lite policies built into the FortiGates, and I ran into a issues with the AP&#x27;s. I have a NAC policy to assign them to a capwap policy, and the AP itself shows up correctly, but when someone tries to join the AP, they...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1peksw9/fortigate_sourcenat/" target="_blank" rel="noopener">FortiGate SourceNAT</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T03:39:20+00:00</div>
-    <p>I am trying to limit the port range for Source NAT (SNAT) traffic using a FortiGate IP Pool. The official documentation shows a clear option to set a Port Range when configuring a fixed port range IP pool in the GUI: https://docs.fortine...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pex7o2/fortigate_ipsec_certificateonly_auth_but_still/" target="_blank" rel="noopener">FortiGate IPSec – certificate-only auth, but still enforce policies based on user/group?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T14:58:34+00:00</div>
+    <p>Hi, I&#x27;m dealing with the following setup and I’d appreciate any insights. My environment: FortiGate FortiAuthenticator 2× internal CAs (RSA, ECC) IPSec works fine in these modes: via SAML (FAC as IdP, Azure AD groups) – not the focus rig...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/931531517/0/fortinet/blogs~From-Insight-to-Action-What-the-SANS-ICSOT-Security-Report-Means-for-You" target="_blank" rel="noopener">From Insight to Action: What the 2025 SANS ICS/OT Security Report Means for You</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 5 Dec 2025 14:00:00 +0000</div>
+    <p>Learn how to turn critical findings from the SANS State of ICS/OT Security 2025 report into practical steps to strengthen your industrial cyber resilience.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/HTdG3AKhfnGI037YOniDhT3rGbcBt1QTs1GY5ywZkzY.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1peu3nv/how_important_is_it_to_gracefully_shutdown_a/" target="_blank" rel="noopener">How important is it to gracefully shutdown a Fortigate?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T12:43:04+00:00</div>
+    <p>How important is it to gracefully shutdown a Fortigate? We have power works happening this weekend. One of the local on-site technicians is asking for us to ‘gracefully’ shut down the pair of Fortigate’s we have on-site in advance prior ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1peaakb/block_vlan_from_rest_of_network/" target="_blank" rel="noopener">Block VLAN from rest of network</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T20:06:34+00:00</div>
-    <p>Fortigate 600E, FW ver 7.4.9 I&#x27;m trying to configure a VLAN on our network to be segregated from the rest of the environment via firewall policies so users can&#x27;t access any other networked devices when connected. Tried creating a policy ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pe7a9b/sslvpn_to_ipsec_migration_question/" target="_blank" rel="noopener">SSLVPN to IPsec Migration Question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T18:12:56+00:00</div>
-    <p>We are currently moving from SSLVPN to IPsec and SSLVPN is actively in use. I have created a new IPsec dial up tunnel and tested it successfully, however I am confused on how I can deploy this in addition to the existing SSLVPN connectio...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pe79ic/fwf60f_gui_slowness_on_749/" target="_blank" rel="noopener">FWF60F GUI Slowness on 7.4.9</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T18:12:12+00:00</div>
-    <p>Anyone seeing really slow GUI response on 7.4.9? When changing between section, the initial page is quick, but data population is really slow. Firewall resource usage is very low. Hardly any CPU usage and memory is at 56%. submitted by /...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pe6dmg/asymmetric_routing_with_advpn_20_bgp_on_loopback/" target="_blank" rel="noopener">Asymmetric routing with ADVPN 2.0 + BGP on loopback + load balancing</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T17:40:39+00:00</div>
-    <p>Hello guys, I have configured in my lab ADVPN 2.0 with BGP on loopback and load-balancing in the sd-wan rules. Each spoke has 2 underlays. I am seeing that, when I start traffic from spoke 1 LAN to spoke 2 LAN, traffic goes first through...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pe2m8e/fortiweb_76_multi_host_x_multi_server_x/" target="_blank" rel="noopener">FortiWEB 7.6 - Multi Host x Multi Server x Certificate Lets Encrypt</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-04T15:18:16+00:00</div>
-    <p>Hi! I got a apache (WAF/RP) with 1 public IP, which I configure 1 VirtualHost per host/domain/certificate. For Example: VH1: www1.test.com (Server IP/Port: 200.1.1.1:443) -&gt; 192.168.0.1 (lets encrypt certificate: www1.test.com) VH2: www2...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pesqam/server_with_dual_nics_one_connected_to_north/" target="_blank" rel="noopener">server with dual NICs, one connected to north firewall, one connected to South firewall</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-05T11:30:27+00:00</div>
+    <p>Hi Community, we have a plants network on which the north firewall is connected to the Internet and one south firewall protecting the OT network. We have servers in DMZ which are connected to the north firewall for external access for te...</p>
   </div>
 </li>
 <li class="card">
@@ -152,14 +136,6 @@ _Updated: December 05, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/928239812/0/fortinet/blogs~Fortinet-Strengthens-AWS-Network-Security-with-AIDriven-IPS-Rule-Enhancements" target="_blank" rel="noopener">Fortinet Strengthens AWS Network Security with AI-Driven IPS Rule Enhancements</a></h3>
     <div class="meta">Fortinet Blog · Wed, 19 Nov 2025 17:00:00 +0000</div>
     <p>Fortinet introduces Managed IPS Rules for AWS Network Firewall, enhanced by FortiGuard AI-Powered Security Services, to deliver continuously updated, automated intrusion prevention and simplified c…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/928069607/0/fortinet/blogs~Driving-Accountability-New-Cybercrime-Bounty-Program-Expands-the-Fight-Against-Cybercrime" target="_blank" rel="noopener">Driving Accountability: New Cybercrime Bounty Program Expands the Fight Against Cybercrime</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 18 Nov 2025 14:00:00 +0000</div>
-    <p>The Fortinet-CSI Cybercrime Bounty program mobilizes global communities to report cyberthreats safely, helping scale deterrence and strengthen digital resilience.…</p>
   </div>
 </li>
 </ul>
