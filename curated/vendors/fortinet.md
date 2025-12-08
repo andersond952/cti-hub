@@ -7,31 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 07, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 08, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pgero2/forti_management/" target="_blank" rel="noopener">Forti* Management</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-07T09:58:10+00:00</div>
-    <p>Hi all, We are considering a full Forti deployment for a single site. Two firewalls, 10 switches, 10 APs. I know Forti manager and Fortianalyzer have on prem versions (which seem the most popular based on my reading here), but can we get...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pg0gth/fortinet_vm_image_and_license_key/" target="_blank" rel="noopener">Fortinet VM Image and License Key</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-06T21:25:51+00:00</div>
-    <p>Hello, I am trying to find a way to install a fortinet VM free for learning purposes. I have one that is up and running, but when I access it with the web based local UI, it says I need a license. I have searched and everything that yout...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pfx26a/issues_with_link_aggregate_from_1960_12xgt_4sfp/" target="_blank" rel="noopener">Issues with Link Aggregate from 1960 12XGT 4SFP+ to Fortigate 120G</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-06T19:01:19+00:00</div>
-    <p>Does anyone have experience with getting a LAG uplink? We have got them up before, but we can&#x27;t figure out how it actually got done. Our current process is to connect a port (let&#x27;s say port 1 on the switch) from the InstantOn to the fire...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pgh7q0/forticlient_ssl_vpn_on_win_machine_joined_domain/" target="_blank" rel="noopener">FortiClient SSL VPN on WIN machine joined domain</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-07T12:28:47+00:00</div>
+    <p>Hello I have forticlient free version When connect to vpn session by my credentials if I lock screen or switch user my session still be opened. Is there a way to terminate the session when lock screen or switch user. Be noted that it is ...</p>
   </div>
 </li>
 <li class="card">
