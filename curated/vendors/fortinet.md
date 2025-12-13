@@ -7,63 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 12, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 13, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/zVljhdTkeXuY07cgsgVLsLPLkpq4XFO2dgaxe2s5Oqk.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pko91s/hacluster_problems/" target="_blank" rel="noopener">HA-Cluster problems</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T10:03:52+00:00</div>
-    <p>I have 2 FortiGate VM64 running on a Cisco VSphere. Everytime I try to make a HA-Cluster as a-p everything works fine but when I shut down my laptop and try to work the next day the GUI stops working. I use port1 to access the FW-GUI as ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pl87vj/policy_question/" target="_blank" rel="noopener">Policy Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-13T00:48:02+00:00</div>
+    <p>Hi everyone, I&#x27;m having an issue with policy rules. It has to be something dumb, but I can&#x27;t figure it out. I have a FortiGate 80F running 7.4.9. I created a VLAN that has like 10 machines on it. The DHCP and DNS are configured on the Fo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pknqft/external_browser_for_saml_auth_with_ztna/" target="_blank" rel="noopener">External browser for SAML auth with ZTNA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T09:30:02+00:00</div>
-    <p>External browser for SAML auth with ZTNA.. is this possible or on the way? submitted by /u/SalamanderMajestic59 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/szkkBHjQTxqFje6UtvvxlZQKULzrS9AD9QfMV7kg4UM.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pkmlbi/new_forticlient_745/" target="_blank" rel="noopener">New FortiClient 7.4.5 ...</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T08:11:35+00:00</div>
-    <p>Just out fresh ... but: https://preview.redd.it/9owcilpudq6g1.png?width=891&amp;format=png&amp;auto=webp&amp;s=dddd3c4b190069c3018f9190813f87757471682b Considering the bugs (including security-relevant), and actually missing features/settings in 7.4...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pl7ayf/strange_forticlient_ipsec_issue/" target="_blank" rel="noopener">Strange FortiClient IPSEC issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-13T00:05:32+00:00</div>
+    <p>I&#x27;ve been working on this on and off for a while as it was not completely necessary, but I do wish to migrate all of my clients away from the FortiClient SSL VPN, to the IPSEC VPN. Multiple reasons for this, but mostly for security. Toda...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pkmjwb/new_releases_forticlientems_745_and/" target="_blank" rel="noopener">New Releases - FortiClientEMS 7.4.5 and FortiAuthenticator 6.6.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T08:09:01+00:00</div>
-    <p>Fortinet not only released FortiOS 7.6.5, but also FortiClientEMS 7.4.5 and FortiAuthenticator 6.6.8 FortClientEMS: https://docs.fortinet.com/document/forticlient/7.4.5/ems-release-notes/717049/introduction There is no new VPN-Only-Relea...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pl2gl5/fortigate_100e_in_2025_for_home_lab/" target="_blank" rel="noopener">Fortigate 100e in 2025 for home lab</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T20:36:41+00:00</div>
+    <p>Hi! I just got my hands on a used FortiGate 100E after a trade-up to a 120G. Is it still worth keeping the 100E for home lab / educational purposes, especially without an active license? submitted by /u/Svmsel [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/0obeansevt6g1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c111a6dde9e2c3efa61ebe8b0f2fa9516d2b5a57" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pl1dhy/fortigate_upgrade_from_7212_to_749_ipsec_tunnel/" target="_blank" rel="noopener">Fortigate upgrade from 7.2.12 to 7.4.9 ipsec tunnel issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T19:51:41+00:00</div>
+    <p>Ive tried twice to upgrade a fg61f from 7.2.12 to 7.4.9 but every time it breaks my ipsec tunnels back to my azure FortiGate. Here are the 3 tunnels I have and the last mb to hub cent2 works and passes traffic but not the other 2. I unde...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pk6y8k/60e_gui_login_issue/" target="_blank" rel="noopener">60E GUI login issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-11T19:44:45+00:00</div>
-    <p>We have a new issue with our 60E. We normally login via the GUI and verify the current version of firmware monthly. If it needs update, we just run it (again, via the GUI.) When we login, we just browse to: https://[IP Address]:port We g...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pl01dv/fortitoken_mobile_android_cropped/" target="_blank" rel="noopener">FortiToken Mobile / Android / Cropped?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T18:57:30+00:00</div>
+    <p>Hi everybody, I‘ve got a user with a strange behavior. When the user receive his Push OTP the Login request is showing all Informations, but the Button for deny and approve is missing. The user got an android Handy and FortiToken App 6.1...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pk44wz/fortios_765_release/" target="_blank" rel="noopener">FortiOS 7.6.5 Release</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-11T17:56:04+00:00</div>
-    <p>Release notes can be found here: https://docs.fortinet.com/document/fortigate/7.6.5/fortios-release-notes Admin Guide can be found here: Getting started | FortiGate / FortiOS 7.6.5 | Fortinet Document Library Note: This is FortiOS 7.6&#x27;s ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pky87u/deployment_installer_in_ems_745/" target="_blank" rel="noopener">Deployment installer in EMS 7.4.5</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T17:46:12+00:00</div>
+    <p>I updated my ems from 7.4.4 to 7.4.5; the deployment installer doesn&#x27;t seem to show 7.4.5 as an option yet even though it appears downloadable from forti. Anyone seeing that or knowing of the fix to get that version in the installer? sub...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/gqhVQQsmWHJcvCGaKUjJEIXQU1zghjeLZhqHSKj8nRI.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pk3g2e/forticlient_ipsec_ikev2_rvpn_issues/" target="_blank" rel="noopener">FortiClient IPSEC Ikev2 RVPN issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-11T17:29:32+00:00</div>
-    <p>https://preview.redd.it/2ogz0uuy3m6g1.png?width=957&amp;format=png&amp;auto=webp&amp;s=6c9940fdf43ce43dccd1b60bfbb24e1f1326b117 Hello everyone, I’ve deployed a Remote VPN on a FortiGate 70G using IPSEC with IKEv2 and Radius authentication. Most Wind...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pkxdvs/fortinet_training_guidance/" target="_blank" rel="noopener">Fortinet Training guidance</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T17:13:10+00:00</div>
+    <p>Hello, Can anyone advise who is currently NSE7 or 8 on how to learn Fortinet from scratch. I know there are trainings on Fortinet and CBT Nuggets but are there any other good resources for fortigate, fortimanager and Fotinac training tha...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pkwdp1/fortiauthenticator_intune_scep/" target="_blank" rel="noopener">FortiAuthenticator - Intune - SCEP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T16:34:20+00:00</div>
+    <p>I’m trying to configure EAP-TLS for secure WiFi connections. FAC is v8.0.0 I’m getting the error below: “SCEP GetCA: an error occurred while trying to find the requested CA with id: Default created the FAC as the local CA created a wildc...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/noi0a6b4ps6g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=15c22ef632c5c91a55169c7e815aca354fe72d54" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pkvecq/when_does_dnat_happen_q_in_comments/" target="_blank" rel="noopener">When does DNAT happen? Q in comments</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T15:55:44+00:00</div>
+    <p>submitted by /u/newboofgootin [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pkve1s/questions_about_installing_two_fortiswitches/" target="_blank" rel="noopener">Questions about installing two fortiswitches without a fortigate.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T15:55:24+00:00</div>
+    <p>Like the title says, our client has purchased two Fortiswitch 248E-FPOEs and we are wanting the all of the specific configuration(vlans) to be on the top switch and the bottom switch is only needed for extra workstation ports. We do not ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pktlud/ssh_tunnel_jumphost_firewall_webui_no_longer/" target="_blank" rel="noopener">SSH Tunnel ----&gt; Jumphost -----&gt; Firewall WebUI No Longer Working Properly</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T14:43:32+00:00</div>
+    <p>I ssh into a jumphost in order to access my firewall fleet web interfaces. I am utilizing the &quot;local port forwarding&quot; option in putty in order to acheive this. I have been using this option for years without issue. I recently upgraded 2 ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pkq0ln/forticasb_shadow_it_reports_and_fsso/" target="_blank" rel="noopener">FortiCASB Shadow IT reports and FSSO</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-12T11:53:32+00:00</div>
+    <p>Hi all, Have recently set up FortiCASB cloud, and connected it to my multiple FAZ, which in turn gets logs from multiple Fortigates. I have FSSO set up so I see AD users aligned to IPs in logs. However, when I do a Shadow IT report in CA...</p>
   </div>
 </li>
 <li class="card">
@@ -72,22 +112,6 @@ _Updated: December 12, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/933005198/0/fortinet/blogs~Resilience-of-Critical-Utilities-Securing-Water-and-Wastewater-Systems-in" target="_blank" rel="noopener">Resilience of Critical Utilities: Securing Water and Wastewater Systems in 2025</a></h3>
     <div class="meta">Fortinet Blog · Thu, 11 Dec 2025 17:00:00 +0000</div>
     <p>Read how OT security solutions are necessary in protecting critical infrastructures against emerging threat and critical infrastructure security teams must take into account key considerations in t…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pk20nk/znta_hosting_multiple_ztna_servers_on_1_public_ip/" target="_blank" rel="noopener">ZNTA: Hosting multiple ZTNA servers on 1 public IP address</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-11T16:34:21+00:00</div>
-    <p>Recently I&#x27;ve been trying out some test setups in a lab environment with FortiGate running OS 7.2.12 connected to FortiClient EMS running 7.4.3. The setup here is quite simple with only a single managed endpoint in its own workgroup with...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pjv1kk/how_did_the_pen_test_get_our_firmware_status/" target="_blank" rel="noopener">How did the pen test get our firmware status without logging into the firewall?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-11T11:17:15+00:00</div>
-    <p>We have had a penetration test recently. The result showed that our firmware isn&#x27;t up to date. Not horrible old but neither brand new. I am wondering how the guy got that piece of information out of our setup. Fortigate 60E Trusted hosts...</p>
   </div>
 </li>
 <li class="card">
