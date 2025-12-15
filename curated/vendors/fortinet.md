@@ -7,15 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 14, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 15, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pln84z/first_time_upgrading_ha_pair_74x/" target="_blank" rel="noopener">First time upgrading HA pair 7.4.x</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-13T14:55:14+00:00</div>
-    <p>So I have a customer with a pair of virtual firewalls running 7.4.7 and I&#x27;d like to get them to 7.4.8. I inherited these and I haven&#x27;t ever upgraded a Fortigate but every video and article I&#x27;ve seen makes it look like I can just snapshot...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pmrgci/dos_policy/" target="_blank" rel="noopener">Dos policy</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-14T22:49:39+00:00</div>
+    <p>Hello folks, What are the best practices to configure the DoS policies on FortiGate? The recommended values, etc .. Can he protect from DDoS? If the action is block, the sessions after the threshold being blocked or the source IP? If som...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pmn3as/forticloud_sso_login_authentication_bypass_iocs/" target="_blank" rel="noopener">FortiCloud SSO Login Authentication Bypass IOCs (indicators of compromise)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-14T19:47:00+00:00</div>
+    <p>A set of new vulnerabilities have been released for Fortinet products you surely are aware of by now: https://fortiguard.fortinet.com/psirt/FG-IR-25-647 I run various Fortinet honeypots / a honeypot platform and have collected some initi...</p>
   </div>
 </li>
 <li class="card">
