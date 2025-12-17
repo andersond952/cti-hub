@@ -7,119 +7,151 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 16, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 17, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnx1yc/educated_downgrade_from_762_to_74/" target="_blank" rel="noopener">Educated downgrade from 7.6.2 to 7.4?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T08:41:38+00:00</div>
-    <p>Hi, I have a 40F that has a lot of problems with 7.6.2. I&#x27;d like to perform downgrade to 7.4.x. What is the best way? The firewall has a Client to site IPSEC VPN, some VLANS and other rather simple settings/rules. Do I have to reconfigur...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pomhvd/hubandspoke_vpn_sdwan_question/" target="_blank" rel="noopener">Hub-and-Spoke VPN SD-WAN question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-17T03:43:46+00:00</div>
+    <p>hello everyone, quick question, 2 datacenter 6 branch offices every site have 2 symmetic fiber WANs every branch office must connect to the 2 DC, routes are advertised with OSPF and all routing going from a branch office to another must ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnwdaa/how_to_treat_blacklisted_cdn_ips/" target="_blank" rel="noopener">How to treat blacklisted CDN IPs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T07:55:38+00:00</div>
-    <p>We&#x27;re currently being flooded with events because an IP of bunny.net CDN (never heard of that before) somehow got blacklisted (C &amp; C, Malware, Spyware, Compromised Host). As per the nature of CDNs, a single IP can serve dozens of domains...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1polw8m/forticlient_7213_macos_26_support/" target="_blank" rel="noopener">FortiClient 7.2.13 / MacOS 26 support</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-17T03:13:34+00:00</div>
+    <p>Has anyone heard anything (official or otherwise) regarding the release date for 7.2.13? We need MacOS 26 support and for now are stuck on 7.2.x client stream Thanks submitted by /u/Informal_Thought [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnv4fh/sctp_through_90g/" target="_blank" rel="noopener">SCTP through 90G?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T06:35:30+00:00</div>
-    <p>We&#x27;ve been working with private cellular, and one of the requirements is that SCTP be sent over the network. With a 60E or 60F, there are no problems. With a 90G, we aren&#x27;t seeing the COOKIE-ECHO packets, at all. Put a 60F in, we see the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1poi8iw/solution_to_pbr_limit_for_conflicting_routes/" target="_blank" rel="noopener">Solution to PBR limit for conflicting routes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-17T00:19:09+00:00</div>
+    <p>Hey all. Will try make this as simple as possible. Thansk in advanced for any replies. My current solution involves an x509 dial up ike2 dial up tunnel. Works perfectly and I can route to clients as well as the subnets behind the client....</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pns5qm/forticlient_vpn_only_forticlient_ztna_744/" target="_blank" rel="noopener">FortiClient VPN Only --&gt; FortiClient ZTNA 7.4.4 deployment</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T03:52:52+00:00</div>
-    <p>I’m looking for a way to upgrade our machines that usr FortiClient VPN only, to ZTNA since we configured the EMS servers in our environment. Are there any guides on how to do that? Thanks. submitted by /u/Eequal [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1poh34t/forticlient_7212_doesnt_launch/" target="_blank" rel="noopener">Forticlient 7.2.12 doesn’t launch</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T23:28:36+00:00</div>
+    <p>In my organisation we use FortiClient and have recently pushed out an update to take our endpoints from using 7.2.10 to 7.2.12 and since the update we’re having an issue where the client app won’t launch. The only way around it for us is...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/BQSgKtlOL4cQHSL_nzYIhelCRpq0SH-c1JoqDVucres.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pocxva/60f_77_memory_usage_skip_ffdb_components_because/" target="_blank" rel="noopener">60F 77% memory usage - &quot;skip ffdb components because available memory is too low&quot;</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T20:40:03+00:00</div>
+    <p>Hey all, New to fortigate and trying to learn. I have a 60F/108F/231F at my home. Seeing high memory usage and getting the skip ffdb warning. Through my google searches I have scheduled Fortiguard updates for 3am and turned off security ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/q7SxhxU2PHNU7BNVVtLRGRnUFnM2N2FI37uKLl_6H9Y.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pobgiu/fortilink_issues/" target="_blank" rel="noopener">Fortilink Issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T19:41:11+00:00</div>
+    <p>I manage a small network of Fortiswitches and a 100F Fortigate. We recently bought a new 524E-FPOE switch to replace an older HP switch. Our fortiswitches have been managed for several years from the Fortigate 100F w/o issues. The 524E s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/odroeteu6m7g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=28f4b057a25a6604f047d7cd883a501e19116fbb" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1poalel/configure_dns_forwarder_on_the_lan_interface_of/" target="_blank" rel="noopener">configure dns forwarder on the lan interface of my vdom test</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T19:07:45+00:00</div>
+    <p>i want to configure a secondary dns server to forward dns query of my dns server on windows server in the lan connected on my vdom test. submitted by /u/Tchelo225 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnoviw/standalone_fortiswitch_fortigate_vlan_issues/" target="_blank" rel="noopener">Standalone Fortiswitch &amp; FortiGate VLAN Issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T01:15:22+00:00</div>
-    <p>I work on a project team, and recently one of our projects included adding VLANs to a client network. They have a FortiGate and a Standalone Fortiswitch. I do not know why they aren’t using FortiLink, other than “they don’t want that”. I...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po87mp/fortios_80_new_mpa_asic/" target="_blank" rel="noopener">FortiOS 8.0 / new MPA ASIC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T17:38:06+00:00</div>
+    <p>Has anyone gotten feedback from their channel rep on what to expect with the new OS / new ASIC slated for next year? submitted by /u/vlookup90 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnn3lm/648f_mclag_to_dell_switch/" target="_blank" rel="noopener">648F mclag to Dell switch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T23:55:10+00:00</div>
-    <p>Currently have 2 648F-FPOE switches configured with mclag connected to Dell switch using a port channel. I’ve changed the mgmt vlan from 4094 to 4000. I can created the truck on the 648 however can’t sent the native vlan to 4000 it’s not...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po6oq7/packet_loss_while_pinging_a_remote_server_through/" target="_blank" rel="noopener">Packet Loss While Pinging a Remote Server Through an IPsec VPN TUNNEL</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T16:41:27+00:00</div>
+    <p>I am experiencing intermittent disconnections (packet loss) when pinging a remote server through an IPsec VPN tunnel. The tunnel itself remains up and stable, but I am unable to identify the root cause of these interruptions. submitted b...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnmylg/public_website_is_being_blocked_and_i_cant_find/" target="_blank" rel="noopener">Public website is being blocked and I can&#x27;t find any log as to why</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T23:49:10+00:00</div>
-    <p>This is on one of my branch site 70g&#x27;s running 7.2.12. I have a pretty basic setup, but today I got some complaints that a work site couldn&#x27;t be hit that is out on the public side of things. I did find that the DNS filter was blocking an...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/6Oe2ON2nxLoDBEwNnpN44V45bfy8MFemEHU8VZ83R7Q.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnm6a8/fortinet_cable_on_grandstream_switch/" target="_blank" rel="noopener">Fortinet cable on Grandstream switch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T23:15:14+00:00</div>
-    <p>Hey, Im currently working on configuring a Grandstream GWN7813P switch and I tried using a fortinet Usb A to serial cable but the switch will not detect the connection, I tried updating drivers with the ones I downloaded from FTDI but it...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po6kvs/fortigate_70g_in_production/" target="_blank" rel="noopener">Fortigate 70G in production</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T16:37:06+00:00</div>
+    <p>Hello everyone, We are currently thinking of buying two fortigate 70G for our headquarters in a failover setup. I have seen some other posts stating that this model is not ready for production because it is not on the same FortiOS releas...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnlmuz/61e_home_lab_project/" target="_blank" rel="noopener">61E Home Lab Project</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T22:52:42+00:00</div>
-    <p>Picked up a secondhand 61E on marketplace for $10! Amazon power supply and an old molex and I got it fired up and looks like the firmware was wiped... Is the cheapest way to get firmware to sign up with the app for $99? submitted by /u/D...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po6j89/understanding_dns_zones_best_practices/" target="_blank" rel="noopener">Understanding DNS Zones best practices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T16:35:23+00:00</div>
+    <p>Hi everyone, I work with a medium-sized company that has a single large office with smaller sales offices dotted around the globe. The majority of our infrastructure is on-prem. We use Fortigates for our main router/firewall at each loca...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnkstq/internal_fortigate_username_passthrough/" target="_blank" rel="noopener">Internal fortigate username passthrough</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T22:18:13+00:00</div>
-    <p>I’ve used the forticlient in the past for AD based outbound internet filter policies. In this case I am using the fortigate as an internal east-west firewall, but want to restrict people through there based on their AD. It should behave ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/zgIMx5jzFqhoPW_jjet8k3v2veq_dk12Yl8hihefGdo.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnjkjp/fortifone_over_vpn_calls_out_but_no_calls_in/" target="_blank" rel="noopener">FortiFone over VPN calls out, but no calls in</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T21:29:13+00:00</div>
-    <p>Any tips on how to fix this error? When running the diagnostic it shows that it failed on api.push.apple.com , but when I do a policy match from the phone system to that address on 443 it resolves to my policy for out traffic for the pho...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po6753/using_faz_to_increment_my_ip_block_list/" target="_blank" rel="noopener">Using FAZ to increment my IP Block List</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T16:22:51+00:00</div>
+    <p>Hey guys how are you? Today in my company we have a tool that can block IPs and I was thinking about using Handlers and Automation from FAZ to send this application all the logs from my DoS Policy Does anybody know if that would work? Th...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pni57v/ios_duo_push_application_errors_connected_with/" target="_blank" rel="noopener">IOS Duo Push Application errors connected with FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T20:30:13+00:00</div>
-    <p>We are having a problem with users receiving the following error message in the DUO mobile app when requesting a push notification. This is sporadic. If they connect their device to cellular the error goes away. NSURLErrorDomain -999 The...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po5dkh/fortianalyzer_764_issues/" target="_blank" rel="noopener">FortiAnalyzer 7.6.4 issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T15:51:01+00:00</div>
+    <p>Trying to setup email notification so that we can be alerted when an admin logs in and when a configuration is changed into one of our two fortigate routers. the tutorials I find online are all outdated the words are changed the buttons ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pni3kj/nested_vpn/" target="_blank" rel="noopener">Nested VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T20:28:30+00:00</div>
-    <p>I have a hub and spoke dialup VPN, now there is a requirement for another VPN to an address that belongs down the path towards the HUB, have created it and the VPN is up, can see traffic going out the tunnel on the FortiGate side but not...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po5b9k/migrating_off_sonicwall/" target="_blank" rel="noopener">Migrating off Sonicwall</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T15:48:36+00:00</div>
+    <p>Hi all, I currently oversee a dual Sonicwall TZ400 HA pair in the main office with redundant gigabit Internet links, and a branch office with a TZ400 connected with a site to site VPN. The main managed switch stack is Cisco. There are al...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnfh23/fortios_7212_patch/" target="_blank" rel="noopener">FortiOS 7.2.12 patch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T18:47:26+00:00</div>
-    <p>Dear, I have a 100E HA with 7.2.12, I’m planning to migrate to 120G HA. How urgent is this task? Does 7.2.12 still receive security updates? Thanks submitted by /u/con-d-or [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po1yav/rolling_back_single_unit_in_ha_config/" target="_blank" rel="noopener">Rolling back single unit in HA config</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T13:29:25+00:00</div>
+    <p>Did an oopsie when updating today. Was on 7.4.4 and wanted to update to 7.4.9 because of vulnerability last week. Followed upgrade path so 7.4.4 &gt; 7.4.6 &gt; 7.4.8 &gt; 7.4.9. After the first round of updates was finished I hit update again to...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1po1fgy/fortinet_firewall_w_ruckus_switches_aps/" target="_blank" rel="noopener">Fortinet firewall w/ Ruckus switches &amp; APs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T13:05:00+00:00</div>
+    <p>Looking to get a Fortigate 120G firewall to replace an older PFsense firewall. We also have newer Ruckus switches, and Ruckus APs. Does anyone have experience or feedback on running a Fortigate with Ruckus switches/APs? Just want to make...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2025/12/16/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 16 Dec 25 12:00:00 +0000</div>
+    <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-59718 Fortinet Multiple Products Improper Verification of Cryptographic Signature Vulnerabilit...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnzoiw/dialin_ipsec_vpn_with_saml_but_using_certifcate/" target="_blank" rel="noopener">Dial-in IPSec VPN with SAML but using Certifcate instead of PSK</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-16T11:31:45+00:00</div>
+    <p>Been learning Fortigate this year and gotten to Operator as a background. Have inherited a customer&#x27;s setup on a Fortigate 91G currently running 7.4.7. They&#x27;re currently running SSL dial-in VPN that uses SAML to EntraID but that&#x27;s deprec...</p>
   </div>
 </li>
 <li class="card">
@@ -128,46 +160,6 @@ _Updated: December 16, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/934846850/0/fortinet/blogs~Fortinet-Named-Gartner-Peer-Insights%e2%84%a2-Customers%e2%80%99-Choice-for-Enterprise-Wired-and-Wireless-LAN-Infrastructure-for-Eighth-Consecutive-Time" target="_blank" rel="noopener">Fortinet Named 2025 Gartner Peer Insights™ Customers’ Choice for Enterprise Wired and Wireless LAN Infrastructure for Eighth Consecutive Time</a></h3>
     <div class="meta">Fortinet Blog · Mon, 15 Dec 2025 16:00:00 +0000</div>
     <p>Fortinet recognized for the eighth consecutive time in Gartner Peer Insights Customers’ Choice for Enterprise Wired and Wireless LAN Infrastructure, backed by a 4.9/5 rating and 97% customer recomm…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pnaisz/forticloud_connecting_to_customers_as_a_partner/" target="_blank" rel="noopener">FortiCloud: connecting to customers as a partner</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T15:41:38+00:00</div>
-    <p>Hi, How do you, as an MS(S)P, connect to your customers in FortiCloud? About a year ago, we started connecting to customer accounts through the Organizations portal (OUs). Access to most of our customers is still through the connected ac...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pn9wjc/managed_fortiswitch_system_interface_internal/" target="_blank" rel="noopener">Managed Fortiswitch &quot;system interface internal&quot; configuration</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T15:17:21+00:00</div>
-    <p>So every time the Fortigate refreshes the managed switch configuration, it removes &quot;allowaccess snmp&quot; from the switch internal interface. What I need: config system interface edit &quot;internal&quot; set mode dhcp set allowaccess ping https ssh s...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pn988d/fortiedr_flagging_shortcut_of_previously/" target="_blank" rel="noopener">FortiEDR flagging shortcut of previously installed application as malicious executable</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T14:50:17+00:00</div>
-    <p>I have noticed that Fortiedr flags a shortcut to a previously installed application as malicious although the application has been removed. The activity log entry mentions the name of the shortcut (the word &quot;exe&quot; is part of the shortcut ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pn6els/fortigate_30g_signatur_verification_error_on/" target="_blank" rel="noopener">Fortigate 30G Signatur verification error on firmware 7.2.12</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T12:42:23+00:00</div>
-    <p>Hi Waiting for support but anyone else getting Signature verification error when uploading new firmware 7.2.12 ? I have tried manual and automatic upload, but both fail. Even did a new download submitted by /u/Garmaker1975 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pn4mn8/ztna_authentication_lifetime/" target="_blank" rel="noopener">ZTNA authentication lifetime</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-15T11:00:39+00:00</div>
-    <p>Hi, Having some issues with the auth lifetime for ZTNA users authing via SAML. No matter what I do on the ZTNA proxy I can&#x27;t seem to enforce any kind of expiry to our users. Any user who auths via SAML looks like this: ID: 7, VDOM: root,...</p>
   </div>
 </li>
 <li class="card">
