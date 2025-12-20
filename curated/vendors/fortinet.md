@@ -7,95 +7,87 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 19, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 20, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqgrk5/fortigate_interface_bandwidth_via_snmp_does_not/" target="_blank" rel="noopener">FortiGate – Interface bandwidth via SNMP does not match dashboard</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T09:18:10+00:00</div>
-    <p>I’m monitoring FortiGate interface bandwidth using SNMP and calculating throughput from octet counters, but the numbers don’t line up with what the FortiGate dashboard shows. What I’m doing Polling standard IF-MIB HC counters: 1.3.6.1.2....</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pr095v/sip_issues_and_tips/" target="_blank" rel="noopener">SIP Issues and Tips</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T00:06:20+00:00</div>
+    <p>Hello Everyone, We are currently working for a pretty “gigantic” client in the Middle East, whose final request is to route, and apply security policies to the Customer support department before we finish the implementation and contract....</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqggp2/preparing_for_nse4_fgt_ad76_fortios_76/" target="_blank" rel="noopener">Preparing for NSE4_FGT_AD-7.6 (FortiOS 7.6 Administrator) – Looking for Study Materials &amp; Tips</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T08:58:38+00:00</div>
-    <p>Hello everyone, I’m currently preparing for the NSE4_FGT_AD-7.6 – Fortinet NSE 4 FortiOS 7.6 Administrator exam and would really appreciate some guidance from those who have already taken it or are preparing as well. I’m looking for: Rec...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqwm6f/internal_ipsec_tunnel_no_traffic_google_cloud/" target="_blank" rel="noopener">Internal ipsec tunnel no traffic - google cloud</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T21:16:50+00:00</div>
+    <p>Hi, the oveall story is quite complex, but I think i could compress it to asking and hoping if someone had this problem and knows what i&#x27;m talking about. Fortigate connected to google cloud via partner interconnect. There is a underlay 1...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqdv9d/forticlient_sslvpn_stuck_at_40_only_for_airtel/" target="_blank" rel="noopener">FortiClient SSL-VPN stuck at 40% only for Airtel (India) users – FortiOS 6.4, DTLS enabled</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T06:15:00+00:00</div>
-    <p>Hi all, Looking for some guidance on an SSL-VPN issue seen only with Airtel ISP users in India. Environment FortiGate : FortiOS 6.4.x SSL-VPN full tunnel mode DTLS enabled on FortiGate and FortiClient Production setup, stable for years C...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqsk65/so_with_this_new_forticloud_sso_vuln_being/" target="_blank" rel="noopener">So with this new Forticloud SSO vuln being exploited - does this only affect you only if you have your management interface accessible to the world (exposed publicly)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T18:30:34+00:00</div>
+    <p>In which case you should expect unwanted visitors. It says the workaround is to disable access via the Forticloud SSO or to patch to different version. Critical Fortinet Flaws Under Active Attack https://www.darkreading.com/cyberattacks-...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pq6wh5/compromised/" target="_blank" rel="noopener">Compromised?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T00:24:16+00:00</div>
-    <p>I occasionally see the following alerts for failed logins to the inside interface of my firewall. The source is an Unraid server which is also an exit node for Tailscale. There are no services that I’m aware of on the server that would a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqsj2i/fortigate_70f_which_firmware_should_i_install_you/" target="_blank" rel="noopener">Fortigate 70f, which firmware should I install, you guys have scared me.....</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T18:29:24+00:00</div>
+    <p>I need to switch to SSL VPN on my Fortigate firewall (CMMC), I am currently at 7.2.12 and want to upgrade the firmware before going through the trouble of setting up the new VPN because normally firmware upgrades have been known to break...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/2okxtdnrv68g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bd58c9fc9c363b796043b90a47b3c98ff5cff03" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqprs1/what_does_it_mean_to_see_this_type_of_log_on_the/" target="_blank" rel="noopener">What Does It Mean to See This Type of Log on the Firewall?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T16:41:03+00:00</div>
+    <p>submitted by /u/Gijizlle-242 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/r7DrDPcZBKRjHcNIRBfCxZHGMwoLqV4TFQsSdP6ZrMk.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqo56h/forticlient_745_gui_regression_who_thought_this/" target="_blank" rel="noopener">FortiClient 7.4.5 GUI regression – who thought this was a good idea?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T15:37:33+00:00</div>
+    <p>https://preview.redd.it/ryi2uwi0j68g1.png?width=899&amp;format=png&amp;auto=webp&amp;s=63036acacf75df8274f32172668a3e7efb6db249 Just upgraded from FortiClient 7.2.x to 7.4.5 and honestly: the new GUI is a usability downgrade. All VPN connections are...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pq4qrv/having_the_customer_pay_for_rma_returns/" target="_blank" rel="noopener">Having the customer pay for RMA returns</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-18T22:48:42+00:00</div>
-    <p>Although we have had Fortigates for over four years now, I had the pleasure to ask for an RMA recently. Went well, got the device quickly, replaced it, when I went to print the return label it said I have to pay for shipping the device b...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqn83b/best_way_to_setup_multiple_ipsec_vpn_client/" target="_blank" rel="noopener">Best way to setup multiple IPsec VPN Client tunnels</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T15:00:34+00:00</div>
+    <p>Hi all, I was wondering if someone can point me to the right direction. Now that SSL VPN is being deprecated, what is the best way to setup multiple IPsec VPN Client tunnels that have different access based on group membership? How shoul...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pq1ryi/kill_one_member_of_sdwan_using_performance_slas/" target="_blank" rel="noopener">Kill one member of SD-WAN using Performance SLAs without disabling the Static Route?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-18T20:48:27+00:00</div>
-    <p>So, I&#x27;ve been trying to figure this out. We have 2 circuits connected to an HA pair of FortiGate firewalls (through a switch to be able to get to both members), bundled into an SD-WAN, with the one static Default route using the Virtual ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqmcud/traffic_shaping_policies_created_with_cli/" target="_blank" rel="noopener">Traffic Shaping Policies created with CLI Templates do not show in the Fortimanager GUI.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T14:24:01+00:00</div>
+    <p>Hi, I am on FortiManager v7.4.6 I am using &quot;CLI Templates&quot; to configure &quot;Traffic Shaping Policy&quot;. I have multiples &quot;CLI Templates&quot; in one &quot;CLI Template group&quot;. The template group is assigned to two Firewalls. I saved the configuration an...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ppzts0/fortiaps_show_as_offline_in_fortiedge_cloud_but/" target="_blank" rel="noopener">FortiAPs show as offline in FortiEdge Cloud, but can&#x27;t update SSID info, even locally</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-18T19:30:45+00:00</div>
-    <p>I have some 221F APs at one of our sites that show as registered in FortiEdge Cloud on which I need to update the SSID information. Apparently they went offline in FortiEdge Cloud eight months ago but I don&#x27;t recall getting a notificatio...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqlr8o/fg50g_ipsec_over_dialup_w_saml_nightmare/" target="_blank" rel="noopener">FG50G - IPSEC over Dialup w/ SAML nightmare</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T13:58:12+00:00</div>
+    <p>Hey guys, I can&#x27;t seem to make IPSEC over Dialup with SAML AUTH work on Fortigate 50G 7.4.9. Using Forticlient 7.4.3 or later, the SAML login prompt just load indefinitely. I did the configuration following Fortinet KB. All certificates ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ppwscn/80f_factory_reset/" target="_blank" rel="noopener">80F Factory Reset</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-18T17:33:10+00:00</div>
-    <p>Hello Everyone, I am about to perform a factory reset on my 80F, and before doing so, I was wondering whether I am required to have a console cable or whether I can log in to the firewall through the web GUI. I am asking this because I d...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pprbyg/ipsec_remote_access_vpn_question/" target="_blank" rel="noopener">IPSec Remote Access VPN Question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-18T13:52:19+00:00</div>
-    <p>Hi all, I have previously used SSL VPN with SAML auth and users have been assigned ip addressing from specific ranges. I have set up a proof of concept with IPSec VPN and am looking to do the same thing. I understand you can reference a ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pppzcg/fortigate_migration_from_600ehaap_to_200ghaap/" target="_blank" rel="noopener">FortiGate Migration from 600E(HA-A/P) To 200G(HA-A/P)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-18T12:48:29+00:00</div>
-    <p>Hi Guys, I need to migrate from 600E (HA A/P) to 200G (HA A/P). I created a FortiConverter service today and mapped only the up interfaces but did not select the HA interface (only ports 1-7). The other ports are down on the 600E. I alre...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ppomar/iprope_user_identity_ret_no_match_traffic_skips/" target="_blank" rel="noopener">Iprope user identity = ret no match, traffic skips the intended policy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-18T11:33:03+00:00</div>
-    <p>Debug shows: func=__iprope_user_identity_check line=1891 msg=&quot;ret-no-matched&quot; Any idea on which one I should look into? Policy has set user in it with ldap type. Thank you. submitted by /u/Repulsive_Reality_62 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pql1v0/forticlient_licensing_for_occasional_users/" target="_blank" rel="noopener">FortiClient licensing for occasional users</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T13:26:25+00:00</div>
+    <p>Hello, I need to buy some licenses because IPsec over TCP is unsupported and broken in the free client. We have nearly 50 users but only 18 have connected in the last week. Should I buy licenses for everyone? Can I configure EMS Cloud to...</p>
   </div>
 </li>
 <li class="card">
