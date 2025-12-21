@@ -7,87 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 20, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 21, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pr095v/sip_issues_and_tips/" target="_blank" rel="noopener">SIP Issues and Tips</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T00:06:20+00:00</div>
-    <p>Hello Everyone, We are currently working for a pretty “gigantic” client in the Middle East, whose final request is to route, and apply security policies to the Customer support department before we finish the implementation and contract....</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ps149x/fortiappsec_cloud_gslb/" target="_blank" rel="noopener">Fortiappsec cloud gslb</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-21T07:50:29+00:00</div>
+    <p>How to configure fortiappsec gslb any templates ? submitted by /u/Chaluga53 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqwm6f/internal_ipsec_tunnel_no_traffic_google_cloud/" target="_blank" rel="noopener">Internal ipsec tunnel no traffic - google cloud</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T21:16:50+00:00</div>
-    <p>Hi, the oveall story is quite complex, but I think i could compress it to asking and hoping if someone had this problem and knows what i&#x27;m talking about. Fortigate connected to google cloud via partner interconnect. There is a underlay 1...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prxeew/ruta_estática_cuando_tienes_2_isp/" target="_blank" rel="noopener">Ruta estática cuando tienes 2 isp?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-21T04:14:58+00:00</div>
+    <p>Hola, tengo un FortiGate 60F en una oficina chica con 2 salidas a internet (ISP1 principal e ISP2 backup). Estoy usando rutas estáticas: la principal con menor distance y otra de respaldo con mayor distance. El problema es que cuando se ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqsk65/so_with_this_new_forticloud_sso_vuln_being/" target="_blank" rel="noopener">So with this new Forticloud SSO vuln being exploited - does this only affect you only if you have your management interface accessible to the world (exposed publicly)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T18:30:34+00:00</div>
-    <p>In which case you should expect unwanted visitors. It says the workaround is to disable access via the Forticloud SSO or to patch to different version. Critical Fortinet Flaws Under Active Attack https://www.darkreading.com/cyberattacks-...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pruzes/arp_entry_command_for_specific_vlan/" target="_blank" rel="noopener">ARP entry command for specific VLAN ??</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-21T02:06:28+00:00</div>
+    <p>Which Fortigate CLI command should be used to remove the ARP entry for a particular VLAN? I tried the command below, but it didn&#x27;t work. Am I doing anything incorrectly, or may the command be invalid? diag ip arp flush &lt;interface\_name&gt; ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqsj2i/fortigate_70f_which_firmware_should_i_install_you/" target="_blank" rel="noopener">Fortigate 70f, which firmware should I install, you guys have scared me.....</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T18:29:24+00:00</div>
-    <p>I need to switch to SSL VPN on my Fortigate firewall (CMMC), I am currently at 7.2.12 and want to upgrade the firmware before going through the trouble of setting up the new VPN because normally firmware upgrades have been known to break...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/2okxtdnrv68g1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5bd58c9fc9c363b796043b90a47b3c98ff5cff03" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqprs1/what_does_it_mean_to_see_this_type_of_log_on_the/" target="_blank" rel="noopener">What Does It Mean to See This Type of Log on the Firewall?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T16:41:03+00:00</div>
-    <p>submitted by /u/Gijizlle-242 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/r7DrDPcZBKRjHcNIRBfCxZHGMwoLqV4TFQsSdP6ZrMk.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqo56h/forticlient_745_gui_regression_who_thought_this/" target="_blank" rel="noopener">FortiClient 7.4.5 GUI regression – who thought this was a good idea?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T15:37:33+00:00</div>
-    <p>https://preview.redd.it/ryi2uwi0j68g1.png?width=899&amp;format=png&amp;auto=webp&amp;s=63036acacf75df8274f32172668a3e7efb6db249 Just upgraded from FortiClient 7.2.x to 7.4.5 and honestly: the new GUI is a usability downgrade. All VPN connections are...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prqc0t/ipsec_and_hotels/" target="_blank" rel="noopener">IPsec and hotels</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T22:19:00+00:00</div>
+    <p>Hey forum. Real life issues has risen in our short time with fortigate and IPsec. Boss man had issues connecting to the VPN while at a car dealer. Tried on the old ssl Palo Alto and connected right away. How is the issue of many places b...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqn83b/best_way_to_setup_multiple_ipsec_vpn_client/" target="_blank" rel="noopener">Best way to setup multiple IPsec VPN Client tunnels</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T15:00:34+00:00</div>
-    <p>Hi all, I was wondering if someone can point me to the right direction. Now that SSL VPN is being deprecated, what is the best way to setup multiple IPsec VPN Client tunnels that have different access based on group membership? How shoul...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prq5r8/forticlient_with_cisco_duo/" target="_blank" rel="noopener">Forticlient with Cisco Duo</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T22:11:01+00:00</div>
+    <p>Hello guys According to Cisco duo docs: https://duo.com/docs/fortinet They list only PAP in the authentication scheme, does anyone have an idea about using MSChapV2 with Cisco duo? Is that compatible? SSL or IPsec? Any idea? submitted by...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqmcud/traffic_shaping_policies_created_with_cli/" target="_blank" rel="noopener">Traffic Shaping Policies created with CLI Templates do not show in the Fortimanager GUI.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T14:24:01+00:00</div>
-    <p>Hi, I am on FortiManager v7.4.6 I am using &quot;CLI Templates&quot; to configure &quot;Traffic Shaping Policy&quot;. I have multiples &quot;CLI Templates&quot; in one &quot;CLI Template group&quot;. The template group is assigned to two Firewalls. I saved the configuration an...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prgtqs/is_the_utp_spam_filtering_worth_it/" target="_blank" rel="noopener">Is the UTP spam filtering worth it?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T15:24:30+00:00</div>
+    <p>I&#x27;m trying to decide between UTP and ATP, and based on this the only feature from UTP I&#x27;d want is the spam filter. For those using it - how good is it? Do you still find yourself needing a standalone spam filter? Also, am I correctly und...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pqlr8o/fg50g_ipsec_over_dialup_w_saml_nightmare/" target="_blank" rel="noopener">FG50G - IPSEC over Dialup w/ SAML nightmare</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T13:58:12+00:00</div>
-    <p>Hey guys, I can&#x27;t seem to make IPSEC over Dialup with SAML AUTH work on Fortigate 50G 7.4.9. Using Forticlient 7.4.3 or later, the SAML login prompt just load indefinitely. I did the configuration following Fortinet KB. All certificates ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pql1v0/forticlient_licensing_for_occasional_users/" target="_blank" rel="noopener">FortiClient licensing for occasional users</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-19T13:26:25+00:00</div>
-    <p>Hello, I need to buy some licenses because IPsec over TCP is unsupported and broken in the free client. We have nearly 50 users but only 18 have connected in the last week. Should I buy licenses for everyone? Can I configure EMS Cloud to...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prewzu/fortiswitch_766_firmware/" target="_blank" rel="noopener">FortiSwitch 7.6.6 firmware</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T13:56:10+00:00</div>
+    <p>Anyone knows what has changed between 7.6.5 and 7.6.6 firmware that was released on Thursday for FortiSwitch? The public release notes seems identical between the two and I find it suspicious coming so soon.. https://docs.fortinet.com/do...</p>
   </div>
 </li>
 <li class="card">
