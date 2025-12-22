@@ -7,65 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 21, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 22, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ps149x/fortiappsec_cloud_gslb/" target="_blank" rel="noopener">Fortiappsec cloud gslb</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-21T07:50:29+00:00</div>
-    <p>How to configure fortiappsec gslb any templates ? submitted by /u/Chaluga53 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prxeew/ruta_estática_cuando_tienes_2_isp/" target="_blank" rel="noopener">Ruta estática cuando tienes 2 isp?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-21T04:14:58+00:00</div>
-    <p>Hola, tengo un FortiGate 60F en una oficina chica con 2 salidas a internet (ISP1 principal e ISP2 backup). Estoy usando rutas estáticas: la principal con menor distance y otra de respaldo con mayor distance. El problema es que cuando se ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pruzes/arp_entry_command_for_specific_vlan/" target="_blank" rel="noopener">ARP entry command for specific VLAN ??</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-21T02:06:28+00:00</div>
-    <p>Which Fortigate CLI command should be used to remove the ARP entry for a particular VLAN? I tried the command below, but it didn&#x27;t work. Am I doing anything incorrectly, or may the command be invalid? diag ip arp flush &lt;interface\_name&gt; ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prqc0t/ipsec_and_hotels/" target="_blank" rel="noopener">IPsec and hotels</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T22:19:00+00:00</div>
-    <p>Hey forum. Real life issues has risen in our short time with fortigate and IPsec. Boss man had issues connecting to the VPN while at a car dealer. Tried on the old ssl Palo Alto and connected right away. How is the issue of many places b...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prq5r8/forticlient_with_cisco_duo/" target="_blank" rel="noopener">Forticlient with Cisco Duo</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T22:11:01+00:00</div>
-    <p>Hello guys According to Cisco duo docs: https://duo.com/docs/fortinet They list only PAP in the authentication scheme, does anyone have an idea about using MSChapV2 with Cisco duo? Is that compatible? SSL or IPsec? Any idea? submitted by...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prgtqs/is_the_utp_spam_filtering_worth_it/" target="_blank" rel="noopener">Is the UTP spam filtering worth it?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T15:24:30+00:00</div>
-    <p>I&#x27;m trying to decide between UTP and ATP, and based on this the only feature from UTP I&#x27;d want is the spam filter. For those using it - how good is it? Do you still find yourself needing a standalone spam filter? Also, am I correctly und...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1prewzu/fortiswitch_766_firmware/" target="_blank" rel="noopener">FortiSwitch 7.6.6 firmware</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-20T13:56:10+00:00</div>
-    <p>Anyone knows what has changed between 7.6.5 and 7.6.6 firmware that was released on Thursday for FortiSwitch? The public release notes seems identical between the two and I find it suspicious coming so soon.. https://docs.fortinet.com/do...</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea71f8d1af7d66d2/69431a40bbf9070edf9e7a71/fortinet_T._Schneider_shutterstock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
