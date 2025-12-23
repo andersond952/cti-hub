@@ -7,9 +7,65 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 22, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 23, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pto32z/fortigate_50e_very_slow_internet_23_mbps_lan/" target="_blank" rel="noopener">FortiGate 50E – Very slow internet (2–3 Mbps), LAN packet drops, GUI inaccessible, CPU/memory low – hardware failing?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T07:40:34+00:00</div>
+    <p>Hi everyone, I’m troubleshooting a FortiGate 50E and I’m stuck. Looking for confirmation or any last-resort ideas from people who’ve dealt with old 50E units. Environment Model: FortiGate 50E Internet link: 50 Mbps FortiOS: (older versio...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt7zta/warning_shown_in_fortiedge_cloud_email_user_login/" target="_blank" rel="noopener">Warning shown in Fortiedge cloud : &quot;Email user login is deprecated...&quot; - why for master account?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T19:06:24+00:00</div>
+    <p>I’m seeing a warning message on my master FortiCloud account (the only email-based login for my organization): &quot;Email user login is deprecated and support for it will be removed in the future. We recommend that you shift to having IAM us...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt68jk/is_30g_is_suitable_for_our_company/" target="_blank" rel="noopener">Is 30G is suitable for our company?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T17:59:49+00:00</div>
+    <p>Hello, We&#x27;re reviewing firewall options for our branch offices networks and looking at the Fortinet FortiGate 30G. Current setup: Approximately up to 20 users. Internet connection up to 100 Mbps. Typical usage: web browsing, email, RDP s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt3w2q/phase_2_selectors_for_azureaws_s2s_vpns_and/" target="_blank" rel="noopener">Phase 2 selectors for Azure/AWS S2S VPNs and FortiGate-to-Fortigate S2S VPNs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T16:28:53+00:00</div>
+    <p>I have a customer that has the following infrastructure: FortiGate firewalls as perimeter devices, establishing S2S Connectivity to their Data Center facility and S2S connectivity to their Azure and AWS environments. We are running Forti...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/938298731/0/fortinet/blogs~Quantum-Readiness-Begins-Now" target="_blank" rel="noopener">Quantum Readiness Begins Now</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 22 Dec 2025 16:00:00 +0000</div>
+    <p>A concise guide for security leaders on deploying quantum-safe encryption today, covering performance, crypto-agility, NIST standards, and flexible PQC and QKD options…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt1p0k/ipsec_encryption_algorithms/" target="_blank" rel="noopener">IPsec Encryption Algorithms</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T15:01:30+00:00</div>
+    <p>Hello everybody I hope you are all doing well and merry chrisms So I have 100 site and we are currently deploying 50G for branches I have 2 issues First : we currently have 80f firewall in our main DC until we have approval for which bra...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1psyw09/upgrading_600e_from_7212_to_749/" target="_blank" rel="noopener">Upgrading 600E from 7.2.12 to 7.4.9</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T12:55:17+00:00</div>
+    <p>Hello, I&#x27;m working on upgrading our 600E to 7.4.9. However, I saw in the 7.4.8 release notes Bug 1172149 that states &quot;In previous firmware, when the media type is not configured to match the actual media type, the interface will come up....</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea71f8d1af7d66d2/69431a40bbf9070edf9e7a71/fortinet_T._Schneider_shutterstock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
@@ -96,14 +152,6 @@ _Updated: December 22, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/931248341/0/fortinet/blogs~Fortinet-Named-a-Challenger-in-the-Gartner%c2%ae-Magic-Quadrant%e2%84%a2-for-Email-Security-Report" target="_blank" rel="noopener">Fortinet Named a Challenger in the 2025 Gartner® Magic Quadrant™ for Email Security Report</a></h3>
     <div class="meta">Fortinet Blog · Wed, 3 Dec 2025 16:00:00 +0000</div>
     <p>Fortinet named a Challenger in the Gartner Magic Quadrant for Email Security…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/931001831/0/fortinet/blogs~Fortinet-at-AWS-reInvent-Expanding-What%e2%80%99s-Possible-in-Cloud-Security" target="_blank" rel="noopener">Fortinet at AWS re:Invent 2025: Expanding What’s Possible in Cloud Security</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 2 Dec 2025 16:00:00 +0000</div>
-    <p>At AWS re:Invent, Fortinet is proud to support several key AWS launches that make securing the cloud simpler, smarter, and more integrated than ever.…</p>
   </div>
 </li>
 </ul>
