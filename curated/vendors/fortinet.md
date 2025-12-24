@@ -7,39 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 23, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 24, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pto32z/fortigate_50e_very_slow_internet_23_mbps_lan/" target="_blank" rel="noopener">FortiGate 50E – Very slow internet (2–3 Mbps), LAN packet drops, GUI inaccessible, CPU/memory low – hardware failing?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T07:40:34+00:00</div>
-    <p>Hi everyone, I’m troubleshooting a FortiGate 50E and I’m stuck. Looking for confirmation or any last-resort ideas from people who’ve dealt with old 50E units. Environment Model: FortiGate 50E Internet link: 50 Mbps FortiOS: (older versio...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pty5ed/fsw_124gfpoe_low_speed_fan_noise/" target="_blank" rel="noopener">FSW 124G-FPOE low speed fan noise</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T16:25:21+00:00</div>
+    <p>Have a few new FSW 124G-FPOE going into a branch office, wall mounted rack with simple sheet metal enclosure. The low speed fan noise pitch or &#x27;whiny&#x27; sounds is horrible. All the 124g switches we have make this sound. Any recommendations...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt7zta/warning_shown_in_fortiedge_cloud_email_user_login/" target="_blank" rel="noopener">Warning shown in Fortiedge cloud : &quot;Email user login is deprecated...&quot; - why for master account?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T19:06:24+00:00</div>
-    <p>I’m seeing a warning message on my master FortiCloud account (the only email-based login for my organization): &quot;Email user login is deprecated and support for it will be removed in the future. We recommend that you shift to having IAM us...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pty5cb/vm02_upgrading_from_fortios_v764_build3596_to/" target="_blank" rel="noopener">VM02: Upgrading from FortiOS v7.6.4 build3596 to FortiOS v7.6.5 build3651 is not officially supported as there is no recommended upgrade path to FortiOS v7.6.5 build3651.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T16:25:18+00:00</div>
+    <p>Am I missing something? submitted by /u/mrmh1 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt68jk/is_30g_is_suitable_for_our_company/" target="_blank" rel="noopener">Is 30G is suitable for our company?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T17:59:49+00:00</div>
-    <p>Hello, We&#x27;re reviewing firewall options for our branch offices networks and looking at the Fortinet FortiGate 30G. Current setup: Approximately up to 20 users. Internet connection up to 100 Mbps. Typical usage: web browsing, email, RDP s...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptwbc1/forticlient_745_ubuntu_disconnects_after_just_a/" target="_blank" rel="noopener">Forticlient 7.4.5 - Ubuntu : Disconnects after just a few seconds</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T15:11:55+00:00</div>
+    <p>I&#x27;ve manage to get Forticlient 7.4.5 installed and using IKEV2. It connects fine using authentication but after about 5 to 10 seconds it disconnects. The logs on the Fortigate itself says &quot;IPsec phase 2 status changed&quot; but not much more ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt3w2q/phase_2_selectors_for_azureaws_s2s_vpns_and/" target="_blank" rel="noopener">Phase 2 selectors for Azure/AWS S2S VPNs and FortiGate-to-Fortigate S2S VPNs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T16:28:53+00:00</div>
-    <p>I have a customer that has the following infrastructure: FortiGate firewalls as perimeter devices, establishing S2S Connectivity to their Data Center facility and S2S connectivity to their Azure and AWS environments. We are running Forti...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptvv7y/fmg_cloud_remote_device_access/" target="_blank" rel="noopener">FMG Cloud Remote Device Access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T14:53:19+00:00</div>
+    <p>I deployed FMG cloud for a client. With on-prem FMG, you can remotely access the managed devices by right-clicking them. This makes it easy to view every firewall from the FMG interface. On the FMG cloud platform, I do not see this optio...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptv403/fortimonitor_create_counter_measure_to_restart/" target="_blank" rel="noopener">FortiMonitor - Create Counter Measure to restart wireless controller daemon</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T14:21:02+00:00</div>
+    <p>Good morning- We&#x27;ve implemented FortiMonitor to monitor our FortiThings. One thing we have issues with is continual conserve mode issues on our gates. Was wondering if anyone has made a countermeasure to reboot the wireless controller wh...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptu45a/fortigate_120g_749_is_it_possible_to_restart_just/" target="_blank" rel="noopener">Fortigate 120G 7.4.9 Is it possible to restart just the GUI?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T13:37:01+00:00</div>
+    <p>My GUI is hanging on my 120G. Is it possible to restart just the GUI via SSH etc? submitted by /u/skankboy [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptt51x/nse4_exam/" target="_blank" rel="noopener">NSE4 Exam</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T12:49:50+00:00</div>
+    <p>Hi, I&#x27;d like to purchase the NSE4 exam in FortiOS 7.4 on the PersonVue platform. The problem is that there&#x27;s only an option to take it in version 7.6. I understand Fortinet has discontinued the 7.4 exams? submitted by /u/k3kosz [link] [c...</p>
   </div>
 </li>
 <li class="card">
@@ -48,22 +72,6 @@ _Updated: December 23, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/938298731/0/fortinet/blogs~Quantum-Readiness-Begins-Now" target="_blank" rel="noopener">Quantum Readiness Begins Now</a></h3>
     <div class="meta">Fortinet Blog · Mon, 22 Dec 2025 16:00:00 +0000</div>
     <p>A concise guide for security leaders on deploying quantum-safe encryption today, covering performance, crypto-agility, NIST standards, and flexible PQC and QKD options…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pt1p0k/ipsec_encryption_algorithms/" target="_blank" rel="noopener">IPsec Encryption Algorithms</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T15:01:30+00:00</div>
-    <p>Hello everybody I hope you are all doing well and merry chrisms So I have 100 site and we are currently deploying 50G for branches I have 2 issues First : we currently have 80f firewall in our main DC until we have approval for which bra...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1psyw09/upgrading_600e_from_7212_to_749/" target="_blank" rel="noopener">Upgrading 600E from 7.2.12 to 7.4.9</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-22T12:55:17+00:00</div>
-    <p>Hello, I&#x27;m working on upgrading our 600E to 7.4.9. However, I saw in the 7.4.8 release notes Bug 1172149 that states &quot;In previous firmware, when the media type is not configured to match the actual media type, the interface will come up....</p>
   </div>
 </li>
 <li class="card">
