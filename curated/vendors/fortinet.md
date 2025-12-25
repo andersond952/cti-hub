@@ -7,63 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 24, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 25, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pty5ed/fsw_124gfpoe_low_speed_fan_noise/" target="_blank" rel="noopener">FSW 124G-FPOE low speed fan noise</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T16:25:21+00:00</div>
-    <p>Have a few new FSW 124G-FPOE going into a branch office, wall mounted rack with simple sheet metal enclosure. The low speed fan noise pitch or &#x27;whiny&#x27; sounds is horrible. All the 124g switches we have make this sound. Any recommendations...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1puleug/fortipam_in_dmz_idmz/" target="_blank" rel="noopener">FortiPAM in DMZ - iDMZ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-24T11:36:33+00:00</div>
+    <p>I&#x27;m questioning myself if it&#x27;s a common practice/good idea to place your FortiPAM instance in (i)DMZ? It should be reachable from Internet. We want to use it for our contactors, so they cannot log in without being noticed and most items ...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pty5cb/vm02_upgrading_from_fortios_v764_build3596_to/" target="_blank" rel="noopener">VM02: Upgrading from FortiOS v7.6.4 build3596 to FortiOS v7.6.5 build3651 is not officially supported as there is no recommended upgrade path to FortiOS v7.6.5 build3651.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T16:25:18+00:00</div>
-    <p>Am I missing something? submitted by /u/mrmh1 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptwbc1/forticlient_745_ubuntu_disconnects_after_just_a/" target="_blank" rel="noopener">Forticlient 7.4.5 - Ubuntu : Disconnects after just a few seconds</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T15:11:55+00:00</div>
-    <p>I&#x27;ve manage to get Forticlient 7.4.5 installed and using IKEV2. It connects fine using authentication but after about 5 to 10 seconds it disconnects. The logs on the Fortigate itself says &quot;IPsec phase 2 status changed&quot; but not much more ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptvv7y/fmg_cloud_remote_device_access/" target="_blank" rel="noopener">FMG Cloud Remote Device Access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T14:53:19+00:00</div>
-    <p>I deployed FMG cloud for a client. With on-prem FMG, you can remotely access the managed devices by right-clicking them. This makes it easy to view every firewall from the FMG interface. On the FMG cloud platform, I do not see this optio...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptv403/fortimonitor_create_counter_measure_to_restart/" target="_blank" rel="noopener">FortiMonitor - Create Counter Measure to restart wireless controller daemon</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T14:21:02+00:00</div>
-    <p>Good morning- We&#x27;ve implemented FortiMonitor to monitor our FortiThings. One thing we have issues with is continual conserve mode issues on our gates. Was wondering if anyone has made a countermeasure to reboot the wireless controller wh...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptu45a/fortigate_120g_749_is_it_possible_to_restart_just/" target="_blank" rel="noopener">Fortigate 120G 7.4.9 Is it possible to restart just the GUI?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T13:37:01+00:00</div>
-    <p>My GUI is hanging on my 120G. Is it possible to restart just the GUI via SSH etc? submitted by /u/skankboy [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ptt51x/nse4_exam/" target="_blank" rel="noopener">NSE4 Exam</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-23T12:49:50+00:00</div>
-    <p>Hi, I&#x27;d like to purchase the NSE4 exam in FortiOS 7.4 on the PersonVue platform. The problem is that there&#x27;s only an option to take it in version 7.6. I understand Fortinet has discontinued the 7.4 exams? submitted by /u/k3kosz [link] [c...</p>
+    <h3><a href="https://feeds.fortinet.com/~/939266474/0/fortinet/blogs~Product-Security-Advisory-and-Analysis-Observed-Abuse-of-FGIR" target="_blank" rel="noopener">Product Security Advisory and Analysis: Observed Abuse of FG-IR-19-283</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 24 Dec 2025 10:15:00 +0000</div>
+    <p>This blog analysis describes the observed abuse and provides additional context so that administrators can confirm that they are not impacted and guidance based on Fortinet observations to prevent …</p>
   </div>
 </li>
 <li class="card">
@@ -152,14 +112,6 @@ _Updated: December 24, 2025 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/931248119/0/fortinet/blogs~SDWAN-Is-the-Foundation-of-Every-Successful-SASE-Strategy" target="_blank" rel="noopener">SD-WAN Is the Foundation of Every Successful SASE Strategy</a></h3>
     <div class="meta">Fortinet Blog · Wed, 3 Dec 2025 16:00:00 +0000</div>
     <p>Discover why Secure SD-WAN is the essential foundation for SASE, enabling unified management, stronger security, and optimized cloud performance.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/931248341/0/fortinet/blogs~Fortinet-Named-a-Challenger-in-the-Gartner%c2%ae-Magic-Quadrant%e2%84%a2-for-Email-Security-Report" target="_blank" rel="noopener">Fortinet Named a Challenger in the 2025 Gartner® Magic Quadrant™ for Email Security Report</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 3 Dec 2025 16:00:00 +0000</div>
-    <p>Fortinet named a Challenger in the Gartner Magic Quadrant for Email Security…</p>
   </div>
 </li>
 </ul>
