@@ -7,9 +7,25 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 28, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 29, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pxuh7y/forticlient_745_issue/" target="_blank" rel="noopener">Forticlient 7.4.5 Issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-28T15:48:40+00:00</div>
+    <p>Hello everyone, is anyone experiencing issues with FortiClient 7.4.5? After the update, ZTNA TCP forwarding using a wildcard stopped working. For example: if I have a destination set to google.com, it works normally. But if I use *.googl...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/CdMDbYW3YfxEBLvhPpAW7QA7SFqRCO_I7XYGYl9TQRQ.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pxpuw5/fortigate_ha_dual_fortiswitch_design_pitfalls/" target="_blank" rel="noopener">FortiGate HA + dual FortiSwitch - design pitfalls?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-28T12:07:07+00:00</div>
+    <p>I’m reviewing an existing production design that I need to optimize and stabilize, without disrupting the network or doing a major redesign in the short term. Current topology: https://preview.redd.it/zh66efiyqx9g1.png?width=1858&amp;format=...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
