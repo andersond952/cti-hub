@@ -7,15 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: December 30, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: December 31, 2025 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pymhcj/fortianalyzer_76_study_lap_guide/" target="_blank" rel="noopener">Fortianalyzer 7.6 study &amp; lap guide</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-29T13:37:09+00:00</div>
-    <p>Hello, I need to download Fortianalyzer 7.6 study &amp; lap guide but can&#x27;t find them for free. Can anyone help? Thanks submitted by /u/Xx-RAFEEK-xX [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pzwjcv/howto_advpn_bgp_on_loopback_how_it_all_works/" target="_blank" rel="noopener">HOWTO: ADVPN (BGP on Loopback) --- How it all works</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-30T23:00:43+00:00</div>
+    <p>Decided to create a 14-minute video that is typically a 2-hour long whiteboard session with customers. It discusses how ADVPN (BGP on Loopback) works and the building blocks that make it work. https://youtu.be/WKVeIATugTU?si=BRzfdXbAr6nG...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pzw2b9/doubt_at_fcp_within_2_months/" target="_blank" rel="noopener">Doubt at FCP within 2 months</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-30T22:41:16+00:00</div>
+    <p>Context: I am 18 years old, got my CCNA at 17, have little experience actually configuring FortiGates, do work in their proximity Hello, I&#x27;ve recently started learning for the NSE 4 on the 21.12.2025. Within that time, I have spent about...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pzowef/can_you_help_me_understand_sdwanlink_health/" target="_blank" rel="noopener">Can you help me understand SD-WAN/Link Health Monitor thresholds?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-30T17:58:48+00:00</div>
+    <p>I&#x27;m trying to understand which daemon, system or setting is detecting when an SD-WAN member is &quot;unreachable&quot; to the point that the FGT stops forwarding traffic out of that member, and event 22923 is logged. In this case I have three Perf...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pzm5bz/understand_debug_flow_get_deeper_understanding_of/" target="_blank" rel="noopener">understand debug flow - get deeper understanding of function and their names</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-30T16:14:28+00:00</div>
+    <p>Hi everyone, I guess everyone who ever had to troubleshoot traffic on a fortigate used two tools: sniffer and debug flow. Debug flow gives you a nice output - but only if you understand how to interpret it. Things like &quot;reverse path chec...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pzi32e/whats_pre_route_auth_check_in_debug_flow/" target="_blank" rel="noopener">what&#x27;s &quot;pre_route_auth check&quot; in debug flow?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-30T13:26:21+00:00</div>
+    <p>Hi everyone, in order to debug another issue with hairpin VIP, I&#x27;d like to understand what the function &quot;pre_route_auth&quot; is all about in &quot;diag debug flow&quot;. When you read something like &quot;reverse path check fail&quot;, you understand what it&#x27;s ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pzflyo/multicast_running_pim/" target="_blank" rel="noopener">Multicast running PIM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-30T11:19:12+00:00</div>
+    <p>I am traying to test multicas for a prouect using VLC. I have enable ping with igmp v3, configured a static RP, created multicast polices and regular policies and it&#x27;s not working. I decided to test from the Fortigate to the other aide o...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1pzf7sm/more_gs_in_2026/" target="_blank" rel="noopener">More Gs in 2026?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-30T10:56:18+00:00</div>
+    <p>200G is only G generation with CP10. Are there any plans for 400G (or any &gt; 200G) in first half of 2026? submitted by /u/mrmh1 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
