@@ -7,57 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/wXcxXuE6p4v2doXAN-ZAYLCmHVgu4OtKqfVDgUczDXM.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q0yfha/can_i_pass_fcp_with_just_cbt_nuggets_and_home/" target="_blank" rel="noopener">Can I pass FCP with just CBT Nuggets and Home Labs? Need certification for a move abroad.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-01T07:20:25+00:00</div>
-    <p>I&#x27;ll be moving to a different country soon. Although I&#x27;m not a networking expert, I manage 8 FGTs at work and I&#x27;m pretty comfortable with them. I suspect finding an IT job might be difficult if I don&#x27;t meet the standard HR requirements, ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q0qvrc/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-01T00:00:58+00:00</div>
-    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q0loiq/office_move_coming_up_trade_in_current_fws_but/" target="_blank" rel="noopener">Office move coming up. Trade in current FWs but after move?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-31T19:45:29+00:00</div>
-    <p>Here&#x27;s something that would help me out. In May 2026 our office is moving. We currently have two 101Fs in HA. I plan on buying two new models, probably 121Gs. What would be great is if I could work a deal that I get two new 121Gs with a ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q0elny/fortimanager_policy_help/" target="_blank" rel="noopener">Fortimanager - Policy Help</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-31T14:44:10+00:00</div>
-    <p>I currently have 2x policy packages one dedicated for branches and one for the hub. On the hub I need to have an identical firewall policy going to each hub with the only difference being the out going interface (Vpn int) and destination...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q0dkp0/fortimail_ip_policies/" target="_blank" rel="noopener">Fortimail : IP Policies</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-31T13:56:04+00:00</div>
-    <p>Hi everyone, We use FortiMail Cloud as mail gateway. The protected domain is a Microsoft domain hosted on Exchange Online, and the destination SMTP is also a Microsoft domain on Exchange Online. The problem lies with the IP policies. Inc...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q0apjj/fgtfmgfaz_64_to_76/" target="_blank" rel="noopener">FGT/FMG/FAZ - 6.4 to 7.6</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2025-12-31T11:17:45+00:00</div>
-    <p>Hi all, i&#x27;m going to migrate a customer from 6.4 to 7.6 We have 4 adoms and 2-3 device for each of; The changes to the FGT are quite low i wanna share with you the best and easy approach migrating fgt and keeping them joined to the manag...</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
