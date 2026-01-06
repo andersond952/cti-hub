@@ -7,33 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q409js/how_to_properly_enable_snmp_across_ipsec_tunnel/" target="_blank" rel="noopener">How to Properly Enable SNMP Across IPSec Tunnel for LibreNMS?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-04T20:13:26+00:00</div>
-    <p>I just recently deployed LibreNMS at a small office with two locations. The main office hosts the LibreNMS virtual server and is scanning all clients in that office successfully. I even have LibreNMS scanning the remote office&#x27;s IPSec tu...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q3vsgc/vpn_to_avoid_fortinet_website_filtering/" target="_blank" rel="noopener">Vpn to avoid fortinet website filtering?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-04T17:27:18+00:00</div>
-    <p>My college uses fortinet to filter websites and i want to access them, can someone please help me which vpn should i buy submitted by /u/Popular-Courage-795 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q3paa7/forticlient_android/" target="_blank" rel="noopener">Forticlient Android</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-04T12:55:51+00:00</div>
-    <p>Does this client work for anyone? It no longer works on my galaxy s25. Says revoked or moves to a browser and fails. I use SSO to sign on. I think that is the issue technically. submitted by /u/CajunLouisiana [link] [comments]</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
