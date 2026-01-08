@@ -7,9 +7,49 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6fcfc/azure_fortigate_cluster_and_fortimanager/" target="_blank" rel="noopener">Azure Fortigate cluster and Fortimanager communication</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:28:10+00:00</div>
+    <p>Hi We&#x27;re looking into deploying 2 fortigates in Azure, using this model : https://github.com/fortinet/azure-templates/tree/main/FortiGate/Active-Passive-ELB-ILB This is active/passive cluster, in sandwich between 2 Azure load balancers. ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6fa8d/60f_replacement/" target="_blank" rel="noopener">60F replacement</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:25:25+00:00</div>
+    <p>I currently have one Fortigate 60F, which is about 5 years old. In the future, I want to implement a HA cluster. Is it a good idea to go with the 60F again? Performance wise, it’s been fine so far, but I can’t find any information about ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6f5ve/fac_eaptls_ios_intune/" target="_blank" rel="noopener">FAC - EAP-TLS - iOS &amp; Intune</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:19:56+00:00</div>
+    <p>Does anybody have an official Fortinet config guide for getting SCEP through a FAC (8.0.0) to work with iOS phones registered in Intune? I’m trying to connect to a new SSID using EAP-TLS I’ve got it working with Windows devices and have ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6eto3/fortigate_application_control_signature_update/" target="_blank" rel="noopener">FortiGate Application Control Signature Update may affect your MSAD Logon</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:04:19+00:00</div>
+    <p>submitted by /u/Bosoffsky [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6dm9z/does_a_wan_localin_policy_for_sslvpn_affect/" target="_blank" rel="noopener">Does a WAN Local-in Policy for SSL-VPN Affect Management Access if Management Is LAN-Only?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T12:04:21+00:00</div>
+    <p>Hi, In my setup, FortiGate management access (HTTPS/SSH) is enabled only on the internal LAN interface , not on the WAN interface. If I configure a local-in policy on the WAN interface specifically to restrict SSL-VPN access , I’d like t...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
