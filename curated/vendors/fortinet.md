@@ -7,47 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6fcfc/azure_fortigate_cluster_and_fortimanager/" target="_blank" rel="noopener">Azure Fortigate cluster and Fortimanager communication</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:28:10+00:00</div>
-    <p>Hi We&#x27;re looking into deploying 2 fortigates in Azure, using this model : https://github.com/fortinet/azure-templates/tree/main/FortiGate/Active-Passive-ELB-ILB This is active/passive cluster, in sandwich between 2 Azure load balancers. ...</p>
+    <h3><a href="https://feeds.fortinet.com/~/939861548/0/fortinet/blogs~Become-a-CISSP-with-Fortinet%e2%80%99s-ISCApproved-NSE-Training" target="_blank" rel="noopener">Become a CISSP with Fortinet’s ISC2-Approved NSE Training</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 8 Jan 2026 17:00:00 +0000</div>
+    <p>Fortinet’s Training Institute is an ISC2 CPE Submitter, enabling CISSP holders to earn CPE credits through NSE courses, Fast Tracks, webinars, and more.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6fa8d/60f_replacement/" target="_blank" rel="noopener">60F replacement</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:25:25+00:00</div>
-    <p>I currently have one Fortigate 60F, which is about 5 years old. In the future, I want to implement a HA cluster. Is it a good idea to go with the 60F again? Performance wise, it’s been fine so far, but I can’t find any information about ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q7eq39/fortiadc_design_general_questions/" target="_blank" rel="noopener">FortiADC design general questions</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-08T15:28:38+00:00</div>
+    <p>Greetings community, I know this could be a topic for hours and that at the end it comes to the specifics of each environment, but I thought to ask, how does a typical FortiADC deployment looks? In the sense of: - where is placed on the ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6f5ve/fac_eaptls_ios_intune/" target="_blank" rel="noopener">FAC - EAP-TLS - iOS &amp; Intune</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:19:56+00:00</div>
-    <p>Does anybody have an official Fortinet config guide for getting SCEP through a FAC (8.0.0) to work with iOS phones registered in Intune? I’m trying to connect to a new SSID using EAP-TLS I’ve got it working with Windows devices and have ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q7dw8m/dhcp_relay_for_ipsec_vpn/" target="_blank" rel="noopener">DHCP relay for IPsec VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-08T14:56:34+00:00</div>
+    <p>I am in the process of building out a new location. I&#x27;ve always had the pleasure(displeasure?) of working with Cisco firepower&#x27;s in the past with SSL VPN for clients, which just worked including using DHCP relay for addressing. Now with ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6eto3/fortigate_application_control_signature_update/" target="_blank" rel="noopener">FortiGate Application Control Signature Update may affect your MSAD Logon</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T13:04:19+00:00</div>
-    <p>submitted by /u/Bosoffsky [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q79ks1/réinitialiser_les_autorisations_fortigate_90g/" target="_blank" rel="noopener">Réinitialiser les autorisations Fortigate 90G</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-08T11:39:03+00:00</div>
+    <p>Bonjour J&#x27;active et je désactive des utilisateurs en fonction d&#x27;un process interne. Je souhaiterai pouvoir via une commande réinitialiser les autorisations de connexion. Dans l&#x27;état actuel si un utilisateur est &quot;enable&quot; et se connecte, s...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q6dm9z/does_a_wan_localin_policy_for_sslvpn_affect/" target="_blank" rel="noopener">Does a WAN Local-in Policy for SSL-VPN Affect Management Access if Management Is LAN-Only?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-07T12:04:21+00:00</div>
-    <p>Hi, In my setup, FortiGate management access (HTTPS/SSH) is enabled only on the internal LAN interface , not on the WAN interface. If I configure a local-in policy on the WAN interface specifically to restrict SSL-VPN access , I’d like t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q793is/advice_to_get_certified_in_nse4/" target="_blank" rel="noopener">Advice to get certified in NSE4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-08T11:11:16+00:00</div>
+    <p>Hi everyone I’ll be taking over a firewall at work soon, even though I haven’t worked with one hands-on before. Right now, I have read-only access to get familiar with the system before officially starting. My course starts next week, an...</p>
   </div>
 </li>
 <li class="card">
@@ -136,14 +136,6 @@ _Updated: January 08, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/931297808/0/fortinet/blogs~UDPGangster-Campaigns-Target-Multiple-Countries" target="_blank" rel="noopener">UDPGangster Campaigns Target Multiple Countries</a></h3>
     <div class="meta">Fortinet Blog · Thu, 4 Dec 2025 14:00:00 +0000</div>
     <p>FortiGuard Labs uncovers UDPGangster campaigns linked to MuddyWater, using macro-laden phishing lures, evasion techniques, and UDP backdoors to target multiple countries…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/931248119/0/fortinet/blogs~SDWAN-Is-the-Foundation-of-Every-Successful-SASE-Strategy" target="_blank" rel="noopener">SD-WAN Is the Foundation of Every Successful SASE Strategy</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 3 Dec 2025 16:00:00 +0000</div>
-    <p>Discover why Secure SD-WAN is the essential foundation for SASE, enabling unified management, stronger security, and optimized cloud performance.…</p>
   </div>
 </li>
 </ul>
