@@ -7,15 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1q9et19/nse7_enterprise_exam/" target="_blank" rel="noopener">NSE7 enterprise exam</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-10T20:33:21+00:00</div>
-    <p>Hello , My NSE7 enterprise firewall is scheduled for tomorrow, any advices or ideas that could help me Thanks in advance submitted by /u/General_Department74 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qac8ku/forticlient_743_issues/" target="_blank" rel="noopener">Forticlient 7.4.3 issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-11T21:51:51+00:00</div>
+    <p>Our connectivity provider gives us a VPN using Forticlient VPN, which has been fine until the 7.4.3 release. We&#x27;ve had users having issues all over the place, from the connection dropping soon as it connects, to users being prompted for ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qa804m/fsso_implementation_advice_needed_large/" target="_blank" rel="noopener">FSSO Implementation Advice Needed – Large Environment, No DC Agents</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-11T19:09:19+00:00</div>
+    <p>I’m trying to set up Fortinet FSSO / User-ID in a really big AD environment, and I’m kinda stuck. Some context: • Can’t install DC Agents on the domain controllers 😬 • I don’t really know what the best approach is – Polling? Something el...</p>
   </div>
 </li>
 <li class="card">
