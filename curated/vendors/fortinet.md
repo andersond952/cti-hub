@@ -7,23 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qac8ku/forticlient_743_issues/" target="_blank" rel="noopener">Forticlient 7.4.3 issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-11T21:51:51+00:00</div>
-    <p>Our connectivity provider gives us a VPN using Forticlient VPN, which has been fine until the 7.4.3 release. We&#x27;ve had users having issues all over the place, from the connection dropping soon as it connects, to users being prompted for ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qa804m/fsso_implementation_advice_needed_large/" target="_blank" rel="noopener">FSSO Implementation Advice Needed – Large Environment, No DC Agents</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-11T19:09:19+00:00</div>
-    <p>I’m trying to set up Fortinet FSSO / User-ID in a really big AD environment, and I’m kinda stuck. Some context: • Can’t install DC Agents on the domain controllers 😬 • I don’t really know what the best approach is – Polling? Something el...</p>
+    <h3><a href="https://feeds.fortinet.com/~/940043060/0/fortinet/blogs~The-Year-of-Resilience-What-Will-Demand-from-CISOs" target="_blank" rel="noopener">The Year of Resilience: What Will 2026 Demand from CISOs?</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 12 Jan 2026 14:00:00 +0000</div>
+    <p>What 2026 will demand from CISOs: resilience over prevention, governed AI, hardened identity, and business continuity in an AI-driven threat landscape…</p>
   </div>
 </li>
 <li class="card">
@@ -48,14 +40,6 @@ _Updated: January 12, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/938298731/0/fortinet/blogs~Quantum-Readiness-Begins-Now" target="_blank" rel="noopener">Quantum Readiness Begins Now</a></h3>
     <div class="meta">Fortinet Blog · Mon, 22 Dec 2025 16:00:00 +0000</div>
     <p>A concise guide for security leaders on deploying quantum-safe encryption today, covering performance, crypto-agility, NIST standards, and flexible PQC and QKD options…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea71f8d1af7d66d2/69431a40bbf9070edf9e7a71/fortinet_T._Schneider_shutterstock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/critical-fortinet-flaws-under-active-attack" target="_blank" rel="noopener">Critical Fortinet Flaws Under Active Attack</a></h3>
-    <div class="meta">Dark Reading · Wed, 17 Dec 2025 22:44:38 GMT</div>
-    <p>Attackers are targeting admin accounts, and once authenticated, exporting device configurations including hashed credentials and other sensitive information.</p>
   </div>
 </li>
 <li class="card">
@@ -112,14 +96,6 @@ _Updated: January 12, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/931531517/0/fortinet/blogs~From-Insight-to-Action-What-the-SANS-ICSOT-Security-Report-Means-for-You" target="_blank" rel="noopener">From Insight to Action: What the 2025 SANS ICS/OT Security Report Means for You</a></h3>
     <div class="meta">Fortinet Blog · Fri, 5 Dec 2025 14:00:00 +0000</div>
     <p>Learn how to turn critical findings from the SANS State of ICS/OT Security 2025 report into practical steps to strengthen your industrial cyber resilience.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/931297808/0/fortinet/blogs~UDPGangster-Campaigns-Target-Multiple-Countries" target="_blank" rel="noopener">UDPGangster Campaigns Target Multiple Countries</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 4 Dec 2025 14:00:00 +0000</div>
-    <p>FortiGuard Labs uncovers UDPGangster campaigns linked to MuddyWater, using macro-laden phishing lures, evasion techniques, and UDP backdoors to target multiple countries…</p>
   </div>
 </li>
 </ul>
