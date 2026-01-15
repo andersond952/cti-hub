@@ -7,111 +7,111 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcimnl/ospf_route_advertising_and_neighboring_without/" target="_blank" rel="noopener">OSPF route advertising and neighboring without ospf interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T09:08:05+00:00</div>
-    <p>Dear all I am questioning my OSPF knowledge on Fortigates. A customer of ours has a main office and twelve spokes. All spokes are connected by IPsec VPn to the main office and some of the spokes are connected to each other. The networks ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qd7sz7/ipv6_prefix_delegation_works_but_no_wan_ipv6/" target="_blank" rel="noopener">IPv6 Prefix Delegation Works, but No WAN IPv6 Address or Default Route over PPPoE</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-15T02:52:34+00:00</div>
+    <p>I am currently running a 60E I have two ISP connections connected to WAN2 via PPPoE. ISP2 has successfully delegated an IPv6 prefix to me a /56, which I am using internally by assigning /64 subnets to my VLANs, and internal IPv6 routing ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcavwe/ipsec_vpn_for_laptops/" target="_blank" rel="noopener">IPSec VPN for laptops</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T02:14:04+00:00</div>
-    <p>I am now planning to deploy IPSec VPN to laptops and I have the application packaged and the IPSec configuration deployed to the registry. The problem I am having now is with the Preshared Key.... I cannot deploy that via GPO and I can&#x27;t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qd1kyy/azure_activeactive_with_fgt_90g_two_wans_and/" target="_blank" rel="noopener">Azure Active-Active with FGT 90G, two WANs and trying BGP ....</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T22:28:58+00:00</div>
+    <p>I’m building an Azure VPN Gateway Active-Active IPsec setup to a FortiGate (7.4.8) using route-based tunnels + eBGP, but I can’t get both BGP sessions stable at the same time. Both IPsec tunnels show UP (IKE/ESP looks healthy to both Azu...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qc6pf8/advpn_spoke_wont_establish_bgp_with_other_hubs/" target="_blank" rel="noopener">ADVPN- Spoke wont establish BGP with other hubs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T23:13:58+00:00</div>
-    <p>I have multiple hubs and am using one site to test. The spoke connects to all of the hubs with its IPsec tunnel. Each Hub has a loopback for BGP and another for healthcheck, and the spoke has its own loopback. All of the tunnels come up ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qd0dnm/fortiaps_losing_ethernet_link/" target="_blank" rel="noopener">FortiAPs losing ethernet link</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T21:42:20+00:00</div>
+    <p>Hello, We have a customer with lots of FortiAPs (almost 200) and FortiSwitches with varying models (FAP223E, FAP221E, FAPC24JE, FAP421E, FAP224E and FAP231K). All of them have the latest firmware . The problem? Out of nowhere they (Forti...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qc5p3y/ztp_questions_specifically_about_the_interface/" target="_blank" rel="noopener">ZTP questions, specifically about the interface used.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T22:33:34+00:00</div>
-    <p>Hello everyone, I have a question about ZTP. Our past setup that worked: &quot;phone home&quot; config on a USB drive that the fortigate boots from - it tells the gate where to reach FortiManager. You add the model device on FMG, assign a pre run ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcuve6/cve202557716_dll_hijacking_in_online_installer/" target="_blank" rel="noopener">CVE-2025-57716 (DLL Hijacking in Online Installer) Vulnerability Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T18:18:44+00:00</div>
+    <p>This is probably a stupid question, but I&#x27;m wondering if the [FortiGuard VPN] (ie. vpn only) application is included in this CVE, or if it only applies to the full client [FortiGuard]. Only reason I ask is that the current online install...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qc3hxo/nse4_exam_course/" target="_blank" rel="noopener">NSE4 - Exam + Course</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T21:11:40+00:00</div>
-    <p>Qual empresa de treinamento ou instrutor garante retorno ao mercado de trabalho, ao finalizar o curso e exame de certificação? submitted by /u/ITSM-2026 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcqy4a/fortivoice_fon675i_hiss_and_distortion_on_speaker/" target="_blank" rel="noopener">Fortivoice FON-675i hiss and distortion on speaker</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T15:56:53+00:00</div>
+    <p>Just purchased a Fortinet fon-675i to add onto my existing phone system. Oddly, when you press the speakerphone button or press any key, you get a large amount of his from the speakerphone and the audio on the speakerphone is terribly di...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qc1gtq/vdom_partitioning_and_npu_vlinks/" target="_blank" rel="noopener">vdom partitioning and npu vlinks</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T19:55:22+00:00</div>
-    <p>How do you guys setup the communication link between two different vclusters each one with a different vdom (virtual cluster A-P with two vdoms)? As I know the inter vdom links only works between the vdoms in the same vcluster .. can the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcpymi/am_i_alone_struggling_to_access_forticloud_logs/" target="_blank" rel="noopener">Am I alone struggling to access forticloud logs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T15:19:40+00:00</div>
+    <p>Hi, Since this morning, I have been unable to read my FortiCloud-based system events (I can load them once in ten attempts, and only for a few seconds). From my Fortigates as well as on the FortiCloud website. Am I the only one experienc...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://a.thumbs.redditmedia.com/4r3Kwy8RSe_0tKc2-Lu3ZlcxZlT_081AgFBGUlyS6b4.jpg" alt="preview">
+  <img src="https://preview.redd.it/u8garqf4rbdg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=468f24894ae1f7ddd3402433fcbbbd7bbca411b0" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qc12ya/constant_negotiate_ipsec_phase_1_success_messages/" target="_blank" rel="noopener">Constant &quot;negotiate IPSec phase 1&quot; success messages in logs every 3 secs for ADVPN despite tunnel being up, active, and usable for days?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T19:41:23+00:00</div>
-    <p>Hey all, I&#x27;m seeing non-stop constant negotiate IPsec Phase 1 success messages in my fortigate logs for ADVPN tunnels, despite tunnels being up, stable, and active for days. Is this normal? They both have identical Phase 1 and Phase 2 se...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qbwtaa/free_forticlient_vpn_for_fortinet_fortigate_60f/" target="_blank" rel="noopener">Free FortiClient VPN for Fortinet FortiGate 60F has an 8-hour session limit?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T17:10:07+00:00</div>
-    <p>Is it true that the free FortiClient VPN for a Fortinet FortiGate 60F has an 8-hour limit? Users complain that their VPN disconnects after several hours, and one user even claims that a message appeared telling them to buy the full versi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcokn2/fortigate_with_transparent_vdom_and_nat_vdom/" target="_blank" rel="noopener">Fortigate with Transparent Vdom and Nat Vdom</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T14:24:33+00:00</div>
+    <p>Hi Fortinet Community, Please help here. I need to migrate Checkpoint with VSXs to Fortigate with VDOM. Please see above architecture and tell me is it configurable? Will this work.? submitted by /u/Castle__47 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qbw7uw/fortigate_7014_ssl_vpn_daemon_sslvpnd_crashed_and/" target="_blank" rel="noopener">FortiGate 7.0.14 SSL VPN daemon (sslvpnd) crashed and then stopped responding</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T16:39:57+00:00</div>
-    <p>i can&#x27;t connect to vpn via Forticlient and also via Web ssl vpn, the crashlog shows that FortiGate SSL VPN daemon (sslvpnd) crashed and then stopped responding, how can i restart ssl vpn deamon, cause killing the sslvpnd doesn&#x27;t resolve ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcof9z/any_advice_on_configuring_ipsec_client_vpn_to/" target="_blank" rel="noopener">Any advice on Configuring IPSEC Client VPN to Auto Connect?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T14:18:15+00:00</div>
+    <p>Would like to roll out auto connect functionality as we want to ensure all user traffic is routed via our firewall for security reasons and relying on users to connect manually isn&#x27;t a good solution for us and would like to automate it. ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qbt04h/azure_fortigate_ha_setup_with_sdn_connector/" target="_blank" rel="noopener">Azure FortiGate HA Setup with SDN Connector moving Private IP on Port2 Question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T14:38:41+00:00</div>
-    <p>7.4.0 FortiOS now allows an HA failover to move the private IP bound to port2 of the active firewall to port2 of the standby unit - the same functionality that used to be only available for the public IP. Here is the link I&#x27;ve been follo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qco9up/laptop_cant_connect_to_forticlient_vpn_723_over/" target="_blank" rel="noopener">Laptop can&#x27;t connect to Forticlient VPN 7.2.3 over my phone&#x27;s wifi hotspot</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T14:12:04+00:00</div>
+    <p>Has anyone else had this issue? My phone is a Samsung S23, carrier is Google Fi, and hotspot is getting about 150Mbps up /14Mbps down and works great otherwise. I have toggled every possible setting on the hotspot to no avail, turning of...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qbrr7p/fortinet_ipsec_with_sdwan/" target="_blank" rel="noopener">Fortinet Ipsec with SD-WAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T13:48:13+00:00</div>
-    <p>I use Forticlient to connect to IPSec on the Fortinet for VPN. I have SD-WAN on the Fortigate, but the IPSec tunnel only allows me to specify 1 physical interface instead of the SD-WAN interface. The hostname I use in Forticlient automat...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qcm6mj/fortipam/" target="_blank" rel="noopener">FortiPAM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T12:37:24+00:00</div>
+    <p>Hi! I just donwloaded the FortiPAM 1.8.0 VM and I realized that isn&#x27;t compatible with FortiEMS 7.4.5, anyone knows about when is going to be compatible? submitted by /u/Extension_Pepper_501 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://a.thumbs.redditmedia.com/xHm2y4qYAZ_15AQ2dXeIKY6s_NtlqjVHmSxFm3SIWh4.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qclz4o/connect_two_fortigate_haclusters_directly/" target="_blank" rel="noopener">Connect two Fortigate HA-Clusters directly</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T12:26:33+00:00</div>
+    <p>Hi everyone, I have the following scenario: Two Fortigate HA clusters (active/passive |100E v7.2.10) are currently in operation in the customer environment. The two clusters are currently connected by a fiber optic cable. A transfer netw...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qbpa1n/block_youtube_reaction_and_comments/" target="_blank" rel="noopener">Block youtube reaction and comments</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T11:48:34+00:00</div>
-    <p>Is there a way to block youtube reactions and comments while users could see the video ? submitted by /u/amolwani122 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qclsns/is_it_possible_for_me_to_do_an_ipsec_vpn_failover/" target="_blank" rel="noopener">Is it possible for me to do an IPSEC VPN failover with SD-WAN?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T12:17:11+00:00</div>
+    <p>I have a scenario where I have two IPSEC VPNs configured to the same destination, each with a different WAN for a cloud. When one WAN goes down or has issues, I have to manually switch the VPN. I know it&#x27;s possible to do failover with dy...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qbovha/block_mobile_legends/" target="_blank" rel="noopener">Block Mobile Legends</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-13T11:25:08+00:00</div>
-    <p>FG201F Hi. I&#x27;ve already blocked the entire Games category in the Application Control. I&#x27;ve also manually added all the games and blocked them. Based on FG&#x27;s website, it does not need deep inspection: https://fortiguard.fortinet.com/appco...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qckjvl/fcp_fgt_ad76_fcp_fortigate_76_administrator_and/" target="_blank" rel="noopener">FCP_FGT_AD-7.6: FCP - FORTIGATE 7.6 ADMINISTRATOR and NSE_FGT_AD-7.6:Fortinet NSE4 - FortiOS 7.6 Administrator, are they the same thing?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-14T11:08:10+00:00</div>
+    <p>currently doing the booking for my fortigate admin 7.6 and came across those 2. The fortigate admin is available only in Japanese and the NSE 7.6 in english. Are the exams the same or it&#x27;s 2 different subject and thus, 2 different exams?...</p>
   </div>
 </li>
 <li class="card">
