@@ -7,9 +7,49 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteb41f617ff40b846/696aa0ebffd73fdb969c975b/fortinet_RalfLiebhold_Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/fortinet-critical-fortisiem-flaw-exploited" target="_blank" rel="noopener">More Problems for Fortinet: Critical FortiSIEM Flaw Exploited</a></h3>
+    <div class="meta">Dark Reading · Fri, 16 Jan 2026 21:03:37 GMT</div>
+    <p>CVE-2025-64155, a command injection vulnerability, was disclosed earlier this week and quickly came under attack from a variety of IP addresses.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qeetkm/version_of_forticlient_free_wrong/" target="_blank" rel="noopener">Version of FortiClient (free) wrong?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-16T12:36:25+00:00</div>
+    <p>Hi all I have installed FortiClient 7.4.3 hotfix 1.8758 in my Windows 11, after deinstalling 7.3.4.1790 (and restarted several times after and during the deinstall and install). When opening the FCT it clearly states the new version (bui...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qees72/communicate_between_2_networks/" target="_blank" rel="noopener">Communicate between 2 networks</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-16T12:34:27+00:00</div>
+    <p>Hi, 2 networks - 192.168.1.1 / 24 (LAN network) - 10.10.10.1 / 24 (WiFi network) I have created rule to allow WiFi interface to Lam network, but still failed to communicate. May I know anything missing ? Thanks submitted by /u/mailliwal ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qeerft/authentication_failure_with_dialup_ipsec_eap/" target="_blank" rel="noopener">Authentication failure with DialUp IPSec (EAP failure)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-16T12:33:20+00:00</div>
+    <p>We configured a DialUp IPSec tunnel (udp) on Fortigate 7.4.9. The users are authenticated via RADIUS on a Fortiauthenticator (6.6.8) and MFA (Fortitoken on same FAC). The user in question is my own - which works for SSL VPN on the same F...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qee1uz/best_way_to_certify/" target="_blank" rel="noopener">Best way to Certify</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-16T11:57:02+00:00</div>
+    <p>Hi folks, I am a consultant with around 15 years of experience primarily in the HPE/Cisco backdrop. Trying to pick up Fortinet certifications - essentially my focus area is Secure Networking ( switching / wlan / nac ). What is the recomm...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -24,22 +64,6 @@ _Updated: January 16, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/940350959/0/fortinet/blogs~Empowering-Latinas-in-Cybersecurity" target="_blank" rel="noopener">Empowering Latinas in Cybersecurity</a></h3>
     <div class="meta">Fortinet Blog · Thu, 15 Jan 2026 17:00:00 +0000</div>
     <p>Fortinet and Latinas in Cyber are expanding access to cybersecurity careers through training, mentorship, and certifications that empower Latina professionals. …</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qdj7nu/fmg_admins_via_fac_radius_and_admin_profiles/" target="_blank" rel="noopener">FMG admins via FAC (radius) and admin profiles</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-15T13:15:46+00:00</div>
-    <p>Dear all I am lost and need help. We have one Fortimanager and all admin users logging into that FMG are authenticating via FAC (and FortiTokens). We have several teams with several people, that are supposed to get access to FMG (with di...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/mAeGZH5waxLrDH-fxgpKvyqtpA8ehuRK894BWVGw_gw.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qdirsk/configure_vlan_to_ssid/" target="_blank" rel="noopener">Configure VLAN to SSID</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-15T12:56:13+00:00</div>
-    <p>https://preview.redd.it/o0ytks0zfidg1.png?width=870&amp;format=png&amp;auto=webp&amp;s=c5776f3d068215f430b55dde5a1fcb24aaaa144e Hi, May I know it&#x27;s correct to assign VLAN to SSID ? 2nd pic is configuration if the SSID submitted by /u/mailliwal [link...</p>
   </div>
 </li>
 <li class="card">
