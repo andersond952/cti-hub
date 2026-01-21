@@ -7,39 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://b.thumbs.redditmedia.com/g-3ukbJgMSwg7kIPhp2Emz665djNlMkntH2M0gmQg4I.jpg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qhinaw/fortios_7410_is_now_available/" target="_blank" rel="noopener">FortiOS 7.4.10 is now available</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-19T22:17:31+00:00</div>
-    <p>FortiOS 7.4.10 has been made public. Release notes: Introduction and supported models | FortiGate / FortiOS 7.4.10 | Fortinet Document Library Please note the following enhancements: New features or enhancements | FortiGate / FortiOS 7.4...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qismat/special_branch_fortigate_70g/" target="_blank" rel="noopener">Special branch Fortigate 70G</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T08:37:33+00:00</div>
+    <p>Hi guys, It seems the FG-70G are on a special branch, where you need 2867 otherwise it shows a nice error screen. is this just downloading the latest 7.4.9 image from support and applying that or are there other trickeries I can preform?...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qhhkz5/ssl_vpn_to_ipsecsaml_migration_question/" target="_blank" rel="noopener">SSL VPN to IPSEC-SAML migration question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-19T21:38:05+00:00</div>
-    <p>Forti OS 7.4.9 So I&#x27;m working on our VPN migration, and I have it working with my test user. But there&#x27;s one thing I&#x27;m not sure on how to duplicate. Our SSL vpn is setup so that each user has a policy that allows them to send traffic onl...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qikpg7/why_does_forticlient_free_not_support_ipsec_vpn/" target="_blank" rel="noopener">Why does FortiClient Free not support IPSec VPN over TCP?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T01:52:53+00:00</div>
+    <p>Any reason why FortiClient Free does not support IPSec VPN over TCP? Have got it working over UDP port 443 but was hoping to get TCP port 443 working as well for maximum compatibility. https://docs.fortinet.com/document/forticlient/7.4.3...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qhhiog/7410_has_dropped/" target="_blank" rel="noopener">7.4.10 has dropped</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-19T21:35:50+00:00</div>
-    <p>With a heap of fixes - maybe time to jump from the 7.2 branch? https://docs.fortinet.com/document/fortigate/7.4.10/fortios-release-notes/760203/introduction-and-supported-models submitted by /u/r0bbie79 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qiflex/guest_wifi_enc_xxxx_problem/" target="_blank" rel="noopener">Guest WiFi ENC XXXX Problem</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T22:22:39+00:00</div>
+    <p>As per Fortinet&#x27;s insistence (Warnings on each login to the Firewall), we updated our FG201F to 7.6.5 M firmware. Aside from now requiring a more complex password and asking admins to update their passwords, it has been smooth sailing. B...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/tubxCtN9PbDsjvZNI59hpCZODMqC0ZR_lc7Arhac4aA.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qibdcb/possible_new_sso_exploit_cve202559718_on_749/" target="_blank" rel="noopener">Possible new SSO Exploit (CVE-2025-59718) on 7.4.9?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T19:47:20+00:00</div>
+    <p>We just had a malicious SSO login on one of our FortiGate&#x27;s running on 7.4.9 (FGT60F). Unfortunately, our Local-In policy script didn&#x27;t work when this got deployed (that&#x27;s on us, not good!) and the tech didn&#x27;t realize it (again, not prou...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qhc6ij/60e_fs124e_poe_fs148e_poe_questions_re_firmware/" target="_blank" rel="noopener">60E + FS124E POE + FS148E POE / questions re firmware, FortiLink, and upgrades</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-19T18:23:43+00:00</div>
-    <p>Context and background: Home installation with Fortigate 60E (v6.4.16) + FS124E POE (v7.0.4) + FS148E POE (v7.0.4) + a handful of FortiAP 231F access points. Everything is licensed for now (but will not be once EOS becomes final and they...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qib5e8/how_to_override_a_fortimanager_setting_from_a/" target="_blank" rel="noopener">How to override a fortimanager setting from a fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T19:39:22+00:00</div>
+    <p>I know Palo altos have this ability but let&#x27;s say a fortigate loses connection to the fortimanager and I need to quickly either change an IP of an interface or quickly add a static route to the fortigate. would I be able to do this on th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qi6tcn/ems_ztna_unstable_on_macos/" target="_blank" rel="noopener">EMS - ZTNA unstable on MacOS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T17:07:07+00:00</div>
+    <p>Hello there - I would like to learn how you are dealing with ZTNA on MacOS clients and about ZTNA TCP forwarding. Our client have EMS, it was working fine over year, we have set up ZTNA TCP forwarding that is redirecting some specific TC...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qi6dmt/fortinet_sdwan_76_enterprise_administrator_study/" target="_blank" rel="noopener">Fortinet SD-WAN 7.6 Enterprise Administrator Study Guide?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T16:51:45+00:00</div>
+    <p>I’m looking for a study guide for Fortinet SD-WAN 7.6 Enterprise Administrator (NSE6_SDW_AD-7.6). Any recommendations for official docs, labs, or useful resources? submitted by /u/Fit_Brush925 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qi3owc/installed_firmware_contains_a_critical/" target="_blank" rel="noopener">Installed Firmware Contains a Critical Vulnerability FG-IR-25-647 popup when login to Admin portal</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T15:13:45+00:00</div>
+    <p>Hi! Fortinet has popup for Admin login page as we are running 7.4.8 which is recommended release for 200F model https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-Release-for-FortiOS/ta-p/227178 https://imgur.com/a/ULu...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/940900697/0/fortinet/blogs~Inside-a-MultiStage-Windows-Malware-Campaign" target="_blank" rel="noopener">Inside a Multi-Stage Windows Malware Campaign</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 20 Jan 2026 14:00:00 +0000</div>
+    <p>FortiGuard Labs analysis of a multi-stage Windows malware campaign that abuses trusted platforms to disable defenses, deploy RATs, and deliver ransomware.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qhzwny/config_lost_after_firmware_upgrade/" target="_blank" rel="noopener">Config Lost after Firmware Upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T12:33:26+00:00</div>
+    <p>I already lost the configuration on two Fortigates (both in HA) when upgrading from 7.6.4 to 7.6.5. I installed both updates via Fortimanager, if that matters. Interfaces and routes are no longer on the devices after the update. This log...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qhyzfl/whats_the_least_time_youve_taken_to_learn_the/" target="_blank" rel="noopener">What&#x27;s the least time you&#x27;ve taken to learn the FortiOS 7.6 admin and pass the exam?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T11:46:32+00:00</div>
+    <p>who will win this contest? submitted by /u/ianik7777 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qhyc8u/forticlient_intune_invitation_code/" target="_blank" rel="noopener">FortiClient + Intune - Invitation Code</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-20T11:10:44+00:00</div>
+    <p>Quick question guys, we&#x27;re deploying the MSI we got from EMS to a bunch of machines via Intune, how can we inject the Invitation Code so that the user interaction with FortiClient is the less possible? According to the docs, the MSI does...</p>
   </div>
 </li>
 <li class="card">
@@ -48,30 +112,6 @@ _Updated: January 20, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/940650827/0/fortinet/blogs~At-Davos-Cybersecurity-Is-a-Leadership-Imperative" target="_blank" rel="noopener">At Davos, Cybersecurity Is a Leadership Imperative</a></h3>
     <div class="meta">Fortinet Blog · Mon, 19 Jan 2026 14:00:00 +0000</div>
     <p>As leaders gather at the World Economic Forum Annual Meeting 2026, Fortinet highlights why cybersecurity is now a leadership imperative driven by systemic risk, AI, and the need for collective defe…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qh43on/fortinet_fortigate_hardcoded_symmetric_key_in/" target="_blank" rel="noopener">Fortinet Fortigate Hardcoded symmetric key in fips.c (FG-IR-19-007) - what&#x27;s the fix?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-19T13:27:02+00:00</div>
-    <p>Does anyone know what the fix was for this CVE? Was it simply password protecting the backup file. to cve on fortiguard : https://www.fortiguard.com/psirt/FG-IR-19-007 submitted by /u/SprinklesImmediate16 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qh2oa5/forticlient_745_win_10_webflter_url_exclusions/" target="_blank" rel="noopener">Forticlient 7.4.5 / Win 10 / Webflter / URL Exclusions</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-19T12:18:56+00:00</div>
-    <p>Hi everybody, we are testing forticlient (EMS) 7.4.5 on some clients. Most bugs from 7.4.2 are fixed ( 7.4.3 and 7.4.4 couldnt been used for most of the bugs ). We&#x27;ve got a webfilter profile from EMS which is synced by the fortigate. If ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qh27b3/ssid_not_broadcasting_in_bridge_mode/" target="_blank" rel="noopener">SSID not broadcasting in bridge mode</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-19T11:54:52+00:00</div>
-    <p>Hi, FortiWiFi-60F FortiAp-221E Configured SSID (bridge mode) and added to software switch. SSID not broadcasting when in &quot;bridge mode&quot;, but broadcasting in &quot;tunnel mode&quot;. May I have you suggestion for the configuration I have missed ? Th...</p>
   </div>
 </li>
 <li class="card">
@@ -144,14 +184,6 @@ _Updated: January 20, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/935890943/0/fortinet/blogs~AI-Is-Reshaping-Modern-Cybercrime" target="_blank" rel="noopener">AI Is Reshaping Modern Cybercrime</a></h3>
     <div class="meta">Fortinet Blog · Wed, 17 Dec 2025 16:00:00 +0000</div>
     <p>Learn what Fortinet and global partners uncovered about AI-enabled cybercrime through recent tabletop exercises and how these insights help strengthen defensive strategies.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/934846850/0/fortinet/blogs~Fortinet-Named-Gartner-Peer-Insights%e2%84%a2-Customers%e2%80%99-Choice-for-Enterprise-Wired-and-Wireless-LAN-Infrastructure-for-Eighth-Consecutive-Time" target="_blank" rel="noopener">Fortinet Named 2025 Gartner Peer Insights™ Customers’ Choice for Enterprise Wired and Wireless LAN Infrastructure for Eighth Consecutive Time</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 15 Dec 2025 16:00:00 +0000</div>
-    <p>Fortinet recognized for the eighth consecutive time in Gartner Peer Insights Customers’ Choice for Enterprise Wired and Wireless LAN Infrastructure, backed by a 4.9/5 rating and 97% customer recomm…</p>
   </div>
 </li>
 </ul>
