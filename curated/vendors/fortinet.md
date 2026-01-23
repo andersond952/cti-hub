@@ -7,103 +7,127 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://b.thumbs.redditmedia.com/WM40medVnc7gwXepA9lGZGidbKUEUi68NwzWx7xXRDQ.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjqrju/vpn_connection_failed/" target="_blank" rel="noopener">VPN connection failed</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T10:09:39+00:00</div>
-    <p>https://preview.redd.it/9pzungqyiveg1.png?width=473&amp;format=png&amp;auto=webp&amp;s=7b91527eb528b0061bdca90e7a8346b758635e77 I’m having a weird issue with FortiClient IPsec VPN connecting to our FortiGate 60F. Most users connect fine, but one use...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qkk6s5/forticlient_ipsec_vpn_regularly_drops_for_some/" target="_blank" rel="noopener">FortiClient IPSec VPN regularly drops for some users</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-23T07:12:26+00:00</div>
+    <p>We have about 100 users using FortiClient (a mix of 7.2.11 and 7.2.12) on Windows 11 laptops (mostly 25H2 but some 24H2) to connect an IPSec tunnel to a Fortinet VM hosted in Azure (UK South). Some users (such as myself) never get connec...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjqcgo/ipsec_vpns_not_forwarding_traffic_unless/" target="_blank" rel="noopener">IPSec VPNs not forwarding traffic unless npu-offloading disabled after upgrade to 7.4.10</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T09:43:58+00:00</div>
-    <p>Hello, FYI I think we drew first blood with the latest patch on 7.4. A week ago we scheduled upgrade to the latest 7.4 after consulting the release notes. Nothing in release notes that could be an issue for us. We were in safe haven with...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qkjya8/failed_to_authenticate_ldap_user_forticlient_745/" target="_blank" rel="noopener">Failed to authenticate LDAP user Forticlient 7.4.5 Ubuntu 24.03</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-23T06:58:28+00:00</div>
+    <p>Hello everybody ! I tried to connect a standalone Ubuntu 24.03 laptop via Forticlient 7.4.5 to Forticlient EMS with my domain user, but without success. Even if I enter the right credentials in the auth fields, the EMS receives the local...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjez1j/ipsec_overlay_underperforming_vs_internet_pppoe/" target="_blank" rel="noopener">IPsec overlay underperforming vs Internet (PPPoE WAN)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T00:08:11+00:00</div>
-    <p>Hey everyone, I’m looking for a sanity check / design advice on a FortiGate SD-WAN setup where the IPsec overlay is being heavily starved, despite the WAN link performing well for Internet traffic. Environment - Single WAN link (PPPoE, ~...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qkjsuo/is_there_any_interesting_video_on_youtube_or_even/" target="_blank" rel="noopener">Is there any interesting Video on Youtube or even on Udemy(to buy) on FortiOS 7.6 admin?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-23T06:49:24+00:00</div>
+    <p>just wanted to know if there is any video on Youtube or on Udemy that i can watch cause the reading the books are quite painful. submitted by /u/ianik7777 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/w924ejl6h0fg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=0ee6e8f9f80128b98478672c24d592fcddfff120" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qkeok1/forticlient_ssl_vpn_issue/" target="_blank" rel="noopener">Forticlient SSL VPN Issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-23T02:37:31+00:00</div>
+    <p>I’m seeing this error when trying to connect to the VPN on Windows 11. Has anyone else run into this? submitted by /u/Short_Wolverine_2332 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjcqot/single_site_but_multiple_isps_to_different/" target="_blank" rel="noopener">Single site but multiple ISPs to different Fortigates</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T22:39:14+00:00</div>
-    <p>Hello, I am trying to figure out the best way to get a new site stood up, there are currently 3 different ISP lines going to different locations on a large site and they all go to different Fortigates. Internally the site has a mix of ra...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qkdbvt/fortiguardcom_issues_webfiltering/" target="_blank" rel="noopener">fortiguard.com issues? / WebFiltering</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-23T01:36:56+00:00</div>
+    <p>Hi Guys, Is anyone else noticing some issues with Web filtering for fortigates currently within the last 30 mins? submitted by /u/ITGoose_ [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjaxkm/vpn_without_forticlient_license/" target="_blank" rel="noopener">VPN without FortiClient License?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T21:31:01+00:00</div>
-    <p>We are using a Fortinet 100F, including endpoint security. Now we would like to replace the endpoint security with a different solution while keeping Fortinet. There are also SSL VPN connections in place. Do we need the full FortiClient ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qkavmw/fortigate_50e_firmware_updating/" target="_blank" rel="noopener">Fortigate 50E - firmware updating</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T23:50:30+00:00</div>
+    <p>Hello, We recent saw a sudden drop in download speed, and its appearly our Router. looks like its a little behind on firmware. Currently 6.2.9 upgrade path is.. 6.2.9 &gt; 6.2.11 &gt; 6.2.14 &gt; 6.2.16 &gt; 6.2.17 About how long will each update ta...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdccaab3067412d8a/6972857f6cb6e632cf392d4c/firewall_Skorzewiak_Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cloud-security/fortinet-firewalls-malicious-configuration-changes" target="_blank" rel="noopener">Fortinet Firewalls Hit With Malicious Configuration Changes</a></h3>
+    <div class="meta">Dark Reading · Thu, 22 Jan 2026 21:18:42 GMT</div>
+    <p>Automated infections of potentially fully patched FortiGate devices are allowing threat actors to steal firewall configuration files.</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjai2s/fortinet_100f_eol_date/" target="_blank" rel="noopener">Fortinet 100F EOL Date</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T21:15:10+00:00</div>
-    <p>I’m currently managing a Fortinet 100F firewall and I haven’t been able to find any official information regarding an End of Life (EOL) or End of Support (EOS) date for this model. submitted by /u/ImportantRepair9042 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qk6ruo/how_to_find_source_of_localout_traffic/" target="_blank" rel="noopener">How to find source of local-out traffic</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T21:05:36+00:00</div>
+    <p>Good afternoon everyone, We recently setup some IOC detection alerts in FAZ and came across an odd one. There is an entry from our public IP going to a known malicious IP in Lithuania (185.25.51.126). I first assumed it was some internal...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/941387753/0/fortinet/blogs~Analysis-of-Single-SignOn-Abuse-on-FortiOS" target="_blank" rel="noopener">Analysis of Single Sign-On Abuse on FortiOS</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 22 Jan 2026 18:44:00 +0000</div>
+    <p>Fortinet is proactively communicating to customers to share analysis regarding single sign-on (SSO) abuse on FortiOS.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qj73fe/ipsec_tunnel_esp_errors/" target="_blank" rel="noopener">IPsec tunnel ESP errors</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T19:09:46+00:00</div>
-    <p>Scope: Main 90g firewall with couple of tunnels to branch sites 70G and seeing seeing a bunch of “ESP packet detected (replayed packet). As per this KB - https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-Invalid-ESP-packet-...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qk2dui/ipsec_vpn_connection_is_down/" target="_blank" rel="noopener">IPSec VPN Connection is down</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T18:25:37+00:00</div>
+    <p>I need help with debugging this problem I&#x27;ve been stuck on. When I try to connect to the VPN provided by admin, it returns an error &quot;IPSec VPN connection is down&quot;, I tried fixes from using hotspot instead of my internet, Firewalls are of...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qj6bgx/best_way_to_keep_multiple_fortigates_consistent/" target="_blank" rel="noopener">Best way to keep multiple FortiGates consistent without FortiManager (long-term ops model)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T18:42:39+00:00</div>
-    <p>Hi all, We’re rolling out a hub-and-spoke Fortinet setup and we’ve been told FortiManager won’t be approved (at least for now). We still want to do this in a way that stays clean and manageable long-term, even if FortiManager never happe...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qk101a/cve202559718_not_fixed_in_latest_release/" target="_blank" rel="noopener">CVE-2025-59718 - Not fixed in latest release</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T17:35:51+00:00</div>
+    <p>https://www.bleepingcomputer.com/news/security/hackers-breach-fortinet-fortigate-devices-steal-firewall-configs/ FYI, disable Forticloud SSO asap if you have Fortigate with management access accessible via WAN. CVE-2025-59718 is NOT fixe...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://a.thumbs.redditmedia.com/rdJx_KkWUUw93-8tLmy4MHHllzL3WLhl9aPCrtWTHm0.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjzs89/block_portal_not_working_for_dns_filter/" target="_blank" rel="noopener">Block portal not working for DNS filter?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T16:52:26+00:00</div>
+    <p>If I ping a blocked site, it resolves to 208.91.112.55 as expected. But if I try to visit a blocked site in the browser, it just results in ERR_CONNECTION_TIMED_OUT. I&#x27;m expecting some sort of message to the user that says &quot;This site is ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/941378333/0/fortinet/blogs~FortiSIEM-Powers-the-Modern-SOC-with-Agentic-AI-and-Data-Sovereignty-Compliance" target="_blank" rel="noopener">FortiSIEM 7.5 Powers the Modern SOC with Agentic AI and Data Sovereignty Compliance</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 22 Jan 2026 16:00:00 +0000</div>
+    <p>FortiSIEM 7.5 introduces improved threat detection, agentic-AI-powered incident management, and data sovereignty compliance…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qj023r/ipsec_ike_v2_w_entra_vpn_and_dfs_namespace_error/" target="_blank" rel="noopener">IPsec IKE v2 w/ Entra VPN and DFS Namespace Error Message in Windows File Explorer</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T14:57:21+00:00</div>
-    <p>FortiGate - 7.4.10 FortiClient - 7.4.3 hotfix 1.8758 I have an operational IPsec dialup VPN and Entra ID for authentication. Connections are made successfully, I see my client on the FortiGate, and I&#x27;m able to ping servers &amp; domain contr...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qjupzi/azurefortiflexterraform_push_licence/" target="_blank" rel="noopener">Azure/FortiFlex/Terraform - Push Licence</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-22T13:36:58+00:00</div>
+    <p>Hello everyone, We are currently planning to deploy a Fortigate (single VM, no HA) on Azure. I am going to reuse some code that I had already set up to deploy two VMs in HA on Azure. However, we were pushing the configuration file manual...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qizyrd/fortimanager_fortianalyzer_749_released/" target="_blank" rel="noopener">FortiManager / FortiAnalyzer 7.4.9 released</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T14:53:53+00:00</div>
-    <p>FortiManager 7.4.9 Release Notes FortiAnalyzer 7.4.9 Release Notes submitted by /u/ncaceres638 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qizxcp/forticlient_quic_problem/" target="_blank" rel="noopener">FortiClient / QUIC Problem?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T14:52:21+00:00</div>
-    <p>hi everyone, so we are using Forticlient with Webfilter and Firewall Profiles from our EMS System. Im Currently trying to get QUIC to work on Windows 10/11... If i check with https://quic.nginx.org/quic.html i only connect through http/2...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qiyv0g/apple_devices_getting_blocked_log_discrepancy/" target="_blank" rel="noopener">Apple Devices Getting Blocked - Log Discrepancy?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T14:09:47+00:00</div>
-    <p>Hey guys, im still trying to learn the fortigate and i want to make sure im not missing anything. First off, i already fixed this issue, it was a cert-probe-allow. Answer found here, https://community.fortinet.com/t5/FortiGate/Troublesho...</p>
+    <h3><a href="https://feeds.fortinet.com/~/941366396/0/fortinet/blogs~Global-Collaboration-Can-Advance-Systemic-Cybercrime-Deterrence-Reflections-from-Davos" target="_blank" rel="noopener">Global Collaboration Can Advance Systemic Cybercrime Deterrence: Reflections from Davos</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 22 Jan 2026 13:00:00 +0000</div>
+    <p>Building on discussions at the World Economic Forum Annual Meeting 2026, Fortinet reflects on the themes from the World Economic Forum and how global collaboration can help pave the path to systemi…</p>
   </div>
 </li>
 <li class="card">
@@ -112,38 +136,6 @@ _Updated: January 22, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/941195312/0/fortinet/blogs~Cloud-Security-Report-Data-Reveals-%e2%80%9cComplexity-Gap%e2%80%9d" target="_blank" rel="noopener">2026 Cloud Security Report Data Reveals “Complexity Gap”</a></h3>
     <div class="meta">Fortinet Blog · Wed, 21 Jan 2026 14:00:00 +0000</div>
     <p>The Fortinet 2026 Cloud Security Report indicates a growing gulf between the expanding attack surface and the ability for security to keep pace, but not because of a lack of investment.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qiwq9n/updated_fortigate_to_749_but_now_on_fortiswitch/" target="_blank" rel="noopener">Updated fortigate to 7.4.9 but now on fortiswitch poe disable is not listed as an option</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T12:34:58+00:00</div>
-    <p>The option on the fortiswitch ports to disable poe is gone, only option I see is to reset poe. Is there a way to disable the poe on a specific port anymore? submitted by /u/MikeZig12 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qiwe0w/fortimanager_missing_isdb_object_that_exists_on/" target="_blank" rel="noopener">FortiManager missing ISDB object that exists on FortiGate (Azure Front Door Security)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T12:18:25+00:00</div>
-    <p>Hi all, I’m seeing an ISDB mismatch between FortiGate and FortiManager and wanted to check if anyone has run into this. Setup: FortiGate 600E FortiOS 7.4.9 FortiManager 7.4.7 Problem: The Internet Service DB object Azure.Front.Door.Micro...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qivvqz/is_there_a_nice_way_to_migrate_a_flat_vlan/" target="_blank" rel="noopener">Is there a nice way to migrate a flat VLAN interface that has addresses and policies attached to a new zone?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T11:52:26+00:00</div>
-    <p>We have a bunch of old config which I want to update according to best practices. submitted by /u/mb2m [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/UC2bPiV236W2rPzJClwjqROgVXIidbExfQ488JzyMqk.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qiuwq9/fortigate_ssl_vpn_on_loopback_interface_not/" target="_blank" rel="noopener">FortiGate SSL VPN on Loopback Interface Not Working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-21T10:58:24+00:00</div>
-    <p>So, I used the loopback interface as the listening port for the SSL-VPN settings. I already watched and read, and then followed the configuration of all loopback interface SSL-VPN tutorials from YouTube and Fortinet community guides. Is ...</p>
   </div>
 </li>
 <li class="card">
@@ -200,30 +192,6 @@ _Updated: January 22, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/940043060/0/fortinet/blogs~The-Year-of-Resilience-What-Will-Demand-from-CISOs" target="_blank" rel="noopener">The Year of Resilience: What Will 2026 Demand from CISOs?</a></h3>
     <div class="meta">Fortinet Blog · Mon, 12 Jan 2026 14:00:00 +0000</div>
     <p>What 2026 will demand from CISOs: resilience over prevention, governed AI, hardened identity, and business continuity in an AI-driven threat landscape…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/939861548/0/fortinet/blogs~Become-a-CISSP-with-Fortinet%e2%80%99s-ISCApproved-NSE-Training" target="_blank" rel="noopener">Become a CISSP with Fortinet’s ISC2-Approved NSE Training</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 8 Jan 2026 17:00:00 +0000</div>
-    <p>Fortinet’s Training Institute is an ISC2 CPE Submitter, enabling CISSP holders to earn CPE credits through NSE courses, Fast Tracks, webinars, and more.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/939266474/0/fortinet/blogs~Product-Security-Advisory-and-Analysis-Observed-Abuse-of-FGIR" target="_blank" rel="noopener">Product Security Advisory and Analysis: Observed Abuse of FG-IR-19-283</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 24 Dec 2025 10:15:00 +0000</div>
-    <p>This blog analysis describes the observed abuse and provides additional context so that administrators can confirm that they are not impacted and guidance based on Fortinet observations to prevent …</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/938298731/0/fortinet/blogs~Quantum-Readiness-Begins-Now" target="_blank" rel="noopener">Quantum Readiness Begins Now</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 22 Dec 2025 16:00:00 +0000</div>
-    <p>A concise guide for security leaders on deploying quantum-safe encryption today, covering performance, crypto-agility, NIST standards, and flexible PQC and QKD options…</p>
   </div>
 </li>
 </ul>
