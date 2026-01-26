@@ -7,95 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmek9q/unable_to_block_offending_ip_from_reaching_the/" target="_blank" rel="noopener">Unable to block offending IP from reaching the WAN - specially the IPSec part.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T09:22:10+00:00</div>
-    <p>I&#x27;ve created a block rule on the WAN and put it on top of the rule order. I was hoping to stop this particular IP from hitting IPSec on port 500 every 2 minutes in excess 29k attempts in 7 days. For some reason it&#x27;s not even hitting the ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnafna/fortigate_7410_mismatching_selector_resoults_in/" target="_blank" rel="noopener">Fortigate 7.4.10 Mismatching selector resoults in anti-spoof check failed</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T08:24:50+00:00</div>
+    <p>Hi, After upgrading to version 7.4.10, tunnels with the local selector on the FGT side set to 0.0.0.0/0 and auto-negotiation enabled successfully establish the received selectors. However, packets inside the tunnel are being dropped due ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://a.thumbs.redditmedia.com/ON7meJ02GN_p3UnYbrNTlVo5IEUOUTbID98L5EfNf10.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qn9wdq/passed_fcp_secure_networking_whats_next/" target="_blank" rel="noopener">Passed FCP Secure networking, whats next?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T07:53:18+00:00</div>
+    <p>Hey guys, Last month I was preparing for Fortinet FCP Secure Networking and now I’m trying to figure out what exam makes the most sense next for my development plan. I’m debating whether I should do NSE 5 FortiSwitch just for myself, sin...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmbw3v/should_i_have_receive_lldp_be_enabled_on_the/" target="_blank" rel="noopener">Should I have &quot;Receive LLDP&quot; be enabled on the Fortigate&#x27;s WAN?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T06:48:09+00:00</div>
-    <p>From security perspective should I have &quot;Receive LLDP&quot; be enabled on the WAN? I usually only allow PING service to respond on the WAN. With so many CVEs on the Fortigates lately I don&#x27;t want to expose anything unless it&#x27;s necessary. subm...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmuyys/ive_started_studying_fortigate_firewall/" target="_blank" rel="noopener">I&#x27;ve started studying Fortigate firewall administration. Could someone share some labs and study materials with me?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T20:49:33+00:00</div>
+    <p>submitted by /u/Glittering-Office693 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qm95e9/7410_breaking_site_to_site_ipsec_vpn/" target="_blank" rel="noopener">7.4.10 breaking site to site IPsec VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T04:26:27+00:00</div>
-    <p>Well boys (and girls) A couple of my fortigates got the auto update this weekend and IPSEC VPN’s are dropping packets like crazy and constantly flapping OSPF routing. Tunnels never fully drop. Called TAC tonight and after entirely too lo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmutnf/web_mode_connection_closed_errors_caused_by/" target="_blank" rel="noopener">Web mode &quot;Connection closed&quot; errors - caused by brwoser addon</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T20:44:10+00:00</div>
+    <p>Just a short info for everyone troubleshooting &quot;connection closed&quot; during web VPN sessions: I found out that these disconnects happen with the latest 7.4 version if browser plugins, that auto-acknowledge cookie banners, like &quot;I don&#x27;t car...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://b.thumbs.redditmedia.com/zuAHb16uQbXiyZa2HZu__T75GQz-V5czC5rXcOe_saY.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmrjg4/captive_portal_on_windows_pc_not_appearing/" target="_blank" rel="noopener">Captive Portal on Windows PC not Appearing</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T18:45:50+00:00</div>
+    <p>I set up a test SSID and have been playing with the captive portal. https://preview.redd.it/jei85nrkjjfg1.png?width=558&amp;format=png&amp;auto=webp&amp;s=5b57b916bcf0efefc537f785acfedbcaadfead25 On my iPhone, I connect with the PSK, then the captiv...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qm29lo/fortinet_false_positive_healthcare_provider/" target="_blank" rel="noopener">Fortinet False Positive - Healthcare Provider Blocked for 4+ Weeks, No Response to Appeals</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T23:18:43+00:00</div>
-    <p>I need help from the Fortinet community. Our healthcare business (menswellnesscenters.com) has been incorrectly classified as &quot;Malicious Websites&quot; by FortiGuard since August 2025, and we&#x27;ve submitted multiple appeals over the past 4+ wee...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmqezm/fortinet_sdwan_dual_hub_loopback_ips_on_hubs_same/" target="_blank" rel="noopener">Fortinet SD‑WAN Dual Hub – loopback IPs on hubs (Same or Different?)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T18:05:48+00:00</div>
+    <p>I’m setting up a Fortinet SD‑WAN dual hub design with BGP on loopback and I’m confused about the loopback IPs on the hubs. In the official “Dynamic BGP on loopback dual hub example” guide, there is a note that says &quot;Note that both hubs s...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qlxpxh/possibly_need_help_with_new_70g_new_fortiswitch/" target="_blank" rel="noopener">possibly need help with new 70g, new fortiswitch and 3 aps</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T20:20:50+00:00</div>
-    <p>For some background I created this thread a while back: https://www.reddit.com/r/fortinet/comments/1q4ucda/need_some_help_with_network_design_for_new_branch/ We purchased the following: FortiGate 70g FortiSiwtch 148F-FPOE 3x FAP-231k Try...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmhh8d/enable_disable_extended_extreme_signatures_in/" target="_blank" rel="noopener">Enable / disable extended / extreme signatures in FortiSandbox 5.0.x</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T12:09:09+00:00</div>
+    <p>Does anyone know how to completely erase all the AV signatures on a FortiSandbox? There are no obvious commands in the CLI. Somehow, the extreme signatures pack has a corrupted version, and won&#x27;t update (it should be 93.xxxxx, but mine i...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qlwjjo/so_i_saw_this_post_on_linkedin_from_a/" target="_blank" rel="noopener">So I saw this post on LinkedIN from a CyberSecurity Recruiter about the SSO vulnerability…thoughts?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T19:36:33+00:00</div>
-    <p>“Fortinet told customers they were safe. They weren&#x27;t. Yesterday, Fortinet&#x27;s CISO finally admitted what admins had been screaming about for days. The December patch doesn&#x27;t work. CVE-2025-59718. A critical authentication bypass in FortiG...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qlweqq/intravlan_traffic_blocked_after_firewall_upgrade/" target="_blank" rel="noopener">Intra-VLAN Traffic Blocked After Firewall Upgrade – Root Cause Clarification</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T19:31:25+00:00</div>
-    <p>We noticed an issue after the upgrade where traffic within the same VLAN was blocked (a client on the Admin-LAN was unable to reach a server on the same Admin-LAN). This was resolved after enabling set allow-traffic-redirect on the firew...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qltfbm/forticlient_ems_instead_of_8021x_certbased_auth/" target="_blank" rel="noopener">FortiClient EMS instead of 802.1X cert-based auth for Wi-Fi</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T17:42:57+00:00</div>
-    <p>I work at an MSP. A customer wants to prevent employees from connecting personal devices to corporate Wi-Fi. Cert-based authentication was my initial idea, but we want to avoid the complexity of AD CS and NPS (on customer&#x27;s servers), and...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qlocuy/nse_5_forti_manager_admin/" target="_blank" rel="noopener">NSE 5 - Forti Manager Admin</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T14:27:41+00:00</div>
-    <p>Hi, has anyone experience on how hard the Forti Manager 7.6 exam is? submitted by /u/Creative-Pin3389 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qlkw4y/fortiap_first_year_license/" target="_blank" rel="noopener">FortiAP first year license</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T11:41:52+00:00</div>
-    <p>I have a fortiap 231g which I purchased as a New device and it came with 3 months trial license. Now, I need to extend the license for another year. Is it necessary to buy the Premium or Elite license or I can already buy the essential l...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qlk7r0/central_nat_dnat_conversion_from_palo_breaks/" target="_blank" rel="noopener">CENTRAL NAT / DNAT Conversion from Palo breaks.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-24T11:02:22+00:00</div>
-    <p>Hi, Was hoping someone may have seen this or knows what is happening, I will do my best to explain: I am in the process of converting legacy firewalls to a VDOM 400F, all has gone successful except for one conversion from a palo to an In...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qmg91j/transparent_auth_explicit_proxy_ntlm/" target="_blank" rel="noopener">Transparent Auth - Explicit Proxy - NTLM?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-25T11:00:55+00:00</div>
+    <p>I am looking at migrating a very old Cisco WSA appliance to Fortigate Proxy VDOM, all set up no problem, new users have the IP to send traffic too. The old appliance had NTLM I think as an authentication method, but the users were never ...</p>
   </div>
 </li>
 <li class="card">
