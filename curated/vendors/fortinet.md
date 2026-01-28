@@ -7,135 +7,143 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: January 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qoa1ty/anyone_took_the_latest_nse4_fgt_ad76_exam/" target="_blank" rel="noopener">Anyone took the latest NSE4_FGT_AD-7.6 exam?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T10:17:09+00:00</div>
-    <p>I will be taking the exam in 4 weeks, but I am currently studying with materials for the “old” exam that expired in December 2025. The difference between the two exams seems to be that SSL VPN is now missing, but FortiGate Cloud and Fort...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qp5ll5/fortigate_f80_upgrade_inquiry_fortios_747_to_765/" target="_blank" rel="noopener">FortiGate F80 Upgrade Inquiry: FortiOS 7.4.7 to 7.6.5</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-28T08:16:44+00:00</div>
+    <p>Hello, I am planning to upgrade my FortiGate firewall. Currently, it is running FortiOS version 7.4.7, and I am considering upgrading to version 7.6.5. I would like to know if there are any known bugs, issues, or major risks associated w...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qo7ewi/adding_a_rule_in_localinpolicy_fails/" target="_blank" rel="noopener">Adding a rule in local-in-policy fails.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T07:39:11+00:00</div>
-    <p>Hello. When I try to add a rule to local-in-policy in the following environment, I get an error saying wan1 doesn&#x27;t exist. What should I do? atgfw-01 # get system status Version: FortiGate-80F v7.4.9,build2829,250924 (GA.M) ・・・・・・・・Omitt...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://b.thumbs.redditmedia.com/Jzm3HX8eTgncdUws1hmwvUh6kOvAMeFgAH8YNG7DQ6U.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qo71lh/couldnt_find_disney_in_application_category/" target="_blank" rel="noopener">Couldn&#x27;t find &quot;Disney+&quot; in Application category</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T07:17:15+00:00</div>
-    <p>Hi, Updated Application control database &quot;apdb_OS7.4.0_35.00152.APDB.pkg&quot; But still couldn&#x27;t find &quot;Disney+&quot; in application list. Definition file was update via TFTP instead of download from Forti server. is it the reason ? https://previe...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qp4wj2/fortitoken_not_working_after_firmware_updates/" target="_blank" rel="noopener">FortiToken not working after Firmware updates?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-28T07:35:53+00:00</div>
+    <p>Hi all, I noticed something weird and would like to ask around if any of you have come across the same issue lately. I have a few Fortigates with FortiTokens assigned to users. Upgrading to 7.4.9 and 7.4.10 (from 7.4.8) in the past weeks...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qo00ut/sso_shut_off_by_fortinet/" target="_blank" rel="noopener">Sso shut off by fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T01:41:38+00:00</div>
-    <p>on a call with support today it was confirmed to me that Fortinet shut off sso access. they are wanting us to use the cloud access instead of the typical sso. this happened around 3:30 pm cst. we troubleshot until 4:45 at which time the ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qovda4/forticlientems_with_android_forticlient_users/" target="_blank" rel="noopener">FortiClientEMS with Android FortiClient users</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-28T00:07:06+00:00</div>
+    <p>Anyone familiar with deploying FortiClient to Android users. So far it&#x27;s been a royal PITA! FortiClient EMS 7.4.5 (cloud) FortiOS 7.4.9 FortiClient 7.4.4 (Android) from Google Play It appears the only way to deploy this to Android is usi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnueai/fortigate61e_port_doesnt_negotiate_with_bt_ont_box/" target="_blank" rel="noopener">FortiGate61E port doesn&#x27;t negotiate with BT ONT box</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T21:58:02+00:00</div>
-    <p>hey. Not sure why and when this started, and if this is a fault at any end, or if this is something I missed at the very beginning (even though this was running for more than a couple of years). I have got ISP as BT, a full fibre line th...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qoty62/cve202624858_vs_cve202559718_cve202559719/" target="_blank" rel="noopener">CVE-2026-24858 vs CVE-2025-59718 CVE-2025-59719</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T23:10:21+00:00</div>
+    <p>What is the difference? They seem to impact the same thing.... Reading the descriptions, I am not sure what the difference is between these. CVE-2026-24858 was announced today: The other two were from last week: https://fortiguard.fortin...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnt50m/usb_firmware_and_config_detection/" target="_blank" rel="noopener">USB Firmware and config detection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T21:13:03+00:00</div>
-    <p>Please confirm my understanding of how the USB Firmware/Config detection works: In Settings -&gt; Startup, the default options of &quot;Detect Configuration&quot; and &quot;Detect Firmware&quot; are enabled. If I download the firmware from the Fortinet website...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qorqti/til_that_fortiap_221e_units_could_beep/" target="_blank" rel="noopener">TIL that FortiAP 221E units could beep.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T21:47:21+00:00</div>
+    <p>Ticket from a client: &quot;We noticed this afternoon that this piece of hardware was beeping down in the server room. It did stop on its own. If there is something that it needs, please let us know.&quot; I&#x27;m going onsite tomorrow and I&#x27;m convinc...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnso6w/syslog_port_change_wont_stick_keeps_reverting/" target="_blank" rel="noopener">SYSLOG port change won&#x27;t stick, keeps reverting</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T20:56:27+00:00</div>
-    <p>We are trying to integrate our Fortigate with a SYSLOG server. We need to change the SYSLOG port to UDP 1516, but we&#x27;ve made the change 3 days in a row and it keeps reverting back to the default UDP 514 after X number of hours and we can...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qorcpc/very_confused_about_the_fsso_collector_and/" target="_blank" rel="noopener">Very confused about the FSSO Collector and DCAgent installation</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T21:32:47+00:00</div>
+    <p>I am deeply confused about how to properly install and configure the FSSO software... I would like to use the collector in DC Agent mode where the DC agents send the info to the collector agent server and then the FortiGate connects to t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnqxth/support_for_124gfpoe_switches/" target="_blank" rel="noopener">Support for 124G-FPOE Switches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T19:55:27+00:00</div>
-    <p>Hi, we&#x27;ve got a bunch of the above switches. These are to support some of our WiFi APs which are a mix of 231G and 431Gs. When we attempt to add them to the Fortigate via Fortimanager it does not recognise the serial number. We&#x27;ve tried ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qor47f/ikev2_vpn_connection_issue/" target="_blank" rel="noopener">IKEv2 VPN Connection Issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T21:24:15+00:00</div>
+    <p>Hi guys, IKEv2 is not working on my FortiGate when I try to connect using FortiClient. This FortiClient version supports only IKEv2, so I’m unsure where the issue lies. FortiClient version - 7.4.5.1949 mature FortiGate version - 7.4.8, 7...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnpg8b/new_to_fsso_agent_from_palo_alto_userid_reporting/" target="_blank" rel="noopener">New to FSSO agent from Palo Alto User-ID. Reporting 80% less users identified than Palo Alto agent.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T19:04:42+00:00</div>
-    <p>Hello! I have a palo alto UID agent installed in my domain. We are deploying fortigates along side the Palo&#x27;s for a different use-case. At most times I have 8~0% less users in the FSSO cache vs the Palo Alto cache. 420vs 94user detected ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qooae7/ipsec_forticlient_free_version_issues_paid/" target="_blank" rel="noopener">IPsec Forticlient free version issues, paid version works with the same settings</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T19:43:55+00:00</div>
+    <p>Trying to set up a simple self signed certificates based ipsec-tunnel for my home network but it is behaving strangely. When using the paid version of forticlient there is no issues with the following setup, but exporting the configurati...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnk0eg/forticlient_ssl_vpn/" target="_blank" rel="noopener">forticlient ssl vpn</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T16:00:48+00:00</div>
-    <p>when i connected with ssl vpn its take 30 seconds then disconnected. i am connected with lan to my pc. i tried with laptop connected with wifi and no problem. can someone help? submitted by /u/Hot-Tart-3076 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qoo719/fortios_741_1_has_been_release/" target="_blank" rel="noopener">FortiOS 7.4.1 1 has been release</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T19:40:32+00:00</div>
+    <p>This release focused on the following CVE: CVE-2026-24858 It does not appear to contain any new issues, and only existing &quot;Known issues&quot; from 7.4.10 and below. This release also contains AV Engine 7.00049 is released as the built-in AV E...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnjtmq/forticlient_brower_extension_extension_policy/" target="_blank" rel="noopener">forticlient brower extension - extension policy anomaly detected.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T15:54:09+00:00</div>
-    <p>Our users are starting to get FCT popup &quot;extension policy anomaly detected., please restard the brower&quot; both for chrome and edge . Extension on version 7.5.1929 . FCT, a mix of 7.4.5 and 7.4.3. Got it myself. 1st time, restarting the bro...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qon4x3/fortimanager_and_fortiextender/" target="_blank" rel="noopener">Fortimanager and Fortiextender</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T19:03:37+00:00</div>
+    <p>Hi all, Im working wity my Fortimanager (cloud version) im internet connection is via the fortifex, when I configure the sdwan template and apply it to my FG I loose the FG. is there any way I can fix this? thanks submitted by /u/tcpipv6...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qniyvj/citrix_gateway_on_a_different_vdom/" target="_blank" rel="noopener">citrix gateway on a different vdom</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T15:23:46+00:00</div>
-    <p>we recently moved the citrix gateway to a different vdom, and nowe we can no longer browse to it. The logs show that the traffic is working and when I did a packet capture on the netscaler it showed ssl traffic reaching. Is there somethi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qoi1m8/fortigate_400e_firewall_upgrade/" target="_blank" rel="noopener">Fortigate 400E Firewall Upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T16:08:32+00:00</div>
+    <p>We are planning to upgrade the FortiGate 400E firewall from FortiOS 7.4.9 to 7.4.10. We are using SSL VPN. Has anyone experienced any VPN-related issues after the upgrade? submitted by /u/Short_Wolverine_2332 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qniov2/clarification_regarding_the_sso_abuse/" target="_blank" rel="noopener">clarification regarding the SSO abuse</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T15:13:36+00:00</div>
-    <p>Hi everyone, there is this bomb about the SSO bypass in the last weeks: Analysis of Single Sign-On Abuse on FortiOS | Fortinet Blog However, if I read this blog, just more and more questionsmarks appear in front of my head... Regarding t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qogib3/forticlient_ipsec_tunnels_working_on_paid_version/" target="_blank" rel="noopener">Forticlient ipsec tunnels working on paid version but not on the free one</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T15:12:48+00:00</div>
+    <p>Trying to set up a simple self signed certificates based ipsec-tunnel for my home network but it is behaving strangely. When using the paid version of forticlient there is no issues with the following setup, but exporting the configurati...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnhb27/how_to_install_now_policies_on_deleted_objects_in/" target="_blank" rel="noopener">how to install now policies on deleted objects in fortimanager</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T14:21:05+00:00</div>
-    <p>Hi everyone, I&#x27;ve choosen an address object in fortimanager, selected &quot;where used&quot; and edited the policies there (removed the object). Then I deleted the object. Now I&#x27;ve got no clue where that object was linked and therefor I don&#x27;t know...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qofq5f/policy_id_0_action_accept/" target="_blank" rel="noopener">Policy ID 0, Action accept</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T14:43:56+00:00</div>
+    <p>I&#x27;m in the painful and tedious process of rebuilding our firewall(s) rules, after an initial and very superficial configuration done by an MSP. One of the things I&#x27;m struggling with is events that cross the firewall to reach another subn...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnfn6n/justification_for_using_fortinet/" target="_blank" rel="noopener">Justification for using Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T13:12:13+00:00</div>
-    <p>After the bomb that was dropped last week with CVE-2025-59718 still being exploitable on v7.4.9 my cybersecurity department has scheduled a meeting to talk about moving from Fortinet (FortiGate) to Palo Alto. I know Fortinet is more open...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qocj96/ipsec_dialer_vpn_from_the_internal/" target="_blank" rel="noopener">IPSEC Dialer VPN from the INTERNAL</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T12:30:10+00:00</div>
+    <p>submitted by /u/EM217 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qnduvl/log_settings_faz_v764/" target="_blank" rel="noopener">Log Settings FAZ v.7.6?4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-26T11:45:28+00:00</div>
-    <p>Hi, i am currently working on a Lab – environment which is running a FortiGate HA Cluster of FortiGate 60E, a hypervisor where I installed 2 VMs. FAC v8.0.0, build0031 and FAZ v7.6.4 build3579. Now I’m trying to get my FAC Logs sent to m...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qocj00/ipsec_dialer_vpn_from_the_internal/" target="_blank" rel="noopener">IPSEC Dialer VPN from the INTERNAL</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T12:29:53+00:00</div>
+    <p>Hi All, As most people we converted from SSL VPN To IPSEC VPN Everything works EXCEPT for connecting to vpn from our GUEST WIFI , which actually uses the same WAN (same external IP address) Anyway - cant get the SAML to work. please help...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qoc2kz/asking_for_help/" target="_blank" rel="noopener">asking for help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-27T12:07:43+00:00</div>
+    <p>Hello every one , can any one guide me with the right way to reach account manager for fortinet in middle east exactly in Saudi Arabia ? submitted by /u/Ahmd_Mansour [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/01/27/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 27 Jan 26 12:00:00 +0000</div>
+    <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-24858 Fortinet Multiple Products Authentication Bypass Using an Alternate Path or Channel Vuln...</p>
   </div>
 </li>
 <li class="card">
