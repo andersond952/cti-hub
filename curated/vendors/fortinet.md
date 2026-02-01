@@ -7,79 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: January 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qrnh93/forticlient_vpn_free_support_ending/" target="_blank" rel="noopener">FortiClient VPN (Free) Support Ending?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-31T00:40:09+00:00</div>
-    <p>So I&#x27;m working on building out a new VPN config and running into a number of issues when trying to use IKEv2 with EAP for user auth and MFA via FortiToken. Turns out you can&#x27;t use Microsoft AD as the LDAP source for EAP unless you use EA...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qstyzl/another_week_another_cve_so_upgrades/" target="_blank" rel="noopener">Another week another CVE so upgrades</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-01T09:28:25+00:00</div>
+    <p>Ive got many FGTs in infra including 2601f cluaters, 200F, 600E, 400f etc. Some of ot are on 7.2.x and im planning to upgrade all of it to 7.4.11 to have equal firmware. Did you faced any issue on 7.4.11? For example with SDwan, GRE tunn...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qrkmkq/fortios_766_memory_usage/" target="_blank" rel="noopener">Fortios 7.6.6 memory usage</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T22:44:25+00:00</div>
-    <p>Recently jumped from 7.4.9 to 7.6.6 on a number of 40f units at remote sites. What I didn&#x27;t expect is for average memory usage to drop from over 70% to under 50% for exactly the same workload. Has anyone seen the same, I will be upgradin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qspyv9/setting_up_ipsec_vpn_troubleshooting/" target="_blank" rel="noopener">Setting up IPsec VPN &amp; troubleshooting</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-01T05:41:20+00:00</div>
+    <p>Let&#x27;s say you need to setup a VPN option via a FortiGate firewall. The SSL VPN path is easy, but if you don&#x27;t have static IPs to narrow down the allowed remote sites, it can get abused pretty hard and the SSL service reloads when overwhe...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qrhl6v/ssl_unexpectedprotocol_but_why/" target="_blank" rel="noopener">SSL unexpected-protocol / but why?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T20:49:35+00:00</div>
-    <p>Im Confused and need your help... following situation: - Connection from client to exchange server - TCP Port 587 - Policy inspection mode proxy-based. - SSL Inspection Profile is protecting ssl server -&gt; Inspect all Ports. - IPS Profile...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qsp2o8/security_best_practices/" target="_blank" rel="noopener">Security Best Practices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-01T04:56:52+00:00</div>
+    <p>Hi Guys, I&#x27;m relatively new in the Fortinet space (around 2 years) and wanted to get some input as to what the best practices are to keep my deployments safe. For context, its an OT network (Two way radios), so no users are normally insi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qra7c7/fortiswitch_problems/" target="_blank" rel="noopener">Fortiswitch Problems</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T16:28:39+00:00</div>
-    <p>Having a bit of a switch issue. So we have an 8 port (108F-FPOE) switch in a kiosk. Works great, need to upgrade to plug in some more stuff so purchase a 224D-FPOE. Tested new 24 port from my office works great ,go to install nothing get...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qsilgz/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-01T00:01:07+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr9p32/help_with_routing_fortios_749/" target="_blank" rel="noopener">Help with routing FortiOS 7.4.9</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T16:10:38+00:00</div>
-    <p>I am looking to use the internet links that I have configured with SD-WAN on my Fortigate (FortiOS 7.4.9) from computers that are on a LAN of another firewall (pfSense) whose network is 192.168.16.0/24. To do this, I connected both firew...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qsdzbr/forticlient_over_builtin_modem/" target="_blank" rel="noopener">FortiClient over built-in modem</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-31T20:55:01+00:00</div>
+    <p>Hello, I am trying to deploy a FortiClient IPsec VPN over our private APN mobile network. When we run the IPsec VPN using FortiClient 7.0.14 , everything works fine. However, when we upgrade FortiClient to versions 7.2.x or 7.4.3 , all c...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr9oya/3rd_party_esr_transceivers_in_fortiswitches/" target="_blank" rel="noopener">3rd Party eSR Transceivers in FortiSwitches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T16:10:29+00:00</div>
-    <p>I&#x27;ve got a site where I want to run 25Gb+ between 2 x FortiSwitch units in two rooms. The rooms are 250m apart and are connected with OM3 fibre. This is easily achievable using SFP28 or QSFP+ eSR transceivers, however there are none of t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qs51jw/fortgate_7411_firmware_upgrade_not_available_but/" target="_blank" rel="noopener">Fortgate 7.4.11 Firmware upgrade not available but still get the warning.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-31T15:19:56+00:00</div>
+    <p>https://preview.redd.it/ad8xf0v3bpgg1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=50dd1810ff0fcb95f117145c05e803b5a01b15ad https://preview.redd.it/76g4ktt7bpgg1.png?width=1172&amp;format=png&amp;auto=webp&amp;s=417342298bba9aeb1619a7ceb9b702705212f2c3 I m...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr9f7h/tiered_mclag_query/" target="_blank" rel="noopener">Tiered MCLAG Query</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T16:00:45+00:00</div>
-    <p>Hi Deploying MCLAG topologies | FortiSwitch 7.6.5 | Fortinet Document Library Something that&#x27;s not clear to me when reading the steps in the attached. When deploying a 2 tier MC-LAG, the doc states that an auto isl port group only needs ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr8z8i/something_interesting_i_saw_on_766_for_ha_sync/" target="_blank" rel="noopener">something interesting I saw on 7.6.6 for ha sync</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T15:44:27+00:00</div>
-    <p>https://preview.redd.it/pigzwgqsbigg1.png?width=1013&amp;format=png&amp;auto=webp&amp;s=e5af6b938467cd84d1c1aa88c6bed17894bdd609 I have many times seen it get out of sync and need a reboot, never once saw a confusion like this. Not sure who is wrong...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr66qi/fmg_dynamic_objets/" target="_blank" rel="noopener">FMG Dynamic objets</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T13:58:57+00:00</div>
-    <p>Hi everyone, Currently, I have six FortiGate firewalls, each one with different policy packages. My goal is to consolidate all firewall policies into a single policy package. I am currently studying how to do this, but I still have some ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qs2h6q/two_ipsec_vpn_clients_from_same_natrouter_break/" target="_blank" rel="noopener">Two IPSec VPN clients from same NAT/router break SAML auth before IKE. 7.6.5</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-31T13:33:49+00:00</div>
+    <p>Hi, After configuring IPSec VPN Gateway with SAML (Authentik) from scratch I&#x27;ve discovered weird bug: -- When second clients connecting from the same router (NAT) it gets empty reply from fortigate SAML IKE Server and doesn&#x27;t get through...</p>
   </div>
 </li>
 <li class="card">
@@ -88,30 +72,6 @@ _Updated: January 31, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/943548749/0/fortinet/blogs~Incentivizing-Cybercrime-Disruption-Inside-Fortinet%e2%80%99s-World-Economic-Forum-Annual-Meeting-Panel" target="_blank" rel="noopener">Incentivizing Cybercrime Disruption: Inside Fortinet’s World Economic Forum Annual Meeting 2026 Panel</a></h3>
     <div class="meta">Fortinet Blog · Fri, 30 Jan 2026 13:00:00 +0000</div>
     <p>At the World Economic Forum Annual Meeting 2026, the session Derek Manky contributed to explored how incentives and public-private partnerships can disrupt the cybercrime economy.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr3t94/how_to_ensure_that_cert_chain_is_installed/" target="_blank" rel="noopener">How to ensure that cert chain is installed?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T12:14:26+00:00</div>
-    <p>https://preview.redd.it/072q5zcaahgg1.png?width=564&amp;format=png&amp;auto=webp&amp;s=04a6574ab59c12e4feedf02d498777681c2e3695 I&#x27;m trying to setup Virtual Server (FortiGate 80F, v.7.6, SSL Offloading), and while it works for regular HTTPS sites, it...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr3qpr/device_detection/" target="_blank" rel="noopener">Device Detection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T12:10:59+00:00</div>
-    <p>I have device detection enabled on an interface. I am seeing devices on the fortigate. I would like to set up an alert on FAZ any time a new device is detected. However, I am not able to find a logid or log entry for when a new device is...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qr2gpp/any_issues_with_using_ems_cloud_on_a_per_vdom/" target="_blank" rel="noopener">Any issues with using EMS cloud on a &#x27;Per VDOM&#x27; basis?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-01-30T11:03:13+00:00</div>
-    <p>We have a customer that shares a Fortigate with multiple customers. Each customer has their own VDOM. This customer wants to use EMS Cloud. I know you can now have each VDOM with it&#x27;s own EMS instance/server which is great but is there a...</p>
   </div>
 </li>
 <li class="card">
