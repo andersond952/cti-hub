@@ -7,119 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qy93zi/updating_ha_pair_do_you_reboot_first/" target="_blank" rel="noopener">Updating HA Pair do you reboot first?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T09:04:25+00:00</div>
-    <p>So just curious as I&#x27;m still learning and it&#x27;s difficult to mimc everything with labs and no real client load. Do you reboot the whole cluster via the GUI reboot option or one member at a time through cli or not at all? If you&#x27;re running...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qz50m2/fortinet_trade_up_50e_and_100_e/" target="_blank" rel="noopener">Fortinet Trade UP 50E and 100 E</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-08T09:53:10+00:00</div>
+    <p>Hello i&#x27;m looking for doing a trade up this year for my fortinet devices i currently have 50E and 100E they are almost at their EOL i&#x27;m considering getteing 60F and 120G but i&#x27;m not sure? what should i get ? Is the 60F still durable or i...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qy8o04/keeping_forticlient_ems_ubuntu_appliance_updated/" target="_blank" rel="noopener">Keeping Forticlient EMS Ubuntu Appliance updated?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T08:36:43+00:00</div>
-    <p>So I now have our ForticlientEMS on 7.4.5 on the 22.04.5 LTS appliance. I&#x27;m still not clear if I should be doing any OS maintenance like I would a normal Ubuntu server or if the Fortinet appliance build takes care of it all? Basic stuff ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qz16zm/fortinet_fortiwifi_60f_os_gone/" target="_blank" rel="noopener">Fortinet FortiWiFi 60F OS Gone?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-08T06:05:41+00:00</div>
+    <p>Hey everybody! I’ll just get it out of the way and say that I’m an idiot right up front. I was given this fortinet fortiwifi 60F by my employer. My plan is to use it in my homelab network as a firewall on my inbound internet traffic. Any...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qy8ayc/after_upgrade_to_7411_firmware_on_200f_and_200g/" target="_blank" rel="noopener">after upgrade to 7.4.11 Firmware on 200F and 200G</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T08:14:13+00:00</div>
-    <p>Hi there, Did you faced issued after upgrade to 7.4.11&gt; for example websites are frequently loading very slow? (no DPI feature disabled) I have had 7.2.x firmware and it was very good. Nevertheless, Im looking for someone that might faci...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyx7hl/employee_labs/" target="_blank" rel="noopener">Employee Labs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-08T02:44:20+00:00</div>
+    <p>Do employees (Technical support engineers, etc) get access/the ability to purchase their own fortigates(either free, discounted, or loaned) for lab/testing/learning purposes, or are the labs available to them(I assume they have something...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxun3h/forticlient_ems_possible_unauthenticated_sql/" target="_blank" rel="noopener">FortiClient EMS Possible unauthenticated SQL Injection CVE in 7.4.4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T21:33:46+00:00</div>
-    <p>https://nvd.nist.gov/vuln/detail/CVE-2026-21643 An improper neutralization of special elements used in an sql command (&#x27;sql injection&#x27;) vulnerability in Fortinet FortiClientEMS 7.4.4 may allow an unauthenticated attacker to execute unaut...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyrkn9/nse4_practice_exams/" target="_blank" rel="noopener">NSE4 Practice Exams</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T22:32:57+00:00</div>
+    <p>Hi Team, I have completed the training from the fortinet site but need to practice to understand or evaluate myself before the exam. What material should I do? submitted by /u/merakinexus [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxsbcn/site_to_site_vpn_and_client_vpn_on_the_same/" target="_blank" rel="noopener">Site to Site VPN and Client VPN on the same Firewall</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T20:05:25+00:00</div>
-    <p>I will try and make this simple. I have Site to Site Fortigate to Fortigate VPNs using IPsec I want to implement FortiClient VPNs on IPsec over UDP 443 because of people going to places that block IPsec Tunnels. I want to terminate Site ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qypdkf/security_of_enc_data_in_config/" target="_blank" rel="noopener">Security of ENC data in Config</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T21:04:13+00:00</div>
+    <p>In a non encrypted config file, can the ENC lines still be decoded with tools like FortiCrack? Or has Fortinet stopped that ability, and if so since when? submitted by /u/sneesnoosnake [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxs4vs/dialup_ipv4v6_ipsec_with_only_ipv4_in_tunnel/" target="_blank" rel="noopener">Dialup IPv4/v6 IPSec with only IPv4 in tunnel?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T19:58:46+00:00</div>
-    <p>Hope I describe this properly but I&#x27;m looking to update our current IPv4-only Dial-up IPSec Remote Access solution to be reachable via IPv6 as we have a lot of users having difficulty connecting when hot spotting from their phone. I&#x27;ve b...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyn3x8/l2tp_vpn_on_fortigate_with_an_unknown_router_no/" target="_blank" rel="noopener">L2TP VPN on FortiGate with an unknown router (no public IP)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T19:34:34+00:00</div>
+    <p>Hi everyone, I’m not very experienced with VPNs, so I would like to ask for some help. I have a small router from an unknown vendor. This router supports L2TP VPN , and I want to connect it to my FortiGate firewall v7.6.5 . However, when...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxq9sk/crossplatform_ipsec_settings_ikev2_with_user_auth/" target="_blank" rel="noopener">Cross-platform IPsec Settings (IKEv2 with user auth)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T18:49:54+00:00</div>
-    <p>I want to use IKEv2 and have users authenticate so I can apply per user/group settings. I simply cannot find a set of settings for a single tunnel that will allow that across MacOS, iOS, Android, and Windows. And FortiClient 7.4.4 is the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyibsk/f5_to_fortiadc_migration/" target="_blank" rel="noopener">F5 to FortiADC migration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T16:32:57+00:00</div>
+    <p>Hi everyone, did anybody here migrate their F5 load balancer layer to FortiADC? If so, can you do everything you were doing with the LTM module? Or did you find anything that can&#x27;t be replicated? Thanks in advance. submitted by /u/Boio_7...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxo2ed/fsso_matching_issue_different_samaccountnameupn/" target="_blank" rel="noopener">FSSO Matching Issue / Different sAMAccountname/UPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T17:31:55+00:00</div>
-    <p>Hi everybody, i&#x27;ve got a strange behavior. We are using FSSO with FortiAuthenticator as collector and FSSOMA on userside. On Fortigate there are multiple Groups with mapped FSSO Groups. We are facing this problem with users who didnt mat...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyfwhd/trying_to_revive_fortigate_101e_for_homelab/" target="_blank" rel="noopener">Trying to revive FortiGate 101E for homelab</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T14:58:26+00:00</div>
+    <p>submitted by /u/Narrow_Tomatillo1763 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxnii5/issue_with_localinpolicy_in_7411/" target="_blank" rel="noopener">issue with local-in-policy in 7.4.11</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T17:12:06+00:00</div>
-    <p>We upgraded our firewalls from 7.4.9 to 7.4.11 this morning and found one of our regular users from Mexico was unable to access the SSL-VPN. This is set up on a loopback behind a VIP and has always worked by matching regular firewall pol...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxm26t/localin_policies_not_applying_after_766_upgrade/" target="_blank" rel="noopener">Local-In Policies Not Applying After 7.6.6 Upgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T16:19:54+00:00</div>
-    <p>We have a local-in policy defined on the virtual-wan-link interface to allow management traffic from a short list of known IPs. This worked and applied as expected on 7.6.5. As soon as we upgraded to 7.6.6 this policy is no longer being ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxky4o/weird_fortigate_stop_all_user_traffic_a_reboot/" target="_blank" rel="noopener">Weird - FortiGate stop all user traffic, a reboot fixed it!?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T15:39:36+00:00</div>
-    <p>Hey guys! Today I have this strange issue where one of our stores all the sudden couldn&#x27;t reach out to any ipv4 address even the dns server 8.8.8.8. I check the routes on the devices and they were all pointing to the fortigate&#x27;s Ip addre...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/j4oytym17whg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ac7e1143a8ae8f962ae73402977350857f78779a" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxkmdi/new_cve_post_removed/" target="_blank" rel="noopener">new CVE - post removed</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T15:27:40+00:00</div>
-    <p>A new CVE was published earlier today and later removed. Here are the details based on the information I currently have. - CVE Record: CVE-2026-21643 - CVE Details - Red Hot Cyber submitted by /u/Paper_user_897 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxj9o3/fortigate_766_dialup_ipsec_vpn_split_tunnel_routes/" target="_blank" rel="noopener">Fortigate 7.6.6 dialup ipsec vpn split tunnel routes</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T14:36:05+00:00</div>
-    <p>Is there a way to add routes to a split-tunnel vpn without it disconnecting? At times I need to add routes to route things over split tunnel vpn but it immediately propagates and disconnects everyone on vpn. I&#x27;d like to either have them ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qxifo4/ems_745_ux_and_ui_errors_bugs_issues/" target="_blank" rel="noopener">EMS 7.4.5 UX and UI errors, bugs, issues......</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-06T14:02:21+00:00</div>
-    <p>Our experience with Forticlient EMS is worsening over time.... After updating it to 7.4.5, MAJOR functionalities are not working. For example, we can no longer move AD DS endpoints from an OU to an EMS-based group. The button in the cont...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qybkap/anybody_running_fos_76x_on_gs/" target="_blank" rel="noopener">Anybody running FOS 7.6.x on Gs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T11:33:50+00:00</div>
+    <p>I believe 7.4 is still recommened FOS version for 200G platform. Anybody running 7.6 successfuly? No fancy features needed for me, maybe Captive Portal, but Fortinet is known for breaking even basic functionalities. submitted by /u/mrmh1...</p>
   </div>
 </li>
 <li class="card">
