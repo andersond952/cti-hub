@@ -7,79 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://b.thumbs.redditmedia.com/HGfluZSiHjpgGlJxRNGs5ODNg2UPsHNAPx4cHpAO0VU.jpg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qz50m2/fortinet_trade_up_50e_and_100_e/" target="_blank" rel="noopener">Fortinet Trade UP 50E and 100 E</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-08T09:53:10+00:00</div>
-    <p>Hello i&#x27;m looking for doing a trade up this year for my fortinet devices i currently have 50E and 100E they are almost at their EOL i&#x27;m considering getteing 60F and 120G but i&#x27;m not sure? what should i get ? Is the 60F still durable or i...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r00cmq/fortigate_blocking_packets_it_shouldnt_see/" target="_blank" rel="noopener">Fortigate blocking packets it shouldn&#x27;t see</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-09T10:03:30+00:00</div>
+    <p>https://preview.redd.it/0ud9jcbxzfig1.png?width=2135&amp;format=png&amp;auto=webp&amp;s=989f4fef99c469992e71c0fdb2f06d85441a971f Hi VM1 is a reverse proxy, VM2 is a backend server. It was running fine, until a Fortigate update disabled allow-traffic...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/ux3urstzqfig1.png?width=140&amp;height=40&amp;auto=webp&amp;s=87be2a95be03b5344926fd8422d9b46b30c86952" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qzzkll/passed_fcss_led_ar76_fortinet_nse_6_lan_edge_76/" target="_blank" rel="noopener">Passed FCSS_LED_AR-7.6: Fortinet NSE 6 - LAN Edge 7.6 Architect</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-09T09:14:49+00:00</div>
+    <p>https://preview.redd.it/ux3urstzqfig1.png?width=796&amp;format=png&amp;auto=webp&amp;s=2c9fb33f56a11dcbe3e1dd011b21a6c28c825910 Guys, 2.5 weeks of study. I worked so hard to pass this exam, aiming to pass the Fortinet NSE 7 – Enterprise Firewall Adm...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qz16zm/fortinet_fortiwifi_60f_os_gone/" target="_blank" rel="noopener">Fortinet FortiWiFi 60F OS Gone?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-08T06:05:41+00:00</div>
-    <p>Hey everybody! I’ll just get it out of the way and say that I’m an idiot right up front. I was given this fortinet fortiwifi 60F by my employer. My plan is to use it in my homelab network as a firewall on my inbound internet traffic. Any...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qzws4f/azure_fortigate_vm_snapshots/" target="_blank" rel="noopener">Azure Fortigate VM Snapshots</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-09T06:23:34+00:00</div>
+    <p>Hi! KB &quot;Taking a snapshot of a Fortigate VM hosted on Azure&quot; specifies snapshot of &quot;OS Disk&quot; but ignores &quot;Data disks&quot; associated with VM. We use &quot;Data disks&quot; (it&#x27;s just one, actually) for logging (not DLP &amp; IPS archiving, Reports), howev...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyx7hl/employee_labs/" target="_blank" rel="noopener">Employee Labs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-08T02:44:20+00:00</div>
-    <p>Do employees (Technical support engineers, etc) get access/the ability to purchase their own fortigates(either free, discounted, or loaned) for lab/testing/learning purposes, or are the labs available to them(I assume they have something...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyrkn9/nse4_practice_exams/" target="_blank" rel="noopener">NSE4 Practice Exams</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T22:32:57+00:00</div>
-    <p>Hi Team, I have completed the training from the fortinet site but need to practice to understand or evaluate myself before the exam. What material should I do? submitted by /u/merakinexus [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qypdkf/security_of_enc_data_in_config/" target="_blank" rel="noopener">Security of ENC data in Config</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T21:04:13+00:00</div>
-    <p>In a non encrypted config file, can the ENC lines still be decoded with tools like FortiCrack? Or has Fortinet stopped that ability, and if so since when? submitted by /u/sneesnoosnake [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyn3x8/l2tp_vpn_on_fortigate_with_an_unknown_router_no/" target="_blank" rel="noopener">L2TP VPN on FortiGate with an unknown router (no public IP)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T19:34:34+00:00</div>
-    <p>Hi everyone, I’m not very experienced with VPNs, so I would like to ask for some help. I have a small router from an unknown vendor. This router supports L2TP VPN , and I want to connect it to my FortiGate firewall v7.6.5 . However, when...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyibsk/f5_to_fortiadc_migration/" target="_blank" rel="noopener">F5 to FortiADC migration</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T16:32:57+00:00</div>
-    <p>Hi everyone, did anybody here migrate their F5 load balancer layer to FortiADC? If so, can you do everything you were doing with the LTM module? Or did you find anything that can&#x27;t be replicated? Thanks in advance. submitted by /u/Boio_7...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qyfwhd/trying_to_revive_fortigate_101e_for_homelab/" target="_blank" rel="noopener">Trying to revive FortiGate 101E for homelab</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T14:58:26+00:00</div>
-    <p>submitted by /u/Narrow_Tomatillo1763 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qybkap/anybody_running_fos_76x_on_gs/" target="_blank" rel="noopener">Anybody running FOS 7.6.x on Gs?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-07T11:33:50+00:00</div>
-    <p>I believe 7.4 is still recommened FOS version for 200G platform. Anybody running 7.6 successfuly? No fancy features needed for me, maybe Captive Portal, but Fortinet is known for breaking even basic functionalities. submitted by /u/mrmh1...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1qzs9ao/lab_installation_to_real_device_failed_proposal/" target="_blank" rel="noopener">LAB | Installation to real device failed | proposal 3des-md5 3des-sha1</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-09T02:37:50+00:00</div>
+    <p>Hi, I’m currently trying to set up ADVPN using FortiManager. However, when I attempt to install the configuration/template created from VPN Manager, the installation to the actual device fails with the error “Invalid configuration.” Star...</p>
   </div>
 </li>
 <li class="card">
