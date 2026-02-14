@@ -7,103 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/stf97acon7jg1.png?width=140&amp;height=16&amp;auto=webp&amp;s=75f013f3d3834d97c9b4f85c82d702af3ec844b6" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r3iib6/sanity_check_psirt_showing_mixed_information/" target="_blank" rel="noopener">Sanity Check - PSIRT showing mixed information</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T07:05:23+00:00</div>
-    <p>Hi all When I check out https://www.fortiguard.com/psirt?filter=1&amp;version=&amp;severity=5&amp;keyword= to highlight the criticals, then I see FG-IR-26-076 with the following pre-view: preview of psirt in the list of psirts when using the filter ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4hrwb/fortinet_ssl_vpn_behind_a_forti_load_balancer/" target="_blank" rel="noopener">Fortinet SSL VPN behind a Forti Load Balancer</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T10:55:00+00:00</div>
+    <p>We have huge issues with a Fortinet SSL VPN. Users needs to try 30 times around they can establish a ssl vpn connection. They get the error message &quot;Too many bad logins attempts.&quot;. The Topology is something like this: Internet -- Forti L...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r3f8na/new_to_forti_any_good_video_series/" target="_blank" rel="noopener">New to Forti, any good video series?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T04:10:03+00:00</div>
-    <p>Hey All, After the last round of insane pricing from Palo, we&#x27;ve decided to slowly start moving over to Fortigate&#x27;s for our firewalls. Any good series/tutorials we should know about? We&#x27;ve got a crew of good network engineers but no real...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/0c5t7gdqc6jg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c04f4d59609d1e6aefef6bfb15d6fbb2b9b99119" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r3ddkh/console_cable_not_compatible_with_fortigate/" target="_blank" rel="noopener">Console cable not compatible with fortigate firewall</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T02:40:06+00:00</div>
-    <p>I bought a console cable but it’s not working with fortigate i dont know if the driver is the issue or the cable but it’s working in cisco switches so ,, i wanna know is that true that every device has dedicated console cable or i can us...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4gk3e/local_out_traffic_logs_as_implicit_deny/" target="_blank" rel="noopener">Local Out traffic logs as Implicit Deny</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T09:39:21+00:00</div>
+    <p>Hi. I&#x27;m genuinely interested in what people think of this seemingly &#x27;expected&#x27; / &#x27;false positive&#x27; Local traffic log behaviour? As per this tech tip. https://community.fortinet.com/t5/FortiGate/Technical-Tip-Local-Traffic-Policy-ID-Implic...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r3c4pj/anyone_running_nva_fgsp_sdwan_hubs_in_multiple/" target="_blank" rel="noopener">Anyone running NVA FGSP SDWAN hubs in multiple Azure vWAN regions</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T01:43:21+00:00</div>
-    <p>I’m running NVA active/ active FGSP hubs in a couple of Azure vWAN regions. They’re setup NGFW and SD-WAN hub for Azure vNET spokes and remote FortiGate ADVPN spokes. SD-WAN overlay and BGP routing. Orignally, I was going with the more s...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4c5gs/fortiauthenticator_vm/" target="_blank" rel="noopener">FortiAuthenticator VM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T05:21:56+00:00</div>
+    <p>I know it&#x27;s the neglected middle child of the Forti stack, but I&#x27;m getting ready to bump our FortiAuthenticator VM from 6.4 to 6.5. Reason being: We&#x27;ve stopped domain joining Macs and started using Entra Platform SSO and my internet lurn...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r38sff/fortinet_syslogs_too_much_data/" target="_blank" rel="noopener">Fortinet syslogs - too much data.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T23:16:49+00:00</div>
-    <p>submitted by /u/BobcatJohnCA [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r46ny0/fortisiem_experiences/" target="_blank" rel="noopener">FORTISIEM experiences?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T00:57:27+00:00</div>
+    <p>What’s your experience with Fortisiem? How is the cost? Complexity? I’m in a smaller environment 7 Fortigates, office 365 and around 100 servers. In the past I’ve ran Wazuh on premise for a year then went to cloud for a year. Ran solarwi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r37hx7/setting_up_wan_interfaces_on_ha_stack_for_high/" target="_blank" rel="noopener">Setting up WAN interfaces on HA stack for high availability</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T22:25:03+00:00</div>
-    <p>We have a brand new HA stack of Fortigates. Our datacenter is supplying us internet from two different network closets over two different fiber optic cables using VRRP, so we use a single IP address for our interfaces regardless of which...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r423nh/fortiztna_without_fortigate/" target="_blank" rel="noopener">FortiZTNA without FortiGate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T21:43:19+00:00</div>
+    <p>Hi everyone! So basically one of my clients want&#x27;s ZTNA but he doesn&#x27;t has a FortiGate. I was seening in some docs that we have the FortiProxy, but there ir any way of this happens without a FortiProxy and a Thrid-Party Firewall? And if ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r36w7a/block_intravlan_traffic_doesnt_work/" target="_blank" rel="noopener">Block intra-vlan traffic doesn&#x27;t work?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T22:01:21+00:00</div>
-    <p>Hey there, I have a Fortigate 90G and an FS108F-POE. I have two devices (two Synology NASes if that matters) on the same VLAN. I want to force traffic between them to pass the firewall. I have block intra-vlan traffic enabled on the vlan...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r41n51/fortinet_recommends_766/" target="_blank" rel="noopener">Fortinet recommends 7.6.6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T21:25:16+00:00</div>
+    <p>Fortinet now recommends 7.6.6 on most platforms on their forum: https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-release-for-FortiOS/ta-p/227178 submitted by /u/Electrical_Cut5776 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r35xgv/account_lockouts/" target="_blank" rel="noopener">Account lockouts</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T21:23:39+00:00</div>
-    <p>We&#x27;re seeing a lot of password-spraying against our SSLVPN connection. We authenticate via RADIUS &amp; Active Directory in the backend. This is causing some of our user accounts to get locked out repeatedly. The connection attempts are comi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r32oae/is_there_an_expected_date_for_the_release_of_400g/" target="_blank" rel="noopener">Is there an expected date for the release of 400G?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T19:19:49+00:00</div>
-    <p>submitted by /u/urdu786 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r32f8k/someone_has_fortigates_2200e_in_ha_with_multiple/" target="_blank" rel="noopener">Someone has Fortigates 2200E in HA with multiple vdoms in 7.4.11 working fine?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T19:10:34+00:00</div>
-    <p>Hello, I want to upgrade a FG2220E in HA with multiple vdoms to fortios 7.4.11. Someone has this enviroment working fine with vpn ipsec s2s or remotes, sslvpn, services av, webfilter, fortiaps, no fortiswitches, ..... I would appreciate ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r30cv7/upgraded_to_10g_wan_but_cannot_get_more_than_125g/" target="_blank" rel="noopener">Upgraded to 10G WAN but cannot get more than 1.25G</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T17:55:58+00:00</div>
-    <p>Fortigate 201F. We upgraded our WAN connection to 10GE single-mode with original Fortinet SFP+ (single fiber). Our ISP has Finisar SFP+ 10GE. In all tests I&#x27;ve done I cannot exceed 1.25 Gbit/s in average. Iperf tests done on FG on WAN in...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r2uiau/exiting_fortiems_cli/" target="_blank" rel="noopener">Exiting FortiEMS cli</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T14:14:22+00:00</div>
-    <p>I got a quick question. I have FortiEMS and whenever i connect to it I am instantly put in the FortiEMS console. I have managed to create a new user in that cli but they also get put in the end cli. When connecting via ssh. it is a proxm...</p>
+    <h3><a href="https://feeds.fortinet.com/~/946529003/0/fortinet/blogs~A-Decade-of-NSE-Why-the-Industry%e2%80%99s-Highest-Technical-Bar-Still-Matters" target="_blank" rel="noopener">A Decade of NSE 8: Why the Industry’s Highest Technical Bar Still Matters</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 13 Feb 2026 16:00:00 +0000</div>
+    <p>Marking the 10-year anniversary of NSE 8, this blog explores why Fortinet’s highest certification still represents elite technical mastery, how it addresses the cybersecurity skills gap, and why ex…</p>
   </div>
 </li>
 <li class="card">
@@ -112,22 +72,6 @@ _Updated: February 13, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/946227704/0/fortinet/blogs~Why-Certification-Has-Become-a-Strategic-Control-for-CISOs" target="_blank" rel="noopener">Why Certification Has Become a Strategic Control for CISOs</a></h3>
     <div class="meta">Fortinet Blog · Thu, 12 Feb 2026 14:00:00 +0000</div>
     <p>Cybersecurity certifications have moved beyond compliance. For CISOs, they are now a strategic control that demonstrates how security is designed, governed, and enforced across products, industries…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r2tqof/upgrade_from_7211_to_7411/" target="_blank" rel="noopener">Upgrade from 7.2.11 to 7.4.11</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T13:42:15+00:00</div>
-    <p>I have firewalls FortiGate 1500D, 600E and 120G with the Firmware 7.2.11 and some 50G with 7.0.18. I wanna update to the version 7.4.11 Does any one have Issues, upgrading those models in that versions? Especially incompatibilities with ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r2t6pu/forticlientems_command_line_list/" target="_blank" rel="noopener">ForticlientEMS command line list</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-12T13:18:10+00:00</div>
-    <p>Hi all Hope someone could help me, I managed to change some switches in the gui in regards to FQDN firewall etc in our EMS server. Now it does not reply to port 80 or 443. I have command line access in our virtual server, but struggling ...</p>
   </div>
 </li>
 <li class="card">
@@ -192,14 +136,6 @@ _Updated: February 13, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/943094408/0/fortinet/blogs~Unveiling-the-Weaponized-Web-Shell-EncystPHP" target="_blank" rel="noopener">Unveiling the Weaponized Web Shell EncystPHP</a></h3>
     <div class="meta">Fortinet Blog · Wed, 28 Jan 2026 14:00:00 +0000</div>
     <p>FortiGuard Labs analyzes EncystPHP, a stealthy web shell exploiting CVE-2025-64328 in FreePBX environments to enable remote command execution, persistence, and long-term system compromise…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/941387753/0/fortinet/blogs~Analysis-of-Single-SignOn-Abuse-on-FortiOS" target="_blank" rel="noopener">Analysis of Single Sign-On Abuse on FortiOS</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 22 Jan 2026 18:44:00 +0000</div>
-    <p>Fortinet is proactively communicating to customers to share analysis regarding single sign-on (SSO) abuse on FortiOS.…</p>
   </div>
 </li>
 </ul>
