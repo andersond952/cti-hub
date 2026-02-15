@@ -7,55 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4hrwb/fortinet_ssl_vpn_behind_a_forti_load_balancer/" target="_blank" rel="noopener">Fortinet SSL VPN behind a Forti Load Balancer</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T10:55:00+00:00</div>
-    <p>We have huge issues with a Fortinet SSL VPN. Users needs to try 30 times around they can establish a ssl vpn connection. They get the error message &quot;Too many bad logins attempts.&quot;. The Topology is something like this: Internet -- Forti L...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4zgzl/fortinac_network_authentication_times/" target="_blank" rel="noopener">Fortinac Network Authentication times</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T23:38:45+00:00</div>
+    <p>Hello! I wanted to ask for people who are using fortinac for authentication with radius and mac traps alongside persistent agent. How long does it take for a user to go from isolation vlan to production? submitted by /u/Khizer23 [link] [...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4gk3e/local_out_traffic_logs_as_implicit_deny/" target="_blank" rel="noopener">Local Out traffic logs as Implicit Deny</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T09:39:21+00:00</div>
-    <p>Hi. I&#x27;m genuinely interested in what people think of this seemingly &#x27;expected&#x27; / &#x27;false positive&#x27; Local traffic log behaviour? As per this tech tip. https://community.fortinet.com/t5/FortiGate/Technical-Tip-Local-Traffic-Policy-ID-Implic...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4thnl/downloading_logs_from_fortigatefortianalyzer_csv/" target="_blank" rel="noopener">Downloading Logs from FortiGate/FortiAnalyzer .csv format</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T19:26:58+00:00</div>
+    <p>Hi all, I need to download some logs from different FortiGates. The FortiGates are in security fabric and there is a FortiAnalyzer. However, I cannot select more than 7 days of logs on the FortiGate (I need to collect 3 weeks back). The ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4c5gs/fortiauthenticator_vm/" target="_blank" rel="noopener">FortiAuthenticator VM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T05:21:56+00:00</div>
-    <p>I know it&#x27;s the neglected middle child of the Forti stack, but I&#x27;m getting ready to bump our FortiAuthenticator VM from 6.4 to 6.5. Reason being: We&#x27;ve stopped domain joining Macs and started using Entra Platform SSO and my internet lurn...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4rnlf/us_unit_with_euro_license/" target="_blank" rel="noopener">U.S. Unit with Euro License</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T18:13:52+00:00</div>
+    <p>Some years ago I recall there was a way to change a unit’s region. Is it possible to use a U.S. unit in Europe? submitted by /u/rnatalli [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r46ny0/fortisiem_experiences/" target="_blank" rel="noopener">FORTISIEM experiences?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T00:57:27+00:00</div>
-    <p>What’s your experience with Fortisiem? How is the cost? Complexity? I’m in a smaller environment 7 Fortigates, office 365 and around 100 servers. In the past I’ve ran Wazuh on premise for a year then went to cloud for a year. Ran solarwi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r423nh/fortiztna_without_fortigate/" target="_blank" rel="noopener">FortiZTNA without FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T21:43:19+00:00</div>
-    <p>Hi everyone! So basically one of my clients want&#x27;s ZTNA but he doesn&#x27;t has a FortiGate. I was seening in some docs that we have the FortiProxy, but there ir any way of this happens without a FortiProxy and a Thrid-Party Firewall? And if ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r41n51/fortinet_recommends_766/" target="_blank" rel="noopener">Fortinet recommends 7.6.6</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-13T21:25:16+00:00</div>
-    <p>Fortinet now recommends 7.6.6 on most platforms on their forum: https://community.fortinet.com/t5/FortiGate/Technical-Tip-Recommended-release-for-FortiOS/ta-p/227178 submitted by /u/Electrical_Cut5776 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4oh1k/is_chatgpt_a_good_tool_to_prepare_for_nse4/" target="_blank" rel="noopener">Is ChatGPT a good tool to prepare for NSE4?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T16:09:46+00:00</div>
+    <p>I am using ChatGPT to generate questions for the NSE4 exam, as a way to test myself after each chapter. My question is, are these questions valid or are they too easy or too irrelevant? (they are from the first 5 chapters) Question 1 A F...</p>
   </div>
 </li>
 <li class="card">
