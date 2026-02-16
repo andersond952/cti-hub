@@ -7,39 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4zgzl/fortinac_network_authentication_times/" target="_blank" rel="noopener">Fortinac Network Authentication times</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T23:38:45+00:00</div>
-    <p>Hello! I wanted to ask for people who are using fortinac for authentication with radius and mac traps alongside persistent agent. How long does it take for a user to go from isolation vlan to production? submitted by /u/Khizer23 [link] [...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r64crh/mixed_local_and_saml_users_with_ipsec_dialup/" target="_blank" rel="noopener">Mixed Local and SAML users with IPSEC Dialup</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T08:37:45+00:00</div>
+    <p>Hello all, in the context of migration from SSL-VPN I am facing the following problem. Many of our client deployments include a mix of SAML users (dial up for company users) and locally defined users (contractors for instance) In SSL-VPN...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4thnl/downloading_logs_from_fortigatefortianalyzer_csv/" target="_blank" rel="noopener">Downloading Logs from FortiGate/FortiAnalyzer .csv format</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T19:26:58+00:00</div>
-    <p>Hi all, I need to download some logs from different FortiGates. The FortiGates are in security fabric and there is a FortiAnalyzer. However, I cannot select more than 7 days of logs on the FortiGate (I need to collect 3 weeks back). The ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5wxto/fortigate_vulnrabilities_when_unlicened/" target="_blank" rel="noopener">Fortigate vulnrabilities when unlicened</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T02:04:59+00:00</div>
+    <p>Does fortiget provide security updates for non licensed units? I have an 80F that is running 7.6.5, how long am i covered until receiving minor patches for CVE&#x27;s? Asking for a small office prod environment submitted by /u/CertainlyBright...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4rnlf/us_unit_with_euro_license/" target="_blank" rel="noopener">U.S. Unit with Euro License</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T18:13:52+00:00</div>
-    <p>Some years ago I recall there was a way to change a unit’s region. Is it possible to use a U.S. unit in Europe? submitted by /u/rnatalli [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5lzab/anyone_experience_with_fortideceptor/" target="_blank" rel="noopener">Anyone experience with Fortideceptor?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-15T18:27:31+00:00</div>
+    <p>Customer of ours is interested in Fortideceptor , someone have possible reviews in setup difficulty, effectivenes,pricing,… [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r4oh1k/is_chatgpt_a_good_tool_to_prepare_for_nse4/" target="_blank" rel="noopener">Is ChatGPT a good tool to prepare for NSE4?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-14T16:09:46+00:00</div>
-    <p>I am using ChatGPT to generate questions for the NSE4 exam, as a way to test myself after each chapter. My question is, are these questions valid or are they too easy or too irrelevant? (they are from the first 5 chapters) Question 1 A F...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5iooj/sso_authentication_with_saml_azure_entra_id_not/" target="_blank" rel="noopener">SSO authentication with SAML, Azure entra ID not working after upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-15T16:20:32+00:00</div>
+    <p>After upgrading the FortiGate from FortiOS v7.2.11 to v7.4.11, SAML SSO authentication with Microsoft Entra ID for outbound Internet access stopped functioning. The setup was operating normally before the upgrade. Current behavior: Users...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5e2mp/ospf_not_working_on_local_subnet/" target="_blank" rel="noopener">OSPF not working on local subnet</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-15T13:01:05+00:00</div>
+    <p>Hey guys, I&#x27;ve got a weird OSPF issue I hope someone has some tips on. I&#x27;ve had OSPF working in my homelab for a long time between 2 FortiGate 60Fs (Edge on FortiOS 7.4.11 and Segmentation on FortiOS 7.6.6). Everything is on FortiSwitche...</p>
   </div>
 </li>
 <li class="card">
