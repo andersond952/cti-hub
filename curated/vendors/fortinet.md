@@ -7,47 +7,111 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r64crh/mixed_local_and_saml_users_with_ipsec_dialup/" target="_blank" rel="noopener">Mixed Local and SAML users with IPSEC Dialup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T08:37:45+00:00</div>
-    <p>Hello all, in the context of migration from SSL-VPN I am facing the following problem. Many of our client deployments include a mix of SAML users (dial up for company users) and locally defined users (contractors for instance) In SSL-VPN...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6zs7t/fortigate_ztna_server_and_forticlient_ems_ztna/" target="_blank" rel="noopener">FortiGate ZTNA Server and FortiClient EMS ZTNA Catalog – IP/FQDN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-17T07:37:23+00:00</div>
+    <p>I am currently running the first tests to migrate our SSL VPN to ZTNA and I am stuck at a point that is somewhat unclear to me, or simply impractical. As soon as I create a ZTNA server on the FortiGate, it is properly synchronized to my ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5wxto/fortigate_vulnrabilities_when_unlicened/" target="_blank" rel="noopener">Fortigate vulnrabilities when unlicened</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T02:04:59+00:00</div>
-    <p>Does fortiget provide security updates for non licensed units? I have an 80F that is running 7.6.5, how long am i covered until receiving minor patches for CVE&#x27;s? Asking for a small office prod environment submitted by /u/CertainlyBright...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6zj8n/fortilink_help_fortiaps_downstream_from/" target="_blank" rel="noopener">Fortilink help - FortiAPs downstream from Fortiswitch</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-17T07:22:10+00:00</div>
+    <p>Hi everyone, I&#x27;m really accustomed to doing Firewalls, Switches, and APs seperately. FortiOS syntax is a little weird to me and I&#x27;m trying to setup a full-stack fortinet setup in my house with some trial gear. I have a Fortigate 60F runn...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5lzab/anyone_experience_with_fortideceptor/" target="_blank" rel="noopener">Anyone experience with Fortideceptor?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-15T18:27:31+00:00</div>
-    <p>Customer of ours is interested in Fortideceptor , someone have possible reviews in setup difficulty, effectivenes,pricing,… [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6y6e8/not_feeling_confident_to_appear_for_the_nse4_exam/" target="_blank" rel="noopener">Not feeling confident to appear for the NSE4 exam even after completing the course material</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-17T06:04:02+00:00</div>
+    <p>Hey guys, I wanted some guidance. I completed the course and found it very simple. Am i missing something. I thought it would be challenging and after seeing the responses in certain posts, it felt as if its a challenging exam. The mater...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5iooj/sso_authentication_with_saml_azure_entra_id_not/" target="_blank" rel="noopener">SSO authentication with SAML, Azure entra ID not working after upgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-15T16:20:32+00:00</div>
-    <p>After upgrading the FortiGate from FortiOS v7.2.11 to v7.4.11, SAML SSO authentication with Microsoft Entra ID for outbound Internet access stopped functioning. The setup was operating normally before the upgrade. Current behavior: Users...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6saki/fortigate_60dpoe/" target="_blank" rel="noopener">FortiGate 60D-POE</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-17T01:22:05+00:00</div>
+    <p>Hello! I just got this firewall used. I am wondering if it is possible to get the WAN1 port to give internet to the internal LAN ports. Is this possible? I haven’t been able to get it after hours of trying. Thanks! submitted by /u/AlexB2...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r5e2mp/ospf_not_working_on_local_subnet/" target="_blank" rel="noopener">OSPF not working on local subnet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-15T13:01:05+00:00</div>
-    <p>Hey guys, I&#x27;ve got a weird OSPF issue I hope someone has some tips on. I&#x27;ve had OSPF working in my homelab for a long time between 2 FortiGate 60Fs (Edge on FortiOS 7.4.11 and Segmentation on FortiOS 7.6.6). Everything is on FortiSwitche...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6pn5n/what_is_the_most_stable_firmware_right_now/" target="_blank" rel="noopener">What is the most stable Firmware right now without Memory Leaks?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T23:28:29+00:00</div>
+    <p>I have a Client on a Fortigate 80F that keeps crashing due to memory leak in version 7.6.6. It seems like there was an automatic update done Feb 6th and since then the Fortigate crashes by the end of the day if its not rebooted. Ive seen...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6l36y/macos_native_ikev2_with_fgt/" target="_blank" rel="noopener">MacOS native IKEv2 with FGT</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T20:34:18+00:00</div>
+    <p>Is it possible to make it work? I try to configure and test it with PSK only auth. From packets and debugs I see FGT terminates connection because my mac do not switch to udp 4500 port from 500 while connection under nat is detected. I h...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6dylq/push_forticlient_ikev2_certificate_based/" target="_blank" rel="noopener">Push forticlient ikev2 certificate based authentication vpn profile via intune to iOS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T16:18:38+00:00</div>
+    <p>hello, does anybody know if it&#x27;s possible to push forticlient ipsec ikev2 certificate based vpn profile via intune? from what i can see there&#x27;s only valid for SSL.. submitted by /u/No_Airline2100 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/crirk3wdqvjg1.png?width=140&amp;height=81&amp;auto=webp&amp;s=d79e774658c6dea6b456c098fcda0a927b7e8359" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6dqzk/is_fortinet_forcing_an_upgrade_to_74x/" target="_blank" rel="noopener">Is Fortinet forcing an upgrade to 7.4.x?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T16:11:03+00:00</div>
+    <p>Since the PSIRT advisory ‘Request smuggling attack in FortiOS GUI’ (FG‑IR‑25‑667) was published, it looks like Fortinet has started pushing customers to migrate to at least version 7.4.11. https://preview.redd.it/crirk3wdqvjg1.png?width=...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r6adii/fortinet_supportutmips_license_part_year_option/" target="_blank" rel="noopener">Fortinet support/UTM-IPS license part year option?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T14:00:53+00:00</div>
+    <p>Do Fortinet allow you to renew a support contract and UTM/IPS for less than 12 months? For example if we have a Fortigate which goes EOL in Dec 2026 but the support contact/UTM license runs out in March 2026. Would Fortinet let us renew ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r69wmf/slowness_docs_fortinet/" target="_blank" rel="noopener">slowness docs fortinet</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T13:41:11+00:00</div>
+    <p>Has anyone else had the same issue as me, where Fortinet documentation has been loading so slowly for the past few days that sometimes it doesn&#x27;t even load at all? I&#x27;ve tried various internet access sources, but it&#x27;s still the same. Loca...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://external-preview.redd.it/PjQUnlW35VGzO2mbXnnAXo-GIerOE29QtsOnEHrDKKE.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=20a8b142c3ca01da8aee899c27629aa1edaecd7d" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r694fu/fortinet_has_announced_that_they_will_discontinue/" target="_blank" rel="noopener">Fortinet has announced that they will discontinue SSL-VPN in May 2026. I&#x27;ve heard a lot about this in Japan. What&#x27;s happening in your organization?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T13:05:59+00:00</div>
+    <p>submitted by /u/Turnover_Mountain [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r691a0/sdwan_with_bgp_to_loop_back/" target="_blank" rel="noopener">SDWAN with BGP to loop back</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T13:02:09+00:00</div>
+    <p>Hello all looking for some help….. I have the unique opportunity to design my company’s SDWAN and I have been reading allot and it seems that best practice is to have either BGP terminate with a loopback interface on birth sides(seems li...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r67oy5/ssl_inspection_sni_not_working_in_7411/" target="_blank" rel="noopener">SSL inspection: SNI not working in 7.4.11?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-16T11:56:05+00:00</div>
+    <p>There is an article 428954: https://community.fortinet.com/t5/FortiGate/Troubleshooting-Tip-FortiGate-does-not-send-the-Certificate/ta-p/428954 I have 7.4.11 and IPS Engine 7.00596 and experiencing this with accessing sub.domain.tld if p...</p>
   </div>
 </li>
 <li class="card">
