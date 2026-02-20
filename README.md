@@ -14,20 +14,13 @@ A low/zero-code Cyber Threat Intelligence hub that lives entirely in GitHub.
 3. Review and edit `feeds.yaml` to match the sources you want.
 4. Enable Actions (if disabled) and let the **Daily Firehose** run.
 5. (Optional) Turn on **GitHub Pages** (Settings → Pages) to make a browsable portal.
-6. Add a Webex tab that links to your repo or Pages site.
-
+   
 ## Curation Workflow
 
 - The Action writes a dated markdown file in `/firehose/` each day.
 - You skim the latest entries and assemble human-curated notes in `/curated/`.
 - For major periods, create `/curated/2025-Q3-highlights.md` with summaries and links.
 - Share the curated doc link in your Webex SecOps space.
-
-## Webex Integration (Optional)
-
-- Easiest: Add a Webex tab pointing at the repo or the GitHub Pages site.
-- Advanced (optional): Use the provided webhook workflow to post a daily digest to Webex.
-  - Set secrets: `WEBEX_BOT_TOKEN` and `WEBEX_ROOM_ID` (or webhook URL if you prefer).
 
 ## Repo Layout
 
