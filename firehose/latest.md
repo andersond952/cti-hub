@@ -7,7 +7,7 @@ title: Firehose — February 20, 2026
 
 # Daily CTI Firehose — 2026-02-20
 
-_Feeds: 7 | Items: 110 | Keyword filter: none_
+_Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
@@ -19,11 +19,91 @@ _Feeds: 7 | Items: 110 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://krebsonsecurity.com/b-doppel/5.png" alt="preview">
+  <div>
+    <h3><a href="https://krebsonsecurity.com/2026/02/starkiller-phishing-service-proxies-real-login-pages-mfa/" target="_blank" rel="noopener">‘Starkiller’ Phishing Service Proxies Real Login Pages, MFA</a></h3>
+    <div class="meta">@briankrebs · Fri, 20 Feb 2026 20:00:30 +0000</div>
+    <p>Most phishing websites are little more than static copies of login pages for popular online destinations, and they are often quickly taken down by anti-abuse activists and security firms. But a stealthy new phishing-as-a-service offering...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/oregon_emergency_0d27e41e6b.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/romanian-hacker-faces-7-years-oregon-breach" target="_blank" rel="noopener">Romanian hacker faces up to 7 years for breaching Oregon emergency management department</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Feb 2026 19:26:35 GMT</div>
+    <p>In court on Thursday, Catalin Dragomir pleaded guilty to obtaining information from a protected computer and one count of aggravated identity theft.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt655ff616652abbb6/699897d60837c40008e79974/AI-agent-delete-data-vittaya_pinpan-shutterstock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/application-security/ai-agents-ignore-security-policies" target="_blank" rel="noopener">&#x27;God-Like&#x27; Attack Machines: AI Agents Ignore Security Policies</a></h3>
+    <div class="meta">Dark Reading · Fri, 20 Feb 2026 18:31:58 GMT</div>
+    <p>Microsoft Copilot recently summarized and leaked user emails; but any AI agent will go above and beyond to complete assigned tasks, even breaking through their carefully designed guardrails.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1aaa12dc01a8cc8a/69977e2049e8a40008936853/AI-security-error-unlocked-Summit_Art_Creations-shutterstock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/application-security/lessons-ai-hacking-model-every-layer-risky" target="_blank" rel="noopener">Lessons From AI Hacking: Every Model, Every Layer Is Risky</a></h3>
+    <div class="meta">Dark Reading · Fri, 20 Feb 2026 18:02:02 GMT</div>
+    <p>After two years of finding flaws in AI infrastructure, two Wiz researchers advise security pros to worry less about prompt injection and more about vulnerabilities.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/laptop_7ede126f1f.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/north-korea-laptop-farm-ukraine" target="_blank" rel="noopener">Ukrainian national gets 5-year sentence for involvement in North Korea IT worker scheme</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Feb 2026 17:38:53 GMT</div>
+    <p>A Ukrainian man was sentenced to five years in U.S. prison for his years-long role in a scheme that helped North Koreans get illegally hired in IT roles at 40 American companies.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/Elon_Musk_1_f155be3415.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/musk-x-appeal-europe-fine" target="_blank" rel="noopener">Musk and X launch legal appeal against EU’s record €120 million fine</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Feb 2026 14:06:49 GMT</div>
+    <p>Elon Musk’s social media platform X has filed an appeal at the European Union’s General Court challenging a €120 million ($141 million) fine imposed by the European Commission.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf956d8a2ab06e898/69976ab8c8bdfd0008c426ab/Brazil_flag_binary_Ivan_Tsyrkunovich_Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/threat-intelligence/latin-americas-cyber-maturity-lags-threat-landscape" target="_blank" rel="noopener">Latin America&#x27;s Cyber Maturity Lags Threat Landscape</a></h3>
+    <div class="meta">Dark Reading · Fri, 20 Feb 2026 14:00:00 GMT</div>
+    <p>The slower pace of upgrades has the unintended impact of creating a haven for attackers, especially for initial access brokers and ransomware gangs.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/Kremlin_1_7c5d8fc96c.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/russia-cyberattacks-europe-warfare" target="_blank" rel="noopener">Russia stepping up hybrid attacks, preparing for long standoff with West, Dutch intelligence warns</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Feb 2026 13:43:40 GMT</div>
+    <p>Russia’s intensifying cyberattacks, sabotage and covert influence operations across Europe show the Kremlin is preparing for a prolonged confrontation with the West, Dutch intelligence agencies said.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/format_webp/national_bank_ukraine_7657ddad53.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/hackers-breach-ukraine-national-bank-contractor" target="_blank" rel="noopener">Hackers breach contractor linked to Ukraine’s central bank collectible coin store</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Feb 2026 11:56:56 GMT</div>
+    <p>The National Bank of Ukraine announced that attackers may have gained access to users’ personal data, including names, phone numbers, email addresses and delivery addresses, in a recent cyberattack.</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/32732" target="_blank" rel="noopener">ISC Stormcast For Friday, February 20th, 2026 https://isc.sans.edu/podcastdetail/9818, (Fri, Feb 20th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 20 Feb 2026 02:00:02 GMT</div>
     <p>ISC Stormcast For Friday, February 20th, 2026 https://isc.sans.edu/podcastdetail/9818, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcff4659d9279972e/6998587d80f60800089483dc/Chip_silkwayrain_iStock.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/emerging-chiplet-designs-spark-fresh-cybersecurity-challenges" target="_blank" rel="noopener">Emerging Chiplet Designs Spark Fresh Cybersecurity Challenges</a></h3>
+    <div class="meta">Dark Reading · Thu, 19 Feb 2026 23:17:19 GMT</div>
+    <p>As scaled-down circuits with limited functions redefine computing for AI systems and autonomous vehicles, their flexibility demands new approaches to safeguard critical infrastructure.</p>
   </div>
 </li>
 <li class="card">
@@ -419,74 +499,74 @@ _Feeds: 7 | Items: 110 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/01/new-era-ai-featured-1.png" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/02/image-28.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/02/12/copilot-studio-agent-security-top-10-risks-detect-prevent/" target="_blank" rel="noopener">Top 10 actions to build agents securely with Microsoft Copilot Studio</a></h3>
     <div class="meta">Microsoft Security Blog · Thu, 12 Feb 2026 20:38:49 +0000</div>
-    <p>Copilot Studio agents are increasingly powerful. With that power comes risk: small misconfigurations, over‑broad sharing, unauthenticated access, and weak orchestration controls can create real exposure. This article consolidates the ten...</p>
+    <p>Organizations are rapidly adopting Copilot Studio agents, but threat actors are equally fast at exploiting misconfigured AI workflows. Mis-sharing, unsafe orchestration, and weak authentication create new identity and data‑access paths t...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/02/Highlights_Day-1_19582-scaled.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/02/Highlights_Day-1_19571-1-scaled.jpg" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/02/12/your-complete-guide-to-microsoft-experiences-at-rsac-2026-conference/" target="_blank" rel="noopener">Your complete guide to Microsoft experiences at RSAC™ 2026 Conference</a></h3>
     <div class="meta">Microsoft Security Blog · Thu, 12 Feb 2026 17:00:00 +0000</div>
-    <p>Learn about our AI-first, end-to-end, security platform that helps you protect every layer of the AI stack and secure with agentic AI.</p>
+    <p>The era of AI is reshaping both opportunity and risk faster than any shift security leaders have seen. Every organization is feeling the momentum; and for security teams, the question is no longer if AI will transform their work, but how...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-03" target="_blank" rel="noopener">Siemens COMOS</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Feb 26 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 12 Feb 26 12:00:00 +0000</div>
     <p>View CSAF Summary COMOS is affected by multiple vulnerabilities that could allow an attacker to execute arbitrary code or cause denial of service condition, data infiltration or perform access control violations. Siemens has released new...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-06" target="_blank" rel="noopener">Siemens SINEC OS</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Feb 26 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 12 Feb 26 12:00:00 +0000</div>
     <p>View CSAF Summary SINEC OS before V3.3 contains third-party components with multiple vulnerabilities. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of ...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-04" target="_blank" rel="noopener">Siemens Desigo CC Product Family and SENTRON Powermanager</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Feb 26 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 12 Feb 26 12:00:00 +0000</div>
     <p>View CSAF Summary Versions V6.0 through V8 QU1 of the Desigo CC product family (Desigo CC, Desigo CC Compact, Desigo CC Connect, Cerberus DMS), as well as the Desigo CC-based SENTRON Powermanager, are affected by a vulnerability in the u...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-09" target="_blank" rel="noopener">Hitachi Energy SuprOS</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Feb 26 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 12 Feb 26 12:00:00 +0000</div>
     <p>View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the SuprOS product versions listed in this document. An attacker successfully exploiting this vulnerability can cause confidentiality, integrity and availability i...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-05" target="_blank" rel="noopener">Siemens Solid Edge</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Feb 26 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 12 Feb 26 12:00:00 +0000</div>
     <p>View CSAF Summary Solid Edge uses PS/IGES Parasolid Translator Component that contains an out of bounds read that could be triggered when the application reads files in IGS file formats. If a user is tricked to open a malicious file with...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-08" target="_blank" rel="noopener">Siemens NX</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Feb 26 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 12 Feb 26 12:00:00 +0000</div>
     <p>View CSAF Summary Siemens NX is affected by multiple file parsing vulnerabilities that could be triggered when the application reads files in CGM format. If a user is tricked to open a malicious file with any of the affected products, th...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-043-10" target="_blank" rel="noopener">Airleader Master</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Feb 26 12:00:00 +0000</div>
+    <div class="meta">CISA Alerts · Thu, 12 Feb 26 12:00:00 +0000</div>
     <p>View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to obtain remote code execution. The following versions of Airleader Master are affected: Airleader Master &lt;=6.381 (CVE-2026-1358) CVSS Vendor Equipm...</p>
   </div>
 </li>
@@ -795,38 +875,6 @@ _Feeds: 7 | Items: 110 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf86236c78ccddc87/6985065f2024991ee0b33534/magnifyingglass_Brainlight_Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/threat-intelligence/encase-driver-weaponized-edr-killers-persist" target="_blank" rel="noopener">EnCase Driver Weaponized as EDR Killers Persist</a></h3>
-    <div class="meta">Dark Reading · Thu, 05 Feb 2026 22:35:20 GMT</div>
-    <p>The forensic tool&#x27;s driver was signed with a digital certificate that expired years ago, but major security gaps allowed Windows to load it.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68890563646ac2cb/6985015d83114a143d701324/Moltbook-SOPA_Images_Limited-Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/agentic-ai-moltbook-security-risks" target="_blank" rel="noopener">Agentic AI Site &#x27;Moltbook&#x27; Is Riddled With Security Risks</a></h3>
-    <div class="meta">Dark Reading · Thu, 05 Feb 2026 22:03:29 GMT</div>
-    <p>Someone used AI to build an entire Web platform, which then did something predictable and preventable: It exposed all its data through a publicly accessible API.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbadcc9a16d698aad/6984b208f81d8e07ce8a9119/kev-collider-runzero.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/threat-intelligence/data-tool-triage-exploited-vulnerabilities-make-kev-catalog-more-useful" target="_blank" rel="noopener">Data Tool to Triage Exploited Vulnerabilities Can Make KEV More Useful</a></h3>
-    <div class="meta">Dark Reading · Thu, 05 Feb 2026 20:53:34 GMT</div>
-    <p>A disconnect exists between an organization&#x27;s cybersecurity needs and lists like CISA&#x27;s KEV Catalog. KEV Collider combines data from multiple open source vulnerability frameworks to help security teams quickly assess which are important,...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeabfda42baee19a/697d19fff577843f12847110/cybersecurity1800_MediaPhotos_alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/the-trifecta-of-cyber-success-education-certifications-and-experience" target="_blank" rel="noopener">Cyber Success Trifecta: Education, Certifications &amp;amp; Experience</a></h3>
-    <div class="meta">Dark Reading · Thu, 05 Feb 2026 14:00:00 GMT</div>
-    <p>Col. Georgeo Xavier Pulikkathara, CISO at iMerit, discusses the importance of fundamentals, continuous learning, and human ingenuity in the face of AI-driven cybersecurity evolution.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://krebsonsecurity.com/wp-content/uploads/2026/02/dontfeed.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/" target="_blank" rel="noopener">Please Don’t Feed the Scattered Lapsus ShinyHunters</a></h3>
@@ -880,14 +928,6 @@ _Feeds: 7 | Items: 110 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/" target="_blank" rel="noopener">Happy 16th Birthday, KrebsOnSecurity.com!</a></h3>
     <div class="meta">Krebs on Security · Mon, 29 Dec 2025 20:23:26 +0000</div>
     <p>KrebsOnSecurity.com celebrates its 16th anniversary today! A huge “thank you” to all of our readers — newcomers, long-timers and drive-by critics alike. Your engagement this past year here has been tremendous and truly a salve on a handf...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/krebsonsecurity.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/" target="_blank" rel="noopener">Dismantling Defenses: Trump 2.0 Cyber Year in Review</a></h3>
-    <div class="meta">Krebs on Security · Fri, 19 Dec 2025 15:14:55 +0000</div>
-    <p>The Trump administration has pursued a staggering range of policy pivots this past year that threaten to weaken the nation’s ability and willingness to address a broad spectrum of technology challenges, from cybersecurity and privacy to ...</p>
   </div>
 </li>
 </ul>
