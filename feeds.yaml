@@ -21,6 +21,9 @@ feeds:
 
   - name: SANS Internet Storm Center
     url: https://isc.sans.edu/rssfeed_full.xml
+    
+  - name: ACRN
+    url: https://acrn.news/
 
 # Optional keyword filter applied per run. If empty or omitted, no keyword filtering.
 # Examples: ransomware, Okta, Citrix, Fortinet, 0-day, Cobalt Strike, MOVEit
