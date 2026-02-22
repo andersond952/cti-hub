@@ -7,31 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rafiqr/forticlient_ipsec_connection_issue/" target="_blank" rel="noopener">Forticlient IPsec connection issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T02:43:42+00:00</div>
-    <p>submitted by /u/hobbyoftakingphoto [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rb9nij/amazon_aiassisted_hacker_breached_600_fortinet/" target="_blank" rel="noopener">Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-22T02:16:49+00:00</div>
+    <p>😲. https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/ Edit: to be fair... Management interfaces exposed to the wild wild West is either a lab, or, if in production - some...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rae9k6/ipsec_fortigate_google_cloud/" target="_blank" rel="noopener">ipsec fortigate - google cloud</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T01:45:00+00:00</div>
-    <p>Hello, good day. Could you help me with an issue? We&#x27;re validating the option to add Google Cloud. I&#x27;ve been assigned the task of creating an IPsec tunnel from FortiGate to Google Cloud. I&#x27;ve configured other tunnels, but Google Cloud do...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rb2teo/new_isp_pre_setup/" target="_blank" rel="noopener">New ISP Pre Setup</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T21:18:28+00:00</div>
+    <p>One of our remote offices is changing ISPs next week. I have all of the new info for the static IP, gateway, subnet, etc. What would be the best plan of action to do any of this config ahead of time. We also have a S-S VPN tunnel set up....</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ra2rly/ipsec_saml_and_radius_auth_on_same_firewall/" target="_blank" rel="noopener">IPSEC SAML and RADIUS auth on same firewall?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T18:08:38+00:00</div>
-    <p>Does anyone know if SAML and RADIUS authentication for Forticlient can be configured at the same time? We have different users which require different authentication methods. submitted by /u/G3rmanaviator [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rb193p/fortigate_tac_team_interview_what_can_i_expect_as/" target="_blank" rel="noopener">FortiGate TAC Team Interview - What can I expect as a new grad?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T20:14:05+00:00</div>
+    <p>submitted by /u/Born-Kale-7610 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rau98u/fortiap_coverage/" target="_blank" rel="noopener">FortiAP coverage</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T15:42:21+00:00</div>
+    <p>Hey guys, I loved from cheap wireless APs to fortiAP (400 g series ). And I m under impression coverage is weak compared to previous model ( both on 2.4 GHz auto selected channels. Any advice or similar feedback submitted by /u/Legitimat...</p>
   </div>
 </li>
 <li class="card">
@@ -43,75 +51,11 @@ _Updated: February 21, 2026 • Sources filter: fortinet, fortiguard • Keyword
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9yoox/fortigate_explicit_proxy_policy_based_on/" target="_blank" rel="noopener">Fortigate Explicit Proxy - Policy based on listening port</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T15:40:50+00:00</div>
-    <p>submitted by /u/TheNudeDeerRises [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9yofv/fortigate_explicit_proxy_policy_based_on/" target="_blank" rel="noopener">Fortigate Explicit Proxy - Policy based on listening port</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T15:40:35+00:00</div>
-    <p>Cant really see the answer on Fortinet, but I have users on explicit proxy port 8080 and all the various policies, but I want another port 8888 for example that is set to say, just Apple Phones proxy settings, and just have a ruleset for...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9x7c7/sdwan_use_case_for_tying_bgp_sla_together/" target="_blank" rel="noopener">SDWAN: Use case for tying BGP + SLA together</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T14:44:38+00:00</div>
-    <p>In FortiGate SDWAN, we can map BGP neighbors to SD-WAN tunnel members and SLAs under config system SDWAN. Why would we do this if regular SLA rules can handle this? Is this a legacy use case or still valid? Thanks. config system sdwan co...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9wc1z/2_year_old_signatures_for_ipsantivirus/" target="_blank" rel="noopener">2 Year old Signatures for IPS/Antivirus</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T14:09:29+00:00</div>
-    <p>Hi, I Started a few weeks ago in a new role and I discover cans of works everyday. My newest are multiple fortigates which are licensed for Uinified threat prevention. While the list for the Botnets are Up-to-date, same for the certifica...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9w9ks/ssl_inspection_how_to_verify_that_the_trusted/" target="_blank" rel="noopener">SSL Inspection, how to verify that the trusted certificate is used</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T14:06:37+00:00</div>
-    <p>We are in a situation in which I have to start implementing deep ssl inspection. However we have various virtual environments, such as anaconda, that have their own cert store. I know how to get around this, but I want to get a log to if...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/948054752/0/fortinet/blogs~Massive-Winos-Campaigns-Target-Taiwan" target="_blank" rel="noopener">Massive Winos 4.0 Campaigns Target Taiwan</a></h3>
     <div class="meta">Fortinet Blog · Fri, 20 Feb 2026 14:00:00 +0000</div>
     <p>FortiGuard Labs analyzes Winos 4.0 (ValleyRat) campaigns targeting Taiwan, detailing phishing lures, DLL sideloading, BYOVD abuse, and evolving attacker infrastructure…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9v5ug/fortios_747_to_7411_successful_on_600e/" target="_blank" rel="noopener">FortiOS 7.4.7 to 7.4.11 Successful on 600E</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T13:19:59+00:00</div>
-    <p>Good morning, I wanted to share that we had a successful upgrade from FortiOS 7.4.7 to 7.4.11 on a 600E HA pair. The upgrade path was 7.4.7 =&gt; 7.4.9 =&gt; 7.4.11 I made the SAML changes in Entra ID that are mentioned in this article SAML Au...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/qydx04xecnkg1.png?width=140&amp;height=20&amp;auto=webp&amp;s=95f0e9c62846edd4ec6a6decbed5ab8f1ecffb8c" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9uly8/static_route_issue/" target="_blank" rel="noopener">Static Route Issue ?!</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T12:55:23+00:00</div>
-    <p>Hi All, I have this routing issue I&#x27;m trying to understand, I have configured 2 Static Routes configured both appear in GUI, but only 1 shows in CLI, anyone knows why this is the case ? In GUI.. https://preview.redd.it/qydx04xecnkg1.png?...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1r9u0bg/match_on_community_range/" target="_blank" rel="noopener">Match on community range</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-20T12:25:52+00:00</div>
-    <p>I want to match on a range of communities, e.g. 65001:1 to 250 I have tried the following, but it doesn&#x27;t work. Has anybody had any luck doing something similar? config router community-list edit &lt;name&gt; set type expanded config rule edit...</p>
   </div>
 </li>
 <li class="card">
