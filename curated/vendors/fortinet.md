@@ -7,39 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rb9nij/amazon_aiassisted_hacker_breached_600_fortinet/" target="_blank" rel="noopener">Amazon: AI-assisted hacker breached 600 Fortinet firewalls in 5 weeks</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-22T02:16:49+00:00</div>
-    <p>😲. https://www.bleepingcomputer.com/news/security/amazon-ai-assisted-hacker-breached-600-fortigate-firewalls-in-5-weeks/ Edit: to be fair... Management interfaces exposed to the wild wild West is either a lab, or, if in production - some...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rccqgo/ipsec_remote_access_and_point_to_point/" target="_blank" rel="noopener">IPsec remote access and point to point</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T09:14:56+00:00</div>
+    <p>Good day everyone. I have a question regarding IPsec configuration, but first let me explain the situation. We have two buildings, Building A and Building B, connected to each other using IPsec Site‑to‑Site VPN. We also configured IPsec ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rb2teo/new_isp_pre_setup/" target="_blank" rel="noopener">New ISP Pre Setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T21:18:28+00:00</div>
-    <p>One of our remote offices is changing ISPs next week. I have all of the new info for the static IP, gateway, subnet, etc. What would be the best plan of action to do any of this config ahead of time. We also have a S-S VPN tunnel set up....</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcch92/ipsec_vpn_and_saml_adfs_authentication/" target="_blank" rel="noopener">IPSec VPN and SAML (ADFS) authentication</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T08:59:45+00:00</div>
+    <p>Hello Community, For a couple of weeks now I have been trying to get IPSec VPN with ADFS as authentication working. Unfortunately I am unable to find one cohesive documentation that explains all the steps I have to do, and no matter what...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rb193p/fortigate_tac_team_interview_what_can_i_expect_as/" target="_blank" rel="noopener">FortiGate TAC Team Interview - What can I expect as a new grad?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T20:14:05+00:00</div>
-    <p>submitted by /u/Born-Kale-7610 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcc057/fortiswitch_and_cisco_phones_pc/" target="_blank" rel="noopener">Fortiswitch and Cisco phones + PC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T08:29:27+00:00</div>
+    <p>I’m trying to configure the fortigate/fortiswitch to replace my old Cisco equipment. However I cannot get the switch to recognise the two devices on different vlans. I’ve set native 200 (pc) allowed 100,200 (voice,pc). Created a lldp pro...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rau98u/fortiap_coverage/" target="_blank" rel="noopener">FortiAP coverage</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-21T15:42:21+00:00</div>
-    <p>Hey guys, I loved from cheap wireless APs to fortiAP (400 g series ). And I m under impression coverage is weak compared to previous model ( both on 2.4 GHz auto selected channels. Any advice or similar feedback submitted by /u/Legitimat...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rc9l6l/what_do_i_need_to_master_fortigate/" target="_blank" rel="noopener">What do I need to master FortiGate?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T06:04:47+00:00</div>
+    <p>I&#x27;m an Intern at a security solutions company, and I will be responsible for multiple solutions (EDR, SIEM, FortiGate, and mainly Azure with all its security features) I already have experience in SIEM &amp; SOAR, TI, EDR, and Azure as a SOC...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rc7iwl/what_preparation_do_i_need_before_taking_the_nse4/" target="_blank" rel="noopener">What preparation do I need before taking the NSE4 Certification Exam?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T04:16:43+00:00</div>
+    <p>Hi. I really want to take NSE4 Exam but I really don’t know where to start. On my current role, we handle fortigates, like fw policy reviews, setting up NATs, IPSec VPN, SSL SVPN, etc. So basically my experience is more on the common nee...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rc4aj7/3000d_model_firmware_missing_in_7411_and_766/" target="_blank" rel="noopener">3000D model firmware missing in 7.4.11 and 7.6.6 version</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T01:43:01+00:00</div>
+    <p>Until last week, our firewall indicated 7.4.11 as the mature release; however, as of today, I&#x27;ve observed it displaying 7.4.9 as the mature release. Furthermore, I am unable to locate these specific versions within the upgrade path. I am...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rc24ws/what_to_check_next_time/" target="_blank" rel="noopener">What to check next time.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T00:07:06+00:00</div>
+    <p>I have a pair of FS-224E setup as mclag. With three 4port lags one for north/south one for east/west fortigate, and one between. My family was all enjoying multiple different shows Internet dropped. Went to check and fortiswitch controll...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rc0cv5/best_practice_to_support_static_and_dialup/" target="_blank" rel="noopener">Best practice to support static and dialup addresses in local-in policy?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-22T22:53:10+00:00</div>
+    <p>What’s the best way to protect the internet facing interface with a local-in policy that support both ADVPN connections with static ips and a dialup tunnel for support (dynamic ips) Can’t seem to win on both? Will need to support the fre...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rbuc5r/best_sccmmecm_version_to_pair_with_fortinac_948/" target="_blank" rel="noopener">Best SCCM/MECM version to pair with FortiNAC 9.4.8?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-22T19:02:58+00:00</div>
+    <p>Hi everyone, I just started a new job. The company is currently using FortiNAC version 9.4.8. However, they&#x27;ve been having some recurring issues because their SCCM setup is outdated. They are looking to implement a newer version and aske...</p>
   </div>
 </li>
 <li class="card">
