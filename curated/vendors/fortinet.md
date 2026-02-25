@@ -7,31 +7,111 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: February 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdbrip/port_security/" target="_blank" rel="noopener">Port security</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T09:33:00+00:00</div>
-    <p>I’m making the move over to fortiswitches from my Cisco setup. Business requirements is port security max MAC addresses allowed 2 and shutdown when in violation. My question is, how do you replicate this on fortiswitches and when I think...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1re7mh6/fortigate_748_memory_usage_consistently_high/" target="_blank" rel="noopener">FortiGate 7.4.8 Memory Usage Consistently High</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-25T08:23:18+00:00</div>
+    <p>i have fortigate with version 7.4.8, recently it&#x27;s showing high memory valeus with 88%, and ssl vpn enter to conserve mode, support fortinet told that upgrade to 7.4.11 is the solution and the workaround is to run those scripts: the temp...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rd3sew/how_do_you_configure_your_ssl_vpn_local_access/" target="_blank" rel="noopener">How do you configure your SSL VPN local access policies?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T03:33:48+00:00</div>
-    <p>Currently, I am blacklisting IPs that trigger more than three unauthorized login attempts daily via the local access policy. This is causing issues where valid users are getting locked out and complaining about connectivity. Since switch...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdt4fi/fortimanager_766_pushing_fortinet_as_the_ssid/" target="_blank" rel="noopener">Fortimanager 7.6.6 pushing &#x27;fortinet&#x27; as the SSID</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T21:20:32+00:00</div>
+    <p>I have FMG 7.6.6 with 3 SSIDs setup, the SSID is inputted correctly. I am using per-device mapping for each FGT. When I go to push the device config and review the installation logs, it does not have any &#x27;set ssid xx&#x27; under &#x27;config wirel...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rd15gi/iscsi_on_fortiswitch_connected_to_fortilink/" target="_blank" rel="noopener">iSCSI on Fortiswitch connected to Fortilink</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T01:41:22+00:00</div>
-    <p>This is mostly to VENT!! I inherited a client and been helping them for a while now Their FGT is almost EOL so we are looking to change it and while at it, we have an old D switch with QSFP+ ports that is not used much after digging toda...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdr8xo/fortigate_200g_in_aa_connected_to_2x_c9300_in/" target="_blank" rel="noopener">FortiGate 200G in A/A connected to 2x C9300 in HSRP for LAN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T20:13:03+00:00</div>
+    <p>Hello, I have configured 2x FortiGate 200G firewalls in Active Active configuration and setup Port Channels between Primary FortiGate and Primary C9300 (higher Priority HSRP switch) for LAN, and Secondary FTG200g to the Second C9300. The...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/874fevgexhlg1.png?width=140&amp;height=40&amp;auto=webp&amp;s=b315ac977edc81b5a204967a0b6705eb62445639" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdqmu4/dante_controller_issues_after_upgrade_to_7411/" target="_blank" rel="noopener">Dante Controller issues after upgrade to 7.4.11 - Microphone Audio no longer working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T19:51:07+00:00</div>
+    <p>We have a pretty simple network Fortigate 100F We have a Shure Dante protocal that other devices use for our AV system. Since upgrading from 7.4.7 -&gt; 7.4.11 the microphones have stopped working properly.. They use multicast and from what...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdqlwq/need_some_direction_on_implementing_secure/" target="_blank" rel="noopener">Need some direction on implementing secure corporate Wi-Fi access to remote laptops</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T19:50:12+00:00</div>
+    <p>Details SMB company and our environment is Hybrid Azure AD, a FortiGate firewall, and FortiClient EMS for use for remote access via IPsec. Company Wi-Fi is currently fully segregated from internal networks and has Internet access only. M...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdqijr/new_isp_got_wan_and_lan_network_blocks/" target="_blank" rel="noopener">New ISP, got WAN and LAN network blocks.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T19:46:51+00:00</div>
+    <p>Hi, We are moving to a new ISP, and they have provided us with WAN and LAN network blocks. Normally when we order a new circuit, we get one block with however many available IPs we need. From what I can tell, the WAN block gets configure...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdmmdj/ffso_agent_with_wmi/" target="_blank" rel="noopener">FFSO Agent with WMI</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T17:29:33+00:00</div>
+    <p>Hi ForitGurus! We are trying to set up the FSSO collector agent to use WMI polling rather than event log reading (as apparently this is more efficient?) If the FSSO service is run using a Domain-Admin account all works Using a restricted...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdl82r/extending_fortiswitch_vlans_to_phyiscal_ports_on/" target="_blank" rel="noopener">Extending Fortiswitch VLANs to phyiscal ports on Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T16:40:13+00:00</div>
+    <p>Background: we&#x27;ve run out of 10gb ports on our switches and need to use on one the Fortigates. Was wondering if it&#x27;s possible to bridge an existing Fortiswitch VLAN to one of the physical ports on the Fortigate. That way we can take adva...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/948424841/0/fortinet/blogs~Fortinet-Achieves-IEC-ML-Certification-for-Secure-Product-Development" target="_blank" rel="noopener">Fortinet Achieves IEC 62443-4-1 ML2 Certification for Secure Product Development</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 24 Feb 2026 16:00:00 +0000</div>
+    <p>Fortinet has achieved IEC 62443-4-1 Maturity Level 2 certification, validating its Secure Product Development Lifecycle and reinforcing trust for IACS, OT, and critical infrastructure customers.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/948406604/0/fortinet/blogs~When-Cyber-Conflict-Targets-Society" target="_blank" rel="noopener">When Cyber Conflict Targets Society</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 24 Feb 2026 15:00:00 +0000</div>
+    <p>Explore how cyber conflict increasingly targets societies, critical infrastructure, and public services, with expert insights on legal frameworks, resilience, and response. …</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdgnfv/forticlient_is_messing_with_lan_adapter_dns/" target="_blank" rel="noopener">FortiClient is messing with LAN adapter DNS servers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T13:46:07+00:00</div>
+    <p>This is FortiClient 7.4.5 on Windows, managed by EMS, and using IKEv2 IPsec Client VPNs. We have several VPN setups under management, and all seem to behaving the same way. The user-affecting issue is that their DNS settings are getting ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rdghd6/fortimanager_perdevice_mapping_ssid_settings/" target="_blank" rel="noopener">FortiManager - Per-Device Mapping SSID settings?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T13:39:05+00:00</div>
+    <p>The Per-Device pane in SSID(AP Manager) have very limited options on what you can set per Mapped Deviced. The case is that there is multiple location using same SSID name, call it &quot;ABC&quot;, on location 1 this does not use IGMP Snooping, Mul...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rde4n0/malicious_domain_blocking_in_fortigate/" target="_blank" rel="noopener">Malicious domain blocking in fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-24T11:50:43+00:00</div>
+    <p>Hi Everyone. I have been blocking malicious domain and ip using firewall policy. Recently I configured external threatfeed for ip but couldn&#x27;t figure out how to do it for domains. My requirement is to call domains in source and destinati...</p>
   </div>
 </li>
 <li class="card">
@@ -40,86 +120,6 @@ _Updated: February 24, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://www.darkreading.com/threat-intelligence/600-fortigate-devices-hacked-ai-amateur" target="_blank" rel="noopener">600+ FortiGate Devices Hacked by AI-Armed Amateur</a></h3>
     <div class="meta">Dark Reading · Mon, 23 Feb 2026 19:37:59 GMT</div>
     <p>A Russian-speaking hacker used generative AI to compromise the FortiGate firewalls, targeting credentials and backups for possible follow-on ransomware attacks.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcrcfc/fortimonitor_snmp_heartbeat_takes_hours_to_start/" target="_blank" rel="noopener">FortiMonitor - SNMP Heartbeat takes hours to start responding from Fortinet switches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T19:32:38+00:00</div>
-    <p>We&#x27;ve recently migrated to Fortimonitor and I love it so far. My only issue is that when a switch comes back online after an outage, it takes 1-2 hours before the SNMP heartbeat stops showing in the incidents list. I see the traffic hitt...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcprro/my_fortigate_sdwan_sitetosite_pitfall/" target="_blank" rel="noopener">My fortiGate SDWAN site-to-site pitfall</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T18:37:28+00:00</div>
-    <p>I upgraded to 7.4.11 and my site-to-site ipsec fail to learn Secondary Wan failover even at the hub. Current config for site-to-site is on BGP. My troubleshooting points out on BGP still prefers to keep WAN1 - learned routes even when WA...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/format_webp/Computers_cd8e39270e.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/gen-ai-fortigate-hackers-russia" target="_blank" rel="noopener">Russian-speaking hackers used gen AI tools to compromise 600 firewalls, Amazon says</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 23 Feb 2026 17:22:23 GMT</div>
-    <p>A Russian-speaking threat actor used commercial generative artificial intelligence tools to help compromise more than 600 FortiGate firewall devices across more than 55 countries earlier this year, researchers have found.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcn2zc/replacement_message_504_dns_look_up_failed/" target="_blank" rel="noopener">Replacement Message - 504 DNS Look up failed</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T17:03:39+00:00</div>
-    <p>Need to replace this message, but its nowhere to be found! 7.4.11 VDOM 400F Gate.. looked in the extended view, but cannot see it.. submitted by /u/TheNudeDeerRises [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rclz4l/fgt30g_managed_by_fmg_and_proxyauthtimeout/" target="_blank" rel="noopener">FGT-30G managed by FMG and proxy-auth-timeout</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T16:24:35+00:00</div>
-    <p>Dear all I have FGT-30G (standalone) with 7.4.8 managed by FMG 7.4.10. They are always in &quot;conflict&quot; in FMG (device settings) and if I install from FMG, it wants to install &quot;set proxy-auth-timeout 5&quot; in system global. If I retrieve the c...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rclfdy/fortigate_and_forticlient_for_remote_users/" target="_blank" rel="noopener">Fortigate and Forticlient for REMOTE users</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T16:04:34+00:00</div>
-    <p>Hi, Guys! Sorry if I&#x27;m not that good at this as I am kinda got back to Fortigate. For remote users how do you guys block their web browsing, application control, etc? Do you force the fortclient VPN on PC startup? submitted by /u/Ibbarra...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcl0pt/how_can_i_exclude_appendix_a_and_appendix_b_from/" target="_blank" rel="noopener">How can I exclude appendix A and appendix B from the Fortianalyzer reports</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T15:49:33+00:00</div>
-    <p>Hi all, pulling my hair out, cannot find the answer to the request in my subject ? thanks G submitted by /u/Able_Mail_917 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rchboy/fortios_7411_upgrade_breaks_forticlient_ipsec_vpn/" target="_blank" rel="noopener">FortiOS 7.4.11 upgrade breaks FortiClient IPsec VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T13:24:22+00:00</div>
-    <p>Hi everyone, I am currently running FortiOS 7.4.9 on my FortiGate and I would like to upgrade to 7.4.11 . However, as soon as I perform the upgrade, my IPsec Client-to-Site VPN stops working. At first, I thought the issue was related to ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcg6nd/saml_port_not_activated/" target="_blank" rel="noopener">SAML port not activated</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T12:31:24+00:00</div>
-    <p>Hi community, I am deploying SAML authentication with IPSEC on a 90G model running FortiOS 7.2.11. I have two wan interfaces one that has a public IP (wan1) and the other is behind CGNAT (wan2) I set the option “ set ike SAML server serv...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rcf0ea/issue_with_fqdn_resolution_and_dns_configuration/" target="_blank" rel="noopener">Issue with FQDN Resolution and DNS Configuration in FortiGate VDOM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-23T11:29:54+00:00</div>
-    <p>Hello, I am experiencing an issue with FQDN resolution on the FortiGate firewall. The FortiGate resolves a specific website to IP addresses that are different from those returned by my local DNS server. As a result, the website is not ac...</p>
   </div>
 </li>
 <li class="card">
@@ -184,22 +184,6 @@ _Updated: February 24, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/945961187/0/fortinet/blogs~AI-Is-Transforming-Cybersecurity-but-the-Skills-Gap-Still-Presents-Significant-Risk" target="_blank" rel="noopener">AI Is Transforming Cybersecurity, but the Skills Gap Still Presents Significant Risk</a></h3>
     <div class="meta">Fortinet Blog · Wed, 11 Feb 2026 16:00:00 +0000</div>
     <p>AI is transforming cybersecurity, but without skilled people to manage it, organizations can increase risk. Learn how AI, training, and certifications must work together to close the cybersecurity …</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/945721949/0/fortinet/blogs~From-Theory-to-Pressure-What-the-Third-AIEnabled-Cybercrime-Tabletop-Exercise-Revealed" target="_blank" rel="noopener">From Theory to Pressure: What the Third AI-Enabled Cybercrime Tabletop Exercise Revealed</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 10 Feb 2026 16:00:00 +0000</div>
-    <p>The third AI-enabled cybercrime tabletop exercise (TTX) reveals how AI-driven impersonation, third-party compromise, and ransomware pressure converge, reshaping governance, trust, and executive dec…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/945702296/0/fortinet/blogs~Deep-Dive-into-New-XWorm-Campaign-Utilizing-MultipleThemed-Phishing-Emails" target="_blank" rel="noopener">Deep Dive into New XWorm Campaign Utilizing Multiple-Themed Phishing Emails</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 10 Feb 2026 14:00:00 +0000</div>
-    <p>FortiGuard Labs details a new XWorm RAT campaign using multi-language phishing emails, Excel exploits (CVE-2018-0802), HTA execution, and fileless .NET techniques to gain full remote control of Win…</p>
   </div>
 </li>
 </ul>
