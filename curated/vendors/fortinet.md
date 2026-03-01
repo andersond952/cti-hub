@@ -7,39 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: February 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/7t4gn0kmpemg1.png?width=140&amp;height=75&amp;auto=webp&amp;s=8511be90f6e6bd198fc0418de118ae95c4e8a8f0" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rgtloj/adding_fortiswitch_to_existing_fortigate/" target="_blank" rel="noopener">Adding FortiSwitch to Existing FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T04:55:30+00:00</div>
-    <p>Any strategies or advice you can give on adding the FortiSwitch to an existing FortiGate? I&#x27;m trying to avoid the removal of firewall policies, addresses, DHCP server, SNAT, essentially anything that ties back to where the switch will be...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rhtkwr/fortiextender_511g_redundancy_with_dual_fortigate/" target="_blank" rel="noopener">FortiExtender 511G Redundancy with Dual FortiGate Hubs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-01T10:02:20+00:00</div>
+    <p>https://preview.redd.it/7t4gn0kmpemg1.png?width=1333&amp;format=png&amp;auto=webp&amp;s=889ecf20181e22a3183427dfbd1067400181e316 Hey guys, I’m working on a design using FortiExtender 511Gs as LTE spokes and I’d really appreciate some feedback from a...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rgpcu2/pxe_ip_foward_protocol_udp_4011/" target="_blank" rel="noopener">PXE IP FOWARD PROTOCOL UDP 4011</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T01:30:48+00:00</div>
-    <p>Just want to ask if you guys were able to configure ip forward protocol udp 4011 in fortinet. this is a requiremet by microsoft before they provide us their support. We had acquire a new company which working on pXE boot for their reimag...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rhi66h/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-01T00:01:00+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rghx86/missing_endpoint_and_router_event_logs_after/" target="_blank" rel="noopener">Missing endpoint and router event logs after firmware upgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-27T20:28:26+00:00</div>
-    <p>Has anyone here recently upgraded to FortiOS 7.4.11? After the upgrade, I noticed that endpoint and router event logs are no longer appearing on my device. I’ve already tried disabling and re-enabling both router and event logging, but t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh57nk/fortios_765766_email_broken/" target="_blank" rel="noopener">FortiOS 7.6.5/7.6.6 Email Broken?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T15:18:41+00:00</div>
+    <p>For these past two firmware releases, it looks like emails won&#x27;t be sent out for 2FA and for Automation Stitching? I&#x27;ve tried our postfix relay and fortinet&#x27;s email server and neither work. Sending a test email via diagnose log alertmail...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/1zcnwwjqm2mg1.png?width=140&amp;height=56&amp;auto=webp&amp;s=0840e36700e0b26bd329ee55ad536111b86ee877" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rgcvhd/fortianalyzer_log_retention_setup/" target="_blank" rel="noopener">FortiAnalyzer log retention setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-27T17:21:48+00:00</div>
-    <p>Hi everyone, I’d like to ask for a review of our FortiAnalyzer configuration, specifically regarding log retention. Our goal is to configure log retention as follows: Logs available for analysis: last 35 days Archived logs (long-term sto...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh32zu/site_to_site_ipsec_dropping_ever_11hrs_and_55ish/" target="_blank" rel="noopener">Site to Site IPSEC dropping ever 11hrs and 55ish minutes.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T13:47:57+00:00</div>
+    <p>DPD Retry is at 3 and Interval is 20. What would you all recommend modifying these values to in order to mitigate this? All time outs and parameters match on both ends. submitted by /u/eld101 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh2oaa/fgsp_7410_traffic_owner_bounce_issue/" target="_blank" rel="noopener">FGSP 7.4.10 Traffic Owner Bounce Issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T13:29:28+00:00</div>
+    <p>Recently, another site adopted the FG-1801F. Due to the site&#x27;s operational environment, they had no choice but to configure FGSP without FWLB. However, on version 7.4.10, after traffic owner bouncing, the owner device failed to process t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh0myi/admin_groups_support_for_saml/" target="_blank" rel="noopener">Admin Groups Support for SAML</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T11:47:08+00:00</div>
+    <p>Hello guys, Is there a way to configure 2 admin groups for SAML authentication in fortigate When I try to create an admin and attach a remote group on it, the remote group which has saml server as a member cannot be seen or assigned to t...</p>
   </div>
 </li>
 <li class="card">
@@ -48,14 +64,6 @@ _Updated: February 28, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/948705230/0/fortinet/blogs~From-Classroom-to-Cyber-Career" target="_blank" rel="noopener">From Classroom to Cyber Career</a></h3>
     <div class="meta">Fortinet Blog · Fri, 27 Feb 2026 16:00:00 +0000</div>
     <p>UniSA students are using Fortinet training, certifications, and Wavelink networking to build skills and step directly into cybersecurity roles.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rg3my9/ubuntu_et_forticlient_ems_745_error_500_connction/" target="_blank" rel="noopener">Ubuntu et Forticlient EMS 7.4.5 - Error 500 - Connction refused on http://127.0.0.1:5001/system\</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-27T10:57:28+00:00</div>
-    <p>Hello, I just made a fresh install Forticlient EMS on prem directly on a new clean install of Ubuntu 24.04.4 LTS few days ago. I followed this guide: https://docs.fortinet.com/document/forticlient/7.4.5/ems-administration-guide/598033/in...</p>
   </div>
 </li>
 <li class="card">
