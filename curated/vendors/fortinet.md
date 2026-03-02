@@ -7,55 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/7t4gn0kmpemg1.png?width=140&amp;height=75&amp;auto=webp&amp;s=8511be90f6e6bd198fc0418de118ae95c4e8a8f0" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rhtkwr/fortiextender_511g_redundancy_with_dual_fortigate/" target="_blank" rel="noopener">FortiExtender 511G Redundancy with Dual FortiGate Hubs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-01T10:02:20+00:00</div>
-    <p>https://preview.redd.it/7t4gn0kmpemg1.png?width=1333&amp;format=png&amp;auto=webp&amp;s=889ecf20181e22a3183427dfbd1067400181e316 Hey guys, I’m working on a design using FortiExtender 511Gs as LTE spokes and I’d really appreciate some feedback from a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rikauk/unable_to_ping_fortigate_wan_ip_from_dialin_ipsec/" target="_blank" rel="noopener">Unable to ping Fortigate WAN IP from dial-in IPSEC VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T05:26:25+00:00</div>
+    <p>Hi all, I have a Fortigate 91G, with a public IP on the WAN interface. I have allowed PING on the WAN interface, and I have a policy from LAN to WAN. Pings from LAN to WAN work. I also have a dial-in IPSEC VPN setup (full tunnel) with po...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rhi66h/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-01T00:01:00+00:00</div>
-    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rij4ew/custom_external_user_to_ip_mapping/" target="_blank" rel="noopener">Custom external user to IP mapping?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T04:25:13+00:00</div>
+    <p>Howdy All, To be fair, this is more of a nice to have not a need to have. I have a situation where I want to map users to ip&#x27;s from a custom info source (which isnt clearpass, AD or azure and we do currently do, just not with fortigate)....</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh57nk/fortios_765766_email_broken/" target="_blank" rel="noopener">FortiOS 7.6.5/7.6.6 Email Broken?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T15:18:41+00:00</div>
-    <p>For these past two firmware releases, it looks like emails won&#x27;t be sent out for 2FA and for Automation Stitching? I&#x27;ve tried our postfix relay and fortinet&#x27;s email server and neither work. Sending a test email via diagnose log alertmail...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rihti3/60f_driving_me_insane_well_likely_isp_at_this/" target="_blank" rel="noopener">60F driving me insane… well likely isp at this point.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T03:21:36+00:00</div>
+    <p>Soooo here goes. ISP DMARC &gt; ISP Ciena ONT &gt; ISP Draytek Router &gt; Fortigate 60F Wan1 Have been dealing with an issue of constant intermittent connection to Internet. Local network behind 60F is solid. ISP came and changed out the Draytek...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh32zu/site_to_site_ipsec_dropping_ever_11hrs_and_55ish/" target="_blank" rel="noopener">Site to Site IPSEC dropping ever 11hrs and 55ish minutes.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T13:47:57+00:00</div>
-    <p>DPD Retry is at 3 and Interval is 20. What would you all recommend modifying these values to in order to mitigate this? All time outs and parameters match on both ends. submitted by /u/eld101 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1riff66/dual_isp_bgp/" target="_blank" rel="noopener">Dual ISP - BGP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T01:28:28+00:00</div>
+    <p>Hello everyone, I am kinda confused now not sure if im overtinking this. I have a FG with 2 ISPs and BGP peering with both, I own a public subnet which Im advertising to both, and Im getting 0.0.0.0 from both as well. So far so good. Due...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh2oaa/fgsp_7410_traffic_owner_bounce_issue/" target="_blank" rel="noopener">FGSP 7.4.10 Traffic Owner Bounce Issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T13:29:28+00:00</div>
-    <p>Recently, another site adopted the FG-1801F. Due to the site&#x27;s operational environment, they had no choice but to configure FGSP without FWLB. However, on version 7.4.10, after traffic owner bouncing, the owner device failed to process t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rifbil/fortinet_60f_question/" target="_blank" rel="noopener">Fortinet 60F question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T01:23:46+00:00</div>
+    <p>My work switched franchise companies - new company changed up our firewalls and my boss gave me a 60F and a 40F to mess around with. (I am half way decent in networking, have a small home lab but have never touched firewalls and trying t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rh0myi/admin_groups_support_for_saml/" target="_blank" rel="noopener">Admin Groups Support for SAML</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-02-28T11:47:08+00:00</div>
-    <p>Hello guys, Is there a way to configure 2 admin groups for SAML authentication in fortigate When I try to create an admin and attach a remote group on it, the remote group which has saml server as a member cannot be seen or assigned to t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rhwh5c/upstream_hsrp_routers/" target="_blank" rel="noopener">Upstream HSRP Routers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-01T12:48:58+00:00</div>
+    <p>submitted by /u/Leading-As1283 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
