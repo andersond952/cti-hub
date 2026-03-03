@@ -7,55 +7,143 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rikauk/unable_to_ping_fortigate_wan_ip_from_dialin_ipsec/" target="_blank" rel="noopener">Unable to ping Fortigate WAN IP from dial-in IPSEC VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T05:26:25+00:00</div>
-    <p>Hi all, I have a Fortigate 91G, with a public IP on the WAN interface. I have allowed PING on the WAN interface, and I have a policy from LAN to WAN. Pings from LAN to WAN work. I also have a dial-in IPSEC VPN setup (full tunnel) with po...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rjkr7y/automation_pushing_certificates_to_fortigates/" target="_blank" rel="noopener">Automation: Pushing Certificates to Fortigates</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-03T09:17:59+00:00</div>
+    <p>Hi! We want to automate the process of replacing certificates that are in use by SSL-profiles on our Fortigates (7.4). Is there a method to perform an in-place replacement of the certificate (keeping the same object reference), or do I n...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rij4ew/custom_external_user_to_ip_mapping/" target="_blank" rel="noopener">Custom external user to IP mapping?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T04:25:13+00:00</div>
-    <p>Howdy All, To be fair, this is more of a nice to have not a need to have. I have a situation where I want to map users to ip&#x27;s from a custom info source (which isnt clearpass, AD or azure and we do currently do, just not with fortigate)....</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rjk14k/forticlient_without_ems_and_have_configured_three/" target="_blank" rel="noopener">FortiClient without EMS and have configured three IPSec Remote Access (RA) tunnels on the FortiGate.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-03T08:32:00+00:00</div>
+    <p>FortiClient without EMS and have configured three IPSec Remote Access (RA) tunnels on the FortiGate. Issue observed: All users are configured with the same VPN profiles. However, during connection, users are negotiating different IPSec t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rihti3/60f_driving_me_insane_well_likely_isp_at_this/" target="_blank" rel="noopener">60F driving me insane… well likely isp at this point.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T03:21:36+00:00</div>
-    <p>Soooo here goes. ISP DMARC &gt; ISP Ciena ONT &gt; ISP Draytek Router &gt; Fortigate 60F Wan1 Have been dealing with an issue of constant intermittent connection to Internet. Local network behind 60F is solid. ISP came and changed out the Draytek...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rjh5qy/forticlient_745/" target="_blank" rel="noopener">Forticlient 7.4.5</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-03T05:40:25+00:00</div>
+    <p>Hi We are currently trying to test forticlient 7.4.5 in our environment, but running with an issue with ssl vpn connection. We have Microsoft nps for mfa and works fine with older version but with 7.4.5 I saw user auths to NPS and then t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1riff66/dual_isp_bgp/" target="_blank" rel="noopener">Dual ISP - BGP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T01:28:28+00:00</div>
-    <p>Hello everyone, I am kinda confused now not sure if im overtinking this. I have a FG with 2 ISPs and BGP peering with both, I own a public subnet which Im advertising to both, and Im getting 0.0.0.0 from both as well. So far so good. Due...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rjgjs1/mixed_fortinet_environment/" target="_blank" rel="noopener">Mixed Fortinet Environment</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-03T05:08:19+00:00</div>
+    <p>I’m reviewing an infrastructure build-out using mostly Fortigate products, and would like to take advantage as much as possible of the Fortinet ecosystem. The proposed connection is FGT Firewall—&gt; Cisco SFP+ AGG Switch—&gt; Multiple Fortine...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rifbil/fortinet_60f_question/" target="_blank" rel="noopener">Fortinet 60F question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T01:23:46+00:00</div>
-    <p>My work switched franchise companies - new company changed up our firewalls and my boss gave me a 60F and a 40F to mess around with. (I am half way decent in networking, have a small home lab but have never touched firewalls and trying t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rjginp/wth_forticonvert_60e_to_60f/" target="_blank" rel="noopener">wth? forticonvert 60E to 60F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-03T05:06:42+00:00</div>
+    <p>not having the best time with this process. logged into the fortinet website to begin a transfer. send us your configuration file they say. no problem. fortinet emails back and says forticonverter ready to go. download your file and inst...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rhwh5c/upstream_hsrp_routers/" target="_blank" rel="noopener">Upstream HSRP Routers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-01T12:48:58+00:00</div>
-    <p>submitted by /u/Leading-As1283 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rjejbd/custom_sitetosite_ipsec_between_two_fortigate/" target="_blank" rel="noopener">Custom Site-to-Site IPSec between two FortiGate devices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-03T03:30:07+00:00</div>
+    <p>Hello, please advise on best practices for configuring encryption and authentication for the first and second phases if the tunnel is built between two FortiGate devices. It is desirable to have maximum hardware offload. FortiGate 60F an...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rjcrtp/fortigate_administration_from_fmg/" target="_blank" rel="noopener">FortiGate administration from FMG</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-03T02:10:56+00:00</div>
+    <p>Hi guys, i have added LDAP servers in fortimanager to push them on to FortiGate. I have also added user groups that will be used. I don&#x27;t understand or find where to add administrators in fortimanager for access to fortigates. I am not t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/wfcq8sueppmg1.png?width=140&amp;height=2&amp;auto=webp&amp;s=18dd9a7cafa580b32cab0a555badbb209a6451e1" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rj87e2/converted_60e_to_60f_ssl_errors/" target="_blank" rel="noopener">converted 60E to 60F SSL errors?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T22:59:19+00:00</div>
+    <p>so I converted a 60E 7.2.11 to 60F 7.2.6, factory, went from 7.2.6 &gt; 7.2.8 &gt;7.2.9 7.2.11 on the 60F manually but editing the config file. it went overall fine, but the boot told me to check this error. FGT60F # diagnose debug config-erro...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rj53cy/fortimanager_internet_facing_acl/" target="_blank" rel="noopener">Fortimanager - Internet Facing ACL</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T21:01:02+00:00</div>
+    <p>We&#x27;re an MSSP hosting our own on prem multi-tenant Fortimanager and a few thousand FortiGates out in the field and VMs in our datacenters / public cloud. Prior to CVE-2024-47575 we had our FMG exposed to the internet. Upon the news break...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rj2d5c/fortisoar_crowdstrike_integration_required_api/" target="_blank" rel="noopener">FortiSOAR – CrowdStrike Integration: Required API Scopes?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T19:22:08+00:00</div>
+    <p>Hi everyone, I’m currently working on integrating CrowdStrike Falcon with FortiSOAR and ran into a question regarding API permissions. The FortiSOAR connector documentation explains the setup process (Client ID/Secret, base URL, etc.), b...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1riysms/50g_conserve_mode/" target="_blank" rel="noopener">50G - Conserve Mode</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T17:15:27+00:00</div>
+    <p>Had a 50G stuck in conserve mode with the “node” process taking 26% of the memory and after restarting the process it was back down to a few % bringing the unit out of conserve. Not many users/devices behind this unit and wondering if an...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1riwc9g/new_airsnitch_attack_vector_on_commercialpersonal/" target="_blank" rel="noopener">New AirSnitch attack vector on commercial/personal APs. Anyone have some info about its impact here?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T15:47:38+00:00</div>
+    <p>I know information about it is still rolling out, but anyone have any input or experimentation with fortiaps and the new AirSnitch vulnerability in various home/enterprise APs? Best I can discover, utilizing Rouge AP detection is a fairl...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rivxr6/nse_5_fortisase_and_sd_wan_exam_am_i_cooked/" target="_blank" rel="noopener">NSE 5 FortiSASE and SD WAN exam - am I cooked?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T15:32:40+00:00</div>
+    <p>So my company have asked us to get this exam/cert, ideally ASAP. I did the FCP Fortigate and Fortimanager exams last year relatively comfortably having had a few years of Fortigate experience and some limited FMG but with access to one t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rivq4y/deferred_454_470_tls_handshake_failed_problem_on/" target="_blank" rel="noopener">Deferred: 454 4.7.0 TLS handshake failed problem on FortiMail Cloud</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T15:24:43+00:00</div>
+    <p>We use FortiMail Cloud, a mail gateway through which all emails from Exchange servers pass. When sending emails to one of our clients, we constantly receive the following error: Deferred: 454 4.7.0 TLS handshake failed. According to our ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1riuqxk/fortigate_300d_firmware/" target="_blank" rel="noopener">Fortigate 300D Firmware</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T14:47:25+00:00</div>
+    <p>I recently bought a FortiGate 300D from Facebook Marketplace for really cheap. I’m planning to use it for my homelab while studying for CCNA and general networking practice. The problem is I don’t have access to firmware downloads since ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rirbwh/remote_access_icon_suddenly_missing_from_macbook/" target="_blank" rel="noopener">Remote access icon suddenly missing from macbook doc</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T12:19:23+00:00</div>
+    <p>UPDATE: The app I used to connect changed its name and colour and look. I just kept googling different things and finally found this out. Once I knew the new name I was easily able to find it in Finder. I use forticlient VPN for work. I ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rir7ne/teamspeak_screenshare_p2p_not_working/" target="_blank" rel="noopener">Teamspeak Screenshare (P2P) not working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-02T12:13:24+00:00</div>
+    <p>Hello, i have a very specific question. Couldnt find information on the www so might as well try my luck here. We are running a selfhosted teamspeak. Everybody besides me can use the screenshare feature. The screenshare is peer to peer a...</p>
   </div>
 </li>
 <li class="card">
