@@ -7,23 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rnegct/which_model_for_home_lab_use/" target="_blank" rel="noopener">Which model for home lab use?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-07T16:36:51+00:00</div>
-    <p>Hey team - I&#x27;ve been thinking about getting a Fortigate FW just to get more familiar with the ecosystem and the FW OS. I&#x27;ve been running a PA-220 for my home network FW for years (for the same reason - it&#x27;s obviously overkill for a home ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rovhz3/using_fortigate_privatenon_business_eu/" target="_blank" rel="noopener">Using fortigate private(non business) EU</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T09:24:38+00:00</div>
+    <p>Hello people. I used to buy products through an official fortinet partner on a webshop. This year I wanted to upgrade or renew. But the webshop salesman said it couldn&#x27;t be done. Because Fortinet has new sharpened rules when it comes to ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rnco95/both_default_and_backup_firmware_is_missing/" target="_blank" rel="noopener">Both default and backup firmware is missing?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-07T15:25:46+00:00</div>
-    <p>I got an FG-61F from work to use in my home lab when my company onboarded a new facility. However when i consoled into the device it had already been wiped and there is no default or backup firmware on the device. With support for the de...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1roopff/fortilink_over_l3_flcfg_https_login1201login/" target="_blank" rel="noopener">Fortilink over L3, flcfg_https_login[1201]:login failed</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T02:57:02+00:00</div>
+    <p>Hello Everyone, A bit of background. I have a good amount of experience with FortiGate and wanted to branch out to Fortinet&#x27;s other offerings. I figured FortiSwitch was a good start, so I picked up a few for the home lab: a 108F-POE and ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <div>
+    <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
+    <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
+    <p>AI-based assistants or “agents” — autonomous programs that have access to the user’s computer, files, online services and can automate virtually any task — are growing in popularity with developers and IT workers. But as so many eyebrow-...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ro2r8q/oddipsec_issue_between_europe_and_china/" target="_blank" rel="noopener">OddIPSec issue between Europe and China</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-08T11:39:38+00:00</div>
+    <p>Dear all I am a little stumped here and would need some ideas on how to troubleshoot and get more debug data. Situation: There are two locations (one in Europe and one in China). They both have IPSec tunnel established(DialUp in Europe, ...</p>
   </div>
 </li>
 <li class="card">
