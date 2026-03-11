@@ -7,111 +7,119 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpt6um/waf_problem_with_certificate/" target="_blank" rel="noopener">WAF Problem with Certificate?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T10:23:07+00:00</div>
-    <p>Hello Guys, After configuring the WAF to forward traffic to one of our servers, and even after downloading the certificate from the server it self and uploading it to the WAF I am trying to access the website but the certificate is being...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rqhhgk/bgp_conditional_advertisement/" target="_blank" rel="noopener">BGP conditional advertisement</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-11T02:26:44+00:00</div>
+    <p>Hello everyone Did someone configure BGP conditional advertisement before? I have this customer who has a web server and two links One is main and the other is back up (Verizon) because we did AS-prepend to make it as a backup But anyone...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpqlgd/powersupply_compatebility_list_for_all_fortigates/" target="_blank" rel="noopener">Powersupply compatebility list for all FortiGates</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T07:39:48+00:00</div>
-    <p>Hello, I have a few questions regarding power supply compatibility list. Is there anything like this? Where could I find it? Is there any difference in connector if the FortiGate is POE variant? I&#x27;m asking that because recently I had a c...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rqce4p/migrating_appliances_and_their_data_between/" target="_blank" rel="noopener">Migrating appliances and their data between hypervisors?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T22:55:12+00:00</div>
+    <p>Curious if anyone&#x27;s had any experiences with this and can recommend strategies that worked for them as everyone flees VMware. The Fortinet instructions for moving any of their VM appliances appears to be: Backup config, set up new applia...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpq8hi/login_with_local_admin_with_sso_enabled_in/" target="_blank" rel="noopener">Login with local Admin with SSO enabled in FortiOS 7.6</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T07:16:36+00:00</div>
-    <p>We recently updated our first Fortigate from 7.4 to 7.6. We use SSO with Entra ID for Administrator login. In 7.4 it was possible to get the login page with &quot;Sign in with Security Fabric&quot; to trigger SSO or local administrator with &lt;admin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rqb65q/fortipam_feedback/" target="_blank" rel="noopener">FortiPAM feedback</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T22:08:05+00:00</div>
+    <p>Hey forti community, Im a system and network engineer for my company and we are looking to change our PAM solution, we are currently using Wallix (AM + Bastion) but the solution is quite expensive and we find that the tool is not improvi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpo6p8/fortiauthenticator_smartconnect_with_ldap_users/" target="_blank" rel="noopener">FortiAuthenticator SmartConnect with LDAP users for BOTH domain-joined + BYOD – architecture questions</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T05:15:37+00:00</div>
-    <p>I’m designing a FortiAuthenticator EAP TLS setup where the user base is LDAP (Active Directory), supporting two types of endpoints: Domain-joined laptops (already managed) , certificates already present on the user device. BYOD devices (...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq7bqq/forticlient_android_webview_closes_during_saml/" target="_blank" rel="noopener">FortiClient Android – WebView closes during SAML authentication with Microsoft 365 MFA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T19:49:25+00:00</div>
+    <p>Hi! I am experiencing an issue with a Dial-Up IPsec VPN configured on a FortiGate using IKEv2 with SAML authentication integrated with Microsoft 365 (Azure AD) and MFA enabled. When connecting from FortiClient on Android (device register...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpmuck/enabling_jumbo_frames/" target="_blank" rel="noopener">Enabling Jumbo frames</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T04:04:25+00:00</div>
-    <p>We need to enable Jumbo frames on some Fortiswitches on a single VLAN and a specific couple of ports for a storage device. The are controlled by a Fortigate. The guides though are inconsistent and not really helping, and apparently this ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq78zd/issue_with_the_setup_of_duo_mfa_for_ssl_vpn_using/" target="_blank" rel="noopener">Issue with the setup of Duo MFA for SSL VPN using LDAP on fortigate 7.2 NAT Mode</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T19:46:44+00:00</div>
+    <p>Hello guys, I’m hoping someone can point me in the right direction with an issue I’m facing while implementing Duo MFA for SSL-VPN. I first set it up using RADIUS and the Duo push notifications were working correctly. However, I ran into...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpjbxc/web_filter_on_deep_inspect_connection_reset/" target="_blank" rel="noopener">Web Filter on Deep Inspect - Connection Reset?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T01:26:04+00:00</div>
-    <p>Hi all, Just got a pair of 121G&#x27;s deployed in my environment. Brand new to firewall management so be gentle if this is an obvious one lol. I have my subnets for deep-inspect all set up and everything is working great. I&#x27;m noticing though...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/o58ten0lu3og1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=a027500cb9a4f08fdb8acf1f194251094b90ab84" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpgo8t/ufc_accelerate_26/" target="_blank" rel="noopener">UFC @ Accelerate 26</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T23:35:16+00:00</div>
-    <p>Let&#x27;s go! submitted by /u/FrequentFractionator [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq64qd/fortimanager_and_new_g_appliances_like_70g/" target="_blank" rel="noopener">FortiManager and New G appliances like 70G</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T19:06:56+00:00</div>
+    <p>I have a bunch of FortiWifi 70G-POE appliances. Most came with 7.2 or 7.4.8 firmware; however, if I update to 7.4.11 or 7.6.6 and then factory reset, the resultant configuration after the factory reset is different from the config after ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpfgrb/need_advice_fap231e_stuck_on_old_firmware_due_to/" target="_blank" rel="noopener">Need advice: FAP-231E stuck on old firmware due to ownership/registration issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T22:47:21+00:00</div>
-    <p>Hi everyone, I’m looking for some advice on a FortiAP 231E I picked up from eBay. The unit is currently linked to a previous owner, so I can&#x27;t register it to my portal to access the firmware download section. I&#x27;ve tried updating it throu...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq5aj8/60f_stopped_egressing_traffic_cgnat_isp/" target="_blank" rel="noopener">60F stopped egressing traffic CGNAT ISP.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T18:37:24+00:00</div>
+    <p>Hey Guys, I just recontracted with my ISP and suddenly it&#x27;s gone down today and not come back. I connected their old router and that works no problems. Plug the FortiGate back in and I received a CGNAT IP. 100.72.X.X I rang them and aske...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rp91vv/web_filtering_needs_certificate_inspection_enabled/" target="_blank" rel="noopener">Web Filtering needs certificate inspection enabled?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T18:53:04+00:00</div>
-    <p>submitted by /u/Better-Bat2642 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq4q1e/fortinet_monitoring/" target="_blank" rel="noopener">Fortinet Monitoring</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T18:17:32+00:00</div>
+    <p>submitted by /u/Potential_Scratch981 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rp91gm/web_filtering_needs_certificate_inspection_enabled/" target="_blank" rel="noopener">Web Filtering needs certificate inspection enabled?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T18:52:36+00:00</div>
-    <p>I am trying to set up web filtering for guest wifi users and found that at least certificate inspection is needed for Web Filtering to work. I have used other firewalls before for web category based filtering and never encountered this t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq3gqk/static_routes_sdwan_internet/" target="_blank" rel="noopener">static routes - sdwan - internet</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T17:33:38+00:00</div>
+    <p>Hello, we have the following FortiGate scenario with three internet providers: Internet1, InternetTelum, and Bestel. They are on the SD-WAN, and Marcatel is free. In the static policies, the SD-WAN route is set to 0.0.0.0 , and Marcatel ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rp77i8/new_firewall_deployment_though_fortimanager_fails/" target="_blank" rel="noopener">New Firewall Deployment though Fortimanager fails because application definition out of date and missing category ID</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T17:48:42+00:00</div>
-    <p>So we run into the issue all the time where when deploying a new firewall, the Policy deployment fails because the application control database doesn&#x27;t have the category ID because it is out of date. I know that it updates once traffic i...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/amh0vl0vq1og1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d5b1d6b8b77ad0d89d6beb062c7cfef2ef350b36" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rp4z18/new_fortinet_product/" target="_blank" rel="noopener">New FORTINET product?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T16:30:46+00:00</div>
-    <p>I have found this all over Los Angeles in the past week, anyone nows what this is? submitted by /u/RoutineArtichoke1657 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq3c5v/faz_log_retention/" target="_blank" rel="noopener">FAZ Log Retention</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T17:29:09+00:00</div>
+    <p>On FAZ, how long am I able to store logs for? If I have a requirement to store logs for 5+ years, is that possible as long as I have enough TB of storage on the VM? I have used FAZ but have not had a use case where I need to store this m...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rp4lyi/something_i_noticed_about_30g_and_local_logs/" target="_blank" rel="noopener">Something I noticed about 30g and local logs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T16:17:48+00:00</div>
-    <p>Just spotted that the 30g allows local logging to disk, only a 1.5gb partition, but still. It&#x27;s an oddball that goes against the whole xx0 vs xx1 naming convention. Thought someone might find it interesting. submitted by /u/DeniedByPolic...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rq0yo0/dns_filtering_best_practice/" target="_blank" rel="noopener">DNS filtering best practice</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T16:04:19+00:00</div>
+    <p>I am about to implement DNS filtering and wondering what is the best way to do it. I am thinking of 2 methods: Option 1: - apply DNS filtering profile on the internet access security policies Option 2: - create a separate DNS rule and as...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpz7b2/fortiidentity_cloud_to_configure_mfa_for_5/" target="_blank" rel="noopener">FortiIdentity Cloud to configure MFA for 5 FortiGate with 6 users</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T14:58:20+00:00</div>
+    <p>Hi everyone, Our MSP suggested using FortiCloud Identity (FCI around CA$40/year) instead of FortiTokens to enable MFA for local accounts on multiple FortiGate 40F units. They told us there’s a minimum purchase requirement of 25, even tho...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpyx12/help_with_url_filtering_in_zero_trust_environment/" target="_blank" rel="noopener">Help with url filtering in zero trust environment</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T14:47:21+00:00</div>
+    <p>I am in a zero trust environment in which the server networks internet access is locked down. Because of the DNS changes made in 7.4 we are no longer able to rely on FQDNS for access to cdns like gcp, aws, etc. The problem is I&#x27;m looking...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rpugl4/rebooting_secondary_fortigate_in_ap_pair_causes/" target="_blank" rel="noopener">Rebooting secondary Fortigate in A/P pair causes traffic loss on 7.6.6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-10T11:33:17+00:00</div>
+    <p>Hi I&#x27;m investigating a strange issue that I&#x27;m already having for a couple of months. We have two Fortigates 601F in HA A/P. We are having traffic issues if reboot the secondary firewall without doing a failover or if we reboot the primar...</p>
   </div>
 </li>
 <li class="card">
@@ -123,39 +131,7 @@ _Updated: March 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rp1oxy/technical_tip_how_to_disable_ssl_vpn_webmode/" target="_blank" rel="noopener">Technical Tip: How to disable SSL VPN web-mode globally</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T14:28:37+00:00</div>
-    <p>https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-disable-SSL-VPN-web-mode-globally/ta-p/272406 config system global set sslvpn-web-mode disable end Just wanted to point this out to those who didn&#x27;t see, in 7.4.2+ this com...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rp0so3/fortigate_for_local_school_1000_endpoints/" target="_blank" rel="noopener">Fortigate for local School ~1000 endpoints</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T13:53:07+00:00</div>
-    <p>Hello, as in the Headline I need a recommendation for sizing of a Fortigate. I can‘t decide between 120G and 200G… The Minimum requirements are Blacklisting, packet Inspection, anti-Virus. Troughput of min. 2 gbit/s with enabled IDS/IPS,...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/e0cf8jby70og1.png?width=140&amp;height=83&amp;auto=webp&amp;s=bd883c614da758bd2244171f7cb2d18a179e3b82" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1roxm2n/fortiap231f_very_slow_internet/" target="_blank" rel="noopener">FortiAP231F very slow internet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T11:25:49+00:00</div>
-    <p>Hello, I need your assistance. I work at a university as a SysAdmin, and we have an infrastructure of seven floors with 62 FortiAPs distributed throughout. I constantly receive complaints from students that the Wi-Fi is slow. When this h...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1roxdxr/issue_printing_batch_guest_accounts_from/" target="_blank" rel="noopener">Issue printing batch guest accounts from FortiGuest Admin Portal</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-09T11:13:55+00:00</div>
-    <p>Hi everyone, I’m encountering an issue regarding sending Wi-Fi credentials via email. I am using version v2.4.2-build0520. When I create a batch of users and try to email the created credentials, the email is sent correctly, but the atta...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
