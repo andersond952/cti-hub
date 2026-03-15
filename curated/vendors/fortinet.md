@@ -7,55 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rt4w9w/ipsec_always_on_vpn/" target="_blank" rel="noopener">IPsec always on vpn</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T00:31:40+00:00</div>
-    <p>Hello, I am trying to finish setting up an IPsec vpn with always on features. I am using signature based authentication which the machine is able to auto connect when the system reboots and then the user signs in. This works perfectly af...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ru3la0/alertmail_gets_3stuck_in_high_cpu_state/" target="_blank" rel="noopener">Alertmail gets 3stuck in high CPU state</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-15T03:31:25+00:00</div>
+    <p>I have a FortiGate-70G running 7.4.11 and a third tier discount internet provider. Every day there are short interruptions from either the cable modem or the internet provider. Email notification is set up to alert me when the WAN interf...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rt4tci/tips_for_studying_particularly_dry_certificates/" target="_blank" rel="noopener">Tips for studying particularly dry certificates (I&#x27;m not new to Forti training)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T00:28:13+00:00</div>
-    <p>I have studied and passed FortiGate Administrator, FortiManager Administrator, FortiAnalyzer Analyst and Enterprise Firewall Administrator Exams. So I am not new to Fortinet exams. I haven&#x27;t failed one yet so my study method works to a c...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rtuomf/forticlient_gets_stuck_at_89/" target="_blank" rel="noopener">FortiClient gets stuck at 89</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T20:56:05+00:00</div>
+    <p>I’m trying to connect to the VPN, but it doesn’t work. After the Windows 11 update, I started getting this error. I tried connecting from different Wi-Fi networks, but it still doesn’t work — it’s always the same error. I upgraded and do...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rt1bh7/fex511g_with_verizon/" target="_blank" rel="noopener">FEX-511G with Verizon</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-13T22:06:23+00:00</div>
-    <p>I am trying to sign up for Verizon&#x27;s 5G internet as BYOD with a FEX-511G but they are telling me it is incompatible. Yet Fortinet&#x27;s datasheet shows it as Verizon Certified . Has anyone had success using this with Verizon? submitted by /u...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rtqblz/fortilink/" target="_blank" rel="noopener">Fortilink</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T18:05:38+00:00</div>
+    <p>What are your exp. with Fortilink itself? I do usually Integrate also the DMZ VLANs, if any from the FortiGate into it. So that i can have a plain view about all Vlans. Usually i do: Name: VLAN_XYZ and only in the Alias the Usage &quot;Printe...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rsyygj/dns_proxy/" target="_blank" rel="noopener">DNS Proxy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-13T20:36:03+00:00</div>
-    <p>Hello everyone, I need help! We’re at a loss, and our service provider hasn’t been able to implement this yet, even with the help of Fortinet Support. Here’s the situation… We have three VDom: Root, Prod, and Dev In the prod VDom, there ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rtp45m/fortigate_vm_v_hardware/" target="_blank" rel="noopener">FortiGate VM v Hardware</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T17:19:14+00:00</div>
+    <p>We have a FortiGate VM cluster in a customer DC doing client IPSEC VPN and it&#x27;s been absolutely flawless. Same customer will need new firewalls at their sites soon and many of those sites have 1GbE leased lines and VMware or KVM clusters...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rsyt1l/fortinet_120g_sdwan/" target="_blank" rel="noopener">Fortinet 120G + SD-WAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-13T20:30:33+00:00</div>
-    <p>Hi all, I currently have 4 sites geographically dispersed, with one site a colocation which has Fortigate 400Fs in a HA pair. All the sites are on MPLS and all the internet/data egresses at the colocation with no local breakout per site....</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rtkvks/fortiswitch_108efpoe_issue/" target="_blank" rel="noopener">FortiSwitch 108E-FPOE issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T14:29:49+00:00</div>
+    <p>Hello, I am trying to introduce a 108E-FPOE into my enviroment of an 80F and a 448D-FPOE. I have tried all of the troubleshooting and cannot seem to get the 108E to show as online and function. I have tried the NTP route and all seems fi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rssord/forti_vs_unifi_switchap/" target="_blank" rel="noopener">Forti vs unifi switch/ap</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-13T16:50:56+00:00</div>
-    <p>Hi there Currently i use Fortigate 70F with Fortiswitch 124fpoe and FortiAP 231G. I noticed when i got the other AP 231K, that it doesn&#x27;t recongise on the fortiSwitch itself. Its really odd to get forticare just to be able to install the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rtjuao/help_bricked_fortiapu433f_need_bootloader_dump_or/" target="_blank" rel="noopener">[HELP] Bricked FortiAP-U433F — Need bootloader dump or firmware files from anyone with access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T13:46:11+00:00</div>
+    <p>Hi all, I&#x27;m working on a homelab project to learn Fortinet hardware for my career — picked up a FortiAP-U433F to get hands-on with enterprise AP recovery and configuration. Unfortunately I&#x27;ve managed to soft-brick it by accidentally eras...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rti1pw/fortiswitch_2tier_setup_switches/" target="_blank" rel="noopener">fortiswitch 2-tier setup switches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-14T12:22:34+00:00</div>
+    <p>Hi, On my office we have about 40 fortiswitch in a 2-tier setup with fortiswitch-cores (2048&#x27;s). When we upgrade the switches or reboot them close to each other in time, we experience issues with the mclag-icl interface getting stuck in ...</p>
   </div>
 </li>
 <li class="card">
@@ -72,30 +80,6 @@ _Updated: March 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/950173247/0/fortinet/blogs~Seven-Experts-One-Standard-What-BCI%e2%80%99s-NSE-Engineers-Say-About-RealWorld-Mastery" target="_blank" rel="noopener">Seven Experts, One Standard: What BCI’s NSE 8 Engineers Say About Real-World Mastery</a></h3>
     <div class="meta">Fortinet Blog · Fri, 13 Mar 2026 15:00:00 +0000</div>
     <p>Discover how BCI’s seven NSE 8 certified engineers put Fortinet’s highest technical standard into practice, and why expert-level validation still matters.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rsows6/fortios_76_eaptls_issues/" target="_blank" rel="noopener">FortiOS 7.6 EAP-TLS Issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-13T14:31:35+00:00</div>
-    <p>Hello everyone, I would like to share an issue we encountered after upgrading our FortiGate from FortiOS 7.4 to 7.6.6. Following the upgrade, a large number of Android devices were no longer able to connect to the WLAN via EAP-TLS. Windo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rsocd0/whitelist_azure_dynamic_ips_on_fortigate_fw/" target="_blank" rel="noopener">Whitelist Azure dynamic ip&#x27;s on fortigate FW</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-13T14:09:30+00:00</div>
-    <p>Hello everyone, We have an SFTP server that external clients connect to to drop some files. We normally just whitelist their static public IP on fortigate firewall (FW not in Azure) to allow connection to that SFTP server. Now we have a ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rsmeun/unifi_ap_switch_with_fortigate/" target="_blank" rel="noopener">Unifi AP, Switch with FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-13T12:48:38+00:00</div>
-    <p>Hi there I use currently a unifi Stack and want to fortigate in front of it. My Question: When i Managed DHCP from FortiGate and VLAN, then must i only conifig the Unifi Switch/AP in Bridge mode right? so when on FortiGate VLAN 200 is ac...</p>
   </div>
 </li>
 <li class="card">
