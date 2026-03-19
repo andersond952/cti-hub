@@ -7,87 +7,95 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwznmh/fortiextender_511g_two_unexplained_issues/" target="_blank" rel="noopener">FortiExtender 511G Two Unexplained Issues: Forwarded Traffic not reaching FEX over IPsec on 7.6.5 + OSPF Multicast not traversing IPsec Tunnel</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T10:00:38+00:00</div>
-    <p>Posting this because I&#x27;ve hit two separate issues on the FortiExtender 511G that I can&#x27;t explain and haven&#x27;t found anything about online. Not sure if these are bugs, platform limitations, or something I&#x27;m missing in the config. Looking f...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rxv4vh/access_to_forticlient_ems_for_guest_user/" target="_blank" rel="noopener">Access to FortiClient EMS for guest user</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-19T08:49:49+00:00</div>
+    <p>We have a group of companies, with decentralized Office 365 / Entra ID tenants. For a number of users, we wish to provide VPN access to some services. We rolled out FortiClient EMS, mainly to provide IPSEC over TCP, which is way more sta...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwzbaf/issue_with_creating_multisource_interface/" target="_blank" rel="noopener">Issue with Creating Multi-Source Interface Policies in FortiGate 7.4.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T09:39:30+00:00</div>
-    <p>In FortiGate version 7.4.8, I am trying to create policies with multiple source interfaces, SSL VPN interfaces plus another one. This works correctly in one VDOM, but not in another. Could you please advise how to identify the settings o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rxn1mj/fortios_76_administrator_track_bridging_the_gap/" target="_blank" rel="noopener">FortiOS 7.6 Administrator Track: Bridging the Gap Between Study Guides and Reality</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-19T01:34:11+00:00</div>
+    <p>Hi Everyone, I am currently a Network Specialist working in a Fortinet/FortiSwitch/FortiManager environment and am preparing for the NSE 4 - FortiOS 7.6 Administrator exam in October. I have the standard Fortinet Training Institute (FCT)...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwytai/looking_forstarting_a_fortinet_network_security/" target="_blank" rel="noopener">Looking for/Starting a Fortinet &amp; Network Security Discord Study Group</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T09:09:04+00:00</div>
-    <p>Hi everyone! To get straight to the point: I&#x27;m tired of studying alone and dealing with procrastination. I&#x27;m an IT Security professional (experienced with other vendors, but now 100% focused on Fortinet to get certified soon). I&#x27;m lookin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rxed4z/order_handling_fee/" target="_blank" rel="noopener">Order Handling Fee?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T19:54:50+00:00</div>
+    <p>Uhh... soo... I just got a quote through Fortinet today. They are apparently now just dropping in a &quot;order handling fee&quot; and the reason is &quot;supply constraints&quot;? Has anyone else seen this hit their quotes yet? This just came through to me...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwvifw/source_port_translation_on_7411_40f/" target="_blank" rel="noopener">source port translation on 7.4.11 (40F)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T05:45:32+00:00</div>
-    <p>Hi everyone, I need to translate a source port for udp traffic and I have found this article: https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-preserve-source-port-when-central-NAT-is/ta-p/344661 However, I don&#x27;t have the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rxb611/fortiap_controller_bridged_through_cisco_meraki/" target="_blank" rel="noopener">FortiAP controller bridged through Cisco Meraki SDWAN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T17:59:42+00:00</div>
+    <p>Does FortiAp work through bridged Controller in a Cisco Meraki SDWAN? I recently on boarded a subsidiary to our Meraki SDWAN and the subsidiary had 12 branches all on FortiGate breakouts with FortiAp. My phase 1 budget doesn&#x27;t cover purc...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwpgkd/how_do_i_not_get_a_response_page_when_web_filter/" target="_blank" rel="noopener">how do I not get a response page when web filter is blocking a website</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T00:58:10+00:00</div>
-    <p>My company supports a bunch of linux server which are doing web scraping. Essentially they are doing wget. With wget, unlike curl and others, if a user goes to a blocked page they get a status 200 which downloads a index.html. That index...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rxaabt/configure_hardware_switch_for_2_interfaces/" target="_blank" rel="noopener">Configure hardware switch for 2 interfaces</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T17:28:36+00:00</div>
+    <p>I am trying to configure a FortiGate 200F (v7.4.11) to use two interfaces with different IP addresses in the same subnet (ISP gave us 5), to use one for external traffic and a second for an IPSec remote access VPN. I created a hardware s...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/c8q6z07efopg1.png?width=140&amp;height=130&amp;auto=webp&amp;s=9d093495fe5e8eeb6429eab79448385f5a3f6b58" alt="preview">
+  <img src="https://preview.redd.it/l49qpyhtjtpg1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=2f71d09345d927e33c28a9f30edcc72b15d8f079" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwkpqg/onearm_sniffer_setup/" target="_blank" rel="noopener">One-Arm Sniffer - setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-17T21:53:13+00:00</div>
-    <p>Hi All I have a fortigate that have an active UTP license and we have talked internally about using it just like a CTAP. This should be for LAB etc. There is setup an One-Arm Sniffer on one of the interface. All possible types are enable...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwfhgf/forticlient_vpnonly_743_disconnect_button_freezes/" target="_blank" rel="noopener">FortiClient VPN-only 7.4.3: Disconnect button freezes, only fix requires admin password — unusable for standard users</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-17T18:47:38+00:00</div>
-    <p>I manage FortiGate infrastructure for SMB clients. We deploy the free FortiClient VPN-only client (7.4.3, IPSec IKEv2) to end users who connect from home. The problem: after a successful VPN connection, clicking &quot;Disconnect&quot; frequently f...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rx6fs4/avoiding_gaps_in_ceiling_tile/" target="_blank" rel="noopener">Avoiding gaps in ceiling tile?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T15:07:31+00:00</div>
+    <p>Silly question I know, but I can&#x27;t find any information on how (if?) to alleviate this. We&#x27;re deploying FortiAP 231G WAPs across our campus. The mounting bracket slides onto our drop ceiling rails fine, however the &quot;feet&quot; of the bracket ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwf9cs/forticlient_vpnonly_free_client_is_fortinet_still/" target="_blank" rel="noopener">FortiClient VPN-only free client: is Fortinet still maintaining it? (SMB partner perspective)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-17T18:39:53+00:00</div>
-    <p>I&#x27;m a Fortinet partner managing FortiGate infrastructure for multiple SMB clients in Italy (all with active FortiCare UTP subscriptions). The current FortiClient VPN-only free client for Windows is still at 7.4.3, originally released in ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rx38t7/fortinac_8021x_wifi_ruckus_accessreject_ldap/" target="_blank" rel="noopener">FortiNAC 802.1X WiFi (Ruckus) → Access-Reject, LDAP works but no role/policy match</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T13:01:01+00:00</div>
+    <p>Hi everyone, I’m troubleshooting an 802.1X WiFi authentication setup and could use some guidance from people experienced with FortiNAC. Environment: - FortiNAC (acting as RADIUS) - Ruckus Virtual SmartZone (WLAN controller) - FortiAuthen...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/950977916/0/fortinet/blogs~From-Hot-CVEs-to-the-Full-Attack-Surface-How-AI-Is-Reshaping-Threat-Intelligence" target="_blank" rel="noopener">From Hot CVEs to the Full Attack Surface: How AI Is Reshaping Threat Intelligence</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 18 Mar 2026 13:00:00 +0000</div>
+    <p>AI is pushing attackers beyond a handful of popular CVEs and toward exploiting the full vulnerability landscape. Fortinet’s Aamir Lakhani explains what that means for patch strategy, threat hunting…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rwf41i/forticlient_vpnonly_free_client_is_fortinet_still/" target="_blank" rel="noopener">FortiClient VPN-only free client: is Fortinet still maintaining it? (SMB partner perspective)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-17T18:34:56+00:00</div>
-    <p>I&#x27;m a Fortinet partner managing FortiGate infrastructure for multiple SMB clients (all with active FortiCare UTP subscriptions). The current FortiClient VPN-only free client for Windows is still at 7.4.3, originally released in May 2025 ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rx2koa/fortigate_only_show_nondefault_settings/" target="_blank" rel="noopener">FortiGate: Only show non-default settings</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T12:30:43+00:00</div>
+    <p>When I type in “show”, I see lots of default configuration. Can this be filtered to show only parts that have been added or changed by the admin? submitted by /u/mb2m [link] [comments]</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/fe3tq40zfmpg1.png?width=140&amp;height=112&amp;auto=webp&amp;s=af7e7637a4e9e91d821850b33dd1f51ddf8874a0" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rw9afu/fortigate_webfilter_warning_page/" target="_blank" rel="noopener">Fortigate Webfilter Warning page</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-17T15:12:24+00:00</div>
-    <p>Hi, Have a case where a customer has configured Warning on some Web categories in the Web filter. The thing is that when the Warning page is posted, The web-browser shows this: https://preview.redd.it/fe3tq40zfmpg1.png?width=736&amp;format=p...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rx1msj/fortinac_in_conjunction_with_pam_solution/" target="_blank" rel="noopener">FortiNAC in conjunction with PAM solution</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T11:45:39+00:00</div>
+    <p>Hello everyone. I&#x27;d like some support regarding FortiNAC. We are implementing the solution in a bank where access to the switches in the environment is done via PAM, not through a local user as is customary. The bank uses this identity m...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rx17no/fortigate_bgp_peer_neighbor_missing_or_normal/" target="_blank" rel="noopener">FortiGate BGP Peer / Neighbor Missing or normal?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-18T11:24:26+00:00</div>
+    <p>We have iBGP peering between the Fortinet firewall and the WAN routers, and one thing I noticed is that during the issue, one of the peerings disappeared. I’m still new to Fortinet, is this behavior common on FortiGate? We are using neig...</p>
   </div>
 </li>
 <li class="card">
@@ -163,7 +171,7 @@ _Updated: March 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
@@ -176,14 +184,6 @@ _Updated: March 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/949670144/0/fortinet/blogs~Attacks-at-the-Speed-of-AI" target="_blank" rel="noopener">Attacks at the Speed of AI</a></h3>
     <div class="meta">Fortinet Blog · Fri, 6 Mar 2026 23:30:00 +0000</div>
     <p>AI-assisted cyberattacks are accelerating reconnaissance and techniques such as password spraying against exposed devices. Learn how attackers are using AI prompts to automate attacks and the steps…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/949584977/0/fortinet/blogs~Reach-the-Peak-of-Cybersecurity-Expertise-with-the-Fortinet-NSE-Certification" target="_blank" rel="noopener">Reach the Peak of Cybersecurity Expertise with the Fortinet NSE 8 Certification</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 5 Mar 2026 16:00:00 +0000</div>
-    <p>Fortinet partner Avoki achieved a rare milestone with four NSE 8 certified experts. Learn how earning NSE 8 has shaped their careers and why the certification represents the highest standard of cyb…</p>
   </div>
 </li>
 <li class="card">
