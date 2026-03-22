@@ -7,103 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rze01h/issues_connecting_forticlient_vpn_with_ipsec/" target="_blank" rel="noopener">Issues connecting Forticlient VPN with IPSEC configuration on Fedora 43 Workstation</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T01:02:08+00:00</div>
-    <p>I have 3 endpoints and each running fedora 43. Each of the endpoints have runs forticlient vpn (forticlient vpn only in latest version , 7.4.3.1736) with ipsec configuration. 1 endpoint was able to connect and other 2 weren&#x27;t. when i pre...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s04kzz/apply_license_to_fortigate_under_a_different/" target="_blank" rel="noopener">Apply license to fortigate under a different account</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T22:22:48+00:00</div>
+    <p>I was doing work for somebody replacing their fortigates with newer models. They told me that I could take the old unit to use at home since they wouldn’t be using it anymore. I factory reset it but under the registration tab I can see t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rzccny/fortipam_reverse_gateway_client_and_server_certs/" target="_blank" rel="noopener">Fortipam reverse gateway client and server Certs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T23:49:35+00:00</div>
-    <p>Anyone have deployed Fortipam reverse gateway. I have an enterprise CA and created server and client auth template but the reverse service doesn’t come up. Any help with these template would be great. submitted by /u/Gegsdubstar [link] [...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s02onl/zero_trust_network_access_for_contractors_how_are/" target="_blank" rel="noopener">Zero trust network access for contractors, how are you managing the policy overhead?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T21:02:02+00:00</div>
+    <p>Moving short-term contractors off broad VPN access and onto a proper ZTNA model. The principle makes complete sense as there is no disputes that VPN was giving contractors more access than they needed. The problem we are running into is ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rzamoy/cert_chain_orgnameoktacom_for_radius_wpa_2/" target="_blank" rel="noopener">Cert Chain &lt;org-name&gt;.okta.com for Radius WPA 2 Enterprise</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T22:39:53+00:00</div>
-    <p>I am following the Fortinet Tech tip guide ID 256911 and it says I need to get a cert chain from trusted CA and use &lt;org-name&gt;.okta.com as CN and SAN. My first thought was to go to go daddy and get the cert but we don&#x27;t actually own the ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s01cfu/actual_system_requirements_for_forticlient_ems/" target="_blank" rel="noopener">Actual system requirements for FortiClient EMS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T20:07:19+00:00</div>
+    <p>I work at a budget-conscious MSP at a developing country. We want to start offering managed FortiClient EMS. The documentation lists a minimum of 6 vCPUs and 12 GBs of RAM, but, initially, I&#x27;d like to host it on one of our existing Linux...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rz85eq/cloning_dialup_user_ipsec_tunnel/" target="_blank" rel="noopener">Cloning dialup user IPSec tunnel</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T21:00:01+00:00</div>
-    <p>Hey guys. I&#x27;ve inherited some very poorly-maintained infrastructure - Fortigates were far out of date, EMS even worse and I&#x27;m having to sort this out as I&#x27;m the sole IT admin at my job. I&#x27;ve set up a new EMS on Linux with few snags, regi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/u7kwelws99qg1.png?width=140&amp;height=33&amp;auto=webp&amp;s=416742e4d18b8c6f4bece7004db7c80f9be1fb9f" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rz6p9y/does_the_orange_color_mean_anything_in_the/" target="_blank" rel="noopener">Does the orange color mean anything in the Fortigate dashboard IPSec tunnel graphic ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T20:04:05+00:00</div>
-    <p>I have two IPSec tunnels on this firewall. The dashboard graphic shows one with yellow and one with green. I can&#x27;t find anything explaining these colors in the Fortigate docs. Do the colors mean anything specific, like load, latency, etc...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s012aw/guys_is_it_able_to_land_a_job_if_you_approve_the/" target="_blank" rel="noopener">Guys is it able to land a job if you approve the experience with home lab and documentation for the project ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T19:56:07+00:00</div>
+    <p>Is that could be a gate to get interviews? submitted by /u/minocean66 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rz63ye/fortinet_partner_new_quote_fees_and_emea_order/" target="_blank" rel="noopener">Fortinet Partner: New quote fees and EMEA order management charges</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T19:41:38+00:00</div>
-    <p>We received a communication yesterday, 19/03/2026, via our official Fortinet distributors, indicating that Fortinet may be implementing immediate commercial changes affecting partners. According to the information shared with us, the cha...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/l40em04q19qg1.png?width=140&amp;height=92&amp;auto=webp&amp;s=972b0a76618306a217b89f54e161ee659b52ccdd" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rz5kix/interesting_issue_going_on_with_admin_entra_saml/" target="_blank" rel="noopener">Interesting issue going on with Admin Entra SAML Login</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T19:21:02+00:00</div>
-    <p>So we recently decided to harden our Admin logins by implementing Entra SAML. We already use it for our IPSec VPN. I setup the Enterprise application side on Azure, and I configured it to the Admin group we created with just our ADM acco...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rz38fo/fortifone_280b_wall_mount_dimensions/" target="_blank" rel="noopener">FortiFone 280B Wall Mount Dimensions</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T17:52:11+00:00</div>
-    <p>I&#x27;ve checked with our channel team and they can&#x27;t assist, unfortunately - does anybody have wall mounts or a wall mounted FortiFone 280B they could get some measurements off the screw holes for? I have a new construction project where th...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rz1z4d/fortinet_blocking_emailchrome_acess_ups_store/" target="_blank" rel="noopener">FORTINET BLOCKING EMAIL/CHROME ACESS) UPS STORE</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T17:05:18+00:00</div>
-    <p>Hi. I&#x27;m a shipping manager at a UPS Store location, and I have a very complicated issue right now. Since LAST Wednesday, I&#x27;m convinced our fortigate firewall is blocking access to websites (all) except UPS.com. will not allow email acces...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ryy39u/wild_card_fqdn_processing_in_fortigate/" target="_blank" rel="noopener">wild card FQDN processing in Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T14:41:09+00:00</div>
-    <p>I inherited a fortigate with hundreds of addresses with wild card FQDNs. for example there is an address object &quot;*.example.com&quot;. Those addresses are used in policies. I did a diag firewall fgdn list-all and see a lot of addresses with 0 ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rywn7n/importing_ldap_user_group_to_forinac/" target="_blank" rel="noopener">Importing LDAP user group to ForiNaC</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T13:45:01+00:00</div>
-    <p>Hi All, hope you all are doing well, I have foriNAC ca 500F, so customer wanted to import ldap user group to NAC, so that they can login in the switch and another group who can login in the NAC itself not the switch . LDAP intigrated ✅ R...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ryw85a/sdwan/" target="_blank" rel="noopener">SD-WAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-20T13:27:21+00:00</div>
-    <p>hey folks has anyone seen issues with their sd-wan after upgrading. we did a big jump from 7.2.10 to 7.4.9. ever since then we are having users randomly throughout the day get dropped from our wireless randomly. doesn&#x27;t matter if it&#x27;s a ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rzy7qm/is_having_only_the_fortios_76_administrator_nse4/" target="_blank" rel="noopener">Is having only the FortiOS 7.6 Administrator (NSE4) certification enough to land a job as a junior in a tech company that uses FortiGate (FG)?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T18:02:43+00:00</div>
+    <p>A few months ago, I decided to change my career path and chose the Fortinet certification path , partly because they have a large office where I live and frequently hire Technical Support Engineers. I feel well prepared for NSE4 —I’ve st...</p>
   </div>
 </li>
 <li class="card">
@@ -195,7 +139,7 @@ _Updated: March 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
