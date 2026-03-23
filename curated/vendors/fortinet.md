@@ -7,47 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s04kzz/apply_license_to_fortigate_under_a_different/" target="_blank" rel="noopener">Apply license to fortigate under a different account</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T22:22:48+00:00</div>
-    <p>I was doing work for somebody replacing their fortigates with newer models. They told me that I could take the old unit to use at home since they wouldn’t be using it anymore. I factory reset it but under the registration tab I can see t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1caew/peripshaper_not_applying_properly_f91g/" target="_blank" rel="noopener">per-ip-shaper not applying properly f91g</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T09:39:50+00:00</div>
+    <p>Hello all, i&#x27;m trying to limit how much bandwidth my user can have for downloading. i have setup a per-ip-shaper at 30mb but it seems that the limitation randomly apply at 10-15mb instead. from what i can find online this seems to be the...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s02onl/zero_trust_network_access_for_contractors_how_are/" target="_blank" rel="noopener">Zero trust network access for contractors, how are you managing the policy overhead?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T21:02:02+00:00</div>
-    <p>Moving short-term contractors off broad VPN access and onto a proper ZTNA model. The principle makes complete sense as there is no disputes that VPN was giving contractors more access than they needed. The problem we are running into is ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s12xox/fortiauthenticator_66x_80x_upgrade/" target="_blank" rel="noopener">FortiAuthenticator 6.6.x &gt; 8.0.x upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T01:02:48+00:00</div>
+    <p>Hi everyone We will soon be upgrading our FAC instance from 6.6.x to (probably) 8.0.2 Running a 2 node cluster, both are VMs. From what I can see, it should be a direct upgrade path without any inbetween jumps. I will read through the re...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s01cfu/actual_system_requirements_for_forticlient_ems/" target="_blank" rel="noopener">Actual system requirements for FortiClient EMS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T20:07:19+00:00</div>
-    <p>I work at a budget-conscious MSP at a developing country. We want to start offering managed FortiClient EMS. The documentation lists a minimum of 6 vCPUs and 12 GBs of RAM, but, initially, I&#x27;d like to host it on one of our existing Linux...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0vxmc/forticlient_saml_entra_id_no_login_prompt_account/" target="_blank" rel="noopener">FortiClient SAML (Entra ID) – No login prompt / account selection when using multiple tenants</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T20:12:12+00:00</div>
+    <p>Hi all, I’m running into an issue with FortiClient SAML authentication when working with multiple Entra ID tenants and wanted to ask if anyone has faced something similar. Environment: FortiClient 7.4.5 with SAML authentication (Azure / ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s012aw/guys_is_it_able_to_land_a_job_if_you_approve_the/" target="_blank" rel="noopener">Guys is it able to land a job if you approve the experience with home lab and documentation for the project ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T19:56:07+00:00</div>
-    <p>Is that could be a gate to get interviews? submitted by /u/minocean66 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0recf/support_transfer_of_registered_devices_no_longer/" target="_blank" rel="noopener">Support Transfer of registered devices - No longer supported for used market?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T17:18:24+00:00</div>
+    <p>I wanted to see if anyone has done a support transfer for device ownership recently and how that went (especially for equipment bought through Ebay or liquidation warehouses) - Looking at past experiences on this subreddit it seems to be...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1rzy7qm/is_having_only_the_fortios_76_administrator_nse4/" target="_blank" rel="noopener">Is having only the FortiOS 7.6 Administrator (NSE4) certification enough to land a job as a junior in a tech company that uses FortiGate (FG)?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-21T18:02:43+00:00</div>
-    <p>A few months ago, I decided to change my career path and chose the Fortinet certification path , partly because they have a large office where I live and frequently hire Technical Support Engineers. I feel well prepared for NSE4 —I’ve st...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0oxv8/forticlient_vpn_only_743_new_build_as_of_20th_of/" target="_blank" rel="noopener">FortiClient (VPN only) 7-4-3 - new build as of 20th of March? build 4726?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T15:43:47+00:00</div>
+    <p>Hi all Maybe anyone has some insights, can&#x27;t find any myself. On 20th of March there appears to be a new free FotiClient (vpn only) version 7.4.3 build 4726 for windows (didn&#x27;t check linux or macos). Any one know about it? Seems newer th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0o6p0/fortiextender_511g_v761_vip_dnat_rule_never/" target="_blank" rel="noopener">FortiExtender 511G (V7.6.1) – VIP DNAT rule never matches (iptables behavior?)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T15:14:12+00:00</div>
+    <p>Working on a FortiExtender Vehicle 511G (7.6.1 GA) in standalone mode. Use case Expose Starlink router ( 192.168.100.1 ) via a stable IP ( 172.30.1.1 ) so it’s reachable from: LAN (192.168.110.0/24) IPsec tunnel (0.0.0.0/0 selectors) Con...</p>
   </div>
 </li>
 <li class="card">
@@ -139,7 +147,7 @@ _Updated: March 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/44.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
