@@ -7,55 +7,167 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/ss87yd3a3zqg1.png?width=140&amp;height=84&amp;auto=webp&amp;s=4b5d82aeb88bacf1e69d9346174dae1a9435ef86" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1caew/peripshaper_not_applying_properly_f91g/" target="_blank" rel="noopener">per-ip-shaper not applying properly f91g</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T09:39:50+00:00</div>
-    <p>Hello all, i&#x27;m trying to limit how much bandwidth my user can have for downloading. i have setup a per-ip-shaper at 30mb but it seems that the limitation randomly apply at 10-15mb instead. from what i can find online this seems to be the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2aga6/best_practice_connect_two_or_more_fortiswitches/" target="_blank" rel="noopener">Best Practice || Connect two or more Fortiswitches to a Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T10:53:21+00:00</div>
+    <p>Hi, So we are deploying FS-148 and FS 124 switch in our network at branch offices. We have 60F already running and FSW will be replacing the already running switching infra at the branches. Branch network only consists of Access Switches...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s12xox/fortiauthenticator_66x_80x_upgrade/" target="_blank" rel="noopener">FortiAuthenticator 6.6.x &gt; 8.0.x upgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T01:02:48+00:00</div>
-    <p>Hi everyone We will soon be upgrading our FAC instance from 6.6.x to (probably) 8.0.2 Running a 2 node cluster, both are VMs. From what I can see, it should be a direct upgrade path without any inbetween jumps. I will read through the re...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s289ub/fortigate_cloud_connection_not_working/" target="_blank" rel="noopener">FortiGate Cloud connection not working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T08:43:29+00:00</div>
+    <p>I have a Fortigate 70G cluster where I struggle to connect it to FortiGate Cloud. On the Status page, it shows “Not Activated”. When I select “Activate”, enter the password, select the Domain “Global”. After that, it shows the status “Ac...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0vxmc/forticlient_saml_entra_id_no_login_prompt_account/" target="_blank" rel="noopener">FortiClient SAML (Entra ID) – No login prompt / account selection when using multiple tenants</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T20:12:12+00:00</div>
-    <p>Hi all, I’m running into an issue with FortiClient SAML authentication when working with multiple Entra ID tenants and wanted to ask if anyone has faced something similar. Environment: FortiClient 7.4.5 with SAML authentication (Azure / ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s28772/looking_for_a_way_to_only_tunnel_traffic_to/" target="_blank" rel="noopener">Looking for a way to only tunnel traffic to portal.azure.com over split-tunnel SSL-VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T08:38:37+00:00</div>
+    <p>A few users need to reach certain resources in Azure through the azure portal when working from home, these users don&#x27;t have static IP&#x27;s and the Azure resource makes use of whitelisting to restrict access. Full-tunnel isn&#x27;t an option due...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0recf/support_transfer_of_registered_devices_no_longer/" target="_blank" rel="noopener">Support Transfer of registered devices - No longer supported for used market?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T17:18:24+00:00</div>
-    <p>I wanted to see if anyone has done a support transfer for device ownership recently and how that went (especially for equipment bought through Ebay or liquidation warehouses) - Looking at past experiences on this subreddit it seems to be...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s27rur/upgrading_fortigate_2601f_cluster_from_729_to7411/" target="_blank" rel="noopener">Upgrading Fortigate 2601F cluster from 7.2.9 to7.4.11 - Any NP7 or stability &quot;gotchas&quot;?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T08:10:39+00:00</div>
+    <p>Planning a production upgrade for a pair of FG FG -2601F currently running 7.2.9. We are looking to move to 7.4.11 submitted by /u/Bila_PT [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0oxv8/forticlient_vpn_only_743_new_build_as_of_20th_of/" target="_blank" rel="noopener">FortiClient (VPN only) 7-4-3 - new build as of 20th of March? build 4726?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T15:43:47+00:00</div>
-    <p>Hi all Maybe anyone has some insights, can&#x27;t find any myself. On 20th of March there appears to be a new free FotiClient (vpn only) version 7.4.3 build 4726 for windows (didn&#x27;t check linux or macos). Any one know about it? Seems newer th...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s27hwo/no_logs_in_historical_view_but_visible_in/" target="_blank" rel="noopener">No logs in Historical View but visible in Real-time Mode after Free-style Filter</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T07:53:11+00:00</div>
+    <p>Hello everyone, I am trying to optimize log volume by filtering out general traffic logs and sending only IPS-related events from multiple FortiGate units (v7.4.9) to FortiAnalyzer (v7.4.8). I referred to this KB article: Technical Tip: ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s0o6p0/fortiextender_511g_v761_vip_dnat_rule_never/" target="_blank" rel="noopener">FortiExtender 511G (V7.6.1) – VIP DNAT rule never matches (iptables behavior?)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-22T15:14:12+00:00</div>
-    <p>Working on a FortiExtender Vehicle 511G (7.6.1 GA) in standalone mode. Use case Expose Starlink router ( 192.168.100.1 ) via a stable IP ( 172.30.1.1 ) so it’s reachable from: LAN (192.168.110.0/24) IPsec tunnel (0.0.0.0/0 selectors) Con...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s277nx/faz_enhancing_logs_for_hostnames_of_domain/" target="_blank" rel="noopener">FAZ - enhancing logs for hostnames of domain computers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T07:34:43+00:00</div>
+    <p>Hello, Im trying to find a way how to enhance our logs with domain computers hostnames. We have topology hub and spoke - around 15 spokes across different country. Every spoke is comunicating to internet through HUB. In HUB we have AD/DC...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s25mg5/internetfacing_alb_fortigate_firewall_internal/" target="_blank" rel="noopener">Internet-facing ALB → FortiGate Firewall → Internal ALB (host-based routing for 5 apps) – Is this setup solid? How to make FortiGate apply web filtering properly?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T05:57:47+00:00</div>
+    <p>Hey everyone, We&#x27;re designing an ingress security layer in AWS and want to route all internet traffic like this: Internet → External ALB (Internet-facing, HTTPS termination + host-based rules) → FortiGate-VM instances (sandwich) → Intern...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1z1gf/forticlient_ipsec_fails_when_pushing_large_number/" target="_blank" rel="noopener">FortiClient IPsec fails when pushing large number of routes (100+)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T00:37:55+00:00</div>
+    <p>submitted by /u/Will_Machine876 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1z199/forticlient_ipsec_fails_when_pushing_large_number/" target="_blank" rel="noopener">FortiClient IPsec fails when pushing large number of routes (100+)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T00:37:40+00:00</div>
+    <p>Hey folks, I&#x27;m running into an issue while trying to migrate from SSL VPN to IPsec (client-to-site) using FortiGate + FortiClient, and I’d like to know if anyone has faced something similar. Current scenario (working): FortiGate SSL VPN ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1x8rv/fortianalyzer_and_cdnpolyfillio_incidents/" target="_blank" rel="noopener">Fortianalyzer and cdn.polyfill.io incidents</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T23:25:05+00:00</div>
+    <p>Our FAZ v7.6.4 occasionally reports an Incident (or 2 or 3) relating to a specific laptop (Windows 11) and it is related to the well-known cdn.polyfill.io malware source. We run DNS Filter client on our endpoints and I have verified that...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1taes/zsp_zone_security_protocol/" target="_blank" rel="noopener">ZSP - Zone Security Protocol</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T20:54:52+00:00</div>
+    <p>Would anyone happen to have any information on this service/application? Seeing traffic after upgrading to 7.4.11 being classified as ZSP but can’t find any documentation in regards to it. submitted by /u/aksidents [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1pnc6/traffic_initiated_from_remote_site_and_policy_vpn/" target="_blank" rel="noopener">Traffic initiated from remote site and Policy VPN IPSEC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T18:45:38+00:00</div>
+    <p>Hello all, I will try to explain it the most explicit way. If you understand and can give me a rational answer, you&#x27;ve got all my respect and you exceed Fortinet support capabilities... Here is the thing, a very simple situation, I have ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1ono9/forticlient_vpn_connection_issues/" target="_blank" rel="noopener">FortiClient VPN Connection Issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T18:10:41+00:00</div>
+    <p>One of our departments uses the FortiClient VPN. It was working fine for years and now it isn&#x27;t. We get the following error message: Unable to establish the VPN connection. The VPN server may be unreachable. We can connect to it from out...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1k2xv/forticlient_for_android_and_onprem_ems/" target="_blank" rel="noopener">FortiClient for Android and onPrem EMS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T15:30:39+00:00</div>
+    <p>Hello everyone, I am currently trying to connect smartphones to our EMS. But no matter what I do, the client doesn&#x27;t even try to connect to the onPrem EMS. I can not see any attempts in the firewall, nor did a packet capture on the phone...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1jxyb/deny_by_default/" target="_blank" rel="noopener">Deny By Default</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T15:25:38+00:00</div>
+    <p>How does one test deploying a deny by default allow by exception without borking all traffic. Would be nice if there was a monitor only that could help you compile a allow by exception set of policies. submitted by /u/Rocknbob69 [link] [...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1jxw9/what_are_some_recommendations_or_best_practices/" target="_blank" rel="noopener">What are some recommendations or best practices for allowing traffic to wildcard domains?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T15:25:35+00:00</div>
+    <p>Hello. I was wondering what people would recommend or what was best practice for creating rules that allow traffic outbound to wildcard domains? For example, an on-prem server needs to talk to its vendor&#x27;s cloud platform on some less com...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1iz8d/fortigate_200g_config_conflict/" target="_blank" rel="noopener">Fortigate 200g config conflict</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T14:49:56+00:00</div>
+    <p>Hello, WE are currently running a fortigate 200g and a few fortigate 30g. all running und 7.4.11 managed over FortiManager. I updated FortiManager to 7.6.6 a few weeks ago. Today i Just added a new VPN User and wanted to Install the User...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1i42k/fg30_virtual_server_doesnt_support_servertype_htts/" target="_blank" rel="noopener">FG30 virtual server doesn&#x27;t support server-type HTTS?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T14:16:50+00:00</div>
+    <p>Trying to set up a reverse proxy using FG30, in the GUI interface I can select type HTTPS but when I click on OK it errors out saying I must select a type. In CLI there is no option for HTTPS, only TCP, UDP, and IP. It works fine with FG...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1f9wp/unable_to_estabilish_the_vpn_connectionthe_vpn/" target="_blank" rel="noopener">Unable to estabilish the VPN connection.The VPN server may be unreachable</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T12:19:10+00:00</div>
+    <p>Hello, I am getting this error when it goes around 10% to connect, maybe is because of the location i am,because if i connect with the hotspot which i have a sim from the USA, it works, but i am in europe now and maybe the it departament...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s1f6jh/fortigate_5g_models/" target="_blank" rel="noopener">Fortigate 5G Models</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-23T12:14:43+00:00</div>
+    <p>Anyone here used the models which support cellular 5G? Are there any carrier limitations or other quirks which may stop someone from recommending them? We have a customer which needs low throughput, max around 50Mbps continuous, and then...</p>
   </div>
 </li>
 <li class="card">
