@@ -7,119 +7,95 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s36efa/forticlient_ems_license_site_assignment_issue/" target="_blank" rel="noopener">FortiClient EMS license site assignment issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T09:56:37+00:00</div>
-    <p>Hello, I am running a FortiClient EMS server, version 7.4.5, which I downloaded as an image from Fortinet and installed. I initially set it up with a trial license. Multitenant is enabled, and I have three clients connected to Site A. Th...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3smab/incorrect_hardware_version/" target="_blank" rel="noopener">Incorrect hardware version</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-26T00:33:42+00:00</div>
+    <p>hello all. sorry this is going to be a bit of a longer read. about 2 years ago I deployed a fortiwifi 40F to a client. we ordered it from our reseller Synnex. I bought it as a bundle that included 3 years of forticare and UTP. fortinet c...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3624r/fortisiem_aio_supervisor_and_collector/" target="_blank" rel="noopener">FortiSIEM AIO Supervisor and collector</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T09:35:45+00:00</div>
-    <p>Hi everyone, I’m pretty new to FortiSIEM and currently in the middle of setting it up (all-in-one supervisor deployment). So far, I’ve managed to successfully add a few Cisco switches and firewalls without issues. But I’m running into a ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3lzco/fortinet_extends_fortios_74/" target="_blank" rel="noopener">Fortinet extends FortiOS 7.4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T20:16:12+00:00</div>
+    <p>Fortinet has recently updated the end date for maintenance support for FortiOS 7.4 in the product lifecycle to May 11, 2027 (previously May 11, 2026). Source: https://support.fortinet.com/support/#/lifecycle -&gt; FortiOS -&gt; Software submit...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s35e42/bug_id1248579_ha_emac_vlan_interfaces_stop_to/" target="_blank" rel="noopener">bug_id=1248579 HA EMAC Vlan interfaces stop to proccess traffic randomly</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T08:54:14+00:00</div>
-    <p>Hi did anyone faced such bug where unites are in HA and after some time around 40min. the traffic stop being processed? The temporary fix is that I need to shutdown the interface. Bug ID is in the title. Firmware version 7.4.11. Fortinet...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3kf11/l3_fortilink_with_tagged_vlan/" target="_blank" rel="noopener">L3 fortilink with tagged vlan</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T19:19:32+00:00</div>
+    <p>Hi, Been cracking my head on how to solve this and hitting a wall. I&#x27;ve used L3 fortilink before without issues but then the upstream switches where from the same service provider. We agree on vlans and determine the mgmt vlan and the vl...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s34132/fortigate_sdwan_question_regarding_routing/" target="_blank" rel="noopener">FortiGate SDWAN Question regarding routing segregation</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T07:25:50+00:00</div>
-    <p>Dear Reddit Community Im struggling with SDWAN. We are not planning to use dynamic Routing or ADVPN, but we want to move our configuration into SDWAN. I have the following fictional scenario: 1x HQ Firewall 3x Customer Firewalls The Cust...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3jfog/so_confused_any_help_welcomed/" target="_blank" rel="noopener">So confused any help welcomed</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T18:44:35+00:00</div>
+    <p>submitted by /u/Pyron-revolution [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s33jiv/explicit_web_proxy/" target="_blank" rel="noopener">Explicit Web Proxy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T06:56:30+00:00</div>
-    <p>If I need to enable Explicit Web Proxy for only certain subnets and send their traffic through the proxy, while Explicit Proxy is currently not enabled, will this affect the existing firewall traffic policies? Specifically, will all curr...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3jf20/so_confused_any_help_welcomed/" target="_blank" rel="noopener">So confused any help welcomed</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T18:43:59+00:00</div>
+    <p>I recently acquired a FortiGate-60E from an individual via Facebook Marketplace for use in a home lab environment. After receiving the device, I contacted Fortinet support to request access to firmware and support services. I was informe...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/c2ayqblrb8rg1.png?width=140&amp;height=69&amp;auto=webp&amp;s=1d84eedc8a9a48f00b4f48ff57b1d89185fc0ac5" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3i2dv/fortinet_prompting_for_insecure_sms/" target="_blank" rel="noopener">Fortinet prompting for insecure SMS Authentication for FortiCloud</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T17:55:48+00:00</div>
+    <p>As we all know, MFA via SMS is insecure these days, especially for something as important as FortiCloud. So what does Fortinet do? They prompt for a phone number for FortiToken recovery. How many hacks until they support U2F?? https://pr...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2tdso/clearing_a_fortiswitch_port_dedicated_to_connect/" target="_blank" rel="noopener">Clearing a Fortiswitch Port &quot;dedicated to connect to peer Fortiswitch&quot;</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T22:57:17+00:00</div>
-    <p>Hi there, Setting up a forti environment. FG201G (7.4.11). Will manage two FS448Es (currently 7.2.7 - will be upgrading shortly). FG connect to FS01, FS01 connect to FS02. All is working fine. Only thing is my uplink between FS01 to FS02...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3dsq3/creating_mclag_both_switches_go_offline/" target="_blank" rel="noopener">Creating MCLAG both switches go offline</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T15:22:19+00:00</div>
+    <p>Brand new switches. Trying to create a mclag between two switches. I bring up one switch, authorize it, get it upgraded. I connect port 54 on sw1 to port 54 on sw2. I bring up sw2, authorize it, upgrade it to the same firmware - 7.4.8. A...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2mbwy/anyone_else_hit_by_the_sudden_mfa_outage_fortinet/" target="_blank" rel="noopener">Anyone else hit by the sudden MFA outage? Fortinet says it&#x27;s &quot;Known,&quot; but I’m not buying it.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T18:37:22+00:00</div>
-    <p>Hey everyone, I’m reaching out to see if anyone else has been pulling their hair out over FortiGate MFA lately. Around March 16th , our MFA (both mobile tokens and email) just stopped working out of nowhere. No configuration changes on o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3bvvb/ipsec_dial_up_routing_issues/" target="_blank" rel="noopener">IPSEC Dial up Routing Issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T14:11:56+00:00</div>
+    <p>I am working on relaxing our SSL VPN with IPSEC. currently running 7.2.12 on the FG (azure vm) and using the free FTC 7.4.3. IPSEC is configured with split tunneling, accessible networks is using an address group and all members are subn...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2kewp/forti_vpn_version_numbers/" target="_blank" rel="noopener">Forti VPN version numbers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T17:29:58+00:00</div>
-    <p>So 7.4.3.8758 was a patchfix version last month. A few days ago they released 7.4.3.4726 and I applied it...and now my patch management is crying that the patchfix version is newer...but it&#x27;s clearly not. Thanks forti for not knowing how...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3bcgs/backup_wan_affecting_primary_sdwan_vpn_tunnels/" target="_blank" rel="noopener">Backup WAN affecting Primary SDWAN VPN Tunnels</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T13:52:00+00:00</div>
+    <p>We are using the Hub and Spoke SDWAN Topology, each spoke has a primary and secondary WAN connection. There are 4 tunnels total between the Spokes and the Hub, as there are two WAN&#x27;s on each side, there is a tunnel for each combination. ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2hisz/forticlient_how_do_you_handle_dns_entries/" target="_blank" rel="noopener">FortiClient - How do you handle DNS entries?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T15:47:46+00:00</div>
-    <p>For awhile now, we have been working through a DNS issue with Forticlient that is an aside from the &quot;Sticky DNS&quot; issues I see around. I have been trying to resolve an issue where we are getting a large amount of duplicate hosts to IP ent...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s3a1wb/new_to_fortinet_wlan_query_regarding_the_u_series/" target="_blank" rel="noopener">New to Fortinet WLAN - query regarding the U series</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-25T13:00:28+00:00</div>
+    <p>Hi all, Trying to understand the product portfolio. I understand that the FortiAP- U series do not support Wi-Fi 6E. And I also understand that the U series also have utm capabilities like content inspection, and thus can apply content i...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2g338/how_to_configure_a_3day_72h_timeout_for_captive/" target="_blank" rel="noopener">How to configure a 3-day (72h) Timeout for Captive Portal and Disclaimer on FortiOS 7.6.6</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T14:56:25+00:00</div>
-    <p>Hi everyone, I’m on FortiOS 7.6.6 and I need the Disclaimer page and Captive Portal to reappear only every 3 days for a specific local user on a firewall group. I&#x27;ve currently configured it this way: Group Level: set authtimeout 4320 (3 ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2faxd/copying_existing_policies_and_nat_from_one_device/" target="_blank" rel="noopener">Copying existing policies and NAT from one device to another</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T14:26:58+00:00</div>
-    <p>We have 2 Fortinet HA pairs presently in production. One at Head Office and one at our DR site. We need to clone all of our NAT rules and Policies for our servers from production to DR. The interface names and IPs are different. Is there...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2ef7m/get_ups_control_to_my_fortinet_firewall/" target="_blank" rel="noopener">get UPS control to my fortinet firewall</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T13:53:50+00:00</div>
-    <p>in my company we have a fortinet 60F firewall, two synology NAS DS and an antenna for internet connected to an APC UPS. I wanted to know, if i can somehow get the results of the APC Selftest displayed in my NAS (currently connected to th...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2cner/40f_fortigate_766_nodejs_restarted_uncaught/" target="_blank" rel="noopener">40F - fortigate 7.6.6 Node.JS restarted: (uncaught exception) Error: read ECONNRESET</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T12:41:21+00:00</div>
-    <p>Sürekli Lan yada Wan kapanıyor. Eski sürüme dönmek istemiyorum. Yardımcı olurmusunuz. submitted by /u/Acrobatic_Town_6318 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s2c9lh/fortiems_to_block_general_internet_traffic_but/" target="_blank" rel="noopener">FortiEMS to block general internet traffic, but allow cloud apps?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-24T12:24:05+00:00</div>
-    <p>Hi there- Weve had a request from some of the higher ups to deactivate general internet traffic, but leave access to some of their web/cloud apps. In the past when they did this, it was mainly all on-prem apps. Most of the stuff here is ...</p>
+    <h3><a href="https://feeds.fortinet.com/~/951842558/0/fortinet/blogs~Cybersecurity-AI-and-Sovereignty-What%e2%80%99s-Next-for-Global-Digital-Infrastructure" target="_blank" rel="noopener">Cybersecurity, AI, and Sovereignty: What’s Next for Global Digital Infrastructure</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 25 Mar 2026 12:00:00 +0000</div>
+    <p>Fortinet shares insights from the World Economic Forum Industry Strategy Meeting on cybersecurity, AI, digital sovereignty, and public-private collaboration shaping global digital infrastructure.…</p>
   </div>
 </li>
 <li class="card">
@@ -203,19 +179,11 @@ _Updated: March 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
     <p>AI-based assistants or “agents” — autonomous programs that have access to the user’s computer, files, online services and can automate virtually any task — are growing in popularity with developers and IT workers. But as so many eyebrow-...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/949670144/0/fortinet/blogs~Attacks-at-the-Speed-of-AI" target="_blank" rel="noopener">Attacks at the Speed of AI</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 6 Mar 2026 23:30:00 +0000</div>
-    <p>AI-assisted cyberattacks are accelerating reconnaissance and techniques such as password spraying against exposed devices. Learn how attackers are using AI prompts to automate attacks and the steps…</p>
   </div>
 </li>
 </ul>
