@@ -7,23 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6k3gc/cant_access_training_with_a_noncommercial_account/" target="_blank" rel="noopener">Can&#x27;t access Training with a non-commercial account.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T03:09:42+00:00</div>
+    <p>Hi community. Some one knows If Fortinet changes or deleted non-commercial accounts in the training portal? I just tried to access my personal account and can&#x27;t access like my account doesn&#x27;t exist. So I just lost access? Thanks in advan...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6hyq9/why_am_i_not_seeing_broadcast_traffic_go_from/" target="_blank" rel="noopener">Why am I not seeing broadcast traffic go from port8 to port1 on my FortiSwitch?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T01:26:01+00:00</div>
+    <p>My FortiSwitch is controlled by my FortiGate in Layer3 mode (aka it&#x27;s on an L3 island). I&#x27;m trying to send DHCP DISCOVERs from port8 to port1. They don&#x27;t seem to be showing up on the DHCP server physically connected to port1. Also, is th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6enk9/fortigate_nva_validation_transit_between/" target="_blank" rel="noopener">FortiGate NVA Validation: Transit between ExpressRoute circuits via Azure Route Server (No Global Reach)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-28T22:56:30+00:00</div>
+    <p>Introduction Hi everyone, I&#x27;m working on a high-compliance integration for a Landing Zone and need some peer review on a specific FortiGate NVA transit design. We are looking for &quot;burnt fingers&quot; stories from anyone who has implemented no...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s61lhk/application_control_not_working/" target="_blank" rel="noopener">Application Control Not Working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-28T14:18:58+00:00</div>
+    <p>Hey Everyone! I am struggling to get Application control to block Google Drive uploads and Google Doc uploads. I’ve added both signatures to the profile to block. We have Deep SSL Inspection turned on, proxy mode on for the policies, cer...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/951960212/0/fortinet/blogs~Disrupting-Cybercrime-Networks-at-Scale-Requires-Sustained-Global-Collaboration" target="_blank" rel="noopener">Disrupting Cybercrime Networks at Scale Requires Sustained Global Collaboration</a></h3>
     <div class="meta">Fortinet Blog · Fri, 27 Mar 2026 13:00:00 +0000</div>
     <p>At the RSAC Conference 2026, Fortinet’s Derek Manky joined leaders from the World Economic Forum, INTERPOL, and Microsoft to discuss how sustained global collaboration can enable continuous cybercr…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s516d0/fortigate_40f_with_already_registeres_serial/" target="_blank" rel="noopener">FortiGate 40F with already registeres serial number</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-27T11:15:35+00:00</div>
-    <p>Hi everyone, I recently purchased a second-hand FortiGate 40F through a local marketplace (Wallapop). When trying to register the device to my FortiCloud account, I found out it is still linked to a previous owner&#x27;s email. I contacted th...</p>
   </div>
 </li>
 <li class="card">
