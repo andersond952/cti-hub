@@ -7,39 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: March 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6k3gc/cant_access_training_with_a_noncommercial_account/" target="_blank" rel="noopener">Can&#x27;t access Training with a non-commercial account.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T03:09:42+00:00</div>
-    <p>Hi community. Some one knows If Fortinet changes or deleted non-commercial accounts in the training portal? I just tried to access my personal account and can&#x27;t access like my account doesn&#x27;t exist. So I just lost access? Thanks in advan...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s7lrm5/problème_daccès_aux_serveurs_après_mise_à_jour/" target="_blank" rel="noopener">Problème d’accès aux serveurs après mise à jour firmware de 7.0.12 à 7.0.19</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T09:30:08+00:00</div>
+    <p>Bonjour, je viens par se poste demander assistance car je tente de mettre à jour le firmwear du forti 61F depuis un bon moment sans succès; c’est-à-dire que quand je passe de 7.0.12 à 7.0.13 (je précise que j&#x27;ai des adresses IP virtuelle...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/q84fo4m6d5sg1.png?width=140&amp;height=75&amp;auto=webp&amp;s=9e346f2684a0c3eba5c7ee299ccd124a63b8b879" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s7ku8w/help_sonicwall_l2_bridging_in_fortigate_200f/" target="_blank" rel="noopener">Help - Sonicwall L2 Bridging in Fortigate 200F Cluster</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T08:32:35+00:00</div>
+    <p>Hello Everyone. I face a little problem in a project. The Custome currently have 2 Sonicwall NSA3600 (Cluster) with 2 Cisco Catalyst 9500 Now i need to replace the Sonicwall Cluster to Fortigate 200F (HA) Pretty simple.. Now.. Due lack o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6hyq9/why_am_i_not_seeing_broadcast_traffic_go_from/" target="_blank" rel="noopener">Why am I not seeing broadcast traffic go from port8 to port1 on my FortiSwitch?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T01:26:01+00:00</div>
-    <p>My FortiSwitch is controlled by my FortiGate in Layer3 mode (aka it&#x27;s on an L3 island). I&#x27;m trying to send DHCP DISCOVERs from port8 to port1. They don&#x27;t seem to be showing up on the DHCP server physically connected to port1. Also, is th...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s7emrl/preparing_for_nse_4_76_in_one_week_beyond_the/" target="_blank" rel="noopener">Preparing for NSE 4 (7.6) in one week – Beyond the Training Portal?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T02:40:03+00:00</div>
+    <p>I’m scheduled to take my NSE 4 (FortiOS Administrator) exam next Saturday and the &quot;exam fear&quot; is starting to kick in. I’ve finished the official Fortinet Training Institute portal modules (Self-Paced), but I’m looking for advice from tho...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6enk9/fortigate_nva_validation_transit_between/" target="_blank" rel="noopener">FortiGate NVA Validation: Transit between ExpressRoute circuits via Azure Route Server (No Global Reach)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-28T22:56:30+00:00</div>
-    <p>Introduction Hi everyone, I&#x27;m working on a high-compliance integration for a Landing Zone and need some peer review on a specific FortiGate NVA transit design. We are looking for &quot;burnt fingers&quot; stories from anyone who has implemented no...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s74a2n/captive_portal_with_ldap/" target="_blank" rel="noopener">Captive Portal with LDAP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T19:21:50+00:00</div>
+    <p>Hello, I am trying to understand how the captive portal works for guest access. The documentation provided by FortiGate is very helpful for guest access and worked. However, I am having difficulty understanding how the captive portal wor...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s61lhk/application_control_not_working/" target="_blank" rel="noopener">Application Control Not Working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-28T14:18:58+00:00</div>
-    <p>Hey Everyone! I am struggling to get Application control to block Google Drive uploads and Google Doc uploads. I’ve added both signatures to the profile to block. We have Deep SSL Inspection turned on, proxy mode on for the policies, cer...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6xht6/vrrp_master_switches_back_but_traffic_still_goes/" target="_blank" rel="noopener">VRRP - Master switches back but traffic still goes to backup?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T15:05:25+00:00</div>
+    <p>We are running two FortiGate firewalls with VRRP configured as Active/Standby. Last week during a failover, we noticed strange behavior: FortiGate-01 is the primary(higher priority) and normally acts as VRRP Master. FortiGate-02 is stand...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6v1ns/iphone_forticlient_vpn_on_ios_stuck_at_white/" target="_blank" rel="noopener">iPhone FortiClient VPN on iOS stuck at white login.microsoftonline.com</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T13:25:48+00:00</div>
+    <p>I’m having issues with FortiClient VPN on iOS (iPhone, iOS 26.3) using SSO. After I authenticate the first time it gets stuck on an all white login.microsoftonline.com. Every attempt to log on after goes straight all white, login.microso...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s6umlj/video_mpls_with_advpn_backup_or_transitioning_off/" target="_blank" rel="noopener">Video: MPLS with ADVPN backup (or transitioning off of MPLS/Private)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-29T13:07:31+00:00</div>
+    <p>Just posted a 10-minute quickie! MPLS/PrivateCircuit with ADVPN https://youtu.be/OUQ_ivOQ-9Q?si=IsKhFONEfEK2Cz6x Showcasing: ADVPN as a backup to MPLS/PrivateCircuits Showcasing: ADVPN as a replacement for MPLS/PrivateCircuits Great vide...</p>
   </div>
 </li>
 <li class="card">
@@ -123,7 +147,7 @@ _Updated: March 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/44.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
