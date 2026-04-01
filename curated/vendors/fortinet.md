@@ -7,39 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: March 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/j56gpng3vjsg1.png?width=140&amp;height=76&amp;auto=webp&amp;s=41be50f1028ce4b1ccee9d2a68291f4a6100cb27" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8k0bl/replacing_sslvpn/" target="_blank" rel="noopener">Replacing SSLVPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T10:48:46+00:00</div>
-    <p>Hi Everybody, As we (hopefully) all know, SSLVPN tunnel mode will be discontinued in FortiOS 7.6.3. This is definitely a step in the right direction and I don&#x27;t challenge that decision at all. Now, there&#x27;s a lot of guides to move to Dial...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/4pdnfbi3ycsg1.png?width=140&amp;height=72&amp;auto=webp&amp;s=eea49ff518e039c42c46db0a0902a34b7d52a81c" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8js0q/darkreading_article_wrongly_puts_fortinet_in_url/" target="_blank" rel="noopener">DarkReading Article Wrongly Puts &quot;fortinet&quot; in URL of Article about F5 Vuln</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T10:36:22+00:00</div>
-    <p>On March 30th, DarkReading published an article titled &quot;F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation.&quot; There&#x27;s nothing wrong with the article itself, but rather with the URL for this article. This is an article about a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9fvsu/fortinet_blocking_sites_on_airtel_india_consumer/" target="_blank" rel="noopener">Fortinet Blocking Sites on Airtel India (Consumer Plan)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T09:44:02+00:00</div>
+    <p>Hi All, I am facing a strange issue where my airtel India (consumer network) is randomly showing me a block as if I were on an office network. Any idea what might be going on? I have raised with support. I usually use VPN (Nord) to test ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8il6h/getting_forti_ems_as_a_student/" target="_blank" rel="noopener">Getting forti ems as a student</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T09:27:57+00:00</div>
-    <p>so i m working in getting my degree and now i m in a nternship and doing a project about ztna with fortinet product and i got access for fortigate fortiweb and fortianalyser but i need access to forti ems and i dnt know how i can get it ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9bapo/forticlient_customer_service_bulletin_2603031/" target="_blank" rel="noopener">Forticlient - Customer Service Bulletin 260303-1</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T05:13:16+00:00</div>
+    <p>Did Fortinet just change the date on when this would occur? I’m fairly sure it said the Anycast cert issued 16th April 2026 would be the issue (as per CSB 260320-1). Now it’s mentioned that it’s the Anycast cert that expires 10th October...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8habh/fortigate_forticloud_portal_issues/" target="_blank" rel="noopener">fortigate forticloud portal issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T08:08:04+00:00</div>
-    <p>Hello all, has anyone noticed any issue while loading the dashboard of the EU portal for the forticloud ? i&#x27;m able to connect but the dashboard fails to load (portal.eu.fortigate.forticloud.com) submitted by /u/Small_Operation_8795 [link...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s94iz1/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T00:00:44+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s91tcf/airgapped_fortigate_vm_in_azure/" target="_blank" rel="noopener">Air-gapped FortiGate VM in Azure</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T22:09:55+00:00</div>
+    <p>We have a requirment for a FortiGate firewall which will inspect RFC1918 IPs only on a LAN network. The firewall is to have no default route to the internet defined on any routing tables, but the roadblock we&#x27;ve hit is that: A - FortiGat...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/bltuvco76gsg1.png?width=140&amp;height=70&amp;auto=webp&amp;s=fcc6124692df94e57cdaf9545e18171e386b6ede" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s90j9h/fortigate_sillyness/" target="_blank" rel="noopener">Fortigate sillyness?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T21:20:04+00:00</div>
+    <p>https://preview.redd.it/bltuvco76gsg1.png?width=333&amp;format=png&amp;auto=webp&amp;s=89e8d8ad7b141d213c869fbe8b69b14fb957e72e Am I not allowed to search forward traffic by anything other than a raw IP? I just wanna see who is accessing chatGPT lol...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8tlaz/built_a_free_tool_that_generates_fortigate/" target="_blank" rel="noopener">Built a free tool that generates FortiGate ADVPN/SD-WAN configs, need engineers to break it</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T17:13:33+00:00</div>
+    <p>I kept running into the same problem on every multi-site FortiGate deployment, ADVPN configuration is a wall. It&#x27;s CLI-only, the GUI can&#x27;t do it, and one wrong setting means tunnels silently don&#x27;t form. So you either spend hours hand cra...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8q1fi/securing_ipsec_vpn_vs_ssl_vpn/" target="_blank" rel="noopener">Securing IPSec VPN vs SSL VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T15:06:13+00:00</div>
+    <p>I&#x27;m trying to figure out how to best secure IPSec dialup VPN vs the SSL VPN that I am used to. We were doing on the SSLVPN side, with great results: 1-Limiting users to One Connection at a time in the portal options 2-Creating a No Acces...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8p8lk/fac_fac_windows_agent_26_for_w7_email_otp_no_otp/" target="_blank" rel="noopener">FAC + FAC Windows Agent 2.6 for W7 + Email OTP - No OTP email triggered</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T14:37:24+00:00</div>
+    <p>W7 and old FAC Agent, i know. I&#x27;m testing an unlicensed FAC 8.0.2 with Windows Agent for Windows. I got one W11 client with 6.3 agent and one W7 client with 2.6. I have remote LDAP users with email OTP as 2FA token. When I try to login w...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8o1h0/build_vs_version/" target="_blank" rel="noopener">Build vs Version</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T13:52:37+00:00</div>
+    <p>Dear Fortinet, Since you almost always refer to the version number in notices/alerts and most places we actually see it, please include that version number in the names of the downloads we get from the support site so it all matches and ...</p>
   </div>
 </li>
 <li class="card">
@@ -51,75 +91,19 @@ _Updated: March 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s86ptt/confusion_about_new_nse_and_previous_exams_mapping/" target="_blank" rel="noopener">Confusion about new NSE and previous exams mapping</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T23:18:59+00:00</div>
-    <p>Hello, I&#x27;m very confused about new certification mapping available here: https://www.fortinet.com/nse-training-update Especially about NSE7 Secure Networking as I currently have FCP (NSE4) FortiOS Administrator and FCP - FortiAnalyzer 7....</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s84c4o/se_fortinet_interview/" target="_blank" rel="noopener">SE Fortinet Interview</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T21:43:02+00:00</div>
-    <p>Does anyone have insight into what a Systems Engineer interview is like—how long it usually takes, the kind of questions asked,the interview process, and how best to prepare? Any shared experiences or tips would be really helpful. submit...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s82rea/s2s_ipsec_remote_ip_gw_conflict/" target="_blank" rel="noopener">S2S IPsec - remote IP / gw conflict</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T20:44:45+00:00</div>
-    <p>Ran into an issue that I hadn’t considered before. I feel like there must be a fairly simple solution to resolve this but I can’t figure it out. I have 2 sites that need a S2S IPsec tunnel. Their public IP addresses are sequential, and o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt785465f8bc714950/69caef686b45b775670507cc/f5_SOPAImagesLimited_Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/application-security/fortinet-big-ip-vulnerability-reclassified-rce-exploitation" target="_blank" rel="noopener">F5 BIG-IP Vulnerability Reclassified as RCE, Under Exploitation</a></h3>
-    <div class="meta">Dark Reading · Mon, 30 Mar 2026 18:24:02 GMT</div>
-    <p>CVE-2025-53521 was initially disclosed in October as a high-severity denial-of-service (DoS) flaw, but new information has revealed the bug is actually much more dangerous.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s7u2up/fortianalyzer_nse5_76_exam/" target="_blank" rel="noopener">FortiAnalyzer NSE5 7.6 exam</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T15:39:03+00:00</div>
-    <p>Hey everyone, I’m planning to take the Fortinet NSE 5 – FortiAnalyzer 7.6 exam soon, so I wanted to check if anyone here has taken it recently. How difficult is it compared to previous versions? Any recommendations on how to prepare (lab...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s7tkmh/forticlient_free_importing_working_profile_not/" target="_blank" rel="noopener">Forticlient Free; Importing working profile not working?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T15:21:02+00:00</div>
-    <p>So, I can export a profile, encrypt it, and successfully create it. However, when I import said profile, none of the connections work, and just timeout when trying to connect. No idea what is happening. The restore of the config is succe...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s7sisk/fortianalyzer_reports_different_values_in_data/" target="_blank" rel="noopener">Fortianalyzer reports - different values in Data set than actual report?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T14:42:39+00:00</div>
-    <p>Hi I struggle with creating report for some logs select day, count(hostname) as devices_number, string_agg(hostname, &#x27;, &#x27; order by hostname) as hostnames_list from ( select distinct trim(hostname) as hostname, date(from_itime(itime)) as ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s7p30z/does_fortigate_support_tacacs_over_tls/" target="_blank" rel="noopener">Does FortiGate support TACACS+ over TLS?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-30T12:25:17+00:00</div>
-    <p>I&#x27;m trying to integrate FortiGate admin access and authorization with Cisco ISE. It is now working fine over the normal TACACS+ port 49. I&#x27;m trying to use the more secure TACACS+ over TLS; however, it looks like there is no configuration...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/951960212/0/fortinet/blogs~Disrupting-Cybercrime-Networks-at-Scale-Requires-Sustained-Global-Collaboration" target="_blank" rel="noopener">Disrupting Cybercrime Networks at Scale Requires Sustained Global Collaboration</a></h3>
     <div class="meta">Fortinet Blog · Fri, 27 Mar 2026 13:00:00 +0000</div>
     <p>At the RSAC Conference 2026, Fortinet’s Derek Manky joined leaders from the World Economic Forum, INTERPOL, and Microsoft to discuss how sustained global collaboration can enable continuous cybercr…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/952567301/0/fortinet/blogs~The-Cyber-Talent-You%e2%80%99re-Not-Hiring%e2%80%94But-Should-Be" target="_blank" rel="noopener">The Cyber Talent You’re Not Hiring—But Should Be</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 26 Mar 2026 15:00:00 +0000</div>
+    <p>The 2025 Cybersecurity Skills Gap Report shows hiring challenges aren’t just a lack of talent. It’s how narrowly organizations define “qualified.” Learn how skills-first hiring and certification pa…</p>
   </div>
 </li>
 <li class="card">
@@ -184,14 +168,6 @@ _Updated: March 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/950173247/0/fortinet/blogs~Seven-Experts-One-Standard-What-BCI%e2%80%99s-NSE-Engineers-Say-About-RealWorld-Mastery" target="_blank" rel="noopener">Seven Experts, One Standard: What BCI’s NSE 8 Engineers Say About Real-World Mastery</a></h3>
     <div class="meta">Fortinet Blog · Fri, 13 Mar 2026 15:00:00 +0000</div>
     <p>Discover how BCI’s seven NSE 8 certified engineers put Fortinet’s highest technical standard into practice, and why expert-level validation still matters.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/950019269/0/fortinet/blogs~Celebrating-the-Fortinet-Partner-of-the-Year-Award-Winners-at-Accelerate" target="_blank" rel="noopener">Celebrating the 2025 Fortinet Partner of the Year Award Winners at Accelerate</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 12 Mar 2026 15:00:00 +0000</div>
-    <p>Fortinet honors its 2025 Partner of the Year award winners at Accelerate, recognizing global partners driving innovation in Secure Networking, Unified SASE, SecOps, OT security, and managed service…</p>
   </div>
 </li>
 <li class="card">
