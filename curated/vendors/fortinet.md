@@ -7,79 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/j56gpng3vjsg1.png?width=140&amp;height=76&amp;auto=webp&amp;s=41be50f1028ce4b1ccee9d2a68291f4a6100cb27" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9fvsu/fortinet_blocking_sites_on_airtel_india_consumer/" target="_blank" rel="noopener">Fortinet Blocking Sites on Airtel India (Consumer Plan)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T09:44:02+00:00</div>
-    <p>Hi All, I am facing a strange issue where my airtel India (consumer network) is randomly showing me a block as if I were on an office network. Any idea what might be going on? I have raised with support. I usually use VPN (Nord) to test ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sadl1m/sfp_ports_100f_wan/" target="_blank" rel="noopener">SFP+ Ports 100F - WAN?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T10:25:56+00:00</div>
+    <p>Our ISP recentlly upgraded our internet speeds to 4GB, Is it possible to use a 10gb tranciver in one of the open ports and use that as my WAN port? So I get better speeds (I know i wont get better speeds from desktops etc but I do have 4...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9bapo/forticlient_customer_service_bulletin_2603031/" target="_blank" rel="noopener">Forticlient - Customer Service Bulletin 260303-1</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T05:13:16+00:00</div>
-    <p>Did Fortinet just change the date on when this would occur? I’m fairly sure it said the Anycast cert issued 16th April 2026 would be the issue (as per CSB 260320-1). Now it’s mentioned that it’s the Anycast cert that expires 10th October...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sacwey/is_the_service_provider_wrong_guest_network_access/" target="_blank" rel="noopener">Is the service provider wrong? (Guest Network Access)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T09:47:06+00:00</div>
+    <p>Hello everyone, we moved to a new office building and we have now everything from Forti. Firewalls, switches and access points. We have a guest network. On the first days the user got thrown out and they need to accept the terms again. N...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/4gjhycsgsqsg1.png?width=140&amp;height=40&amp;auto=webp&amp;s=13860d7f3d59673bf3020d81dd4bf1baff07c59a" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sac6ni/fortilink_with_trunk_non_fortiswitches/" target="_blank" rel="noopener">fortilink with trunk non fortiswitches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T09:02:50+00:00</div>
+    <p>Hi I have this following topology implementation. https://preview.redd.it/4gjhycsgsqsg1.png?width=1449&amp;format=png&amp;auto=webp&amp;s=cbf1aedad0045bccbdfd3a7ab980401c2cacc8fb Is this possibe to use old configure vlans exist on port1 with a new d...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s94iz1/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T00:00:44+00:00</div>
-    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sa4npw/ipsvirtual_patching/" target="_blank" rel="noopener">IPS/Virtual Patching</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T02:10:36+00:00</div>
+    <p>Behind a FortiGate, I have an ASAv running for SSL Client VPN. Would IPS/Virtual Patching on the FortiGate help protect against CSC/AnyConnect vulnerabilities that may arise until firmware is properly patched? submitted by /u/nicholaspha...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s91tcf/airgapped_fortigate_vm_in_azure/" target="_blank" rel="noopener">Air-gapped FortiGate VM in Azure</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T22:09:55+00:00</div>
-    <p>We have a requirment for a FortiGate firewall which will inspect RFC1918 IPs only on a LAN network. The firewall is to have no default route to the internet defined on any routing tables, but the roadblock we&#x27;ve hit is that: A - FortiGat...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/bltuvco76gsg1.png?width=140&amp;height=70&amp;auto=webp&amp;s=fcc6124692df94e57cdaf9545e18171e386b6ede" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s90j9h/fortigate_sillyness/" target="_blank" rel="noopener">Fortigate sillyness?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T21:20:04+00:00</div>
-    <p>https://preview.redd.it/bltuvco76gsg1.png?width=333&amp;format=png&amp;auto=webp&amp;s=89e8d8ad7b141d213c869fbe8b69b14fb957e72e Am I not allowed to search forward traffic by anything other than a raw IP? I just wanna see who is accessing chatGPT lol...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9z26w/need_assistance_voip_incoming_call_is_not_working/" target="_blank" rel="noopener">Need Assistance voip incoming call is not working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T22:08:05+00:00</div>
+    <p>Hello All, we are facing issues installed Fortinet firewall 60f . now we are facing an incoming call issue. Contacted VOIP service provider they told us to disable sip-alg so how can we do this. also I followed one instruction available ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8tlaz/built_a_free_tool_that_generates_fortigate/" target="_blank" rel="noopener">Built a free tool that generates FortiGate ADVPN/SD-WAN configs, need engineers to break it</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T17:13:33+00:00</div>
-    <p>I kept running into the same problem on every multi-site FortiGate deployment, ADVPN configuration is a wall. It&#x27;s CLI-only, the GUI can&#x27;t do it, and one wrong setting means tunnels silently don&#x27;t form. So you either spend hours hand cra...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9xpuk/clients_on_guest_wifi_wforticloudmanaged_fortiap/" target="_blank" rel="noopener">Clients on guest wifi w/FortiCloud-managed FortiAP 23JFs landing in corporate LAN subnet.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T21:16:35+00:00</div>
+    <p>We&#x27;re deploying FortiAP 23JF units to replace Datto AP840 behind a Meraki firewall and the guest wifi is stumping me. The FortiAPs are all running 7.6.4, the guest SSID is enabled, broadcasting, set to NAT with the FortiEdge Cloud Captiv...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8q1fi/securing_ipsec_vpn_vs_ssl_vpn/" target="_blank" rel="noopener">Securing IPSec VPN vs SSL VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T15:06:13+00:00</div>
-    <p>I&#x27;m trying to figure out how to best secure IPSec dialup VPN vs the SSL VPN that I am used to. We were doing on the SSLVPN side, with great results: 1-Limiting users to One Connection at a time in the portal options 2-Creating a No Acces...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9v4d6/an_employer_gave_me_a_fortigate_100d_is_it_really/" target="_blank" rel="noopener">An employer gave me a Fortigate 100D. Is it really just ewaste?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T19:42:08+00:00</div>
+    <p>I need to update the firmware on it because the credentials are lost. but now I cant get a new download, or register the product past end of life. Is there anything I can do? *I was able to make an informed decision. Thank you everyone s...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8p8lk/fac_fac_windows_agent_26_for_w7_email_otp_no_otp/" target="_blank" rel="noopener">FAC + FAC Windows Agent 2.6 for W7 + Email OTP - No OTP email triggered</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T14:37:24+00:00</div>
-    <p>W7 and old FAC Agent, i know. I&#x27;m testing an unlicensed FAC 8.0.2 with Windows Agent for Windows. I got one W11 client with 6.3 agent and one W7 client with 2.6. I have remote LDAP users with email OTP as 2FA token. When I try to login w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9pkmw/fortigate_on_azure_vpn_issue/" target="_blank" rel="noopener">fortigate on azure - vpn issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T16:30:53+00:00</div>
+    <p>Hi everyone, I&#x27;m having an fortigate on azure (tested 7.4.6 and 7.4.11) and previously I was able to run a &quot;normal&quot; ipsec tunnel from azure to my on-prem but since I&#x27;ve done a new deployment of the fortigate-vm, it establishes the tunnel...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s8o1h0/build_vs_version/" target="_blank" rel="noopener">Build vs Version</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-03-31T13:52:37+00:00</div>
-    <p>Dear Fortinet, Since you almost always refer to the version number in notices/alerts and most places we actually see it, please include that version number in the names of the downloads we get from the support site so it all matches and ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9oskk/fsso_alterative_for_azure_joined_devices/" target="_blank" rel="noopener">FSSO alterative for Azure Joined Devices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T16:03:40+00:00</div>
+    <p>Is SAML authentication the only option I have for user identification wuth Azure joined endpoints? submitted by /u/allthewires [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9na9n/vlan_pooling_under_bridge_ssid/" target="_blank" rel="noopener">VLAN Pooling under Bridge SSID</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T15:10:06+00:00</div>
+    <p>Hi Team, I am a bit confused. Is VLAN Pooling supported in Bridge mode SSIDs ? That is, a single WLAN assigning Ip addresses out of VLAN X,Y and Z. Below is what the docs say. &quot;In an SSID, you can define a VLAN pool. As clients associate...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/952790918/0/fortinet/blogs~AI-Is-Changing-Application-Threats-Faster-Than-Teams-Can-Adapt" target="_blank" rel="noopener">AI Is Changing Application Threats Faster Than Teams Can Adapt</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 1 Apr 2026 15:00:00 +0000</div>
+    <p>The 2026 Web Application Security Report reveals a critical gap between AI adoption and application security readiness. Learn how organizations are securing web applications, APIs, and AI-driven wo…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/952790912/0/fortinet/blogs~Announcing-the-Fortinet-Training-Institute%e2%80%99s-ATC-Award-Winners" target="_blank" rel="noopener">Announcing the Fortinet Training Institute’s 2026 ATC Award Winners</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 1 Apr 2026 15:00:00 +0000</div>
+    <p>Fortinet announces the 2026 Authorized Training Center (ATC) Award winners, recognizing global partners advancing cybersecurity skills, certifications, and workforce readiness.…</p>
   </div>
 </li>
 <li class="card">
@@ -155,23 +179,7 @@ _Updated: April 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/950173244/0/fortinet/blogs~Join-Us-at-RSAC-and-Discover-How-Best-to-Fortify-Your-Cybersecurity" target="_blank" rel="noopener">Join Us at RSAC 2026 and Discover How Best to Fortify Your Cybersecurity</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 13 Mar 2026 15:00:00 +0000</div>
-    <p>Four days of Cybersecurity Experise: Join Fortinet and our partners at the Security Fabric Theater in our booth (#N5762) to get the latest.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/950173247/0/fortinet/blogs~Seven-Experts-One-Standard-What-BCI%e2%80%99s-NSE-Engineers-Say-About-RealWorld-Mastery" target="_blank" rel="noopener">Seven Experts, One Standard: What BCI’s NSE 8 Engineers Say About Real-World Mastery</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 13 Mar 2026 15:00:00 +0000</div>
-    <p>Discover how BCI’s seven NSE 8 certified engineers put Fortinet’s highest technical standard into practice, and why expert-level validation still matters.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
