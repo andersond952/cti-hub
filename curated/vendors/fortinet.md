@@ -7,87 +7,87 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sadl1m/sfp_ports_100f_wan/" target="_blank" rel="noopener">SFP+ Ports 100F - WAN?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T10:25:56+00:00</div>
-    <p>Our ISP recentlly upgraded our internet speeds to 4GB, Is it possible to use a 10gb tranciver in one of the open ports and use that as my WAN port? So I get better speeds (I know i wont get better speeds from desktops etc but I do have 4...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb9mak/forticlient_ems_cloud_ftg_sudden_cert_not_trusted/" target="_blank" rel="noopener">FortiClient EMS CLOUD - FTG sudden cert not trusted</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T10:15:06+00:00</div>
+    <p>As the tittle says, suddenly our 20 sites all get: Failed to verify the certificate for server &quot;EMS 1 - FortiClient EMS Cloud&quot;. The server certificate cannot be authenticated with installed CA certificates. Please install its CA certific...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sacwey/is_the_service_provider_wrong_guest_network_access/" target="_blank" rel="noopener">Is the service provider wrong? (Guest Network Access)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T09:47:06+00:00</div>
-    <p>Hello everyone, we moved to a new office building and we have now everything from Forti. Firewalls, switches and access points. We have a guest network. On the first days the user got thrown out and they need to accept the terms again. N...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/4gjhycsgsqsg1.png?width=140&amp;height=40&amp;auto=webp&amp;s=13860d7f3d59673bf3020d81dd4bf1baff07c59a" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sac6ni/fortilink_with_trunk_non_fortiswitches/" target="_blank" rel="noopener">fortilink with trunk non fortiswitches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T09:02:50+00:00</div>
-    <p>Hi I have this following topology implementation. https://preview.redd.it/4gjhycsgsqsg1.png?width=1449&amp;format=png&amp;auto=webp&amp;s=cbf1aedad0045bccbdfd3a7ab980401c2cacc8fb Is this possibe to use old configure vlans exist on port1 with a new d...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb8g87/trying_to_understand_fortilink_management_vlan/" target="_blank" rel="noopener">Trying to understand FortiLink Management VLAN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T09:06:23+00:00</div>
+    <p>Hi Reddit, I’m trying to get a better understanding about the FortiLink protocol. I have already set up a FortiLink Interface on my FortiGate and I can see a few default VLANs (like Quarantine VLAN). However I do not see the Management V...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sa4npw/ipsvirtual_patching/" target="_blank" rel="noopener">IPS/Virtual Patching</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T02:10:36+00:00</div>
-    <p>Behind a FortiGate, I have an ASAv running for SSL Client VPN. Would IPS/Virtual Patching on the FortiGate help protect against CSC/AnyConnect vulnerabilities that may arise until firmware is properly patched? submitted by /u/nicholaspha...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb77ns/fortiswitch_124fpoe_unresponsive_after_power/" target="_blank" rel="noopener">FortiSwitch 124F-POE Unresponsive After Power Cycle — No Console or Network Access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T07:50:02+00:00</div>
+    <p>Hi everyone, I’m hoping someone here might have some insight or suggestions. I’m dealing with a frustrating issue on a FortiSwitch 124F-POE that became completely unresponsive after a power cycle. Here’s the full situation: Setup: FortiS...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9z26w/need_assistance_voip_incoming_call_is_not_working/" target="_blank" rel="noopener">Need Assistance voip incoming call is not working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T22:08:05+00:00</div>
-    <p>Hello All, we are facing issues installed Fortinet firewall 60f . now we are facing an incoming call issue. Contacted VOIP service provider they told us to disable sip-alg so how can we do this. also I followed one instruction available ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb5tny/need_help_with_fortigate_virtual_image_on_eveng/" target="_blank" rel="noopener">Need help with fortigate virtual image on eve-ng</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T06:26:25+00:00</div>
+    <p>Hi, i just installed fortigate virtual image/VM on eve-ng, it run perfectly fine but i can&#x27;t login from the web ui because invalid/expired license, and it say expired since 1970, although i still can access it through console and logging...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9xpuk/clients_on_guest_wifi_wforticloudmanaged_fortiap/" target="_blank" rel="noopener">Clients on guest wifi w/FortiCloud-managed FortiAP 23JFs landing in corporate LAN subnet.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T21:16:35+00:00</div>
-    <p>We&#x27;re deploying FortiAP 23JF units to replace Datto AP840 behind a Meraki firewall and the guest wifi is stumping me. The FortiAPs are all running 7.6.4, the guest SSID is enabled, broadcasting, set to NAT with the FortiEdge Cloud Captiv...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sasz2x/fortiproxy/" target="_blank" rel="noopener">FortiProxy</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T20:36:23+00:00</div>
+    <p>Hi All, I was hoping that someone might be able to help me. I&#x27;m looking to do some testing and play around with fortiProxy. I was wondering if anyone had a OVF file for fortiproxy. I&#x27;m just looking to run it in demo mode for the 15 days ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9v4d6/an_employer_gave_me_a_fortigate_100d_is_it_really/" target="_blank" rel="noopener">An employer gave me a Fortigate 100D. Is it really just ewaste?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T19:42:08+00:00</div>
-    <p>I need to update the firmware on it because the credentials are lost. but now I cant get a new download, or register the product past end of life. Is there anything I can do? *I was able to make an informed decision. Thank you everyone s...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1salza6/fsso_polling_with_windows_server_2025/" target="_blank" rel="noopener">FSSO Polling with Windows Server 2025</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T16:20:37+00:00</div>
+    <p>I have an LDAPs connection successfully working with my DC. When I try to do FSSO polling, I can add the connector and pull in users and groups but the status stays &#x27;disconnected&#x27;. I tried using the DC admin account too and it still says...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9pkmw/fortigate_on_azure_vpn_issue/" target="_blank" rel="noopener">fortigate on azure - vpn issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T16:30:53+00:00</div>
-    <p>Hi everyone, I&#x27;m having an fortigate on azure (tested 7.4.6 and 7.4.11) and previously I was able to run a &quot;normal&quot; ipsec tunnel from azure to my on-prem but since I&#x27;ve done a new deployment of the fortigate-vm, it establishes the tunnel...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sak3p7/export_device_list_7410/" target="_blank" rel="noopener">Export Device List 7.4.10</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T15:11:55+00:00</div>
+    <p>Hi, I am trying to export the table in my device manager tab. Unfortunately the export button natively exports in a .dat file for json, but is not what I need. I’m looking to export the table as a .csv file with the relevant columns (dev...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9oskk/fsso_alterative_for_azure_joined_devices/" target="_blank" rel="noopener">FSSO alterative for Azure Joined Devices</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T16:03:40+00:00</div>
-    <p>Is SAML authentication the only option I have for user identification wuth Azure joined endpoints? submitted by /u/allthewires [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sahd39/intervxlan_routing_on_fortigate/" target="_blank" rel="noopener">Inter-VXLAN routing on Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T13:26:14+00:00</div>
+    <p>Afternoon All, A bit stumped on this, got me scratching my remaining hair out. Just building a mock VXLAN network currently before I move it into the live system. Got 2 Fortigate 30Es with VLAN 10 and VNI 10010 on each side. Laptops conn...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1s9na9n/vlan_pooling_under_bridge_ssid/" target="_blank" rel="noopener">VLAN Pooling under Bridge SSID</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-01T15:10:06+00:00</div>
-    <p>Hi Team, I am a bit confused. Is VLAN Pooling supported in Bridge mode SSIDs ? That is, a single WLAN assigning Ip addresses out of VLAN X,Y and Z. Below is what the docs say. &quot;In an SSID, you can define a VLAN pool. As clients associate...</p>
+    <h3><a href="https://feeds.fortinet.com/~/953053052/0/fortinet/blogs~DPRKRelated-Campaigns-with-LNK-and-GitHub-C" target="_blank" rel="noopener">DPRK-Related Campaigns with LNK and GitHub C2</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 2 Apr 2026 13:00:00 +0000</div>
+    <p>Analysis of DPRK-linked LNK-based attacks using GitHub as covert C2 infrastructure, detailing multi-stage PowerShell execution, persistence mechanisms, and data exfiltration techniques targeting Wi…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/ck0sh9b1wrsg1.png?width=140&amp;height=24&amp;auto=webp&amp;s=209258b6f6479f4c3d4f609e8f8c77aca6a7cb3e" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sagn31/need_help_with_fortiems_settings/" target="_blank" rel="noopener">Need Help with FortiEMS settings</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T12:56:31+00:00</div>
+    <p>I am running a FortiEMS server and I want to do the following https://preview.redd.it/ck0sh9b1wrsg1.png?width=1074&amp;format=png&amp;auto=webp&amp;s=8fce1dcfc1adea1e3e4f3a20fb66957a2c6cba0f I want to manage FortiEMS internally using an internal FQD...</p>
   </div>
 </li>
 <li class="card">
@@ -168,14 +168,6 @@ _Updated: April 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/950837945/0/fortinet/blogs~Cybersecurity-Trust-and-the-Law" target="_blank" rel="noopener">Cybersecurity, Trust, and the Law</a></h3>
     <div class="meta">Fortinet Blog · Tue, 17 Mar 2026 14:00:00 +0000</div>
     <p>Episode 3 of the second season of the Fortinet podcast series Brass Tacks: Talking Cybersecurity examines cybersecurity as a governance and trust issue, covering regulation, accountability, and the…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/950663429/0/fortinet/blogs~Fortinet-Named-a-Challenger-in-the-Gartner%c2%ae-Magic-Quadrant%e2%84%a2-for-CyberPhysical-Systems-Protection-Platforms" target="_blank" rel="noopener">Fortinet Named a Challenger in the 2026 Gartner® Magic Quadrant™ for Cyber-Physical Systems Protection Platforms</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 16 Mar 2026 15:00:00 +0000</div>
-    <p>Fortinet’s Recognition for the Fortinet OT Security Platform marks Fortinet’s 11ᵗʰ Gartner Magic Quadrant inclusion, and we believe reinforces the strength of a platform-driven approach across IT a…</p>
   </div>
 </li>
 <li class="card">
