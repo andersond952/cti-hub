@@ -7,71 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb9mak/forticlient_ems_cloud_ftg_sudden_cert_not_trusted/" target="_blank" rel="noopener">FortiClient EMS CLOUD - FTG sudden cert not trusted</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T10:15:06+00:00</div>
-    <p>As the tittle says, suddenly our 20 sites all get: Failed to verify the certificate for server &quot;EMS 1 - FortiClient EMS Cloud&quot;. The server certificate cannot be authenticated with installed CA certificates. Please install its CA certific...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbxf4b/heads_up_on_this_critical_vulnerability_tied_to/" target="_blank" rel="noopener">Heads up on this critical vulnerability tied to Forticlient EMS https://fortiguard.fortinet.com/psirt/FG-IR-26-099</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T02:37:04+00:00</div>
+    <p>https://fortiguard.fortinet.com/psirt/FG-IR-26-099 Hotfix is available to patch immediately. submitted by /u/dman3314 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb8g87/trying_to_understand_fortilink_management_vlan/" target="_blank" rel="noopener">Trying to understand FortiLink Management VLAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T09:06:23+00:00</div>
-    <p>Hi Reddit, I’m trying to get a better understanding about the FortiLink protocol. I have already set up a FortiLink Interface on my FortiGate and I can see a few default VLANs (like Quarantine VLAN). However I do not see the Management V...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sblihi/fortigate_firewalls_never_even_attempt_to_send/" target="_blank" rel="noopener">FortiGate firewalls never even attempt to send email</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T18:24:02+00:00</div>
+    <p>I am attempting to get alert email functioning on all of my FortiGate firewalls. For all of the smaller sites that are running standalone firewalls (not running high availability), this works flawlessly. For all of the firewalls that are...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/d8nlwbbwd0tg1.png?width=70&amp;height=64&amp;auto=webp&amp;s=be69795755f324b2b9ad3b13cf233dbe3fdb3118" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbjpo6/forticlient_725_shows_a_failed_to_load_saml_url/" target="_blank" rel="noopener">Forticlient 7.2.5 shows a failed to load SAML URL error in Mac</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T17:18:38+00:00</div>
+    <p>I tried in a Windows PC and connection works perfectly but in Mac appears this error, any idea of what&#x27;s happening? https://preview.redd.it/d8nlwbbwd0tg1.png?width=128&amp;format=png&amp;auto=webp&amp;s=8a32777bf8f454d68514ceaf1bd9fa3ccfe47948 submi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb77ns/fortiswitch_124fpoe_unresponsive_after_power/" target="_blank" rel="noopener">FortiSwitch 124F-POE Unresponsive After Power Cycle — No Console or Network Access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T07:50:02+00:00</div>
-    <p>Hi everyone, I’m hoping someone here might have some insight or suggestions. I’m dealing with a frustrating issue on a FortiSwitch 124F-POE that became completely unresponsive after a power cycle. Here’s the full situation: Setup: FortiS...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbf853/enforcing_object_naming_standards_in/" target="_blank" rel="noopener">Enforcing Object Naming Standards in FortiManager/ADOM – Best Practices?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T14:31:50+00:00</div>
+    <p>Hi everyone, we’re currently running multiple FortiGate systems, some in HA clusters (A-P), others standalone. For centralized management we use FortiManager, and for logging, analysis, and troubleshooting we rely on FortiAnalyzer. To ke...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/953175290/0/fortinet/blogs~Securing-the-Physical-World-as-It-Comes-Online" target="_blank" rel="noopener">Securing the Physical World as It Comes Online</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 3 Apr 2026 14:00:00 +0000</div>
+    <p>Episode 5 of the second season of the Fortinet podcast series Brass Tacks: Talking Cybersecurity examines the growing cyber risk facing operational technology and what leaders must do to secure cri…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/953171648/0/fortinet/blogs~Why-the-AI-Cybersecurity-Summit-Matters" target="_blank" rel="noopener">Why the 2026 AI Cybersecurity Summit Matters</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 3 Apr 2026 13:00:00 +0000</div>
+    <p>Join Fortinet’s 2026 AI Cybersecurity Summit for practical guidance on securing AI across environments and to explore how security must evolve as AI moves into production.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sb5tny/need_help_with_fortigate_virtual_image_on_eveng/" target="_blank" rel="noopener">Need help with fortigate virtual image on eve-ng</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T06:26:25+00:00</div>
-    <p>Hi, i just installed fortigate virtual image/VM on eve-ng, it run perfectly fine but i can&#x27;t login from the web ui because invalid/expired license, and it say expired since 1970, although i still can access it through console and logging...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbclxp/fortigatevm_in_azure_for_s2s_vpns/" target="_blank" rel="noopener">Fortigate-VM in Azure for S2S VPNs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T12:45:31+00:00</div>
+    <p>We need to configure a S2S VPN environment in Azure. It appears that native Azure resources, such as Azure Firewall, may not meet our requirements, particularly when it comes to NAT functionality. We&#x27;re considering deploying a Fortigate-...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sasz2x/fortiproxy/" target="_blank" rel="noopener">FortiProxy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T20:36:23+00:00</div>
-    <p>Hi All, I was hoping that someone might be able to help me. I&#x27;m looking to do some testing and play around with fortiProxy. I was wondering if anyone had a OVF file for fortiproxy. I&#x27;m just looking to run it in demo mode for the 15 days ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1salza6/fsso_polling_with_windows_server_2025/" target="_blank" rel="noopener">FSSO Polling with Windows Server 2025</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T16:20:37+00:00</div>
-    <p>I have an LDAPs connection successfully working with my DC. When I try to do FSSO polling, I can add the connector and pull in users and groups but the status stays &#x27;disconnected&#x27;. I tried using the DC admin account too and it still says...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sak3p7/export_device_list_7410/" target="_blank" rel="noopener">Export Device List 7.4.10</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T15:11:55+00:00</div>
-    <p>Hi, I am trying to export the table in my device manager tab. Unfortunately the export button natively exports in a .dat file for json, but is not what I need. I’m looking to export the table as a .csv file with the relevant columns (dev...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sahd39/intervxlan_routing_on_fortigate/" target="_blank" rel="noopener">Inter-VXLAN routing on Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T13:26:14+00:00</div>
-    <p>Afternoon All, A bit stumped on this, got me scratching my remaining hair out. Just building a mock VXLAN network currently before I move it into the live system. Got 2 Fortigate 30Es with VLAN 10 and VNI 10010 on each side. Laptops conn...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbbmx1/fcc_updates_covered_list_to_include_foreignmade/" target="_blank" rel="noopener">FCC Updates Covered List to Include Foreign-Made Consumer Routers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T12:01:13+00:00</div>
+    <p>I think the title at the moment says it all FCC Updates Covered List to Include Foreign-Made Consumer Routers. https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers I do not see Fortinet&#x27;s products f...</p>
   </div>
 </li>
 <li class="card">
@@ -80,14 +80,6 @@ _Updated: April 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/953053052/0/fortinet/blogs~DPRKRelated-Campaigns-with-LNK-and-GitHub-C" target="_blank" rel="noopener">DPRK-Related Campaigns with LNK and GitHub C2</a></h3>
     <div class="meta">Fortinet Blog · Thu, 2 Apr 2026 13:00:00 +0000</div>
     <p>Analysis of DPRK-linked LNK-based attacks using GitHub as covert C2 infrastructure, detailing multi-stage PowerShell execution, persistence mechanisms, and data exfiltration techniques targeting Wi…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/ck0sh9b1wrsg1.png?width=140&amp;height=24&amp;auto=webp&amp;s=209258b6f6479f4c3d4f609e8f8c77aca6a7cb3e" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sagn31/need_help_with_fortiems_settings/" target="_blank" rel="noopener">Need Help with FortiEMS settings</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-02T12:56:31+00:00</div>
-    <p>I am running a FortiEMS server and I want to do the following https://preview.redd.it/ck0sh9b1wrsg1.png?width=1074&amp;format=png&amp;auto=webp&amp;s=8fce1dcfc1adea1e3e4f3a20fb66957a2c6cba0f I want to manage FortiEMS internally using an internal FQD...</p>
   </div>
 </li>
 <li class="card">
@@ -155,23 +147,7 @@ _Updated: April 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/950977916/0/fortinet/blogs~From-Hot-CVEs-to-the-Full-Attack-Surface-How-AI-Is-Reshaping-Threat-Intelligence" target="_blank" rel="noopener">From Hot CVEs to the Full Attack Surface: How AI Is Reshaping Threat Intelligence</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 18 Mar 2026 13:00:00 +0000</div>
-    <p>AI is pushing attackers beyond a handful of popular CVEs and toward exploiting the full vulnerability landscape. Fortinet’s Aamir Lakhani explains what that means for patch strategy, threat hunting…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/950837945/0/fortinet/blogs~Cybersecurity-Trust-and-the-Law" target="_blank" rel="noopener">Cybersecurity, Trust, and the Law</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 17 Mar 2026 14:00:00 +0000</div>
-    <p>Episode 3 of the second season of the Fortinet podcast series Brass Tacks: Talking Cybersecurity examines cybersecurity as a governance and trust issue, covering regulation, accountability, and the…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
