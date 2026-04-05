@@ -7,39 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/irikyd6o5ctg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd7e75467d46a66e6101065558f14234a0d3ad35" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbxf4b/heads_up_on_this_critical_vulnerability_tied_to/" target="_blank" rel="noopener">Heads up on this critical vulnerability tied to Forticlient EMS https://fortiguard.fortinet.com/psirt/FG-IR-26-099</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T02:37:04+00:00</div>
-    <p>https://fortiguard.fortinet.com/psirt/FG-IR-26-099 Hotfix is available to patch immediately. submitted by /u/dman3314 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1scyp00/moving_to_a_new_house_look_what_i_found_while/" target="_blank" rel="noopener">Moving to a new house, look what I found while packing up - When life was easier back then..</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-05T08:52:15+00:00</div>
+    <p>submitted by /u/Qvosniak [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sblihi/fortigate_firewalls_never_even_attempt_to_send/" target="_blank" rel="noopener">FortiGate firewalls never even attempt to send email</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T18:24:02+00:00</div>
-    <p>I am attempting to get alert email functioning on all of my FortiGate firewalls. For all of the smaller sites that are running standalone firewalls (not running high availability), this works flawlessly. For all of the firewalls that are...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/d8nlwbbwd0tg1.png?width=70&amp;height=64&amp;auto=webp&amp;s=be69795755f324b2b9ad3b13cf233dbe3fdb3118" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbjpo6/forticlient_725_shows_a_failed_to_load_saml_url/" target="_blank" rel="noopener">Forticlient 7.2.5 shows a failed to load SAML URL error in Mac</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T17:18:38+00:00</div>
-    <p>I tried in a Windows PC and connection works perfectly but in Mac appears this error, any idea of what&#x27;s happening? https://preview.redd.it/d8nlwbbwd0tg1.png?width=128&amp;format=png&amp;auto=webp&amp;s=8a32777bf8f454d68514ceaf1bd9fa3ccfe47948 submi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sckisu/brute_force_admin_block_list/" target="_blank" rel="noopener">Brute force admin block list</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T20:57:37+00:00</div>
+    <p>Hi there, &lt;flame-proof-undies-checked&gt; So, I&#x27;m one of those that have a couple of FortiGates in the field, and well...effort to spend to setup all the VPNs for admin interfaces wasn&#x27;t there and then I had been in flux for various reasons...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbf853/enforcing_object_naming_standards_in/" target="_blank" rel="noopener">Enforcing Object Naming Standards in FortiManager/ADOM – Best Practices?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T14:31:50+00:00</div>
-    <p>Hi everyone, we’re currently running multiple FortiGate systems, some in HA clusters (A-P), others standalone. For centralized management we use FortiManager, and for logging, analysis, and troubleshooting we rely on FortiAnalyzer. To ke...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1schp72/july_15th_certification_and_exam_conversion_tables/" target="_blank" rel="noopener">July 15th - Certification and exam conversion tables</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T19:04:49+00:00</div>
+    <p>As most know, July 15th all current certifications and exams will convert to the new NSE 1 to 8 system (+ 2 specializations). In case you missed that update from Fortinet, the summary of it is found here . To further help understand how ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sceyi8/upgrade_forticlient_via_ems/" target="_blank" rel="noopener">Upgrade Forticlient via EMS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T17:18:39+00:00</div>
+    <p>Hello r/fortinet , do you know if there is any option to just upgrade Forticlient on existing installed machines via EMS? Most Devices are from on prem AD - I know I could deploy on OUs but not all Clients should have Forticlient install...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sccxr6/hybrid_fortiswitch_and_cisco_switches_opinions/" target="_blank" rel="noopener">Hybrid Fortiswitch and Cisco switches (opinions)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T16:00:08+00:00</div>
+    <p>Hello, I need opinions from people who know more than me! I work in a medium-sized business (300 people) in Europe, and my team and I have been thinking about implementing NAC. We saw some installations from Fortinet in other companies (...</p>
   </div>
 </li>
 <li class="card">
@@ -56,22 +64,6 @@ _Updated: April 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/953171648/0/fortinet/blogs~Why-the-AI-Cybersecurity-Summit-Matters" target="_blank" rel="noopener">Why the 2026 AI Cybersecurity Summit Matters</a></h3>
     <div class="meta">Fortinet Blog · Fri, 3 Apr 2026 13:00:00 +0000</div>
     <p>Join Fortinet’s 2026 AI Cybersecurity Summit for practical guidance on securing AI across environments and to explore how security must evolve as AI moves into production.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbclxp/fortigatevm_in_azure_for_s2s_vpns/" target="_blank" rel="noopener">Fortigate-VM in Azure for S2S VPNs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T12:45:31+00:00</div>
-    <p>We need to configure a S2S VPN environment in Azure. It appears that native Azure resources, such as Azure Firewall, may not meet our requirements, particularly when it comes to NAT functionality. We&#x27;re considering deploying a Fortigate-...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sbbmx1/fcc_updates_covered_list_to_include_foreignmade/" target="_blank" rel="noopener">FCC Updates Covered List to Include Foreign-Made Consumer Routers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-03T12:01:13+00:00</div>
-    <p>I think the title at the moment says it all FCC Updates Covered List to Include Foreign-Made Consumer Routers. https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers I do not see Fortinet&#x27;s products f...</p>
   </div>
 </li>
 <li class="card">
