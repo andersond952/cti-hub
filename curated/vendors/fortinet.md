@@ -7,47 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/irikyd6o5ctg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=dd7e75467d46a66e6101065558f14234a0d3ad35" alt="preview">
+  <img src="https://preview.redd.it/nhtrskey9itg1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=8216e3656e64fff7a580d5669d71f20c486498a7" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1scyp00/moving_to_a_new_house_look_what_i_found_while/" target="_blank" rel="noopener">Moving to a new house, look what I found while packing up - When life was easier back then..</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-05T08:52:15+00:00</div>
-    <p>submitted by /u/Qvosniak [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sdq2b7/dns_fortiguard_issue/" target="_blank" rel="noopener">DNS FortiGuard issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-06T05:30:54+00:00</div>
+    <p>Hi, I am facing a problem where i cannot access to the Internet where ping 8.8.8.8 was failed. I suspect it might be DNS FortiGuard issue even WAN interface is UP and registered. Please help me i have tried many ways to fix this problem....</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sckisu/brute_force_admin_block_list/" target="_blank" rel="noopener">Brute force admin block list</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T20:57:37+00:00</div>
-    <p>Hi there, &lt;flame-proof-undies-checked&gt; So, I&#x27;m one of those that have a couple of FortiGates in the field, and well...effort to spend to setup all the VPNs for admin interfaces wasn&#x27;t there and then I had been in flux for various reasons...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sdp19y/to_those_who_passed_the_nse4/" target="_blank" rel="noopener">To those who passed the NSE4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-06T04:34:22+00:00</div>
+    <p>I am just looking for any insight and tips to focus on that don’t violate anyone’s NDAs. I have some practice exams that I have been spamming on Udemy. I note down anything I have no idea about and do a deep dive on it via YouTube, Googl...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1schp72/july_15th_certification_and_exam_conversion_tables/" target="_blank" rel="noopener">July 15th - Certification and exam conversion tables</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T19:04:49+00:00</div>
-    <p>As most know, July 15th all current certifications and exams will convert to the new NSE 1 to 8 system (+ 2 specializations). In case you missed that update from Fortinet, the summary of it is found here . To further help understand how ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sceyi8/upgrade_forticlient_via_ems/" target="_blank" rel="noopener">Upgrade Forticlient via EMS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T17:18:39+00:00</div>
-    <p>Hello r/fortinet , do you know if there is any option to just upgrade Forticlient on existing installed machines via EMS? Most Devices are from on prem AD - I know I could deploy on OUs but not all Clients should have Forticlient install...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sccxr6/hybrid_fortiswitch_and_cisco_switches_opinions/" target="_blank" rel="noopener">Hybrid Fortiswitch and Cisco switches (opinions)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-04T16:00:08+00:00</div>
-    <p>Hello, I need opinions from people who know more than me! I work in a medium-sized business (300 people) in Europe, and my team and I have been thinking about implementing NAC. We saw some installations from Fortinet in other companies (...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sdbhyn/current_webfilter_policy_isnt_blocking_access_to/" target="_blank" rel="noopener">Current web-filter policy isn&#x27;t blocking access to a certain web-site (ex, reddit.com), despite the web-category being blocked. The firewall only see&#x27;s reddit.com as a referral URL, and see&#x27;s the content servers as the primary. The content servers are allowed, so access to reddit.com is as well.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-05T18:43:31+00:00</div>
+    <p>I&#x27;ve been struggling to resolve this issue I&#x27;m having. The firewall itself only lists reddit.com as a referral website, the actual web-site on the web-filter log is a content server in the business category. Because the firewall is allow...</p>
   </div>
 </li>
 <li class="card">
@@ -139,7 +123,7 @@ _Updated: April 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
