@@ -7,55 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ser5k9/isp_issues_with_dhcp_set_fortigate_60f/" target="_blank" rel="noopener">ISP Issues with DHCP Set FortiGate 60F</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T09:33:11+00:00</div>
-    <p>Hey Guys, It&#x27;s probably ISP related but I just wanted to see if anyone else had any ideas. I have had my 60F for 3+ years. Also on latest firmware so currently 7.6.6 I recently got FTTP from a new provider last year March 2025. There was...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sfp8xj/webfilter_and_dns_filter_fortiguard_services/" target="_blank" rel="noopener">Webfilter and DNS filter Fortiguard services</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-08T10:43:55+00:00</div>
+    <p>Hi, just wondering what you all are doing in regards to Web, app, dns, ssl filters. We are in a situation where we do not have SSL Deep inspection applied, just certificate inspection. We have also disabled DNS filtering due to some prev...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/v3uvxvbo7wtg1.png?width=140&amp;height=48&amp;auto=webp&amp;s=379f9c8c804336eed4b286986bb364c7b6398628" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sfiqio/forticlient_ems_vm_appliance_747_upgrade_hotfix/" target="_blank" rel="noopener">Forticlient EMS - VM appliance - 7.4.7 upgrade (hotfix needed before the upgrade)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-08T04:21:40+00:00</div>
+    <p>Watchout ! If you are doing a 7.4.7 upgrade and running the VM image. There is a fatal flaw in the current code, where the 7.4.7 upgrade fails. A hotfix is need to be run before upgrading to 7.4.7 that runs that &quot;dpkg&quot; command. Hopefully...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sequfp/increasing_longevity_of_nand_modules/" target="_blank" rel="noopener">Increasing Longevity of NAND modules</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T09:14:20+00:00</div>
-    <p>I was recently given a FortiGate 30E, which I plan on using for messing around in FortiOS. It&#x27;s currently on the latest supported version: 6.2.17. On another Reddit thread I saw some FortiGate (older gen) units were prematurely RMA&#x27;d due...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sf5hef/considering_applying_to_fortinet_isr_position/" target="_blank" rel="noopener">Considering applying to Fortinet ISR position</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T19:06:30+00:00</div>
+    <p>Hi everyone, I’m looking for some advice. I’m currently an SE at another networking company, and am looking to work somewhere else. I also think I’d enjoy the sales side more. I’m almost 2 years out of college and think this would be a g...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1seqcdz/nat64_dns64_for_ipv6_only_in_a_legacy_single_and/" target="_blank" rel="noopener">NAT64 - DNS64 for IPv6 only in a legacy single and dual stack environment.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T08:43:28+00:00</div>
-    <p>I&#x27;m looking for some (7.6+) experiences, advice and directions for a hosting environment that started as a IPv4 only legacy setup (RFC1918 addresses and NATs), got IPv6 space when needed to move the whole environment, and started to depl...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sf4u07/question_on_sdwan_design/" target="_blank" rel="noopener">Question on SD-WAN design</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T18:43:16+00:00</div>
+    <p>Hi everyone, We are currently running a lab environment, thinking about switching from palo to forti. In our lab environment, we have 3 Azure FortiGate VM running SD-WAN using the SD-WAN Manager Overlay Orchestration Wizard ADVPN. The wh...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1seqbag/fortiguard_no_available_fortiguard_sdns_servers/" target="_blank" rel="noopener">Fortiguard - no available Fortiguard SDNS servers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T08:41:34+00:00</div>
-    <p>Hi! Currently about 5% of my DNS-rating-requests are failing. This is a problem, I am having for years, which I could solve with FortiOS 7.0 with: config system fortiguard set fortiguard-anycast-source aws set webfilter-cache-ttl 1200 en...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sf4q3o/why_fortiadc_just_why_no_saml_auth_for_the/" target="_blank" rel="noopener">Why FortiADC, just why no SAML Auth for the Adminpanel</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T18:39:23+00:00</div>
+    <p>Big bummer. Got used to the Product but now I discovered that it can&#x27;t do SAML Auth for Admin users. Just why? - Every mature Fortiproduct does have that. Just a heads up for anyone listening. Great Product - just that. Thanks for listen...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1seq2ga/fortimanager_multiadmin_issue_how_do_you_avoid/" target="_blank" rel="noopener">FortiManager multi-admin issue: how do you avoid pushing someone else’s changes?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T08:25:53+00:00</div>
-    <p>Hey guys, I’ve been working with FortiManager for a while now, and recently started a new role where we’ve got about five admins (all with the same level of access). In my previous role, I was the sole admin, so it was easy to keep thing...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sf3isn/how_can_i_properly_learn_and_understand_debugging/" target="_blank" rel="noopener">How can I properly learn and understand debugging outputs? Any guides you guys can recommend.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T17:57:25+00:00</div>
+    <p>I’m not looking to learn which debugging commands to use necessarily, but I want to better understand the actual output itself. I can understand outputs partially, but not enough to consider myself comfortable with it submitted by /u/Jaz...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/3wpl6f183ntg1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=b435d81f97a4c22e3d4425161e4ef939d9399126" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sechxd/forticlientfree_bug_ipsec_and_ssosaml_ipsec_vpn/" target="_blank" rel="noopener">Forticlient(free) bug, IPSec and SSO/SAML: IPSec VPN connection is down, connects eventually</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-06T21:39:52+00:00</div>
-    <p>There&#x27;s been a &quot;bug&quot; we&#x27;ve been dealing with for a while, and I&#x27;m just curious if anyone else has seen this as well. We are using the Forticlient 7.4.3 on Windows, IPSec tunnel with SSO using Microsoft 365 SAML. When we press the Connect...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sf22gw/forticlient_ems_forcing_wait_time_to_update/" target="_blank" rel="noopener">FortiClient EMS forcing wait time to update firmware and now 90+ minutes for installers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T17:07:28+00:00</div>
+    <p>Needed to update one of our installers and the current version of FortiClient EMS doesn&#x27;t do this instantly but &quot;Will start after 1:55 PM&quot; ~90 minutes after I saved the updated installer settings. I noticed the same thing with updating E...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/953458115/0/fortinet/blogs~When-Cybercrime-Becomes-an-Industry" target="_blank" rel="noopener">When Cybercrime Becomes an Industry</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 7 Apr 2026 14:00:00 +0000</div>
+    <p>Episode 6 of the second season of the Fortinet podcast series Brass Tacks - Talking Cybersecurity examines the industrialization of cybercrime, why everyone is a target, and how preparedness, basic…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1seu48m/who_can_help_me_with_my_fortigate_100f_with/" target="_blank" rel="noopener">Who can help me with my fortigate 100f with firmware 6.2.16 to upgrade to latest version, Fortigate does not want to help me because i bought this unit second hand, can i use this device for further use and buy license for this, or do i have to throw the unit away !thanks</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-07T12:09:20+00:00</div>
+    <p>submitted by /u/HungryNebula749 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -64,30 +88,6 @@ _Updated: April 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day" target="_blank" rel="noopener">Fortinet Issues Emergency Patch for FortiClient Zero-Day</a></h3>
     <div class="meta">Dark Reading · Mon, 06 Apr 2026 20:24:19 GMT</div>
     <p>The authentication bypass flaw, tracked as CVE-2026-35616, is the latest in a series of Fortinet vulnerabilities that have been exploited in the wild.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1se8o36/nac_solutions/" target="_blank" rel="noopener">NAC solutions</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-06T19:21:51+00:00</div>
-    <p>Hi there I&#x27;m currently hunting for a NAC solution. In a perfect world, we’d just grab FortiNAC and call it a day, but our budget says otherwise. Management isn&#x27;t going to pull the trigger on those licenses anytime soon. We’ve been lookin...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/arcizgdhwltg1.png?width=140&amp;height=66&amp;auto=webp&amp;s=29e6ca79da8cefc6eaa5b0a9043c2e4a4191f208" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1se5te4/url_filter_fortigate_web_filter/" target="_blank" rel="noopener">URL Filter | FortiGate Web Filter</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-06T17:41:35+00:00</div>
-    <p>Hi, I&#x27;d like to know how you allow or block a regular expressions that includes a domain in static URLs, for example, to allow everything related to Dropbox. What options do you use in regular expressions, for example, .*dropbox.* or sim...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1se0cb7/advice_for_migrating_fortigate_40f_to_80f_model/" target="_blank" rel="noopener">Advice for Migrating Fortigate 40F to 80F model?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-06T14:24:15+00:00</div>
-    <p>I purchased 40F Fortigates for my remote location a few years ago. Since that time, Fortigate has stopped supporting features on them citing their low memory, so I am looking to upgrade. I really don&#x27;t want to have to manually reconfigur...</p>
   </div>
 </li>
 <li class="card">
@@ -168,14 +168,6 @@ _Updated: April 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/951898628/0/fortinet/blogs~Cybersecurity-Leadership-and-Society" target="_blank" rel="noopener">Cybersecurity, Leadership, and Society</a></h3>
     <div class="meta">Fortinet Blog · Thu, 26 Mar 2026 14:00:00 +0000</div>
     <p>Episode 4 of the second season of the Fortinet podcast series Brass Tacks - Talking Cybersecurity examines cybersecurity as a societal and leadership challenge, exploring education, public-private …</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/951842558/0/fortinet/blogs~Cybersecurity-AI-and-Sovereignty-What%e2%80%99s-Next-for-Global-Digital-Infrastructure" target="_blank" rel="noopener">Cybersecurity, AI, and Sovereignty: What’s Next for Global Digital Infrastructure</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 25 Mar 2026 12:00:00 +0000</div>
-    <p>Fortinet shares insights from the World Economic Forum Industry Strategy Meeting on cybersecurity, AI, digital sovereignty, and public-private collaboration shaping global digital infrastructure.…</p>
   </div>
 </li>
 <li class="card">
