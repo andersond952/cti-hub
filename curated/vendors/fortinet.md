@@ -7,79 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1shj6h5/traffic_shaping_issues_on_fortigate_70g_74/" target="_blank" rel="noopener">Traffic shaping issues on Fortigate 70G (7.4)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-10T10:55:12+00:00</div>
-    <p>Hello everyone, I am new to Fortigate firewalls and figuring out how to shape traffic on Fortigate and I don&#x27;t understand something. I have a Fortigate 40F (7.2.11) with configuration like that: config firewall traffic-class edit 2 set c...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1shhvwh/fortigate_ipsec_vpn_ikev2_vs_windows_native_client/" target="_blank" rel="noopener">FortiGate IPSec VPN ikev2 vs Windows Native Client</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-10T09:44:07+00:00</div>
-    <p>Hi, fighting this for hours and dozen of reddit + fortinet tutorials. As we know SSL-VPN is getting rolled out, im trying to migrate to IPSEC VPN with IKEv2. What my goal is to try to keep it simple as I need to go my conrtactors an easy...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1shht16/am_i_eligible_for_nse8/" target="_blank" rel="noopener">Am I eligible for NSE8?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-10T09:39:25+00:00</div>
-    <p>Hi, I passed the NSE8 written exam in March, 2023. I know it has expired. So, I&#x27;m planning to retake the exam. I already have &quot; Fortinet NSE 7 - Enterprise Firewall 7.2 &quot; since April, 2025. Does this make me eligible to retake NSE8 writt...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sh86rn/about_the_certificate_change/" target="_blank" rel="noopener">About the certificate change?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-10T01:09:26+00:00</div>
-    <p>Hi! I&#x27;ve recently passed my CCNA and was wondering if it&#x27;s worth it to take the NSE4 now? As I&#x27;ve read that FCP will be reverted back to NSE4? I don&#x27;t think I can get the nse4 and nse5 fast enough until july. What are your thoughts on th...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sh7ubc/changing_subnet_mask_reset_my_core_switch_yay/" target="_blank" rel="noopener">Changing subnet mask reset my core switch, yay.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-10T00:54:16+00:00</div>
-    <p>Running 7.4.11 and I went into the main vlan and changed the scope from /24 to a /23 and my 248e-poe running 7.4.9 decided to disassociate from the fortigate. I had to go into the backup admin port that comes default out of the box, logg...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgzzmb/wan_interfaces_fiber4g_backup/" target="_blank" rel="noopener">WAN interfaces - Fiber/4G back-up</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T19:40:23+00:00</div>
-    <p>Hey, I&#x27;m coming from a WatchGuard background and getting used to FortiGate. It&#x27;s going pretty well but has its struggles too. I have a question about a dual router setup from my ISP: one router has fiber and one has 4G. Both have their o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgwd2y/ipsec_vpn_loses_connectivty_to_internet/" target="_blank" rel="noopener">IPSEC VPN Loses Connectivty to Internet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T17:32:05+00:00</div>
-    <p>We have been using SSL VPN for years without issue and are in the process of moving our users over to IPSEC VPN. This has been nothing short of a nightmare, but after paying a firm to help us figure it out, having Fortinet support try an...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgsrs8/ha_over_10km/" target="_blank" rel="noopener">HA over 10km</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T15:24:45+00:00</div>
-    <p>Hi Guys, I work in a new project, so my client make a new infrastructure OT. So I have a site 1 and site 2, the distance over 2 sites is 30 km. I currently have a fiber optic cable running that covers 30 kilometers; I just need to crimp ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgs2to/setting_up_a_fortiswitch_to_a_fortgate_with_an/" target="_blank" rel="noopener">Setting up a FortiSwitch to a FortGate with an IPS in between.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T15:00:12+00:00</div>
-    <p>Is there a way to set up a FortiSwitch using a FortiLink with a FortiGate when an IPS will be sitting between the FortiSwitch and FortiGate? submitted by /u/Delicious-Pea-5107 [link] [comments]</p>
+    <h3><a href="https://feeds.fortinet.com/~/953612567/0/fortinet/blogs~Shadow-AI-The-Invisible-Risk-Growing-Inside-Your-Organization" target="_blank" rel="noopener">Shadow AI: The Invisible Risk Growing Inside Your Organization</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 10 Apr 2026 13:00:00 +0000</div>
+    <p>Shadow AI is expanding inside enterprises, creating visibility gaps, data exposure risks, and compliance challenges. Learn how to identify and control AI usage across networks and endpoints.…</p>
   </div>
 </li>
 <li class="card">
@@ -88,54 +24,6 @@ _Updated: April 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/953569886/0/fortinet/blogs~Leading-by-Example-in-Sustainability-Fortinet-Expands-Global-EPD-Certification" target="_blank" rel="noopener">Leading by Example in Sustainability: Fortinet Expands Global EPD Certification</a></h3>
     <div class="meta">Fortinet Blog · Thu, 9 Apr 2026 15:00:00 +0000</div>
     <p>The FortiGate 90G Series now combines high-performance security with globally recognized ISO 14025 environmental certification.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgr6y2/block_session_200mb/" target="_blank" rel="noopener">Block session 200mb</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T14:27:57+00:00</div>
-    <p>Hello community, If Im being asked to block all session where the data transfer exceeds 200mb, how could I achieve that? im thinking maybe using automation stitches or FAZ, but not sure if thats going to work. when the firewall actually ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgqpyc/allowtrafficredirect_in_fortios_7410_and_firewall/" target="_blank" rel="noopener">allow-traffic-redirect in FortiOS 7.4.10 and firewall policy not working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T14:10:36+00:00</div>
-    <p>Dear all I am refering to a change in default behaviour in FortiOS 7.4.10 - 1225202 (set allow-traffic-redirect disable) described in: https://docs.fortinet.com/document/fortigate/7.4.10/fortios-release-notes/230510/changes-in-default-be...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgqp9o/prevent_auto_connect_client_vpn_from_trying_to/" target="_blank" rel="noopener">Prevent Auto Connect client VPN from trying to connect while on prem?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T14:09:54+00:00</div>
-    <p>Hi Guys, Seems like a basic issue. Is there a way to prevent a client vpn (forticlient) from auto connecting while the device is on prem? submitted by /u/Izual_Rebirth [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgppwr/mirror_a_tunneled_ssid/" target="_blank" rel="noopener">Mirror a Tunneled SSID</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T13:31:29+00:00</div>
-    <p>Does anyone know of a way to mirror (RSPAN) the data from a Tunneled SSID? I&#x27;m setting up Security Onion and want to monitor these SSIDs but the data doesn&#x27;t hit the Internal Switch so I&#x27;m not seeing it. submitted by /u/AnalogKid-2112 [l...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgoejg/fortiems_update_to_746_ikev1_clients_unable_to/" target="_blank" rel="noopener">FortiEMS Update to 7.4.6 - IKEv1 clients unable to connect</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T12:36:42+00:00</div>
-    <p>Hello everyone, After trying it twice now and having the same result, but not finding anything about it online, I am coming here in the hopes someone else has already encountered the issue and maybe has a solution. We are using FortiEMS ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sgodjr/new_to_fortinets_sdwan_need_some_guidance/" target="_blank" rel="noopener">New to Fortinet&#x27;s SDWAN need some guidance</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-09T12:35:30+00:00</div>
-    <p>I have two F30G&#x27;s running 7.4.13 and Fortimanager 7.6. Both firewalls are in Fortimanager, connected to the internet, lan interfaces up and connected via OSPF. I ran the SDWAN overlay orchestration it built BGP etc... but I see no crypto...</p>
   </div>
 </li>
 <li class="card">
@@ -219,15 +107,7 @@ _Updated: April 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/952567301/0/fortinet/blogs~The-Cyber-Talent-You%e2%80%99re-Not-Hiring%e2%80%94But-Should-Be" target="_blank" rel="noopener">The Cyber Talent You’re Not Hiring—But Should Be</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 26 Mar 2026 15:00:00 +0000</div>
-    <p>The 2025 Cybersecurity Skills Gap Report shows hiring challenges aren’t just a lack of talent. It’s how narrowly organizations define “qualified.” Learn how skills-first hiring and certification pa…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/13.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
