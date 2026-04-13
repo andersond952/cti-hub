@@ -7,41 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sj1a54/forti_ems_fortigate_fabric_connector_probleme/" target="_blank" rel="noopener">Forti ems fortigate fabric connector probleme</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-12T01:46:55+00:00</div>
-    <p>i m on fortigate 7.4.6 eval and i m trying ti connect ems to fortigate and keep telling me unauthorised even tho i accept the cert and i can ping ems to fortigate and the otherway around so the connectivity is not an issue submitted by /...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sizrrm/ems_placement_in_ztna/" target="_blank" rel="noopener">Ems placement in ztna</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-12T00:34:53+00:00</div>
-    <p>so i m a student and i m trying to understand different approaches i know ems typically is in dmz but why not put it internally and use vip of fortigate and with the preconfigured installer that will be server via a web server the client...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sivbde/fortinet_new_firewalls_upcoming/" target="_blank" rel="noopener">Fortinet new Firewalls Upcoming</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-11T21:21:09+00:00</div>
-    <p>FortiGate-400G FortiGate-400G 4 x 25G SFP28 slots, 4 x 10GE SFP+ slots, 16 X 1G SFP slots, 8 x 5G BASE-T RJ45 ports, 2 x RJ45 ports (Incl. HA 2.5G and MGMT 1G), SPU NP7 and CP10 hardware accelerated, dual AC power supplies FortiGate-3500...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1silgsd/examen_ns4/" target="_blank" rel="noopener">Examen NS4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-11T15:04:41+00:00</div>
-    <p>Buenos días a todos, algunos consejos para poder pasar el examen Fortigate Administrator 7.6 tomando encuenta que el examen viene en inglés para alguien de habla hispana?. submitted by /u/sact28 [link] [comments]</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -139,7 +107,7 @@ _Updated: April 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
