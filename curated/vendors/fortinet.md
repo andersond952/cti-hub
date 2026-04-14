@@ -7,9 +7,33 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://www.fortinet.com/content/dam/fortinet-blog/article-heros/training-awards-hero.jpg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/906577052/0/fortinet/blogs~Fortinet-Training-Institute-Wins-Industry-Accolades" target="_blank" rel="noopener">Fortinet Training Institute Wins Industry Accolades</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 13 Apr 2026 15:00:00 +0000</div>
+    <p>Learn more about the Fortinet Training Institute&#x27;s industry awards for addressing the cyber skills gap.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/32892" target="_blank" rel="noopener">Scans for EncystPHP Webshell, (Mon, Apr 13th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 13 Apr 2026 13:02:50 GMT</div>
+    <p>Scans for EncystPHP Webshell, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Seven Known Exploited Vulnerabilities to Catalog</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Mon, 13 Apr 26 12:00:00 +0000</div>
+    <p>CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-20...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -99,15 +123,7 @@ _Updated: April 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/951960212/0/fortinet/blogs~Disrupting-Cybercrime-Networks-at-Scale-Requires-Sustained-Global-Collaboration" target="_blank" rel="noopener">Disrupting Cybercrime Networks at Scale Requires Sustained Global Collaboration</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 27 Mar 2026 13:00:00 +0000</div>
-    <p>At the RSAC Conference 2026, Fortinet’s Derek Manky joined leaders from the World Economic Forum, INTERPOL, and Microsoft to discuss how sustained global collaboration can enable continuous cybercr…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
