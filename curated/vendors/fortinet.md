@@ -7,9 +7,17 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/953830139/0/fortinet/blogs~AI-Security-Is-an-Architectural-Decision" target="_blank" rel="noopener">AI Security Is an Architectural Decision</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 15 Apr 2026 13:00:00 +0000</div>
+    <p>Fortinet EVP Russ Schafer explains why AI security must be embedded in the enterprise architecture—not layered on top—and how Secure Networking convergence prepares organizations for production-sca…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://www.fortinet.com/content/dam/fortinet-blog/article-heros/training-awards-hero.jpg" alt="preview">
   <div>
@@ -115,15 +123,7 @@ _Updated: April 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/952790912/0/fortinet/blogs~Announcing-the-Fortinet-Training-Institute%e2%80%99s-ATC-Award-Winners" target="_blank" rel="noopener">Announcing the Fortinet Training Institute’s 2026 ATC Award Winners</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 1 Apr 2026 15:00:00 +0000</div>
-    <p>Fortinet announces the 2026 Authorized Training Center (ATC) Award winners, recognizing global partners advancing cybersecurity skills, certifications, and workforce readiness.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
