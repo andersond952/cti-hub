@@ -7,9 +7,17 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/953946956/0/fortinet/blogs~Tracking-Mirai-Variant-Nexcorium-A-VulnerabilityDriven-IoT-Botnet-Campaign" target="_blank" rel="noopener">Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 17 Apr 2026 13:00:00 +0000</div>
+    <p>TBK DVRs targeted by Nexcorium: exploiting, persisting, brute-force attacks, and multi-architecture Mirai-style DDoS in a single campaign. From CVE-2024-3721 exploitation to CVE-2017-17215 reuse, t…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -112,14 +120,6 @@ _Updated: April 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/953053052/0/fortinet/blogs~DPRKRelated-Campaigns-with-LNK-and-GitHub-C" target="_blank" rel="noopener">DPRK-Related Campaigns with LNK and GitHub C2</a></h3>
     <div class="meta">Fortinet Blog · Thu, 2 Apr 2026 13:00:00 +0000</div>
     <p>Analysis of DPRK-linked LNK-based attacks using GitHub as covert C2 infrastructure, detailing multi-stage PowerShell execution, persistence mechanisms, and data exfiltration techniques targeting Wi…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/952790918/0/fortinet/blogs~AI-Is-Changing-Application-Threats-Faster-Than-Teams-Can-Adapt" target="_blank" rel="noopener">AI Is Changing Application Threats Faster Than Teams Can Adapt</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 1 Apr 2026 15:00:00 +0000</div>
-    <p>The 2026 Web Application Security Report reveals a critical gap between AI adoption and application security readiness. Learn how organizations are securing web applications, APIs, and AI-driven wo…</p>
   </div>
 </li>
 <li class="card">
