@@ -7,7 +7,7 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
@@ -32,14 +32,6 @@ _Updated: April 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/906577052/0/fortinet/blogs~Fortinet-Training-Institute-Wins-Industry-Accolades" target="_blank" rel="noopener">Fortinet Training Institute Wins Industry Accolades</a></h3>
     <div class="meta">Fortinet Blog · Mon, 13 Apr 2026 15:00:00 +0000</div>
     <p>Learn more about the Fortinet Training Institute&#x27;s industry awards for addressing the cyber skills gap.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/32892" target="_blank" rel="noopener">Scans for EncystPHP Webshell, (Mon, Apr 13th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Mon, 13 Apr 2026 13:02:50 GMT</div>
-    <p>Scans for EncystPHP Webshell, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -123,7 +115,7 @@ _Updated: April 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
