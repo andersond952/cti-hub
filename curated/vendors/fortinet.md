@@ -7,9 +7,17 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/954108563/0/fortinet/blogs~Supercharged-Security-Security-in-the-Time-of-Mythos" target="_blank" rel="noopener">Supercharged Security: Security in the Time of Mythos</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 20 Apr 2026 13:00:00 +0000</div>
+    <p>As AI has turned cybersecurity into an arms race, learn how Fortinet stands apart by combining long standing AI expertise, secure by design products, and the fastest path from discovery to mitigati…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -67,14 +75,6 @@ _Updated: April 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta136b3187f54aba9/69d402a467101a067adcc450/fortinet_SipaUSA_Alamy.jpg?width=1280&amp;auto=webp&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/fortinet-emergency-patch-forticlient-zero-day" target="_blank" rel="noopener">Fortinet Issues Emergency Patch for FortiClient Zero-Day</a></h3>
-    <div class="meta">Dark Reading · Mon, 06 Apr 2026 20:24:19 GMT</div>
-    <p>The authentication bypass flaw, tracked as CVE-2026-35616, is the latest in a series of Fortinet vulnerabilities that have been exploited in the wild.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/953373773/0/fortinet/blogs~FortiOS-Redefining-Secure-Networking-in-the-AI-and-Quantum-Era" target="_blank" rel="noopener">FortiOS 8.0: Redefining Secure Networking in the AI and Quantum Era</a></h3>
@@ -107,15 +107,7 @@ _Updated: April 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/953053052/0/fortinet/blogs~DPRKRelated-Campaigns-with-LNK-and-GitHub-C" target="_blank" rel="noopener">DPRK-Related Campaigns with LNK and GitHub C2</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 2 Apr 2026 13:00:00 +0000</div>
-    <p>Analysis of DPRK-linked LNK-based attacks using GitHub as covert C2 infrastructure, detailing multi-stage PowerShell execution, persistence mechanisms, and data exfiltration techniques targeting Wi…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
