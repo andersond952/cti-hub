@@ -7,9 +7,17 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/954348119/0/fortinet/blogs~The-Fortinet-Sustainability-Report" target="_blank" rel="noopener">The Fortinet 2025 Sustainability Report</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 23 Apr 2026 15:00:00 +0000</div>
+    <p>The Fortinet 2025 Sustainability Report outlines progress in securing the digital world, reducing environmental impact through energy-efficiency products and operations, expanding access to cyberse…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -40,14 +48,6 @@ _Updated: April 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
     <h3><a href="https://feeds.fortinet.com/~/906577052/0/fortinet/blogs~Fortinet-Training-Institute-Wins-Industry-Accolades" target="_blank" rel="noopener">Fortinet Training Institute Wins Industry Accolades</a></h3>
     <div class="meta">Fortinet Blog · Mon, 13 Apr 2026 15:00:00 +0000</div>
     <p>Learn more about the Fortinet Training Institute&#x27;s industry awards for addressing the cyber skills gap.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Seven Known Exploited Vulnerabilities to Catalog</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Mon, 13 Apr 26 12:00:00 +0000</div>
-    <p>CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-20...</p>
   </div>
 </li>
 <li class="card">
@@ -83,14 +83,6 @@ _Updated: April 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Mon, 06 Apr 26 12:00:00 +0000</div>
-    <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control Vulnerability This type of vulnerabil...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/953175290/0/fortinet/blogs~Securing-the-Physical-World-as-It-Comes-Online" target="_blank" rel="noopener">Securing the Physical World as It Comes Online</a></h3>
@@ -99,15 +91,7 @@ _Updated: April 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/953171648/0/fortinet/blogs~Why-the-AI-Cybersecurity-Summit-Matters" target="_blank" rel="noopener">Why the 2026 AI Cybersecurity Summit Matters</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 3 Apr 2026 13:00:00 +0000</div>
-    <p>Join Fortinet’s 2026 AI Cybersecurity Summit for practical guidance on securing AI across environments and to explore how security must evolve as AI moves into production.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
