@@ -7,79 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: April 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/hpjh07z07byg1.png?width=140&amp;height=82&amp;auto=webp&amp;s=e3e771fcbc09eb8486507d29e9d8ee0a94e8a059" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sys0pu/homelab_question/" target="_blank" rel="noopener">Homelab question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T07:44:13+00:00</div>
-    <p>Second-hand devices - Does it actually matter if the device you are running is not registered to your forticloud account? This is assuming fortigate cloud is disabled on the unit and there’s no EMS so it cannot be remotely managed. Or sh...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szsqo4/untrusted_http_server_certificate_warning/" target="_blank" rel="noopener">Untrusted HTTP server certificate warning</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T10:58:08+00:00</div>
+    <p>How can we eliminate the SSL error that appears every time we log in to the FortiGate, specifically the “untrusted HTTP server certificate” warning? (Images attached) https://preview.redd.it/hpjh07z07byg1.png?width=1385&amp;format=png&amp;auto=w...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1syp5h7/does_fortiguard_ips_service_for_fortinet_40f/" target="_blank" rel="noopener">Does FortiGuard IPS Service for Fortinet 40f firewall do deep packet inspection? Do I need Unified Threat Protection (UTP) or Advanced Threat Protection if all I want to do is block someone from getting into my network or spying on me? Thank you.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T05:06:57+00:00</div>
-    <p>submitted by /u/ComfortablePost3664 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szr046/dynamic_routing_between_cisco_and_fortigate/" target="_blank" rel="noopener">Dynamic routing between Cisco and Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T09:21:54+00:00</div>
+    <p>Hello everone! I am new to Fortigates and looking to know the best practices to establish reliable route exchange between old Cisco router (800 model, ultra legacy) and a Fortigate 120G (our new hub device). I&#x27;ve already established two ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1syl83i/fortiauthenticator_vm_download/" target="_blank" rel="noopener">FortiAuthenticator VM Download</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T01:59:37+00:00</div>
-    <p>Is there any documented change how to download the FAC-VM for an eval. Everything I have says that I should be able to download the FAC-VM and use with 5 or less users and 2 tokens. https://docs.fortinet.com/document/fortiauthenticator/8...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szovb5/reliably_using_ikev2_forticlient/" target="_blank" rel="noopener">Reliably using IKEV2 (Forticlient)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T07:16:40+00:00</div>
+    <p>With IKEV1 support being removed from the new Forticlient and SSL-VPN being removed from the Fortigates themselves, I&#x27;ve been migrating everyone to IKEV2 using EMS. For around 100 users I would say 80 of them are connecting fine using IK...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sy7o5r/voip_issues/" target="_blank" rel="noopener">VOIP Issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-28T17:13:04+00:00</div>
-    <p>Fairly new to Forti and deployed a range of 50G models at branch sites 5-10 users and HA pair of 70Gs at HQ which has been fine however, have an on going VOIP issue and looking for some guidance. -Telephony platform is cloud hosted -Disa...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sznc9l/ha_fortinac_f_729/" target="_blank" rel="noopener">HA fortiNAC F 7.2.9</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T05:51:42+00:00</div>
+    <p>Buenas noches estimados recurro a ustedes como última opción, hace poco actualizamos nuestros nac a la versión 7.2.9 con ellos nos recomendaron hacer pruebas de HA failover, son embargo estás fallaron, no soy experto en el tema, sin emba...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sy6xze/fortiproxy_as_an_explicit_proxy_issues_deployment/" target="_blank" rel="noopener">FortiProxy as an explicit proxy issues / deployment questions</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-28T16:47:53+00:00</div>
-    <p>Hello. I have been having problems with the proxy setup that I support. All of our windows hosts are configured to use FortiProxy as an explicit proxy though windows settings. The two problems I have been having are: Some applications (l...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/ylwoy628e1yg1.png?width=140&amp;height=39&amp;auto=webp&amp;s=9158e7e1f896f36cb6fa25355e6c2757b7594d71" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sy5osl/user_turning_orange/" target="_blank" rel="noopener">user turning orange</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-28T16:03:35+00:00</div>
-    <p>I am facing an issue where some users in the FortiGate firewall appear with an “orange” status instead of the normal connected (blue) state. When this happens, the affected users experience restricted access, and some applications or web...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szk2bn/fmg_templates/" target="_blank" rel="noopener">FMG Templates</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T03:04:44+00:00</div>
+    <p>Hello community, I am looking into deploying templates on FMG but I have a concern. Do templates get pushed once and thats it? or Do they get pushed everytime I push anything from FMG? What happens if I make a GUI change thats contrary t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sy2f8a/hl7_messages_http_soap_andor_rest/" target="_blank" rel="noopener">HL7 Messages (HTTP SOAP and/or REST)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-28T14:05:21+00:00</div>
-    <p>Hi, does anyone have ever worked with HL7 messages with Fortiweb? Because it triggers very, very often! Is exeption the only solution? What about compatibility for old HL7 machines in hospital? submitted by /u/AirJust6443 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szj7f2/add_ha_model_to_fmg/" target="_blank" rel="noopener">Add HA Model to FMG</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T02:25:13+00:00</div>
+    <p>Greetings community, I was doing some testing recently with a FMG and I noticed the &quot;Add HA model&quot; option. Whats the use case of that? Does FMG actually configure the HA settings on 2 firewalls? If it doesn&#x27;t, how&#x27;s that better than simp...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sy225l/software_switch_to_bridge_wifi_ssid_and/" target="_blank" rel="noopener">Software switch to bridge wifi SSID and FortiSwitch vlans</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-28T13:51:41+00:00</div>
-    <p>Hi there, I&#x27;m running a 200E with a few FortiAps and FortiSwitches, I have a WIFI SSID for my iOT devices such as smart plugs ect, I have a wired vlan for my Apple TV 4K, wich is the matter HUB From what I understood, for matter to work ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szd1gj/help_troubleshooting_ipsec_ikev2_vpn_auth_with_ad/" target="_blank" rel="noopener">Help troubleshooting IPsec IKEv2 VPN auth with AD (no RADIUS) — &quot;username/password incorrect&quot; &amp; &quot;EAP transmit error&quot;</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T21:59:25+00:00</div>
+    <p>Hi all — looking for help troubleshooting an IPsec IKEv2 VPN on a FortiGate that uses Active Directory for EAP authentication (no RADIUS). LDAP tests succeed and AD users can authenticate to our EMS, but VPN connections fail with either ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sy1g3h/anyone_annoyed_by_the_gui_changes_from_version_72/" target="_blank" rel="noopener">Anyone annoyed by the GUI changes from version 7.2 to 7.4 on FortiOS ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-28T13:27:33+00:00</div>
-    <p>Like what was going on with the UI design team mind ??? They had a working UI with nice features and they removed them. Here are the things that bug me : - when you finished creating a rule and clicked apply in version 7.2.12, then the p...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sz9p4z/ems_showing_fortiguard_outbreak_detection_false/" target="_blank" rel="noopener">EMS showing FortiGuard Outbreak Detection false alarm</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T19:54:35+00:00</div>
+    <p>A MacOS device running FortiClient 7.2.12 is showing this in the EMS: FortiGuard Outbreak Detections Iran-linked Cyber Attacks(compromised) The EMS is very hard to use to get any more details than that. I eventually found the &quot;FortiGuard...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/1upa56gfb6yg1.png?width=140&amp;height=70&amp;auto=webp&amp;s=bb2662a9bff546d9d6f89bb2b1caa43dd8dd4024" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sz7gjy/forticonverter_question/" target="_blank" rel="noopener">FortiConverter Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T18:35:05+00:00</div>
+    <p>https://preview.redd.it/1upa56gfb6yg1.png?width=660&amp;format=png&amp;auto=webp&amp;s=7c146852a3566425fd16b315b82683ec1a71dbf2 We have a scenario where we are changing firewalls. Swapping out a 60E for a 60F. This can be done via forticonverter for...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sz6v2z/fortinac_captive_portal_redirection/" target="_blank" rel="noopener">Fortinac captive portal redirection</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T18:14:10+00:00</div>
+    <p>Hi, I can access to the portal page in the rogue pc ,with in ip address in vlan of registration, manually but when I try to access other url like google.com ,there is no redirection to the portal instead I had an error domain not resolve...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1syz7ov/api_call_fortigate_not_responding/" target="_blank" rel="noopener">API call -- Fortigate not responding</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T13:43:05+00:00</div>
+    <p>When Fortinet decided to scrap the automatic configuration backup from the basic FortiCloud offering, we set up a Linux VM with a quick script for a handful of SMB customers. That backed up the config file flawlessly... until yesterday, ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1syxcd1/sanity_check_restoring_a_backup_onto_a_fortigate/" target="_blank" rel="noopener">Sanity Check - Restoring a backup onto a Fortigate with custome accprofile</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T12:27:22+00:00</div>
+    <p>Hi all I have the following accprofile which my (personalised) user is working with. Unsurprisingly, I can make backups. But the &quot;Restore&quot; option is not available (under my name in the upper right corner). According to https://docs.forti...</p>
   </div>
 </li>
 <li class="card">
@@ -163,7 +187,7 @@ _Updated: April 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/13.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
