@@ -7,103 +7,127 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: April 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/hpjh07z07byg1.png?width=140&amp;height=82&amp;auto=webp&amp;s=e3e771fcbc09eb8486507d29e9d8ee0a94e8a059" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szsqo4/untrusted_http_server_certificate_warning/" target="_blank" rel="noopener">Untrusted HTTP server certificate warning</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T10:58:08+00:00</div>
-    <p>How can we eliminate the SSL error that appears every time we log in to the FortiGate, specifically the “untrusted HTTP server certificate” warning? (Images attached) https://preview.redd.it/hpjh07z07byg1.png?width=1385&amp;format=png&amp;auto=w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t0nohi/weird_internet_behavior_when_on_vpn/" target="_blank" rel="noopener">Weird internet behavior when on VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-01T08:42:37+00:00</div>
+    <p>Hi all, We have recently replaced our Cisco with FortClient and its been working fine except for one user. When connected to the VPN, user is unable to access mapped drives, but can ping data servers. Also Teams will stop allowing screen...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szr046/dynamic_routing_between_cisco_and_fortigate/" target="_blank" rel="noopener">Dynamic routing between Cisco and Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T09:21:54+00:00</div>
-    <p>Hello everone! I am new to Fortigates and looking to know the best practices to establish reliable route exchange between old Cisco router (800 model, ultra legacy) and a Fortigate 120G (our new hub device). I&#x27;ve already established two ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t0m3ck/74_76_tpm_upgrade/" target="_blank" rel="noopener">7.4 &gt; 7.6 TPM upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-01T07:10:50+00:00</div>
+    <p>Posting this to save someone else the headache there’s a subtle but serious change in FortiOS 7.6 around TPM that can wreck your HA upgrade. I’ve been able to reproduce this issue on a 120G and 7K. What actually happens: If TPM is enable...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szovb5/reliably_using_ikev2_forticlient/" target="_blank" rel="noopener">Reliably using IKEV2 (Forticlient)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T07:16:40+00:00</div>
-    <p>With IKEV1 support being removed from the new Forticlient and SSL-VPN being removed from the Fortigates themselves, I&#x27;ve been migrating everyone to IKEV2 using EMS. For around 100 users I would say 80 of them are connecting fine using IK...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t0d9sr/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-01T00:00:27+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sznc9l/ha_fortinac_f_729/" target="_blank" rel="noopener">HA fortiNAC F 7.2.9</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T05:51:42+00:00</div>
-    <p>Buenas noches estimados recurro a ustedes como última opción, hace poco actualizamos nuestros nac a la versión 7.2.9 con ellos nos recomendaron hacer pruebas de HA failover, son embargo estás fallaron, no soy experto en el tema, sin emba...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t0cvfn/recently_deployed_a_new_fgt_vm_with_fortios8_and/" target="_blank" rel="noopener">Recently deployed a new FGT VM with FortiOS8 and is stuck after login</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T23:42:59+00:00</div>
+    <p>After successfully log in via web. The browser gets redirected to login screen and it keep doing this forever. License is permanent trial mode successfully activated submitted by /u/freshtechs [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szk2bn/fmg_templates/" target="_blank" rel="noopener">FMG Templates</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T03:04:44+00:00</div>
-    <p>Hello community, I am looking into deploying templates on FMG but I have a concern. Do templates get pushed once and thats it? or Do they get pushed everytime I push anything from FMG? What happens if I make a GUI change thats contrary t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t09yro/ipsec_vpn_wont_connect_on_some_machines_until/" target="_blank" rel="noopener">IPSec VPN - Won&#x27;t connect on some machines until NAT-T is toggled in the Fortclient</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T21:42:09+00:00</div>
+    <p>This according to google is a known issue, however I can&#x27;t see anything in release notes or a maintenance fix for it? I am wanting to raise the issue with Fortinet (who I know don&#x27;t officially support the free forticlient), but presumabl...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/jz45qpakbeyg1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c37e24a31c694a0af3c81fc28de0cba8984783fd" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t09n82/new_fortinet_product/" target="_blank" rel="noopener">New Fortinet Product</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T21:29:30+00:00</div>
+    <p>Version 1.0 just released 😂 submitted by /u/G3rmanaviator [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szj7f2/add_ha_model_to_fmg/" target="_blank" rel="noopener">Add HA Model to FMG</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T02:25:13+00:00</div>
-    <p>Greetings community, I was doing some testing recently with a FMG and I noticed the &quot;Add HA model&quot; option. Whats the use case of that? Does FMG actually configure the HA settings on 2 firewalls? If it doesn&#x27;t, how&#x27;s that better than simp...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t07rb3/fortios_and_cve202631431/" target="_blank" rel="noopener">FortiOS and CVE-2026-31431</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T20:19:02+00:00</div>
+    <p>Hey folks. I believe FortiOS runs some modified form of the Linux kernel. I&#x27;m not sure if that&#x27;s true though. (Is it?) If you haven&#x27;t heard, CVE-2026-31431 was announced today and many of us are scrambling to patch Linux servers. If Fort...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szd1gj/help_troubleshooting_ipsec_ikev2_vpn_auth_with_ad/" target="_blank" rel="noopener">Help troubleshooting IPsec IKEv2 VPN auth with AD (no RADIUS) — &quot;username/password incorrect&quot; &amp; &quot;EAP transmit error&quot;</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T21:59:25+00:00</div>
-    <p>Hi all — looking for help troubleshooting an IPsec IKEv2 VPN on a FortiGate that uses Active Directory for EAP authentication (no RADIUS). LDAP tests succeed and AD users can authenticate to our EMS, but VPN connections fail with either ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t072gn/fortimail_cloud_with_o365/" target="_blank" rel="noopener">Fortimail Cloud with O365</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T19:54:37+00:00</div>
+    <p>Setup for FortiMail Cloud protection of both environments Please confirm whether FortiMail Cloud can be configured to protect Office 365 accounts in addition to an on‑prem Exchange 2013 environment. submitted by /u/Artistic-Injury-9386 [...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sz9p4z/ems_showing_fortiguard_outbreak_detection_false/" target="_blank" rel="noopener">EMS showing FortiGuard Outbreak Detection false alarm</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T19:54:35+00:00</div>
-    <p>A MacOS device running FortiClient 7.2.12 is showing this in the EMS: FortiGuard Outbreak Detections Iran-linked Cyber Attacks(compromised) The EMS is very hard to use to get any more details than that. I eventually found the &quot;FortiGuard...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/1upa56gfb6yg1.png?width=140&amp;height=70&amp;auto=webp&amp;s=bb2662a9bff546d9d6f89bb2b1caa43dd8dd4024" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sz7gjy/forticonverter_question/" target="_blank" rel="noopener">FortiConverter Question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T18:35:05+00:00</div>
-    <p>https://preview.redd.it/1upa56gfb6yg1.png?width=660&amp;format=png&amp;auto=webp&amp;s=7c146852a3566425fd16b315b82683ec1a71dbf2 We have a scenario where we are changing firewalls. Swapping out a 60E for a 60F. This can be done via forticonverter for...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t06pue/fcss_secure_networking_to_nse_67_mapping_after/" target="_blank" rel="noopener">FCSS Secure Networking to NSE 6/7 mapping after July 15 – can someone confirm?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T19:42:02+00:00</div>
+    <p>Hey everyone, I’m trying to understand the new Fortinet certification mapping after July 15 and how NSE levels are assigned based on FCSS and passed exams. My current status: FCSS in Secure Networking Passed Enterprise Firewall 7.6 Admin...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1sz6v2z/fortinac_captive_portal_redirection/" target="_blank" rel="noopener">Fortinac captive portal redirection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T18:14:10+00:00</div>
-    <p>Hi, I can access to the portal page in the rogue pc ,with in ip address in vlan of registration, manually but when I try to access other url like google.com ,there is no redirection to the portal instead I had an error domain not resolve...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t045l3/price_increase_on_may_4th/" target="_blank" rel="noopener">Price Increase on May 4th</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T18:09:33+00:00</div>
+    <p>Anyone heard anything about it? Heard second hand there&#x27;s another increase coming submitted by /u/Lordcorvin1 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1syz7ov/api_call_fortigate_not_responding/" target="_blank" rel="noopener">API call -- Fortigate not responding</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T13:43:05+00:00</div>
-    <p>When Fortinet decided to scrap the automatic configuration backup from the basic FortiCloud offering, we set up a Linux VM with a quick script for a handful of SMB customers. That backed up the config file flawlessly... until yesterday, ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t02wjr/ipsec_over_tcp_w_forticlient_vpn_only_still_not/" target="_blank" rel="noopener">IPSec over TCP w/ FortiClient VPN only still not working!!</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T17:25:33+00:00</div>
+    <p>I can&#x27;t believe IPSec Over TCP was introduced to FortiGate over a year ago and it is still crappy. I can&#x27;t get it to work using latest FCT 7.4.3 and FGT 7.6.6, I&#x27;ve been all over the internet with no working solution. Anyway here are the...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1syxcd1/sanity_check_restoring_a_backup_onto_a_fortigate/" target="_blank" rel="noopener">Sanity Check - Restoring a backup onto a Fortigate with custome accprofile</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-29T12:27:22+00:00</div>
-    <p>Hi all I have the following accprofile which my (personalised) user is working with. Unsurprisingly, I can make backups. But the &quot;Restore&quot; option is not available (under my name in the upper right corner). According to https://docs.forti...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t01gg4/email_messages_delayed/" target="_blank" rel="noopener">Email messages delayed</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T16:33:26+00:00</div>
+    <p>submitted by /u/Darkscooby [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szziov/help_with_ikev2_vpn_setup/" target="_blank" rel="noopener">Help with IKEv2 VPN setup</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T15:29:32+00:00</div>
+    <p>I got a new 200g with 7.4.11 installed, and working on setting up an IKEv2 VPN, with LDAP user login. We bought the VPN Client. I ran through the wizzard and poked it with screw driver but not working.. I made a ticket and after 2 weeks,...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szygij/what_is_the_difference_between_sase_and_a_ngfw/" target="_blank" rel="noopener">What is the difference between SASE and a NGFW?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T14:57:04+00:00</div>
+    <p>I have hands on experience with FortiGate and SonicWall but no real exposure to SASE. From what I understand a SASE combines networking and security, but so does an NGFW. I&#x27;m wondering about the differences in functionality and purpose b...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/4ispg731rbyg1.png?width=140&amp;height=77&amp;auto=webp&amp;s=aef46751188483e89f4f2d0fbe0c4b7e8bb5a7ae" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1szv721/possible_node_memory_leak_on_80f_running_7411/" target="_blank" rel="noopener">possible &quot;node&quot; memory leak on 80F running 7.4.11</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-04-30T12:51:21+00:00</div>
+    <p>Hello, A customer has a FortiGate 80F cluster, recently (last saturday... yes... saturday, weekend) it entered memory conserve mode . Node rebooted, problem &quot;solved&quot;. When I dug a little, I found that the memory usage was &quot;in crescendo&quot; ...</p>
   </div>
 </li>
 <li class="card">
@@ -187,7 +211,7 @@ _Updated: April 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: 
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
