@@ -7,63 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t1i6j1/2nd_run_at_nse4/" target="_blank" rel="noopener">2nd run at NSE4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T06:37:26+00:00</div>
-    <p>Hey all, I took a run at this a few weeks ago and came up well short. This time around I have done all the FortiGate labs and I am watching the entire Fortinet video series and I am taking handwritten notes (for me, better mental encodin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t2f74j/lab_access_how/" target="_blank" rel="noopener">Lab access how?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-03T07:56:07+00:00</div>
+    <p>We use fortigates in our org, but it&#x27;s not clear how to get access to the training labs, it says here I have to buy them but for &quot;fortigate operator nse3&quot; it says na? https://helpdesk.training.fortinet.com/support/solutions/articles/7300...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t1i6ep/2nd_run_at_nse4/" target="_blank" rel="noopener">2nd run at NSE4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T06:37:16+00:00</div>
-    <p>Hey all, I took a run at this a few weeks ago and came up well short. This time around I have done all the FortiGate labs and I am watching the entire Fortinet video series and I am taking handwritten notes (for me, better mental encodin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t2974b/bgp_peering_for_ipsec_vpn_on_loopback_interface/" target="_blank" rel="noopener">BGP Peering for IPSec VPN on Loopback Interface</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-03T02:36:23+00:00</div>
+    <p>I&#x27;ll preface this by saying I&#x27;ve very little experience with BGP, so sorry in advance if I&#x27;ve missed something obvious! What I&#x27;m trying to establish When using an active-active VPN gateway in Azure, they require you to use BGP to establi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t1ddvh/bgp_sasespaexternal_fg/" target="_blank" rel="noopener">BGP SASE-SPA-External FG</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T02:30:01+00:00</div>
-    <p>Hello community, I found a situation that O couldn&#x27;t comprehend 100%. I have a SPA FG thats learning the FortiSASE users Subent (100.65.x.x) and my SPA FG has another iBGP peering (also a RR client) and for some reason the subnet is not ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t23ke3/fcc_router_ban/" target="_blank" rel="noopener">FCC router ban</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T22:18:14+00:00</div>
+    <p>I am sure most people using Fortigate routers are keeping track of this, but it does appear that Fortigate routers are NOT affected by the ban https://www.fcc.gov/faqs-recent-updates-fcc-covered-list-regarding-routers-produced-foreign-co...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t167e4/fg90g_reboot_email_with_uptime/" target="_blank" rel="noopener">FG90-G - Reboot email with uptime?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-01T21:15:18+00:00</div>
-    <p>Hi, I am trying to make an automation on my FG90-G to give me the total uptime when it reboots. I am having issues getting it working. I am using the get system performance status or at least trying to. Heres the attempt - any help would...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t235yb/fortimanager_script_name_length_impacts_ha/" target="_blank" rel="noopener">FortiManager script name length impacts HA Synchronization</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T22:01:14+00:00</div>
+    <p>Has anyone seen this in FortiManager 7.6.6 when using HA? We found a reproducible issue where creating a CLI script with a script name of 56+ characters causes a temporary HA sync failure. For example a simple script that creates objects...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t0vz1c/ha_and_management_configuration/" target="_blank" rel="noopener">HA and Management configuration</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-01T15:03:53+00:00</div>
-    <p>When configuring HA, how do you guys handle accessing mgmt of each FW? Do you use the ha-mgmt-interfaces feature? Or is there a different/better way? I was setting this up but my mgmt interface were in a mgmt VDOM and I could not select ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t21vvx/using_raspberry_pi_as_oob_for_the_fortigate/" target="_blank" rel="noopener">Using Raspberry Pi as OOB for the Fortigate firewall</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T21:09:16+00:00</div>
+    <p>Well, I goofed up a setting on the WAN port on the FoirtiGate 201G firewall causing it to completely lose connectivity to the internet. Seems using the &quot;Outbound bandwidth&quot; under the traffic shaping option on the interface on a 10 gig SF...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t0u69w/forticlient_ipsec_connection_blocking_local/" target="_blank" rel="noopener">FortiClient IPsec connection blocking local internet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-01T13:57:15+00:00</div>
-    <p>I am having a hard time figuring out what I am missing on my new IPsec tunnels for remote users VPN connections. We previously were using SSL VPN, and are moving away from it. I got the IPsec tunnels setup for multiple domains. Initially...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t0tv64/ssl_error_3_error_fgt_and_faz_connection/" target="_blank" rel="noopener">SSL error. (-3) Error FGT and FAZ Connection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-01T13:44:46+00:00</div>
-    <p>Hey, I&#x27;ve added more than five FortiGate devices with the same firmware version to the newly deployed FortiAnalyzer (using the default certificates, without adding any custom certificate) and did not experience any issues. However, when ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t1yk1s/fortiweb_trail_license_issues/" target="_blank" rel="noopener">Fortiweb trail license issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T19:00:26+00:00</div>
+    <p>So i deployed fortiweb as a node in eve and u get unlicesed and there is no way to connect to fortiguard and get trial licesne activated so is there a solution and for the unclicensed status does it function just as a dump switch no insp...</p>
   </div>
 </li>
 <li class="card">
