@@ -7,55 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t2f74j/lab_access_how/" target="_blank" rel="noopener">Lab access how?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-03T07:56:07+00:00</div>
-    <p>We use fortigates in our org, but it&#x27;s not clear how to get access to the training labs, it says here I have to buy them but for &quot;fortigate operator nse3&quot; it says na? https://helpdesk.training.fortinet.com/support/solutions/articles/7300...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t3d3hl/iosandroid_forticlient_ipsec_ikev2_certificate/" target="_blank" rel="noopener">IOS/Android Forticlient IPSEC IKEv2 Certificate + EAP Username/password + Fortitoken</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T09:53:36+00:00</div>
+    <p>I’m trying to figure out whether my VPN setup can be made to work on mobile devices. On Windows , I was able to get everything working correctly with: IKEv2 client certificate (as signature) EAP username/password FortiToken Mobile That s...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t2974b/bgp_peering_for_ipsec_vpn_on_loopback_interface/" target="_blank" rel="noopener">BGP Peering for IPSec VPN on Loopback Interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-03T02:36:23+00:00</div>
-    <p>I&#x27;ll preface this by saying I&#x27;ve very little experience with BGP, so sorry in advance if I&#x27;ve missed something obvious! What I&#x27;m trying to establish When using an active-active VPN gateway in Azure, they require you to use BGP to establi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t32zk9/cli_to_show_ipsec_vpn_child_sa_role/" target="_blank" rel="noopener">CLI to show IPsec VPN Child SA Role (Initiator/Responder)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T00:58:34+00:00</div>
+    <p>Hi! Whilst I can see in historical logs and by real-time IKE debugging, I want to see whether existing Child SA was locally initiated (Role: initiator) or remotely (Role: Responder) using CLI command. This fundamental information - perha...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t23ke3/fcc_router_ban/" target="_blank" rel="noopener">FCC router ban</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T22:18:14+00:00</div>
-    <p>I am sure most people using Fortigate routers are keeping track of this, but it does appear that Fortigate routers are NOT affected by the ban https://www.fcc.gov/faqs-recent-updates-fcc-covered-list-regarding-routers-produced-foreign-co...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t2uvdm/fortios_administrator_cert/" target="_blank" rel="noopener">Fortios Administrator cert</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-03T19:24:05+00:00</div>
+    <p>Hello to everyone. I took my CCNA 1 year ago. Nowadays, I&#x27;m studying Fortios Administator. After CCNA, this lecture feels easy to understand cause of network knowledge. Any tips, and some information about exam ? Thanks lot. submitted by...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t235yb/fortimanager_script_name_length_impacts_ha/" target="_blank" rel="noopener">FortiManager script name length impacts HA Synchronization</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T22:01:14+00:00</div>
-    <p>Has anyone seen this in FortiManager 7.6.6 when using HA? We found a reproducible issue where creating a CLI script with a script name of 56+ characters causes a temporary HA sync failure. For example a simple script that creates objects...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t2m48h/far_side_echo_fortivoice_pbx/" target="_blank" rel="noopener">Far Side Echo Fortivoice PBX</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-03T13:54:47+00:00</div>
+    <p>Crossposting here to see if I can get more input. I am running into far side echo after migrating from from Mitel/PRI to Fortivoice/SIP. Issue always occurs on our analog connections. It has been reported that out Voip phones are experie...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t21vvx/using_raspberry_pi_as_oob_for_the_fortigate/" target="_blank" rel="noopener">Using Raspberry Pi as OOB for the Fortigate firewall</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T21:09:16+00:00</div>
-    <p>Well, I goofed up a setting on the WAN port on the FoirtiGate 201G firewall causing it to completely lose connectivity to the internet. Seems using the &quot;Outbound bandwidth&quot; under the traffic shaping option on the interface on a 10 gig SF...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t1yk1s/fortiweb_trail_license_issues/" target="_blank" rel="noopener">Fortiweb trail license issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-02T19:00:26+00:00</div>
-    <p>So i deployed fortiweb as a node in eve and u get unlicesed and there is no way to connect to fortiguard and get trial licesne activated so is there a solution and for the unclicensed status does it function just as a dump switch no insp...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t2klvi/lab_fortianalyzer_fortiweb_7412_on_eveng_trial/" target="_blank" rel="noopener">[LAB] FortiAnalyzer &amp; FortiWeb 7.4.12 on EVE-NG: Trial License &quot;Already Registered&quot; &amp; CLI Parsing Errors</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-03T12:50:26+00:00</div>
+    <p>Hi everyone, I&#x27;m hitting a brick wall trying to activate Trial Licenses for FortiAnalyzer (v7.4.10) and FortiWeb (v7.4.12) inside EVE-NG (KVM). I’ve followed the standard procedures, but I&#x27;m stuck in a loop. The Setup: Hypervisor: EVE-NG...</p>
   </div>
 </li>
 <li class="card">
@@ -139,7 +131,7 @@ _Updated: May 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fo
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/13.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
