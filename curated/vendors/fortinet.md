@@ -7,111 +7,119 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t49qsx/cannot_figure_out_zones/" target="_blank" rel="noopener">Cannot figure out zones</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T08:52:58+00:00</div>
-    <p>We (SMB construction company) use Fortigates. Our networks are far from complex, but the rulebase is expanding fast. The Forti&#x27;s manage intervlan traffic, switches just trunk everything. I&#x27;m reading into zones to simplify our rulebase. I...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t57cyr/integration_fgt_fmg/" target="_blank" rel="noopener">Integration Fgt fmg</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-06T09:01:22+00:00</div>
+    <p>submitted by /u/Negative_Horse_6177 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t49j4n/need_help/" target="_blank" rel="noopener">Need help</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T08:40:02+00:00</div>
-    <p>Hey, I’m new to this field and honestly feel kinda lost… I wanna learn FortiGate but don’t know where to start. I’m trying to build a test lab first before real work, and I’ve been looking for VM images to practice but have no idea where...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t53kp9/whats_causing_ethernet_connectivity_issues_from/" target="_blank" rel="noopener">What&#x27;s causing ethernet connectivity issues from patch to a 8 port net gear switch but not to its 24 port counter partner?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-06T05:21:02+00:00</div>
+    <p>Issue: Troubleshooting connectivity issues between 24 port netgear switch to Fortinet firewall. Frequently have performance and connectivity problems. Environment: Business Existing working 24 port patch panel with existing active connec...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t495ov/forticlient_vpn_stuck_on_connecting/" target="_blank" rel="noopener">Forticlient VPN stuck on &quot;connecting&quot;</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T08:17:27+00:00</div>
-    <p>Been using Forticlient VPN only for several months without any problem. But suddenly it stucks on connecting without giving de pop-up that the connection is established as I saw before. Around the moment that it stopped working nothing c...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4zotb/my_company_wants_to_drop_forti_products_because/" target="_blank" rel="noopener">My company wants to drop Forti products because of how horrible the purchase and renewal experience is. You?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-06T02:11:44+00:00</div>
+    <p>My company is actively thinking about switching to a different platform because of how horrible the renewal and purchase experience has been. For us to request a deal on trade-ups we have to pay a $200 fee just to get a quote. And the pr...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t48vjs/fortigates_from_ebay/" target="_blank" rel="noopener">FortiGates from Ebay</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T08:00:20+00:00</div>
-    <p>Hey all Have any of you purchased from Ebay or obtained a FortiGate before that has not been released from the previous owner and managed to successfully register it to your own account? Is it as simple as contacting Fortinet Support wit...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4yd9j/upgrading_to_766/" target="_blank" rel="noopener">Upgrading to 7.6.6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-06T01:12:32+00:00</div>
+    <p>We&#x27;ve been working on getting our equipment updated and while most things have gone smoothly, I have two switches I cannot get to update. They are both 1048E on v7.2.1. I initially tried a jump to 7.6.6, but it didn&#x27;t work. Then I figure...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t48gjn/forticlient_standalone_has_been_released_vpn/" target="_blank" rel="noopener">FortiClient standalone has been released (VPN features, paid, limited support)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T07:34:57+00:00</div>
-    <p>Guide: https://docs.fortinet.com/document/forticlient/7.4.7/forticlient-standalone-user-guide/725845/introduction Release notes: https://docs.fortinet.com/document/forticlient/7.4.7/forticlient-standalone-release-notes/371487/introductio...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4plg5/forticlient_ssl_vpn_disconnects_only_on_one/" target="_blank" rel="noopener">FortiClient SSL VPN disconnects only on one Windows desktop after ~20 minutes, then won’t reconnect for another ~20 minutes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T19:22:59+00:00</div>
+    <p>Hi all, I’m trying to isolate a FortiClient VPN issue and I’d like to know if anyone has seen something similar. Environment FortiClient VPN version: 7.0.14.0585 Windows desktop PC CPU: AMD Ryzen 9 9900X Motherboard: X870E AORUS PRO ICE ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t481h4/replacement_of_certificates_automatization_due_to/" target="_blank" rel="noopener">Replacement of certificates - automatization (due to certificate validity period shortening)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T07:09:40+00:00</div>
-    <p>What mature options are available for automatic replacement of certificates on Fortigates? These certificates are used in SSL inspection security profiles (so this not certificate for Fortigate itself). We use two public CAs for our cert...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4ouk8/problem_with_vpn_ipsec/" target="_blank" rel="noopener">Problem with vpn ipsec</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T18:57:11+00:00</div>
+    <p>submitted by /u/NoCold8194 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t42wr8/forticlient_ems_connection_disappears/" target="_blank" rel="noopener">FortiClient EMS connection disappears</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T02:45:21+00:00</div>
-    <p>I’m in the process of migrating from SSLVPN to IPSEC. I created a new profile for IPSEC, and when I connect to the EMS server it installs the connection info, then removes it about 5 seconds later. What am I missing? submitted by /u/rari...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4oryx/problem_with_vpn_ipsec/" target="_blank" rel="noopener">Problem with vpn ipsec</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T18:54:38+00:00</div>
+    <p>Here is a narrative summary of the objective facts regarding the IPsec tunnel stability issue we&#x27;ve been troubleshooting Looking at the IPsec Phase 2 configuration for the connection named vpn example, the Key Life is set to Seconds. How...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t3ro3i/ai_agent_developer_interview_at_fortinet/" target="_blank" rel="noopener">AI Agent Developer Interview at Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T19:18:08+00:00</div>
-    <p>I have an upcoming technical on-site for an AI Agent Developer role at Fortinet and wanted to see if anyone has recent experience with their interview loop. The recruiter confirmed the schedule consists of three back-to-back technical se...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4jo1b/setting_up_a_secure_sftp/" target="_blank" rel="noopener">Setting up a secure SFTP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T15:59:24+00:00</div>
+    <p>Howdy, I have a case I need some assistance with. I need to create a SFTP connection between two sites. The traffic is only one way into an environment. A file dump that needs to be secure. The vendor is wanting to use a ED25519 key. Can...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t3n1ez/upgrade_7411/" target="_blank" rel="noopener">upgrade 7.4.11</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T16:38:36+00:00</div>
-    <p>Hello team. Could you share your experience with version 7.4.11? While I&#x27;ve already reviewed the release notes, I&#x27;d like to know if you&#x27;ve encountered any issues in production environments over the past few months. I currently have a For...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4im9u/fortimanager_inboundoutbound_bandwidth/" target="_blank" rel="noopener">Fortimanager - Inbound/Outbound bandwidth requirements?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T15:22:33+00:00</div>
+    <p>I wonder if anyone here is using Fortimanager to manage maybe 100 devices and could tell me how much ingress/egress data they see come into and out of their Fortimanager appliance? Obviously this will differ depending on usage but I&#x27;m tr...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t3mjk7/windows_detects_fortigate_network_as_public/" target="_blank" rel="noopener">Windows detects FortiGate network as &quot;Public&quot; instead of &quot;Private&quot;</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T16:21:21+00:00</div>
-    <p>Hi everyone, I manage a LAN house and I&#x27;m currently deploying a FortiGate 60F on my local network. We are migrating from a pfSense box, which is still active on the same subnet and acting as the gateway for some machines during this tran...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4ibqa/fortigate_ha_ap_functionality/" target="_blank" rel="noopener">FortiGate HA A-P Functionality</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T15:12:02+00:00</div>
+    <p>Can y&#x27;all help me understand the HA configuration? I&#x27;ve gotten the configuration to where the failover happens seamlessly on the WAN side but not on the LAN side. The WAN stays up but it takes anywhere from 1 to 5 minutes for the LAN sid...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t3ln3b/cant_reach_or_even_ping_ipv6_loopback_address_on/" target="_blank" rel="noopener">Can&#x27;t Reach or even Ping IPv6 Loopback Address on FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T15:50:07+00:00</div>
-    <p>Any idea why I can&#x27;t ping the IPv6 address on my loopback from the same device in the same VDOM? However, I CAN ping the IPv4 address assigned to that same interface. The /128 address does show up in the routing table, and I&#x27;m even adver...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4hqe1/forticlient_vpn_743_build_numbers_not_making/" target="_blank" rel="noopener">Forticlient VPN 7.4.3 build numbers not making sense (to me at least) as of March update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T14:51:03+00:00</div>
+    <p>So, it appears another Forticlient VPN 7.4.3 build was released March 20th in Forticloud. March 20 build: 7.4.3.4726 Previous build: 7.4.3.8758 As it seems difficult to find release notes indicating changes between sub-builds, does this ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/i2fsrrjzrbzg1.png?width=140&amp;height=57&amp;auto=webp&amp;s=00f0a1a103da97d12d6c2d3c90665856e9b41631" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4gcxo/i_can_see_mac_and_of_but_i_cant_ping/" target="_blank" rel="noopener">I can see mac and of but i cant ping</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T14:00:53+00:00</div>
+    <p>https://preview.redd.it/i2fsrrjzrbzg1.png?width=1286&amp;format=png&amp;auto=webp&amp;s=a8671d5b9feb9f51e4c2f1d32523d9f6800d9674 512 / 5.000 I have an environment with Fortinet → Dell Switch → UniFi Switch (USW) using VLANs (1, 10, 30, 40, 60). The ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/il2yzfworbzg1.png?width=140&amp;height=39&amp;auto=webp&amp;s=eac26bc13893ac8fa65d9cd347bb184850d22065" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4fqoj/i_need_help_fortigate_7411_and_fortiap_231k/" target="_blank" rel="noopener">I need help, Fortigate 7.4.11 and Fortiap 231k</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T13:37:30+00:00</div>
+    <p>Hi all. I hope u can help me. Today, my company&#x27;s Fortigate was upgraded to version 7.4.11 (Fortigate is managed by an external company). In the meantime, five 231k fortiaps have also been installed to replace the old fortiaps (221c) In ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t3in67/interface_pair_view/" target="_blank" rel="noopener">Interface Pair View</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T14:03:07+00:00</div>
-    <p>Does anyone actually use this on a regular basis? I hate that the gate defaults to this view. That’s my first change whenever I’m working on a FortiGate is immediately switch to sequence view. Of course, I’ve been a firewall guy forever,...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t3hx7z/forticlient_duplicate_network_adapters/" target="_blank" rel="noopener">FortiClient Duplicate Network Adapters</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-04T13:35:41+00:00</div>
-    <p>We are running FortiClient 7.4.3 on Windows 11 workstations with no EMS licensing. Recently got everyone updated and migrated to IPSEC from SSL. Since installing the update we have been seeing a number of users end up with duplicate adap...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t4f3pc/fortigate_40f_can_ping_but_gui_not_accessible/" target="_blank" rel="noopener">FortiGate 40F – Can ping but GUI not accessible after factory reset</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-05T13:12:56+00:00</div>
+    <p>Hi everyone, I’m currently troubleshooting a FortiGate 40F and could use some guidance. Situation: Device: FortiGate 40F After multiple factory reset attempts (using reset button ~15 seconds) Connected laptop directly to LAN port (port A...</p>
   </div>
 </li>
 <li class="card">
@@ -195,7 +203,7 @@ _Updated: May 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fo
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/9.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/" target="_blank" rel="noopener">How AI Assistants are Moving the Security Goalposts</a></h3>
     <div class="meta">@briankrebs · Sun, 08 Mar 2026 23:35:42 +0000</div>
