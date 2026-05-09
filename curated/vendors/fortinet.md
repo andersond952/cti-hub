@@ -7,31 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6xrvz/automating_fortigate_configuration_state/" target="_blank" rel="noopener">Automating FortiGate configuration &amp; state extraction for cross-vendor firewall migrations – anyone doing this with Ansible, Python, REST API, or YANG?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T04:45:25+00:00</div>
-    <p>Hi everyone, I&#x27;m planning a migration between different firewall vendors, with FortiGate as the target platform. I want to avoid manual, CLI-based configuration as much as possible and instead automate repetitive tasks – both for initial...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/yoxmwf2g7tzg1.png?width=140&amp;height=5&amp;auto=webp&amp;s=a0f03a4264bd31b5c591f9707d39563860eb1ff0" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6smb1/fmg_upgrading_adom_readiness_failed_referencing_a/" target="_blank" rel="noopener">FMG - Upgrading ADOM Readiness Failed, Referencing a fw_policy that no longer exists, how to delete?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T00:38:05+00:00</div>
-    <p>Having a hell of a time trying to upgrade my ADOM on a test fortimanager I am running. I get this error: https://preview.redd.it/yoxmwf2g7tzg1.png?width=1655&amp;format=png&amp;auto=webp&amp;s=e0db883fc40bad3629a08b23c46d66b7f2396139 However, there&#x27;...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t816c0/passive_agent_fnac/" target="_blank" rel="noopener">Passive Agent - FNAC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T10:22:42+00:00</div>
+    <p>Hi folks, I was going through fnac documentation, and looks like we use the passive agent to detect login and log of events. As well as tie together a host registration and a device registration information. My question is if we were to ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6r3hd/fortios_v7412_has_been_released/" target="_blank" rel="noopener">FortiOS v7.4.12 has been released</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T23:30:53+00:00</div>
-    <p>submitted by /u/OuchItBurnsWhenIP [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7wk1u/how_to_find_the_mac_address_of_the_firewall/" target="_blank" rel="noopener">How to find the mac address of the firewall? Version: v7.4.11</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T06:07:06+00:00</div>
+    <p>like in palo we can get it from show system info only here how we can find it using cli command? submitted by /u/youngndumbhere [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/a4agh4n4t10h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=373cd98898e7da73628604bfc7744ce7e6dc490f" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7vx3o/fortiap_with_display/" target="_blank" rel="noopener">FortiAP with display</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T05:33:05+00:00</div>
+    <p>I saw this AP on a LinkedIn post, the FAP-231KD, with a built in display apparently to display ads and for face recognition. Does anyone know anything about this model? Google returned nothing. submitted by /u/leftplayer [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7pdt1/wificaptive_portalsso_redirection/" target="_blank" rel="noopener">Wifi-Captive portal-SSO redirection</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T00:18:41+00:00</div>
+    <p>Hi all, I built a captive portal at the fortiauthenticator and integrated it with MFA. The saml process works well when tested separately in a browser but when the user connect to the SSID it’s not getting redirected properly, an error p...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7iqf7/inherited_network_in_a_bad_state_which_brand_do_i/" target="_blank" rel="noopener">Inherited network in a bad state. which brand do I pick for hardware refresh in my situation?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T19:53:58+00:00</div>
+    <p>Hey all. Just taken on an IT manager role and inherited infrastructure that needs some work. gonna propose a hardware refresh and want some outside input before the quotes come through. The setup: 10 sites, head office plus 9 remote cons...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7ilx8/current_networking_infra_is_all_over_the_place/" target="_blank" rel="noopener">Current networking infra is all over the place. which brand do I choose?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T19:49:15+00:00</div>
+    <p>Hey all. Just taken on an IT manager role and inherited infrastructure that needs some work. gonna propose a hardware refresh and want some outside input before the quotes come through. The setup: 10 sites, head office plus 9 remote cons...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7gqnt/experiencia_nse4_leeme_antes_de_presentar/" target="_blank" rel="noopener">EXPERIENCIA NSE4 - leeme antes de presentar</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T18:41:09+00:00</div>
+    <p>Hola chicos, soy nuevo en este foro, acabo de presentar la NSE4 con un mes de preparación y como es de esperar reprobe. ahi les va mi experiencia. El examen no es el mismo que los que aparecen en sus modulos sin embargo si es muy pero mu...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7d4vt/please_helpigmp_snooping_is_killing_my_fortinet/" target="_blank" rel="noopener">Please help-IGMP snooping is killing my Fortinet switches processor. I cannot seem to disable it.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T16:35:09+00:00</div>
+    <p>submitted by /u/Huddylikes [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/bpzbfk86rxzg1.png?width=140&amp;height=111&amp;auto=webp&amp;s=d7b531cb8674264c2123cd1a5f0725d44c31ecde" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7c17i/error_trying_to_use_forticlient_standalone/" target="_blank" rel="noopener">Error trying to use Forticlient Standalone</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T15:55:39+00:00</div>
+    <p>I am trying to experimentally use the new Forticlient Standalone product https://docs.fortinet.com/document/forticlient/7.4.7/forticlient-standalone-user-guide/725845/introduction i have activated my 3-user free license of FortiIdentity ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/955550021/0/fortinet/blogs~The-Future-of-Connectivity" target="_blank" rel="noopener">The Future of Connectivity</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 8 May 2026 13:00:00 +0000</div>
+    <p>Fortinet introduces the FortiExtender WAN 50G, an ultra-high-performance 5G gateway that extends FortiGate connectivity with secure, resilient wireless WAN and integrated management through FortiOS…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/slt05dlxnwzg1.png?width=140&amp;height=61&amp;auto=webp&amp;s=0f5ae4989087fb28de0b028ac101a236d12a2b85" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t766ph/faz_themes/" target="_blank" rel="noopener">FAZ Themes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T12:16:04+00:00</div>
+    <p>Happy Friday web defenders. Just got a giggle out of the Cat theme for the FAZ. If the FAZ dev guys crawl around here. Kudos for your humor. I hope everyone has a quiet uneventful weekend. https://preview.redd.it/slt05dlxnwzg1.png?width=...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t75mxt/is_there_anyway_to_purchase_90g_rev1_to_add_ha_to/" target="_blank" rel="noopener">Is there anyway to purchase 90G rev1 to add HA to our existing rev1 unit?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T11:51:30+00:00</div>
+    <p>Good morning, We have a customer with a 90G rev1 unit that wants to buy a second unit for HA. I know FortiNET replaced it with a rev2 unit and they cannot HA with each other. I have tried reaching out to support, our CAM, the account SE,...</p>
   </div>
 </li>
 <li class="card">
@@ -40,62 +112,6 @@ _Updated: May 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fo
     <h3><a href="https://feeds.fortinet.com/~/955512947/0/fortinet/blogs~Fortinet-at-the-World-Economic-Forum-Frontier-AI-models-AIDriven-Threats-Deepfakes-and-the-Future-of-Cyber-Defense" target="_blank" rel="noopener">Fortinet at the World Economic Forum: Frontier AI models, AI-Driven Threats, Deepfakes, and the Future of Cyber Defense</a></h3>
     <div class="meta">Fortinet Blog · Thu, 7 May 2026 22:30:00 +0000</div>
     <p>Key takeaways from Fortinet’s participation at the World Economic Forum Annual Meeting on Cybersecurity 2026 on AI-driven threats, deepfakes, and the future of cyber defense.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6mobe/fortigate_ssl_inspection_vs_proxyflowbased_nse4/" target="_blank" rel="noopener">FortiGate SSL Inspection vs Proxy/Flow-Based (NSE4)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T20:35:15+00:00</div>
-    <p>Hey guys, The difference between proxy/flow-based and the SSL inspection profile is confusing me a lot even after a discussion with Claude and Open AI. SSL Inspection Profile = tells FortiGate how to handle TLS/SSL encryption. Certificat...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6lec1/help_monitor_forticlient_ems_server_for_snmp_the/" target="_blank" rel="noopener">Help monitor FortiClient EMS Server for SNMP the FortiSiem</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T19:50:48+00:00</div>
-    <p>I&#x27;m having trouble configuring SNMP from the EMS server to FortiSiem. When I check the logs in FortiSiem, I can see that the packets containing the device information are arriving, but it doesn&#x27;t recognize them. Maybe I need to create a ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6kcys/just_rolled_out_forticlient_emsseeing_random/" target="_blank" rel="noopener">Just rolled out FortiClient EMS…seeing random issues now</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T19:13:25+00:00</div>
-    <p>Hey everyone! Recently rolled out FortiClient EMS in my environment, replacing the old Free FortiClient only version. Deployment went pretty smooth actually, as we automated as much as we could, but we are now starting to see some sporad...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6kct3/is_there_any_definitive_practical_structured/" target="_blank" rel="noopener">Is there any definitive practical structured IPsec configuration guide?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T19:13:18+00:00</div>
-    <p>I&#x27;m looking for a definitive, practical, and structured guide for learning and configuring IPsec. Not just random vendor docs or copy-paste configs, but something that teaches: * Tunnel mode vs Transport mode * IKEv1 vs IKEv2 * Phase 1 /...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6iudk/ipsec_interface/" target="_blank" rel="noopener">IPsec interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T18:20:22+00:00</div>
-    <p>Hello community, the tunnel interfaces (Network-&gt;Interfaces) always seem to be up regardless of the actual status of the tunnel. Is that the case? Why Im seeing some tunnel interfaces down/up? submitted by /u/ontracks [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t6cq19/user_based_access_control_for_vpn/" target="_blank" rel="noopener">User based access control for VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T14:47:14+00:00</div>
-    <p>Setting up a net new IPSEC VPN instance and we need to perform user based access control. Restricting what users can access what services based on group membership. Restricting access by destination IP + ACL is fine for what we are looki...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t69ri7/forticlient_vpn_intune_deployment_problem/" target="_blank" rel="noopener">FortiClient VPN Intune deployment PROBLEM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-07T12:56:40+00:00</div>
-    <p>Hi! Hot fix update doesn&#x27;t change MSI product code. Fortinet recommends to use MSI product code in Intune deployment detection rule. Also I can&#x27;t use version number because it doesn&#x27;t change in hotfix update. How should I do it? I want t...</p>
   </div>
 </li>
 <li class="card">
@@ -160,14 +176,6 @@ _Updated: May 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fo
     <h3><a href="https://feeds.fortinet.com/~/953458115/0/fortinet/blogs~When-Cybercrime-Becomes-an-Industry" target="_blank" rel="noopener">When Cybercrime Becomes an Industry</a></h3>
     <div class="meta">Fortinet Blog · Tue, 7 Apr 2026 14:00:00 +0000</div>
     <p>Episode 6 of the second season of the Fortinet podcast series Brass Tacks - Talking Cybersecurity examines the industrialization of cybercrime, why everyone is a target, and how preparedness, basic…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/953373773/0/fortinet/blogs~FortiOS-Redefining-Secure-Networking-in-the-AI-and-Quantum-Era" target="_blank" rel="noopener">FortiOS 8.0: Redefining Secure Networking in the AI and Quantum Era</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 6 Apr 2026 13:00:00 +0000</div>
-    <p>FortiOS 8.0 introduces unified, AI-governed, and quantum-ready security to help organizations reduce complexity, improve visibility, and defend against emerging AI-driven and post-quantum threats.…</p>
   </div>
 </li>
 </ul>
