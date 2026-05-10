@@ -7,79 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t816c0/passive_agent_fnac/" target="_blank" rel="noopener">Passive Agent - FNAC</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T10:22:42+00:00</div>
-    <p>Hi folks, I was going through fnac documentation, and looks like we use the passive agent to detect login and log of events. As well as tie together a host registration and a device registration information. My question is if we were to ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t93e86/ssl_vpn_issue_that_username_group_selection_show/" target="_blank" rel="noopener">SSL VPN issue that username group selection show N/A</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T10:35:12+00:00</div>
+    <p>Hi! I was using my SSLVPN yesterday night and it worked fine. We have SSLVPN with DUO. I tried to connect to it now but I am not able to connect and I check the logs and I can see that in the logs details it says Group N/A. I did diagnos...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7wk1u/how_to_find_the_mac_address_of_the_firewall/" target="_blank" rel="noopener">How to find the mac address of the firewall? Version: v7.4.11</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T06:07:06+00:00</div>
-    <p>like in palo we can get it from show system info only here how we can find it using cli command? submitted by /u/youngndumbhere [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/a4agh4n4t10h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=373cd98898e7da73628604bfc7744ce7e6dc490f" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7vx3o/fortiap_with_display/" target="_blank" rel="noopener">FortiAP with display</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T05:33:05+00:00</div>
-    <p>I saw this AP on a LinkedIn post, the FAP-231KD, with a built in display apparently to display ads and for face recognition. Does anyone know anything about this model? Google returned nothing. submitted by /u/leftplayer [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t90p44/simple_remote_access_solution/" target="_blank" rel="noopener">Simple remote access solution</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T07:59:22+00:00</div>
+    <p>Hello, We have consultants (around 8-10 of them) that need a temporary remote access connection to a customer that we manage today, but will be soon handed over to an another company that will manage their network infrastructure. The con...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7pdt1/wificaptive_portalsso_redirection/" target="_blank" rel="noopener">Wifi-Captive portal-SSO redirection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T00:18:41+00:00</div>
-    <p>Hi all, I built a captive portal at the fortiauthenticator and integrated it with MFA. The saml process works well when tested separately in a browser but when the user connect to the SSID it’s not getting redirected properly, an error p...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t8f4b6/fortinet_2fa_not_receiving_email_or_text/" target="_blank" rel="noopener">Fortinet 2FA? Not receiving email or text</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T19:15:42+00:00</div>
+    <p>I&#x27;ll start this out with Fortinets not being my expertise. I&#x27;ve not had to configure one of these in years, and even then, it was following our setup guide or using the old Fortigate we were replacing as a template and adjusting values a...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/55oy4t1pr50h1.png?width=140&amp;height=104&amp;auto=webp&amp;s=0a61d28e441b577010172ffebff7f2f1d2bf5e55" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t8dj9e/fortios_76_administrator_am_i_ready/" target="_blank" rel="noopener">FortiOS 7.6 Administrator - Am I ready?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T18:55:04+00:00</div>
+    <p>I have gone through the Fortinet course 3 times. Twice on the previous version and once on the new version. I work with FortiGates at work but not all the time. I just took a practice test generated using Claude AI and got a 90% on it. I...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7iqf7/inherited_network_in_a_bad_state_which_brand_do_i/" target="_blank" rel="noopener">Inherited network in a bad state. which brand do I pick for hardware refresh in my situation?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T19:53:58+00:00</div>
-    <p>Hey all. Just taken on an IT manager role and inherited infrastructure that needs some work. gonna propose a hardware refresh and want some outside input before the quotes come through. The setup: 10 sites, head office plus 9 remote cons...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7ilx8/current_networking_infra_is_all_over_the_place/" target="_blank" rel="noopener">Current networking infra is all over the place. which brand do I choose?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T19:49:15+00:00</div>
-    <p>Hey all. Just taken on an IT manager role and inherited infrastructure that needs some work. gonna propose a hardware refresh and want some outside input before the quotes come through. The setup: 10 sites, head office plus 9 remote cons...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7gqnt/experiencia_nse4_leeme_antes_de_presentar/" target="_blank" rel="noopener">EXPERIENCIA NSE4 - leeme antes de presentar</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T18:41:09+00:00</div>
-    <p>Hola chicos, soy nuevo en este foro, acabo de presentar la NSE4 con un mes de preparación y como es de esperar reprobe. ahi les va mi experiencia. El examen no es el mismo que los que aparecen en sus modulos sin embargo si es muy pero mu...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7d4vt/please_helpigmp_snooping_is_killing_my_fortinet/" target="_blank" rel="noopener">Please help-IGMP snooping is killing my Fortinet switches processor. I cannot seem to disable it.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T16:35:09+00:00</div>
-    <p>submitted by /u/Huddylikes [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/bpzbfk86rxzg1.png?width=140&amp;height=111&amp;auto=webp&amp;s=d7b531cb8674264c2123cd1a5f0725d44c31ecde" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t7c17i/error_trying_to_use_forticlient_standalone/" target="_blank" rel="noopener">Error trying to use Forticlient Standalone</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T15:55:39+00:00</div>
-    <p>I am trying to experimentally use the new Forticlient Standalone product https://docs.fortinet.com/document/forticlient/7.4.7/forticlient-standalone-user-guide/725845/introduction i have activated my 3-user free license of FortiIdentity ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t85jeo/fg101f_single_ps/" target="_blank" rel="noopener">FG101F single PS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T13:49:16+00:00</div>
+    <p>Is there a way to silence the system error power supply failed because there are too many of them and I don’t plan to install a secondary PS submitted by /u/dohat34 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -88,22 +56,6 @@ _Updated: May 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fo
     <h3><a href="https://feeds.fortinet.com/~/955550021/0/fortinet/blogs~The-Future-of-Connectivity" target="_blank" rel="noopener">The Future of Connectivity</a></h3>
     <div class="meta">Fortinet Blog · Fri, 8 May 2026 13:00:00 +0000</div>
     <p>Fortinet introduces the FortiExtender WAN 50G, an ultra-high-performance 5G gateway that extends FortiGate connectivity with secure, resilient wireless WAN and integrated management through FortiOS…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/slt05dlxnwzg1.png?width=140&amp;height=61&amp;auto=webp&amp;s=0f5ae4989087fb28de0b028ac101a236d12a2b85" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t766ph/faz_themes/" target="_blank" rel="noopener">FAZ Themes</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T12:16:04+00:00</div>
-    <p>Happy Friday web defenders. Just got a giggle out of the Cat theme for the FAZ. If the FAZ dev guys crawl around here. Kudos for your humor. I hope everyone has a quiet uneventful weekend. https://preview.redd.it/slt05dlxnwzg1.png?width=...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t75mxt/is_there_anyway_to_purchase_90g_rev1_to_add_ha_to/" target="_blank" rel="noopener">Is there anyway to purchase 90G rev1 to add HA to our existing rev1 unit?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-08T11:51:30+00:00</div>
-    <p>Good morning, We have a customer with a 90G rev1 unit that wants to buy a second unit for HA. I know FortiNET replaced it with a rev2 unit and they cannot HA with each other. I have tried reaching out to support, our CAM, the account SE,...</p>
   </div>
 </li>
 <li class="card">
