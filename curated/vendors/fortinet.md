@@ -7,47 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t93e86/ssl_vpn_issue_that_username_group_selection_show/" target="_blank" rel="noopener">SSL VPN issue that username group selection show N/A</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T10:35:12+00:00</div>
-    <p>Hi! I was using my SSLVPN yesterday night and it worked fine. We have SSLVPN with DUO. I tried to connect to it now but I am not able to connect and I check the logs and I can see that in the logs details it says Group N/A. I did diagnos...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9z61e/ipsec_vpn_network_disconnects_at_mfa_prompt/" target="_blank" rel="noopener">IPSec VPN - Network disconnects at MFA prompt</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T10:23:49+00:00</div>
+    <p>Hello Everyone, Sorry if its too long or because of Grammar issues, I&#x27;m not native to English. I&#x27;m a sysadmin at an MSP and manage Fortigate 120G firmware v7.6.2 for one our customers. We currently have SSL-VPN in place for Remote Access...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t90p44/simple_remote_access_solution/" target="_blank" rel="noopener">Simple remote access solution</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T07:59:22+00:00</div>
-    <p>Hello, We have consultants (around 8-10 of them) that need a temporary remote access connection to a customer that we manage today, but will be soon handed over to an another company that will manage their network infrastructure. The con...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9yzvy/managed_fortigate_service/" target="_blank" rel="noopener">Managed FortiGate Service</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T10:14:34+00:00</div>
+    <p>Hi all, We potenially will have a full Forti stack, firewalls, switches, and APs. We&#x27;re looking at managed support, mainly for critical security issues and firmware updates. We are looking locally but I noticed that Fortinet have their o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t8f4b6/fortinet_2fa_not_receiving_email_or_text/" target="_blank" rel="noopener">Fortinet 2FA? Not receiving email or text</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T19:15:42+00:00</div>
-    <p>I&#x27;ll start this out with Fortinets not being my expertise. I&#x27;ve not had to configure one of these in years, and even then, it was following our setup guide or using the old Fortigate we were replacing as a template and adjusting values a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/55oy4t1pr50h1.png?width=140&amp;height=104&amp;auto=webp&amp;s=0a61d28e441b577010172ffebff7f2f1d2bf5e55" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t8dj9e/fortios_76_administrator_am_i_ready/" target="_blank" rel="noopener">FortiOS 7.6 Administrator - Am I ready?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T18:55:04+00:00</div>
-    <p>I have gone through the Fortinet course 3 times. Twice on the previous version and once on the new version. I work with FortiGates at work but not all the time. I just took a practice test generated using Claude AI and got a 90% on it. I...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9uo8t/fortinet_access_portal_stopped_showing_and_wont/" target="_blank" rel="noopener">Fortinet access portal stopped showing and won&#x27;t let my browser work.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T06:09:20+00:00</div>
+    <p>At work on company. They use fortinet, and it&#x27;s been known to be spotty. Here recently, within the last hour, it just stopped letting my firefox browser work. Usually works with a bit of slowness, I get on. Turn on wifi. Access company w...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t85jeo/fg101f_single_ps/" target="_blank" rel="noopener">FG101F single PS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-09T13:49:16+00:00</div>
-    <p>Is there a way to silence the system error power supply failed because there are too many of them and I don’t plan to install a secondary PS submitted by /u/dohat34 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9pnns/maximum_number_of_groups_in_fortimanager/" target="_blank" rel="noopener">Maximum number of groups in FortiManager</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T01:59:38+00:00</div>
+    <p>Can anyone confirm the maximum number of groups that you can create and use in FortiManager when licensed for 10 devices? We are in the process of moving from Meraki for Fortinet. We are trying to work out the best way to structure every...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9gob5/30e_40f_configuration_transfer/" target="_blank" rel="noopener">30E -&gt;40F Configuration transfer</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T19:38:25+00:00</div>
+    <p>​ Cx Purchased a FortiGate-40F w/UTP &amp; FC Premium to replace 30E with v5.63 build1547 (GA) Can the firmware converter convert the older 5.6x version? Seems I read version 6x is needed? If so, where can I obtain updated versions since the...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9fsd7/deep_inspection_without/" target="_blank" rel="noopener">Deep inspection without Meta/Facebook/Instagram/Whatsapp side-effects is possible?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T19:05:12+00:00</div>
+    <p>I keep seeing logs indicating `Client connection failure due to SSL decryption failure. ssl-anomaly handshake-failure ` and Facebook just functions well on web, the app itself doesnt work whatsapp partially works I also tried disabling Q...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t97zvu/7411_and_transparent_fws/" target="_blank" rel="noopener">7.4.11 and Transparent FWs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T14:11:00+00:00</div>
+    <p>Hi all, Just recently upgraded from 7.2.11 to 7.4.11 on one of my transparent fws and the upgrade immediately bricked the fw (stopped processing all traffic). Opened a case with Fortinet, they told me theirs a bug with 7.4.11 and transpa...</p>
   </div>
 </li>
 <li class="card">
