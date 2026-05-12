@@ -7,63 +7,151 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/1kaemt6bmo0h1.png?width=140&amp;height=73&amp;auto=webp&amp;s=8c9f799993817fec0e3274d305089d13556040cb" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9z61e/ipsec_vpn_network_disconnects_at_mfa_prompt/" target="_blank" rel="noopener">IPSec VPN - Network disconnects at MFA prompt</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T10:23:49+00:00</div>
-    <p>Hello Everyone, Sorry if its too long or because of Grammar issues, I&#x27;m not native to English. I&#x27;m a sysadmin at an MSP and manage Fortigate 120G firmware v7.6.2 for one our customers. We currently have SSL-VPN in place for Remote Access...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1taxnj8/redundancy_for_aws_gwlb_and_fortigate_geneve/" target="_blank" rel="noopener">Redundancy for AWS GWLB and FortiGate Geneve Interfaces</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-12T10:35:31+00:00</div>
+    <p>I just set up a AWS gwlb geneve setup with 2 standalone fortigates (7.4.11) in 2 AZs but i&#x27;ve got a problem with redundancy over the gwlb. The service provider i worked with on this project isnt really helpful and i had to do most things...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/87o47sv37o0h1.png?width=140&amp;height=97&amp;auto=webp&amp;s=2cefb9d6f8da8643ce77657b52e7655604921a61" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tavqw9/hub_fortigate_dual_wan_connect_to_branches_with/" target="_blank" rel="noopener">hub fortigate dual wan connect to branches with one link wan</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-12T08:51:56+00:00</div>
+    <p>Hi, With reference to the presented topology: https://preview.redd.it/87o47sv37o0h1.png?width=828&amp;format=png&amp;auto=webp&amp;s=786bc93d49a537f31f8f643dd04d9b1ea3e57a36 is it possible to configure the following scenario according to these requi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9yzvy/managed_fortigate_service/" target="_blank" rel="noopener">Managed FortiGate Service</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T10:14:34+00:00</div>
-    <p>Hi all, We potenially will have a full Forti stack, firewalls, switches, and APs. We&#x27;re looking at managed support, mainly for critical security issues and firmware updates. We are looking locally but I noticed that Fortinet have their o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tatuhc/fortiswitch_with_8021x_reauth/" target="_blank" rel="noopener">Fortiswitch with 802.1x reauth</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-12T07:03:58+00:00</div>
+    <p>I’ve just rolled out 802.1x for the first time and it ~~appears~~ as if reauth causes disconnects. In the log it says the port is no longer authorised and then reauthenticates. Is that correct? I’d have expected the reauth to work simila...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9uo8t/fortinet_access_portal_stopped_showing_and_wont/" target="_blank" rel="noopener">Fortinet access portal stopped showing and won&#x27;t let my browser work.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T06:09:20+00:00</div>
-    <p>At work on company. They use fortinet, and it&#x27;s been known to be spotty. Here recently, within the last hour, it just stopped letting my firefox browser work. Usually works with a bit of slowness, I get on. Turn on wifi. Access company w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tarrey/turning_a_fortigate_into_a_dedicated_ap_controller/" target="_blank" rel="noopener">Turning a Fortigate into a dedicated AP controller</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-12T05:13:13+00:00</div>
+    <p>Will be replacing our Firewall soon with a different brand but hit a snag, we also have FortiAPs and have to keep the Fortigate as a wifi controller for the foreseeable future. The APs are on the standard LAN network (not a Fortilink) an...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/zpi70fps1n0h1.png?width=140&amp;height=55&amp;auto=webp&amp;s=885bac2f21a832e92a997b5a9d2d6350039b026e" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tarhrs/script_does_not_run_on_time_in_fortigate/" target="_blank" rel="noopener">Script does not run on time in FortiGate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-12T04:59:54+00:00</div>
+    <p>I have the following script configured to kill the &quot;fnbamd&quot; process: https://preview.redd.it/zpi70fps1n0h1.png?width=401&amp;format=png&amp;auto=webp&amp;s=2b8e598a4daeeeae1687be98bde907fc178707e6 However, the script didn&#x27;t work when it should have ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9pnns/maximum_number_of_groups_in_fortimanager/" target="_blank" rel="noopener">Maximum number of groups in FortiManager</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T01:59:38+00:00</div>
-    <p>Can anyone confirm the maximum number of groups that you can create and use in FortiManager when licensed for 10 devices? We are in the process of moving from Meraki for Fortinet. We are trying to work out the best way to structure every...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1taohtz/fortigate_120g_rev2/" target="_blank" rel="noopener">FortiGate 120G Rev2</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-12T02:36:59+00:00</div>
+    <p>I just happened to notice a batch of FortiGate 120G units I received were Rev2. I couldn&#x27;t find much information about the revision online, so I figured I&#x27;d post here just to share in case the community wasn&#x27;t largely aware. The short of...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9gob5/30e_40f_configuration_transfer/" target="_blank" rel="noopener">30E -&gt;40F Configuration transfer</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T19:38:25+00:00</div>
-    <p>​ Cx Purchased a FortiGate-40F w/UTP &amp; FC Premium to replace 30E with v5.63 build1547 (GA) Can the firmware converter convert the older 5.6x version? Seems I read version 6x is needed? If so, where can I obtain updated versions since the...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1taljsc/multivdom_ha_upgrade_restore/" target="_blank" rel="noopener">Multi-vdom ha upgrade / restore</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-12T00:27:50+00:00</div>
+    <p>Hey guys, I recently inherited a pair of fortigates 6k in ha, hosting close to 90 vdoms, fortimanager and fortianalyzer. The whole vdom concept is fairly new to me, i learned enough to understand the complex environment (no inter-vdom li...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t9fsd7/deep_inspection_without/" target="_blank" rel="noopener">Deep inspection without Meta/Facebook/Instagram/Whatsapp side-effects is possible?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T19:05:12+00:00</div>
-    <p>I keep seeing logs indicating `Client connection failure due to SSL decryption failure. ssl-anomaly handshake-failure ` and Facebook just functions well on web, the app itself doesnt work whatsapp partially works I also tried disabling Q...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tainrq/help_with_ap_issue/" target="_blank" rel="noopener">Help with AP issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T22:27:33+00:00</div>
+    <p>Hello everyone, I have a FortiGate 60F connected to a FortiSwitch S124F-FPOE using FortLink on port B of the FortiGate. I also have a FortiAP-23JF connected to port 21 on the FortiSwitch. The AP powers on correctly and the SSID is broadc...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1t97zvu/7411_and_transparent_fws/" target="_blank" rel="noopener">7.4.11 and Transparent FWs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-10T14:11:00+00:00</div>
-    <p>Hi all, Just recently upgraded from 7.2.11 to 7.4.11 on one of my transparent fws and the upgrade immediately bricked the fw (stopped processing all traffic). Opened a case with Fortinet, they told me theirs a bug with 7.4.11 and transpa...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1taikat/azure_fortigate_azure_sdn_no_network_to/" target="_blank" rel="noopener">Azure FortiGate - Azure SDN - No network to management API</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T22:23:44+00:00</div>
+    <p>Hey all, I want to set up the Azure SDN to get Azure IPs and tags from Azure. I&#x27;ve set this up using managed identity but the debugging shows this: azd curl retry: https://management.azure.com/subscriptions?api-version=2022-12-01 azd con...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tahzwr/fortinac_and_8021x_and_entra_id_computer_certs/" target="_blank" rel="noopener">FortiNAC and 802.1x and Entra ID Computer Certs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T22:01:34+00:00</div>
+    <p>Windows NPS cannot issue certificates for devices that are Entra Joined only. It can only look at onprem AD. Client has a FortiNAC. Can this work with device certificate 802.1x? Can FortiNAC query Entra for the computer object? https://f...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tag36d/fortigate_certificate_sync_to_fortiswitch/" target="_blank" rel="noopener">FortiGate certificate sync to FortiSwitch</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T20:51:12+00:00</div>
+    <p>We have a couple of internal CAs here and with a new setup of a FGT 100F on 7.6.6 and several FSW 148Fs on 7.6.6 we noticed that the CA certificates (and user peers) are not syncing to the FortiSwitches. This is with tunnel-mode compatib...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1taefxj/ipsec_vpn_connections_not_working_from_different/" target="_blank" rel="noopener">IPSEC VPN Connections Not Working From Different PC&#x27;s</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T19:54:06+00:00</div>
+    <p>I have been working on these IPSEC VPN connections off an on for about 5 months. We need to move off of SSL VPN so we can upgrade the firmware in our Fortigates, but after going through 4 support engineers and a consulting firm, we were ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tacp4m/help_with_aruba_forti_switch_config/" target="_blank" rel="noopener">Help with Aruba , Forti switch config</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T18:53:56+00:00</div>
+    <p>A little help here Forti guys 🫣 submitted by /u/Remarkable-River-229 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tacor7/fortianalyzer_not_showing_specific_category_of/" target="_blank" rel="noopener">FortiAnalyzer not showing specific category of logs after firewall upgrade</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T18:53:35+00:00</div>
+    <p>upgraded firewalls to 7.6.6 specifically for Gen.AI application filters. after* updating Fortiguard definitions, the Gen.AI application filter is there. But, FortiAnalyzer logs do not have this category as a filter to parse traffic out f...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1taaoj7/routing_vlans_across_vdoms/" target="_blank" rel="noopener">Routing VLANS across VDOMs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T17:45:47+00:00</div>
+    <p>Until recently, we had physically separate networks. The root VDOM on each being prod. We just collapsed these down onto a single Fortigate in multi-vdom mode. So, now we have &quot;root&quot; and &quot;non-root&quot;, both separate prod VDOMs, each with th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ta97qo/best_way_to_add_duo_mfa_to_fortigate_ipsec_vpn/" target="_blank" rel="noopener">Best way to add Duo MFA to FortiGate IPsec VPN (currently using local users)?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T16:56:25+00:00</div>
+    <p>Hey everyone, I have a FortiGate firewall running an IPsec remote access VPN, and currently, all my VPN users are authenticated locally on the Fortigate. We also have Cisco ISE and Duo MFA in our stack. I want to require these VPN users ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ta93l1/fortigatemanaged_fortiswitch_backup_strategy_is/" target="_blank" rel="noopener">FortiGate-managed FortiSwitch backup strategy. Is the FortiGate config enough?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T16:52:36+00:00</div>
+    <p>Hi all, We have a FortiGate managing multiple FortiSwitches over FortiLink and also several FortiAPs. A friend checked the CLI of one of the managed FortiSwitches through the FortiGate and noticed that the switch has more configuration t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ta929z/macos_native_ikev2_split_tunnel/" target="_blank" rel="noopener">MacOS native IKEv2 Split Tunnel</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-11T16:51:28+00:00</div>
+    <p>Anyone have any luck getting a split tunnel to work? I’m about to make a new full tunnel just for Mac’s. We have ME MDM. Fortigate 200F running 7.4 Mac’s on 15.7.5 and 26.2-26.4 I got the split tunnel working on my domain devices via a s...</p>
   </div>
 </li>
 <li class="card">
