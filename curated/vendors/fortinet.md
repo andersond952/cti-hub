@@ -7,127 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/bq5mpqvyg91h1.png?width=140&amp;height=99&amp;auto=webp&amp;s=80803a9ed95bf3a91422ebcebfd882838578855f" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcuc5e/remediation_redirection/" target="_blank" rel="noopener">Remediation redirection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T10:41:30+00:00</div>
-    <p>Hi, The device is inside the vlan qurantine and marked at risk. To see the remediation page should I put the ip address of remediation configured in config wizard as dns-server in the device? Thanks in advance submitted by /u/Yuki-Bhl [l...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tdq1ef/advpn_configuration_with_single_hub_any_suggstion/" target="_blank" rel="noopener">ADVPN configuration with single hub, any suggstion?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-15T08:25:49+00:00</div>
+    <p>Guys, I&#x27;m trying to build a ADVPN setup on my lab by following the cookbook from this reddit. Running version 7.4.8 Single hub with two spokes. Each site have two Internet connections. While from the sdwan sla monitoring on the spoke to ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcoqno/fortidemo_stopped_working_today_maybe_due_to/" target="_blank" rel="noopener">fortidemo stopped working today, maybe due to expired FCSS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T05:35:31+00:00</div>
-    <p>Hi guys, I am trying to run a lab on demo.fortinet.com and via the FortiDemo tab/link on fndn but it seems like its not working because one of my certification &#x27;Fortinet Certified Solution Specialist Secure Networking&#x27; has expired. But I...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tdmaru/any_escalation_path_for_problematic_account/" target="_blank" rel="noopener">Any escalation path for problematic Account Manager?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-15T05:02:43+00:00</div>
+    <p>Is there any official channel through corporate to escalate an issue? Our account manager made a serious mistake and is ghosting both our distributor and our company. Opened a CS ticket on the support portal and they just referred us bac...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcmm2j/vpn_tunnel_stays_down_despite_alwaysup_and/" target="_blank" rel="noopener">VPN tunnel stays down despite Always-Up and Auto-Connect (Even after EMS Profile Sync)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T03:49:30+00:00</div>
-    <p>Hi everyone, I’m running FortiClient EMS 7.4.7 managing 16 production servers. All are configured with IPsec VPNs, Always-Up, and Auto-Connect enabled. Occasionally, a tunnel drops and stays down indefinitely. The strange part is that th...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tda85u/forti_nac/" target="_blank" rel="noopener">FORTI NAC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T20:26:46+00:00</div>
+    <p>Hello everyone, Does anyone have documentation for configuring FortiNAC? I have a limited amount of time to deploy the VM solution. Thank you. submitted by /u/baddozz [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tchytn/need_advice_to_replace_nps_mfa_for_remote_vpn/" target="_blank" rel="noopener">Need advice to replace NPS MFA for remote VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T00:25:02+00:00</div>
-    <p>Hi all, Currently we are using NPS with Azure extension for MFA for our remote ssl vpn, we also use PKI method for user cert verification, so basically we have 3 layers of auth(password/User cert/Azure mfa). There are talks going on repl...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1td2ujy/tftp_firmware_recovery_issues_with_some_recent/" target="_blank" rel="noopener">TFTP Firmware Recovery issues with some recent Fortigate Firmware</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T16:10:58+00:00</div>
+    <p>I have recently opened a ticket with Fortinet and shared this information so that Fortinet can fix a problem that was recently introduced in some of the newer 7.4 versions (such as 7.4.10, 7.4.11 and possibly earlier and later versions)....</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcd7yk/ipsec_tunnel_no_packets_reaching_either_endpoint/" target="_blank" rel="noopener">IPSec Tunnel - No packets reaching either endpoint</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T21:18:07+00:00</div>
-    <p>I am not a network admin and need a second opinion on this. We&#x27;re having a problem with our IPSec tunnel staying up for certain clients using a specific ISP. In most cases we&#x27;d have Fortigate &lt;-&gt; Performance Cloud IPSec tunnels, however,...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1td07gn/migración_vpn_ssl_a_ipsec_con_fac_y_ldap/" target="_blank" rel="noopener">Migración vpn ssl a ipsec con FAC y ldap</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T14:39:56+00:00</div>
+    <p>Buenos días comunidad vengo nuevamente a pedir su apoyo y conocimiento, como saben en la versión 7.6 ya no va más la vpn ssl, por lo que hemos tenido que optar por la migración ipsec, en mi caso hay una infraestructura donde se tiene un ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcc7go/dialup_ipsec_vpn_assign_ip_from_saml_group/" target="_blank" rel="noopener">DialUp IPSec VPN - Assign IP From SAML Group</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T20:41:55+00:00</div>
-    <p>I have an DialUp VPN with Entra ID Auth. IP Assignment via IP Range. I want to assign different ranges to different users based in their Group memberships. I found CLI Option &quot;set assign-ip-from usrgrp&quot;. Is it possible to use this or any...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcxzzw/forticonverter_service_security/" target="_blank" rel="noopener">FortiConverter Service - Security?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T13:19:55+00:00</div>
+    <p>I am curious about other&#x27;s thoughts about the security of using the FortiConverter service going from Fortigate to Fortigate? It is appealing since I am a one person shop and I have two firewalls to migrate. It would take me several days...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcb3tm/fortimanager_with_dns_that_is_being_forwarded/" target="_blank" rel="noopener">Fortimanager with DNS that is being forwarded over a VPN tunnel</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T20:02:45+00:00</div>
-    <p>We are starting down our Fortinet journey and we&#x27;ve got a publicly accessible self hosted fortimanager located at fortimanager.network.contoso.com We point our clients at the foritgate, and then have forwarders set up for contoso.com ove...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tc9w3m/palo_alto_to_fortinet/" target="_blank" rel="noopener">Palo Alto to Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T19:20:33+00:00</div>
-    <p>Hello all, I started a new job recently and they run about 50 Fortinet firewalls managed through Fortimanager. I spent the last 12 years managing Palo Alto firewalls through Panorama. I even worked at Palo Alto Networks for a brief momen...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tc766o/incoming_interface_discrepancy_between_models/" target="_blank" rel="noopener">Incoming interface discrepancy between models?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T17:48:06+00:00</div>
-    <p>I&#x27;ve got two gates (121G and 70G), both running 7.4.11. On the 121G, I have physical port 9 configured on the 121G and physical port 1 on the 70G with an IP, and both have a Vlan subinterface on VLAN 110 (IP 192.168.110.5/24). If I take ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tc4m5m/fortigate_renewal_problem_service_renewed_on/" target="_blank" rel="noopener">Fortigate renewal problem, service renewed on unrelated software product by fulfillment</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T16:22:07+00:00</div>
-    <p>Has anyone ever dealt with this or has any advice? Long story short, we renewed the Fortigate services a while back, but my fault for not checking earlier, when I noticed a few days before expiry that the expiry date hadn&#x27;t been extended...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tc2vwr/azure_and_fortigate/" target="_blank" rel="noopener">Azure and Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T15:24:09+00:00</div>
-    <p>First time diving into this new space of connecting fortigate to our Azure tenant. The ultimate goal is to have a Windows DB Server in Azure that collects data from 7 different office locations. Each office has a fortigate router. Please...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tc29eo/ips_server_vs_client/" target="_blank" rel="noopener">IPS server vs client</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T15:02:18+00:00</div>
-    <p>Hello community, I have a concern with the IPS filters when it comes to where apply client or server filters: 1- Client to internet (client signatures) 2- Internet to servers (servers signatures) 3- Client to servers (both??) 4- Servers ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tc250g/nslookup/" target="_blank" rel="noopener">NSLOOKUP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T14:58:08+00:00</div>
-    <p>Hi guys, I am going blind looking for the answer to this. I am just trying to do an NSLOOKUP from the CLI but all I get back is “command fail. Return code -61”. I’ve tried all the examples in google but they are all the same result. exec...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/1o0lhxd1zw0h1.png?width=140&amp;height=63&amp;auto=webp&amp;s=9ec6182f1f0d2169afc659fdeb1dd57f14f3ae05" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tc19w8/forticlient_746_ipsec_flapping_on_windows_server/" target="_blank" rel="noopener">FortiClient 7.4.6 IPsec Flapping on Windows Server 2019 (Build 17763)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T14:26:48+00:00</div>
-    <p>Hi everyone, I&#x27;m facing a persistent IPsec VPN stability issue on a specific Windows Server 2019 (Build 17763) instance running FortiClient 7.4.6.0891. The Setup: Endpoint: Windows Server 2019, managed via EMS. VPN Config: IPsec IKEv2, A...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/llyxostmpw0h1.png?width=140&amp;height=80&amp;auto=webp&amp;s=a33206e0c44e437e19baf0bbf691531555216ace" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tbzv7y/license_is_being_validated_by_fortiguard_loop/" target="_blank" rel="noopener">License is being validated by FortiGuard. Loop</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-13T13:35:13+00:00</div>
-    <p>https://preview.redd.it/llyxostmpw0h1.png?width=571&amp;format=png&amp;auto=webp&amp;s=e9ea96fc7cdd88c7c89317e1be9ce6c40ef3a30f I have an issue with my FortiGate HA cluster. I haven’t actively maintained the firewalls for a while, but now my primary...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tcx00f/fortiswitch_108d_help/" target="_blank" rel="noopener">Fortiswitch 108D Help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-14T12:41:07+00:00</div>
+    <p>Hi, I am feeling a little stuck. Bought an old Fortiswitch 108D to use at home with my FG60E (Firmware 7.0.19). The switch arrived with a old v3 firmware so appears under Managed Fortiswitches but offline and doesn&#x27;t give me the Upgrade ...</p>
   </div>
 </li>
 <li class="card">
