@@ -7,9 +7,41 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tfl6dt/technical_interview/" target="_blank" rel="noopener">Technical interview</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-17T09:58:27+00:00</div>
+    <p>Is it ok during my technical interview for SE role that the interviewer switched from English to my native language? It went for almost 2 hours and at the end he told me that I was “very good” and will reach out later if I’m accepted for...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tfhjjd/fortigate_e_vpn_hubspoke/" target="_blank" rel="noopener">Fortigate e vpn hub-spoke</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-17T06:33:33+00:00</div>
+    <p>Ciao a tutti Ho un fortigate che fa da centro stella a cui sono collegate decine di sedi remote. Uso il fortigate del centro stella anche come concentratore degli accessi vpn remoti per decine di fornitori esterni che devono dare support...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/n68yhh3r2l1h1.png?width=140&amp;height=80&amp;auto=webp&amp;s=5f0d5dc1a08f24a8579e5e9a1513a6ccd749330f" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tf8vhf/windows_native_ipsec/" target="_blank" rel="noopener">Windows Native IPsec</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-16T23:27:59+00:00</div>
+    <p>I am trying to get windows Native IPsec IKEv2 to work here is my config https://preview.redd.it/n68yhh3r2l1h1.png?width=830&amp;format=png&amp;auto=webp&amp;s=0714332039843be742a1dfeea850a7ba21cbb3ef and i am trying to use the following power shell ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1terdap/fortigate_inbound_smtp_starttls_deep_inspection/" target="_blank" rel="noopener">FortiGate inbound SMTP STARTTLS deep inspection works alone, but SMTP banner times out when any UTM profile is enabled</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-16T11:44:51+00:00</div>
+    <p>Hi all, I am testing **SMTP STARTTLS deep inspection** on an inbound SMTP publishing policy and I want to understand whether this is expected behavior, a configuration issue, or a FortiOS limitation/bug. Environment: FortiGate publishes ...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
