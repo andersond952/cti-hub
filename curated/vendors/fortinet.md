@@ -7,31 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tn4nga/pfe_architecture_question_forticlient_ems/" target="_blank" rel="noopener">PFE Architecture Question: FortiClient EMS Deployment – Dedicated DMZ File Server vs. Exposing EMS Apache via WAF</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T10:04:12+00:00</div>
-    <p>​Hey everyone, ​I&#x27;m currently working on my PFE (Graduation Project) focused on deploying a Zero Trust Architecture using the Fortinet Security Fabric. I’m finalizing the deployment strategy for the FortiClient EMS installer distribution...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1to4obm/discussion_building_an_opensource_dashboard_using/" target="_blank" rel="noopener">[Discussion] Building an Open-Source Dashboard using FortiOS API – Anyone interested or already done this?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T11:54:39+00:00</div>
+    <p>Hi everyone, Like many small-to-medium setups, we are running FortiGate firewalls but we don’t have the budget or licensing for FortiAnalyzer / FortiManager . Because of this, relying solely on the standard FortiOS GUI for daily checks o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tmrsts/fortiswitch_108d_poe_vlan_not_working/" target="_blank" rel="noopener">Fortiswitch 108D POE VLAN not working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-24T23:31:08+00:00</div>
-    <p>I got a FS108D from work nothing crazy about it. I created a VLAN on it but after I did that it doesn’t show anything else on the page I inspected the browser and it says 500 Server error. It has 8 ports and I want to create some VLAN fo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1to394v/fac_loadbalancer_primary_offline_question/" target="_blank" rel="noopener">FAC load-balancer - primary offline question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T10:46:44+00:00</div>
+    <p>Hi, Can&#x27;t seem to find information on this subject. If LB-HA primary is down, and you need to change settings - which you do on secondary in this case - will they sync to primary when it comes back online or do they need to be made there...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/umhpbeqhq33h1.jpg?width=140&amp;height=30&amp;auto=webp&amp;s=621777f8c9de92203e3e918d974d2de28b2392ec" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tmexv4/ipsec_tunnel_interface_stats_way_different/" target="_blank" rel="noopener">IPSEC Tunnel Interface Stats Way Different</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-24T15:15:52+00:00</div>
-    <p>So I have an ipsec tunnel between two Fortigates. The sending side is a 61E running 7.2.13 and the receiving side is a 60F running 7.6.6. Trying to understand why the sending side has a nice smooth approx. 15Mbps of outbound traffic, and...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1to3814/forticlient/" target="_blank" rel="noopener">FortiClient</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T10:45:10+00:00</div>
+    <p>Hello, Is Forti VPN Client for Windows free if I have licensed Fortigate? Thanks. submitted by /u/Mission-Original-948 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnxg5c/need_help_with_genesys_and_fortigate_60f/" target="_blank" rel="noopener">Need help with Genesys and Fortigate 60F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T05:31:27+00:00</div>
+    <p>Hi Everyone, I’m in urgent need of help regarding an issue we are facing with Genesys calling in our company. Our customer support team in India uses Genesys for calling, while the Genesys setup is hosted in our UAE head office. After in...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnkknp/fortiedge_cloud_or_fortilan_cloud/" target="_blank" rel="noopener">FortiEdge Cloud or FortiLAN Cloud</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T20:16:22+00:00</div>
+    <p>Have a project to convert Meraki APs and Switches to FortiAP FAP-431F and 432F and FortiSwitch 100 managed by FortiEdge Cloud. Discovered Meraki have some filtering features like Wireless L7 rules and Content Filtering. Are these support...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/zam75tz6eb3h1.png?width=140&amp;height=62&amp;auto=webp&amp;s=0743a638f49c7e07bfaa0cec393f268acd44771d" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnfumo/how_to_block_chatgpt_anonymous_access/" target="_blank" rel="noopener">How to block ChatGPT anonymous access?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T17:26:19+00:00</div>
+    <p>Long story short, We&#x27;re trying to allow users to acess ChatGPT only with the corporate account, validating the workspace ID. However, even using deep inspecion, blocking some URLs that call the anonymous acess and using web-proxy profile...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tndc9z/pc_fortinet_fortigate_3001f_fg3001f_brand_new/" target="_blank" rel="noopener">[PC] Fortinet FortiGate 3001F FG-3001F Brand New / Unregistered</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T15:58:02+00:00</div>
+    <p>Hi everyone, I’m looking for a price check on a Fortinet FortiGate 3001F / FG-3001F. Condition is brand new, never used, and the unit is unregistered. I’m trying to figure out a realistic resale value for it, especially for homelab/enter...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnd8hv/replace_fortigates_and_add_fortimanager/" target="_blank" rel="noopener">Replace Fortigates and Add FortiManager</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T15:54:16+00:00</div>
+    <p>We are replacing existing FG-60E with 71G at the branches and Fortigate 100E in HA pairs with 121G at HQ while adding FortiManager to the mix. All these are currently connected via VPN. What is the best way to go about doing this? I was ...</p>
   </div>
 </li>
 </ul>
