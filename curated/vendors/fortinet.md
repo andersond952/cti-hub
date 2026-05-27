@@ -7,71 +7,175 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1to4obm/discussion_building_an_opensource_dashboard_using/" target="_blank" rel="noopener">[Discussion] Building an Open-Source Dashboard using FortiOS API – Anyone interested or already done this?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T11:54:39+00:00</div>
-    <p>Hi everyone, Like many small-to-medium setups, we are running FortiGate firewalls but we don’t have the budget or licensing for FortiAnalyzer / FortiManager . Because of this, relying solely on the standard FortiOS GUI for daily checks o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp3kwl/fortinet_and_ai/" target="_blank" rel="noopener">Fortinet and AI</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T12:06:42+00:00</div>
+    <p>I had an interesting interaction with our fortinet account team around AI. The TLDR is, Fortinet is trying to embed FortiAI in all of their flagship products instead of leveraging their “fabric” and centralizing the AI (similar to securi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/qzsdy9kcnn3h1.png?width=140&amp;height=68&amp;auto=webp&amp;s=f042af2de1e3d0f3e9f0eab87c01e79bb904e606" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp18il/peer_proposal_missing_after_upgrading_to_fct_746/" target="_blank" rel="noopener">Peer proposal missing after upgrading to FCT 7.4.6 | IPsec Entra ID auto-connect | Full tunnel | IPv4 only | FortiOS 7.4.11</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T10:12:27+00:00</div>
+    <p>We&#x27;ve recently tried upgrading to FortiClient 7.4.6 or 7.4.7 and noticed that the IPsec tunnel using the Entra ID logon session information was unable to fully establish. The user logs in --&gt; FCT connects to the VPN automatically but the...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1to394v/fac_loadbalancer_primary_offline_question/" target="_blank" rel="noopener">FAC load-balancer - primary offline question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T10:46:44+00:00</div>
-    <p>Hi, Can&#x27;t seem to find information on this subject. If LB-HA primary is down, and you need to change settings - which you do on secondary in this case - will they sync to primary when it comes back online or do they need to be made there...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp0r6s/fortigate_vpn_client_certificate_ocsp/" target="_blank" rel="noopener">FortiGate VPN client certificate OCSP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T09:46:45+00:00</div>
+    <p>I configured OCSP server on Windows Server. For FortiGate configurations I followed this post: https://community.fortinet.com/fortigate-3/technical-tip-configuring-certificate-based-ipsec-tunnels-with-certificates-issued-by-fortiauthenti...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1to3814/forticlient/" target="_blank" rel="noopener">FortiClient</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T10:45:10+00:00</div>
-    <p>Hello, Is Forti VPN Client for Windows free if I have licensed Fortigate? Thanks. submitted by /u/Mission-Original-948 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1touj8w/ztna_web_filter_rating_err_blocking_vs_captive/" target="_blank" rel="noopener">ZTNA Web Filter - Rating err blocking vs Captive Portal (wifi)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T04:14:32+00:00</div>
+    <p>Hi everyone, We&#x27;ve been migrating from SSL VPN to EMS ZTNA over last year or so and are slowly coming across all imperfections that FCT has. Has anyone come across chicken egg problem when &quot;Allow websites when rating error occurs&quot; is set...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnxg5c/need_help_with_genesys_and_fortigate_60f/" target="_blank" rel="noopener">Need help with Genesys and Fortigate 60F</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T05:31:27+00:00</div>
-    <p>Hi Everyone, I’m in urgent need of help regarding an issue we are facing with Genesys calling in our company. Our customer support team in India uses Genesys for calling, while the Genesys setup is hosted in our UAE head office. After in...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1topfgr/at_a_loss_new_71g_v766_random_unexpected_reboots/" target="_blank" rel="noopener">At a loss - New 71G, v7.6.6 - Random, unexpected reboots only during business hours</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T00:27:00+00:00</div>
+    <p>I have a TAC case open as of last week and they even RMA&#x27;d the thing pointing to a potentially faulty onboard PSU - they maintained the config was clean. We received the replacement, imported the config, swapped it out - same exact probl...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnkknp/fortiedge_cloud_or_fortilan_cloud/" target="_blank" rel="noopener">FortiEdge Cloud or FortiLAN Cloud</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T20:16:22+00:00</div>
-    <p>Have a project to convert Meraki APs and Switches to FortiAP FAP-431F and 432F and FortiSwitch 100 managed by FortiEdge Cloud. Discovered Meraki have some filtering features like Wireless L7 rules and Content Filtering. Are these support...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/zam75tz6eb3h1.png?width=140&amp;height=62&amp;auto=webp&amp;s=0743a638f49c7e07bfaa0cec393f268acd44771d" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnfumo/how_to_block_chatgpt_anonymous_access/" target="_blank" rel="noopener">How to block ChatGPT anonymous access?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T17:26:19+00:00</div>
-    <p>Long story short, We&#x27;re trying to allow users to acess ChatGPT only with the corporate account, validating the workspace ID. However, even using deep inspecion, blocking some URLs that call the anonymous acess and using web-proxy profile...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tonn2z/downgrade_forticlient_745_to_7210_from_ems/" target="_blank" rel="noopener">Downgrade FortiClient 7.4.5 to 7.2.10 from EMS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T23:14:15+00:00</div>
+    <p>Hi everyone, do you know if it&#x27;s possible to downgrade FortiClient from 7.4.5 to 7.2.10 directly from ForticlientEMS v7.4.5? Unfortunately, a colleague of mine accidentally pushed the 7.4.5 update and now we lost compatibility with all o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tndc9z/pc_fortinet_fortigate_3001f_fg3001f_brand_new/" target="_blank" rel="noopener">[PC] Fortinet FortiGate 3001F FG-3001F Brand New / Unregistered</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T15:58:02+00:00</div>
-    <p>Hi everyone, I’m looking for a price check on a Fortinet FortiGate 3001F / FG-3001F. Condition is brand new, never used, and the unit is unregistered. I’m trying to figure out a realistic resale value for it, especially for homelab/enter...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tokckf/why_is_diagnose_unavailable_after_updating_to_766/" target="_blank" rel="noopener">Why is `diagnose` unavailable after updating to 7.6.6?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T21:09:18+00:00</div>
+    <p>After incrementally updating from 7.2.8 to 7.6.6, there appears to be some issue with the config. (All the intermediate updates were seamless until this last one). I&#x27;m trying to view the error with the command that it told me to run, but...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tnd8hv/replace_fortigates_and_add_fortimanager/" target="_blank" rel="noopener">Replace Fortigates and Add FortiManager</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-25T15:54:16+00:00</div>
-    <p>We are replacing existing FG-60E with 71G at the branches and Fortigate 100E in HA pairs with 121G at HQ while adding FortiManager to the mix. All these are currently connected via VPN. What is the best way to go about doing this? I was ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tof7zk/wifi_6_best_practices/" target="_blank" rel="noopener">Wi-Fi 6 Best Practices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T18:13:16+00:00</div>
+    <p>I am having a hell of a time getting Wi-Fi6 stable in my test environment. 2.4 &amp; 5 are rock solid. I was hoping someone has some best practices and can take a look at my config to see what I am missing. AP is a 231G running 7.6.4 Fortiga...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1toecop/migración_de_adom_faz_fisico_a_vm_faz/" target="_blank" rel="noopener">Migración de Adom FAZ (FISICO) A VM FAZ.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T17:44:21+00:00</div>
+    <p>Cordial saludo. Alguien puede ayudar con el proceso para migrar un Adom de una Faz se encuentra en una máquina física y necesito migrar toda data de ese vdom a la máquina virtual. Cual es el proceso para llevar a cabo la gestión submitte...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1toasbs/fortiswitch_124e_and_firmware_761/" target="_blank" rel="noopener">Fortiswitch 124E and Firmware 7.6.1</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T15:43:28+00:00</div>
+    <p>Hi All, I am having issues with a 124E. Lots of Fortiswitches in a star and most of them running on 7.6.1. but the 124E&#x27;s seem to have a memory usage of around 75% and Dante devices sporadically act up with PTP / latency issues. Wonderin...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1toabs3/two_diff_macs/" target="_blank" rel="noopener">Two diff macs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T15:27:42+00:00</div>
+    <p>Hi Guys, I’d like to get some advice regarding a FortiGate interface configuration. I want to use a single physical interface with two IP addresses assigned to it: 1.1.1.1/24 1.1.1.2/24 My goal is to have each IP appear with a different ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/957300263/0/fortinet/blogs~Phishing-Campaign-Deploys-JavaScriptDriven-PureLogs-Variant-to-Steal-Sensitive-Data" target="_blank" rel="noopener">Phishing Campaign Deploys JavaScript-Driven PureLogs Variant to Steal Sensitive Data</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 26 May 2026 13:00:00 +0000</div>
+    <p>FortiGuard Labs analyzed a new phishing campaign that uses obfuscated JavaScript, PowerShell, process hollowing, and PureLogs to steal sensitive data…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/956879882/0/fortinet/blogs~Defending-Critical-Infrastructure-Why-OT-Security-Demands-a-ThreatInformed-Approach" target="_blank" rel="noopener">Defending Critical Infrastructure: Why OT Security Demands a Threat-Informed Approach</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 21 May 2026 13:00:00 +0000</div>
+    <p>As OT environments face more targeted cyberattacks, CISOs need a threat-informed security strategy built for industrial risk.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/956771309/0/fortinet/blogs~Misconfigured-Enrolled-and-Dormant-Anatomy-of-a-PPinfect-Kubernetes-Compromise" target="_blank" rel="noopener">Misconfigured, Enrolled and Dormant: Anatomy of a P2Pinfect Kubernetes Compromise</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 20 May 2026 13:00:00 +0000</div>
+    <p>FortiGuard Labs analyzed several P2PInfect compromises in GKE clusters, showing how exposed Redis instances can enable persistent botnet enrollment, dormancy, and cloud runtime risk.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/956536379/0/fortinet/blogs~Fortinet-Expands-Cybersecurity-Investment-in-the-United-Arab-Emirates" target="_blank" rel="noopener">Fortinet Expands Cybersecurity Investment in the United Arab Emirates</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 18 May 2026 13:00:00 +0000</div>
+    <p>Fortinet is expanding its cybersecurity investment in the UAE through local infrastructure, data-sovereignty support, partner enablement, skills development, and collaboration with the UAE Cyber Se…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/956103044/0/fortinet/blogs~PureLogs-Delivery-via-PawsRunner-Steganography" target="_blank" rel="noopener">PureLogs: Delivery via PawsRunner Steganography</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 15 May 2026 13:00:00 +0000</div>
+    <p>FortiGuard Labs has analyzed a steganography-based malware campaign that uses PawsRunner to deliver the PureLogs infostealer, highlighting evolving delivery methods and detection strategies.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/955550021/0/fortinet/blogs~The-Future-of-Connectivity" target="_blank" rel="noopener">The Future of Connectivity</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 8 May 2026 13:00:00 +0000</div>
+    <p>Fortinet introduces the FortiExtender WAN 50G, an ultra-high-performance 5G gateway that extends FortiGate connectivity with secure, resilient wireless WAN and integrated management through FortiOS…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/955512947/0/fortinet/blogs~Fortinet-at-the-World-Economic-Forum-Frontier-AI-models-AIDriven-Threats-Deepfakes-and-the-Future-of-Cyber-Defense" target="_blank" rel="noopener">Fortinet at the World Economic Forum: Frontier AI models, AI-Driven Threats, Deepfakes, and the Future of Cyber Defense</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 7 May 2026 22:30:00 +0000</div>
+    <p>Key takeaways from Fortinet’s participation at the World Economic Forum Annual Meeting on Cybersecurity 2026 on AI-driven threats, deepfakes, and the future of cyber defense.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/954348119/0/fortinet/blogs~The-Fortinet-Sustainability-Report" target="_blank" rel="noopener">The Fortinet 2025 Sustainability Report</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 23 Apr 2026 15:00:00 +0000</div>
+    <p>The Fortinet 2025 Sustainability Report outlines progress in securing the digital world, reducing environmental impact through energy-efficiency products and operations, expanding access to cyberse…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/954108563/0/fortinet/blogs~Supercharged-Security-Security-in-the-Time-of-Mythos" target="_blank" rel="noopener">Supercharged Security: Security in the Time of Mythos</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 20 Apr 2026 13:00:00 +0000</div>
+    <p>As AI has turned cybersecurity into an arms race, learn how Fortinet stands apart by combining long standing AI expertise, secure by design products, and the fastest path from discovery to mitigati…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/953946956/0/fortinet/blogs~Tracking-Mirai-Variant-Nexcorium-A-VulnerabilityDriven-IoT-Botnet-Campaign" target="_blank" rel="noopener">Tracking Mirai Variant Nexcorium: A Vulnerability-Driven IoT Botnet Campaign</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 17 Apr 2026 13:00:00 +0000</div>
+    <p>TBK DVRs targeted by Nexcorium: exploiting, persisting, brute-force attacks, and multi-architecture Mirai-style DDoS in a single campaign. From CVE-2024-3721 exploitation to CVE-2017-17215 reuse, t…</p>
   </div>
 </li>
 </ul>
