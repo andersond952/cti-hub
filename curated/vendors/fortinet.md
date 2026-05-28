@@ -7,95 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp3kwl/fortinet_and_ai/" target="_blank" rel="noopener">Fortinet and AI</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T12:06:42+00:00</div>
-    <p>I had an interesting interaction with our fortinet account team around AI. The TLDR is, Fortinet is trying to embed FortiAI in all of their flagship products instead of leveraging their “fabric” and centralizing the AI (similar to securi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tq1c0m/anyone_having_issues_with_fortiguard_in_europe/" target="_blank" rel="noopener">Anyone having issues with fortiguard in europe?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T11:53:13+00:00</div>
+    <p>Anyone having issues with fortiguard in europe? submitted by /u/Scorpref [link] [comments]</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/qzsdy9kcnn3h1.png?width=140&amp;height=68&amp;auto=webp&amp;s=f042af2de1e3d0f3e9f0eab87c01e79bb904e606" alt="preview">
+  <img src="https://preview.redd.it/mke3szvvuv3h1.png?width=140&amp;height=28&amp;auto=webp&amp;s=61a6216fc449c24fb0782f507c2c11115687fd21" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp18il/peer_proposal_missing_after_upgrading_to_fct_746/" target="_blank" rel="noopener">Peer proposal missing after upgrading to FCT 7.4.6 | IPsec Entra ID auto-connect | Full tunnel | IPv4 only | FortiOS 7.4.11</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T10:12:27+00:00</div>
-    <p>We&#x27;ve recently tried upgrading to FortiClient 7.4.6 or 7.4.7 and noticed that the IPsec tunnel using the Entra ID logon session information was unable to fully establish. The user logs in --&gt; FCT connects to the VPN automatically but the...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp0r6s/fortigate_vpn_client_certificate_ocsp/" target="_blank" rel="noopener">FortiGate VPN client certificate OCSP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T09:46:45+00:00</div>
-    <p>I configured OCSP server on Windows Server. For FortiGate configurations I followed this post: https://community.fortinet.com/fortigate-3/technical-tip-configuring-certificate-based-ipsec-tunnels-with-certificates-issued-by-fortiauthenti...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tq1ali/fyi_dns_over_tls_tls_tcp853_stopped_working_since/" target="_blank" rel="noopener">FYI - DNS over TLS (TLS / TCP/853) stopped working since 4:14AM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T11:51:17+00:00</div>
+    <p>If you&#x27;re having DNS issues since this morning on FortiOS 7.4, the DNS over TLS (TLS / TCP/853) stopped working (ONLY when TLS was enabled) - Fortinet is aware of this. NOTE: FortiOS defaults to using DNS over TLS (DoT) to secure the DNS...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1touj8w/ztna_web_filter_rating_err_blocking_vs_captive/" target="_blank" rel="noopener">ZTNA Web Filter - Rating err blocking vs Captive Portal (wifi)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T04:14:32+00:00</div>
-    <p>Hi everyone, We&#x27;ve been migrating from SSL VPN to EMS ZTNA over last year or so and are slowly coming across all imperfections that FCT has. Has anyone come across chicken egg problem when &quot;Allow websites when rating error occurs&quot; is set...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpzxlr/fortiadc_ha_cant_access_the_active_peers/" target="_blank" rel="noopener">FortiADC HA - Can&#x27;t access the Active Peer&#x27;s management interface</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T10:46:11+00:00</div>
+    <p>I&#x27;m having a weird issue when setting up a HA pair, I can&#x27;t access the active peer through its management interface. I&#x27;ve followed this guide https://docs.fortinet.com/document/fortiadc/8.0.2/administration-guide/60471/deploying-an-activ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1topfgr/at_a_loss_new_71g_v766_random_unexpected_reboots/" target="_blank" rel="noopener">At a loss - New 71G, v7.6.6 - Random, unexpected reboots only during business hours</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T00:27:00+00:00</div>
-    <p>I have a TAC case open as of last week and they even RMA&#x27;d the thing pointing to a potentially faulty onboard PSU - they maintained the config was clean. We received the replacement, imported the config, swapped it out - same exact probl...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpzd6k/is_fortigate_90g_the_right_hardware_firewall_for/" target="_blank" rel="noopener">Is FortiGate 90G the right hardware firewall for our VPN needs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T10:16:14+00:00</div>
+    <p>Hi everyone, for our offices, we currently have a dedicated GBE 100/100 Mbps fiber connection , managed by a Huawei NetEngine AR651 router, with three TP-Link TL-SG1048 switches (to connect approximately 100 network points and three TP-L...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tonn2z/downgrade_forticlient_745_to_7210_from_ems/" target="_blank" rel="noopener">Downgrade FortiClient 7.4.5 to 7.2.10 from EMS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T23:14:15+00:00</div>
-    <p>Hi everyone, do you know if it&#x27;s possible to downgrade FortiClient from 7.4.5 to 7.2.10 directly from ForticlientEMS v7.4.5? Unfortunately, a colleague of mine accidentally pushed the 7.4.5 update and now we lost compatibility with all o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpytg4/ztna_sse_intake_in_gb/" target="_blank" rel="noopener">ZTNA /SSE intake in Gb</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T09:46:58+00:00</div>
+    <p>Hi guys and girls, one question how much Gb in traffic its more common to use, to estimate a ZTNA /SSE intake per user / workload/ endpoint? Example: i need to estimate the differnt type of intakes in GB and taking in mind that the telem...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tokckf/why_is_diagnose_unavailable_after_updating_to_766/" target="_blank" rel="noopener">Why is `diagnose` unavailable after updating to 7.6.6?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T21:09:18+00:00</div>
-    <p>After incrementally updating from 7.2.8 to 7.6.6, there appears to be some issue with the config. (All the intermediate updates were seamless until this last one). I&#x27;m trying to view the error with the command that it told me to run, but...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpwtih/what_issues_occur_when_upgrading_from_fortios/" target="_blank" rel="noopener">What issues occur when upgrading from FortiOS v7.4.12 to v8.0.0?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T07:52:45+00:00</div>
+    <p>Hello, I’m a student studying FortiGate. I have an FG-80F, and I’m planning to upgrade from version 7.4.12 to 8.0.0. Are there any specific issues I should be aware of? Apart from SSL VPN, are there any other potential problems? submitte...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tof7zk/wifi_6_best_practices/" target="_blank" rel="noopener">Wi-Fi 6 Best Practices</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T18:13:16+00:00</div>
-    <p>I am having a hell of a time getting Wi-Fi6 stable in my test environment. 2.4 &amp; 5 are rock solid. I was hoping someone has some best practices and can take a look at my config to see what I am missing. AP is a 231G running 7.6.4 Fortiga...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpsv06/fortiedge_cloud_network_access/" target="_blank" rel="noopener">FortiEdge Cloud network access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T04:21:09+00:00</div>
+    <p>For FortiEdge Cloud, how do you assign different user accounts to have access to different networks? submitted by /u/renovatio522 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1toecop/migración_de_adom_faz_fisico_a_vm_faz/" target="_blank" rel="noopener">Migración de Adom FAZ (FISICO) A VM FAZ.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T17:44:21+00:00</div>
-    <p>Cordial saludo. Alguien puede ayudar con el proceso para migrar un Adom de una Faz se encuentra en una máquina física y necesito migrar toda data de ese vdom a la máquina virtual. Cual es el proceso para llevar a cabo la gestión submitte...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tppgh9/fortigate_and_fortiswitch_compatibility/" target="_blank" rel="noopener">FortiGate and FortiSwitch Compatibility</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T01:44:11+00:00</div>
+    <p>Hello, I have a FortiGate 60F and a FortiSwitch 108D-POE. I just updated my FortiGate firmware to 7.2.13 and switched the patch cable for the FS to the hardlink A port. Before the FS was connected to the 2nd port on the internal fortigat...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1toasbs/fortiswitch_124e_and_firmware_761/" target="_blank" rel="noopener">Fortiswitch 124E and Firmware 7.6.1</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T15:43:28+00:00</div>
-    <p>Hi All, I am having issues with a 124E. Lots of Fortiswitches in a star and most of them running on 7.6.1. but the 124E&#x27;s seem to have a memory usage of around 75% and Dante devices sporadically act up with PTP / latency issues. Wonderin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpdwpi/ipsec_ikev_dns_suffix_issues/" target="_blank" rel="noopener">IPSEC IKEv&quot; - DNS Suffix Issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T18:18:05+00:00</div>
+    <p>Hi Guys, Picked up a client running a 71F on 7.4.8. Need to move to IKE2. That side all works. Just an issue adding DNS Search Suffix. I see the command I need to run is set dns-suffix-search &quot;domain&quot; but it&#x27;s not accepting it. Don&#x27;t rea...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1toabs3/two_diff_macs/" target="_blank" rel="noopener">Two diff macs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-26T15:27:42+00:00</div>
-    <p>Hi Guys, I’d like to get some advice regarding a FortiGate interface configuration. I want to use a single physical interface with two IP addresses assigned to it: 1.1.1.1/24 1.1.1.2/24 My goal is to have each IP appear with a different ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpdvw0/fortiedge_cloud_configuration_boundary/" target="_blank" rel="noopener">FortiEdge Cloud, configuration boundary</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T18:17:18+00:00</div>
+    <p>Trying to understand network and sites for FortiEdge Cloud. Where is the configuration boundary? Let&#x27;s say you have 10 small schools. Would each school be in its own network? Each building in each school would be a site? If the 10 school...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp88qq/at_a_total_loss_multicast_forwarding_just_does/" target="_blank" rel="noopener">At a total loss. Multicast Forwarding just does not work on my 70G (7.4.12 and 7.6.6)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T15:03:26+00:00</div>
+    <p>EDIT: Solved! Thanks to this comment by /u/Stanskananski . It turns out there is a bug that was present from 7.4.8 onward, which prevents Multicast Forwarding to function if CAPWAP Offloading to the NPU is turned on. Seems like it wasn&#x27;t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp7o7x/fortianalyzer_datasets/" target="_blank" rel="noopener">fortianalyzer datasets</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T14:43:26+00:00</div>
+    <p>I want to create a dataset to catch all the traffic flows for some specific any any access list that I want to delete to have more specific one. I created a dataset to run an sql query but the flows I see are way below what it should be ...</p>
   </div>
 </li>
 <li class="card">
