@@ -7,103 +7,87 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tq1c0m/anyone_having_issues_with_fortiguard_in_europe/" target="_blank" rel="noopener">Anyone having issues with fortiguard in europe?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T11:53:13+00:00</div>
-    <p>Anyone having issues with fortiguard in europe? submitted by /u/Scorpref [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/mke3szvvuv3h1.png?width=140&amp;height=28&amp;auto=webp&amp;s=61a6216fc449c24fb0782f507c2c11115687fd21" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tq1ali/fyi_dns_over_tls_tls_tcp853_stopped_working_since/" target="_blank" rel="noopener">FYI - DNS over TLS (TLS / TCP/853) stopped working since 4:14AM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T11:51:17+00:00</div>
-    <p>If you&#x27;re having DNS issues since this morning on FortiOS 7.4, the DNS over TLS (TLS / TCP/853) stopped working (ONLY when TLS was enabled) - Fortinet is aware of this. NOTE: FortiOS defaults to using DNS over TLS (DoT) to secure the DNS...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqyn5r/documentation/" target="_blank" rel="noopener">Documentation</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-29T11:16:05+00:00</div>
+    <p>Are the Documentation Guides down for everyone? https://docs.fortinet.com/document/fortigate/7.2.10/administration-guide?cshid=router_static submitted by /u/Few_Wonder2118 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpzxlr/fortiadc_ha_cant_access_the_active_peers/" target="_blank" rel="noopener">FortiADC HA - Can&#x27;t access the Active Peer&#x27;s management interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T10:46:11+00:00</div>
-    <p>I&#x27;m having a weird issue when setting up a HA pair, I can&#x27;t access the active peer through its management interface. I&#x27;ve followed this guide https://docs.fortinet.com/document/fortiadc/8.0.2/administration-guide/60471/deploying-an-activ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqy2kl/moving_a_pair_of_ha_firewalls_to_a_new_dc_best/" target="_blank" rel="noopener">Moving a pair of HA Firewalls to a new DC : Best practice/tips?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-29T10:49:43+00:00</div>
+    <p>In the next month I will need to move two FG1000 firewalls which contain a bunch of customer VDOMS. Thankfully these are setup in a HA (active/passive) setup. My intention is to first disconnect the LAN of the backup as well as the HA po...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpzd6k/is_fortigate_90g_the_right_hardware_firewall_for/" target="_blank" rel="noopener">Is FortiGate 90G the right hardware firewall for our VPN needs?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T10:16:14+00:00</div>
-    <p>Hi everyone, for our offices, we currently have a dedicated GBE 100/100 Mbps fiber connection , managed by a Huawei NetEngine AR651 router, with three TP-Link TL-SG1048 switches (to connect approximately 100 network points and three TP-L...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqxbps/per_ip_traffic_shaper_download_speed_halved/" target="_blank" rel="noopener">Per IP Traffic Shaper download speed halved | FortiOS 7.4.8 - 7.6.5 | FGT 400F | NP7 | 10 VDOMs | UDP &amp; TCP impacted | 4 internal bug IDs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-29T10:13:03+00:00</div>
+    <p>I&#x27;ve got a ticket with Fortinet raised (they are 4 internal bug IDs re this issue) and I&#x27;d like to know if anyone else has this issue or is able to test and confirm if this happens on other NP7 e.g. 600F, 900G, etc... because the bandwid...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpytg4/ztna_sse_intake_in_gb/" target="_blank" rel="noopener">ZTNA /SSE intake in Gb</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T09:46:58+00:00</div>
-    <p>Hi guys and girls, one question how much Gb in traffic its more common to use, to estimate a ZTNA /SSE intake per user / workload/ endpoint? Example: i need to estimate the differnt type of intakes in GB and taking in mind that the telem...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqs568/config_review_tool_best_practice_like_palo_alto/" target="_blank" rel="noopener">Config review tool / best practice like palo alto?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-29T05:31:42+00:00</div>
+    <p>I&#x27;ve inherit a large firewall &amp; config and was thinking, does Fortinet have something similar to PAN that reviews config and gives improvement suggestion? I&#x27;ve googled but doesnt look like it? submitted by /u/Dry-Pitch5698 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpwtih/what_issues_occur_when_upgrading_from_fortios/" target="_blank" rel="noopener">What issues occur when upgrading from FortiOS v7.4.12 to v8.0.0?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T07:52:45+00:00</div>
-    <p>Hello, I’m a student studying FortiGate. I have an FG-80F, and I’m planning to upgrade from version 7.4.12 to 8.0.0. Are there any specific issues I should be aware of? Apart from SSL VPN, are there any other potential problems? submitte...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqlor7/constant_buffering_of_x_videos_on_mobile/" target="_blank" rel="noopener">Constant buffering of X videos on mobile</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-29T00:33:08+00:00</div>
+    <p>I have a 40F at home with a subscription (home office kind of situation). Anyway, about a week ago, X videos constantly buffer and can take minutes to buffer before playing a few more seconds; basically unviewable when I&#x27;m connected to m...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpsv06/fortiedge_cloud_network_access/" target="_blank" rel="noopener">FortiEdge Cloud network access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T04:21:09+00:00</div>
-    <p>For FortiEdge Cloud, how do you assign different user accounts to have access to different networks? submitted by /u/renovatio522 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqjzxy/fnac_l2_polling_keeps_failing/" target="_blank" rel="noopener">FNAC L2 Polling keeps failing</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T23:21:54+00:00</div>
+    <p>&quot;L2 Poll failed to read hosts from xxx.&quot; as helpful as these logs are in the console, they&#x27;re kinda useless and just advisory. when I browse to inventory and the host, click on the &#x27;Credentials&#x27; tab, and then &#x27;Validate credentials&#x27;, both...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tppgh9/fortigate_and_fortiswitch_compatibility/" target="_blank" rel="noopener">FortiGate and FortiSwitch Compatibility</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T01:44:11+00:00</div>
-    <p>Hello, I have a FortiGate 60F and a FortiSwitch 108D-POE. I just updated my FortiGate firmware to 7.2.13 and switched the patch cable for the FS to the hardlink A port. Before the FS was connected to the 2nd port on the internal fortigat...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqfegs/blocking_cloudflare_warp/" target="_blank" rel="noopener">Blocking Cloudflare WARP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T20:27:16+00:00</div>
+    <p>Hi everyone We are trying to block users from bypassing our web filter using Cloudflare WARP (1.1.1.1). We do not have Active Directory (AD) or GPO controls. Users are running WARP as portable apps directly from USBs (or people who’s alr...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpdwpi/ipsec_ikev_dns_suffix_issues/" target="_blank" rel="noopener">IPSEC IKEv&quot; - DNS Suffix Issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T18:18:05+00:00</div>
-    <p>Hi Guys, Picked up a client running a 71F on 7.4.8. Need to move to IKE2. That side all works. Just an issue adding DNS Search Suffix. I see the command I need to run is set dns-suffix-search &quot;domain&quot; but it&#x27;s not accepting it. Don&#x27;t rea...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tqck3u/ipsec_tunnels_stops_passing_traffic/" target="_blank" rel="noopener">IPSEC Tunnels - Stops passing traffic</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T18:47:34+00:00</div>
+    <p>We have 2 90G firewalls at 2x HQ sites and 7 remote sites all running 70G firewalls. Only one of the 70Gs will randomly stop passing traffic randomly to just one of the HQ sites and sometimes both. (can be multiple weeks apart) -Phase1/P...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/kiybo7a4nw3h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=371bd0b4f67441969b1030366f6cb1a1d3f165ac" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tq8kbz/cmon_guys_at_least_get_your_spelling_right/" target="_blank" rel="noopener">C’mon guys… at least get your spelling right 🙄</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T16:26:59+00:00</div>
+    <p>submitted by /u/ctn1ss [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tpdvw0/fortiedge_cloud_configuration_boundary/" target="_blank" rel="noopener">FortiEdge Cloud, configuration boundary</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T18:17:18+00:00</div>
-    <p>Trying to understand network and sites for FortiEdge Cloud. Where is the configuration boundary? Let&#x27;s say you have 10 small schools. Would each school be in its own network? Each building in each school would be a site? If the 10 school...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp88qq/at_a_total_loss_multicast_forwarding_just_does/" target="_blank" rel="noopener">At a total loss. Multicast Forwarding just does not work on my 70G (7.4.12 and 7.6.6)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T15:03:26+00:00</div>
-    <p>EDIT: Solved! Thanks to this comment by /u/Stanskananski . It turns out there is a bug that was present from 7.4.8 onward, which prevents Multicast Forwarding to function if CAPWAP Offloading to the NPU is turned on. Seems like it wasn&#x27;t...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tp7o7x/fortianalyzer_datasets/" target="_blank" rel="noopener">fortianalyzer datasets</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-27T14:43:26+00:00</div>
-    <p>I want to create a dataset to catch all the traffic flows for some specific any any access list that I want to delete to have more specific one. I created a dataset to run an sql query but the flows I see are way below what it should be ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tq63p1/taking_advantage_of_91g/" target="_blank" rel="noopener">Taking advantage of 91G</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-28T14:58:40+00:00</div>
+    <p>I have an office running on a 91G, and I&#x27;m not sure I am really taking advantage of what it offers over the 90G, namely storage. I am looking for suggestions for easy-to-implement, high-impact improvements I can configure to take full ad...</p>
   </div>
 </li>
 <li class="card">
