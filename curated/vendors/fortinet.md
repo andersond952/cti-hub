@@ -7,9 +7,25 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: May 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: May 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://external-preview.redd.it/Dvad6W-2hW0Fk2mHekyC3LaVemtH52n846FXNFa5cZM.jpeg?width=140&amp;height=47&amp;auto=webp&amp;s=7396eeb3f5bac56dd9de598cfcaed04a81201dd5" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tsrghm/fortinet_dot_dns_over_tls_unreachable_on_7410_7412/" target="_blank" rel="noopener">Fortinet DoT DNS over TLS unreachable on 7.4.10 - 7.4.12</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-31T10:20:16+00:00</div>
+    <p>As per Troubleshooting Tip: DNS unreachable when configured with DNS over TLS on FortiGate after upgarde to v7.4.10 there seems to be an issue with Fortinet DNS over TLS on these Firmware versions. Unfortunately, The known issue is sched...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tsdjsl/free_forticlient_alternatives_compatible_with_the/" target="_blank" rel="noopener">Free FortiClient alternatives compatible with the new ISPec Remote Access VPN with SAML</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-05-30T22:30:13+00:00</div>
+    <p>Hello fellow networking folks, I&#x27;m curious if anyone has had to pivot from FortiClient with the new Remote Access VPN setup on 7.6.x since they are basically forcing everyone to purchase EMS. Unfortunately we have to ask for $$ from the ...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
