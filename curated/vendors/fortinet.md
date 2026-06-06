@@ -7,9 +7,57 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty4sqh/mstp_ring_of_mclag_fs_pairs/" target="_blank" rel="noopener">MSTP Ring of MC-LAG FS pairs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-06T02:24:08+00:00</div>
+    <p>I&#x27;m working on a new site for a manufacting plant planning IT and OT networks. The plant have 7 distinct processes so we are treating each one as an isolated zone (we are still deciding whether each one with and independent FG or a combi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty42t0/nse_4_sample_question_assist/" target="_blank" rel="noopener">NSE 4 sample question assist</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-06T01:50:11+00:00</div>
+    <p>I was taking the sample question quiz on the training institute, and I got to this question: You have implemented the application sensor and the corresponding firewall policy as shown in the exhibits. You cannot access any of the Google ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty0n5f/attempts_to_enable_https_via_cli_returns_command/" target="_blank" rel="noopener">attempts to enable HTTPS via CLI returns command parse error &amp; -61</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T23:14:00+00:00</div>
+    <p>Hello! I was given a Fortinet 71F in FIPS-CC enabled mode and all of the ports were down. I&#x27;ve brought them back up but attempts to set allowaccess ping https fail w/ a command parse error before allowaccess and command fail. return code...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/ysmussqbqj5h1.png?width=140&amp;height=120&amp;auto=webp&amp;s=0900a56e333bb12df4fbbc1c52c9352147a46ef1" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty0k61/forticlient_ems_virus_alert_for/" target="_blank" rel="noopener">Forticlient EMS virus alert for StoreExperienceHost.dll</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T23:10:30+00:00</div>
+    <p>Just started getting virus alerts on numerous workstations running FortiClient EMS version 7.4.6. Assuming this is a false positive since this is a MS Store related DLL? Anyone else seeing this? https://preview.redd.it/ysmussqbqj5h1.png?...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txwvrp/forticlient_ikev2_ldap_and_2fa/" target="_blank" rel="noopener">Forticlient IKEV2, LDAP and 2FA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T20:42:53+00:00</div>
+    <p>A few months ago I posted a thread where I was facing an issue with about 10% of users connecting using IPSEC IKEV2, with LDAP and 2FA (Fortitokens). Those 10% of users were having to use SSL-VPN instead as when they tried to connect usi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txtdcm/port_flapping_with_fortinet_and_voip/" target="_blank" rel="noopener">Port Flapping with Fortinet and VoIP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T18:33:25+00:00</div>
+    <p>I have two locations. One has an 80F and the other has a 90G. No HA and in both, I have a FortiSwitch 148F-FPOE connected via FortiLink with about 20 users at each location. We use Nextiva as a phone provider with Polycom Edge E450s as p...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
@@ -19,83 +67,11 @@ _Updated: June 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/i4nl1whf0g5h1.png?width=140&amp;height=61&amp;auto=webp&amp;s=4531c58b3533fd41d344fa84bb716bb33320e91f" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txhymm/no_local_link_address_on_wan_for_dhcpv6_client/" target="_blank" rel="noopener">No local link address on wan for DHCPv6 client?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T11:15:39+00:00</div>
-    <p>Hi, I have been trying to get an IPv6 address on my wan for a few weeks now. After a conversation with my ISP they advise that they are not receiving any packets from my device attempting to fetch DHCPv6. After enabling debug mode and st...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txfwos/fortiauth_stable_version/" target="_blank" rel="noopener">FortiAuth Stable Version</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T09:26:46+00:00</div>
-    <p>Hi my customer request a FortiAuthenticator ı dont know this product and ı dont know what version ı download, Can you help me guys. I do resarch and 6.6.8 its a mature/stable version. Anyone recommended a another version ? submitted by /...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txexkf/forticlient_ipsec_map_usergroups_to_different/" target="_blank" rel="noopener">Forticlient IPSEC, Map usergroups to different subnets</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T08:30:42+00:00</div>
-    <p>Hi, I&#x27;ve been setting up alot of Forticlient with SSL-VPN but now when it&#x27;s depricated I&#x27;ve need to set it up with IPSEC. When doing the SSL-VPN option we had the possibility to map different usergroups to different IP subnets with the &quot;...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txdmv5/sslvpn_mapping_order/" target="_blank" rel="noopener">SSLVPN mapping order</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T07:13:17+00:00</div>
-    <p>Hello, I&#x27;m trying to setup SSLVPN (I know it&#x27;s deprecated on newer versions) in the following way: I have created 2 groups in FGT, one that references ANY remote group in FortiAuthenticator, and another (also remote FAC group) that refer...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txdl0d/dhcp_request_long_time/" target="_blank" rel="noopener">DHCP request long time</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T07:10:15+00:00</div>
-    <p>submitted by /u/kralonn [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tx1bak/making_fortilink_network_accessible_to_our_servers/" target="_blank" rel="noopener">Making Fortilink network accessible to our servers</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-04T21:34:19+00:00</div>
-    <p>Struggling to get our fortilink switches to be able to see our servers for RADIUS + NAC. We&#x27;ve added firewall policies from Fortilink &gt; servers LAN to allow the traffic but we can&#x27;t SSH to the switches and the switches can&#x27;t see or ping ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1twzbji/need_more_radios/" target="_blank" rel="noopener">Need more radios</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-04T20:20:23+00:00</div>
-    <p>First, I&#x27;m a rookie with Fortigate, just use it for lab learning and home wifi over the years (before they had a GUI). Decided to upgrade my gear and bought a 50G , FAP-231k , FAP-241k where 1 AP has to be a leaf (no e-net there). It see...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1twrnyq/odd_forticlient_747_issue_and_fortigate_factory/" target="_blank" rel="noopener">Odd FortiClient 7.4.7 Issue and FortiGate Factory Certificate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-04T15:51:58+00:00</div>
-    <p>We recently upgraded from FortiOS 7.4.12 and FortiClient 7.2.14, to FortiOS 7.6.7 and FortiClient 7.4.7. Our EMS is also on 7.4.7 (linux). For some reason, our FortiClients have been breaking TLS connections between the Zoom client and Z...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/957736664/0/fortinet/blogs~Fortinet-Earns-AVComparatives-Certification-for-EDR-Detection-Visibility" target="_blank" rel="noopener">Fortinet Earns AV-Comparatives Certification for EDR Detection Visibility</a></h3>
     <div class="meta">Fortinet Blog · Thu, 4 Jun 2026 15:00:00 +0000</div>
     <p>Fortinet earns AV-Comparatives 2026 EDR Detection Validation certification, highlighting FortiEDR visibility, telemetry, and threat hunting support.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1twq0xj/how_do_i_look_at_any_and_all_urls_on_the_logs/" target="_blank" rel="noopener">How do i look at any and all urls on the logs? have web filtering enabled</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-04T14:54:14+00:00</div>
-    <p>So when i go under &quot;Log &amp; Report - Security Events&quot; i can look at some url logs but it doesnt show me most of the urls, even though i have full logging enabled for those rules that have web filtering policy applied to them. How do i chec...</p>
   </div>
 </li>
 <li class="card">
