@@ -7,63 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty4sqh/mstp_ring_of_mclag_fs_pairs/" target="_blank" rel="noopener">MSTP Ring of MC-LAG FS pairs?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-06T02:24:08+00:00</div>
-    <p>I&#x27;m working on a new site for a manufacting plant planning IT and OT networks. The plant have 7 distinct processes so we are treating each one as an isolated zone (we are still deciding whether each one with and independent FG or a combi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty42t0/nse_4_sample_question_assist/" target="_blank" rel="noopener">NSE 4 sample question assist</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-06T01:50:11+00:00</div>
-    <p>I was taking the sample question quiz on the training institute, and I got to this question: You have implemented the application sensor and the corresponding firewall policy as shown in the exhibits. You cannot access any of the Google ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty0n5f/attempts_to_enable_https_via_cli_returns_command/" target="_blank" rel="noopener">attempts to enable HTTPS via CLI returns command parse error &amp; -61</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T23:14:00+00:00</div>
-    <p>Hello! I was given a Fortinet 71F in FIPS-CC enabled mode and all of the ports were down. I&#x27;ve brought them back up but attempts to set allowaccess ping https fail w/ a command parse error before allowaccess and command fail. return code...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/ysmussqbqj5h1.png?width=140&amp;height=120&amp;auto=webp&amp;s=0900a56e333bb12df4fbbc1c52c9352147a46ef1" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ty0k61/forticlient_ems_virus_alert_for/" target="_blank" rel="noopener">Forticlient EMS virus alert for StoreExperienceHost.dll</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T23:10:30+00:00</div>
-    <p>Just started getting virus alerts on numerous workstations running FortiClient EMS version 7.4.6. Assuming this is a false positive since this is a MS Store related DLL? Anyone else seeing this? https://preview.redd.it/ysmussqbqj5h1.png?...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txwvrp/forticlient_ikev2_ldap_and_2fa/" target="_blank" rel="noopener">Forticlient IKEV2, LDAP and 2FA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T20:42:53+00:00</div>
-    <p>A few months ago I posted a thread where I was facing an issue with about 10% of users connecting using IPSEC IKEV2, with LDAP and 2FA (Fortitokens). Those 10% of users were having to use SSL-VPN instead as when they tried to connect usi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txtdcm/port_flapping_with_fortinet_and_voip/" target="_blank" rel="noopener">Port Flapping with Fortinet and VoIP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T18:33:25+00:00</div>
-    <p>I have two locations. One has an 80F and the other has a 90G. No HA and in both, I have a FortiSwitch 148F-FPOE connected via FortiLink with about 20 users at each location. We use Nextiva as a phone provider with Polycom Edge E450s as p...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1txj8xt/can_ping_ip_from_one_site_but_not_another/" target="_blank" rel="noopener">Can ping IP from one site but not another?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-05T12:15:41+00:00</div>
-    <p>To preface, I am not a network admin. I&#x27;m not even an IT person. I&#x27;m just someone who does IT. I&#x27;m having an issue that&#x27;s baffling me and I can&#x27;t get help internally on it. I have two static IP devices at let&#x27;s say Site B that can be pin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tylp26/acl_functionality_issues_with_managed/" target="_blank" rel="noopener">ACL Functionality Issues with Managed FortiSwitches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-06T16:24:41+00:00</div>
+    <p>When will the managed FortiSwitch get enhanced ACL functionality? When using FortiLink, ACLs can only be controlled by IP or MAC address. I don’t understand why it’s not possible to control them by protocol or port range. It’s regrettabl...</p>
   </div>
 </li>
 <li class="card">
