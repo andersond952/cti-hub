@@ -7,15 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tylp26/acl_functionality_issues_with_managed/" target="_blank" rel="noopener">ACL Functionality Issues with Managed FortiSwitches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-06T16:24:41+00:00</div>
-    <p>When will the managed FortiSwitch get enhanced ACL functionality? When using FortiLink, ACLs can only be controlled by IP or MAC address. I don’t understand why it’s not possible to control them by protocol or port range. It’s regrettabl...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u031ic/forticlient_vpn_743_ipsec_ikev2_connection_issue/" target="_blank" rel="noopener">FortiClient VPN 7.4.3 IPSEC Ikev2 connection Issue with Sophos Endpoint on Mac</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-08T09:35:23+00:00</div>
+    <p>I have FortiClient Free VPN 7.4.3 in MacOS with Sophos Enponint installed and I can´t connect to any VPN IPSEC with Ikev2. If i disable Sophos Endpoint, it works. I have seen this: https://community.fortinet.com/forticlient-4/troubleshoo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tzqx9a/fortinet_isr/" target="_blank" rel="noopener">Fortinet ISR</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-07T23:05:58+00:00</div>
+    <p>Hello, I’m applying to a few Inside Sales Representative roles at Fortinet and would like some insight when it comes to the interview process, culture in the sales org, how strict WFH/in office is, and anything of that mature. Context, I...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tzmcay/forticlient_passwordless_with_cert_and_fortitoken/" target="_blank" rel="noopener">Forticlient / passwordless with cert and FortiToken?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-07T19:59:07+00:00</div>
+    <p>Hi everyone, At the moment for VPN we are using: - EMS SN Check - Peer User cert Check (Check if Client certificate is from CA) and with Radius by fortiauthenticator we checking - username - password - fortitoken (prefered through push) ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1tzm8ca/fortigate_enables_nat_for_ipv6_by_default/" target="_blank" rel="noopener">FortiGate Enables NAT for IPv6 by Default</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-07T19:54:50+00:00</div>
+    <p>submitted by /u/webernetz2311 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
