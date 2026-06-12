@@ -7,23 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u30cor/looking_for_the_p_nut_i_will_give_it_back/" target="_blank" rel="noopener">looking for the p nut i will give it back</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T14:17:34+00:00</div>
-    <p>submitted by /u/Forsaken_Meringue493 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u3o75y/why_does_the_default_fortiguard_sd_wan/" target="_blank" rel="noopener">Why does the default FortiGuard SD WAN performance SLA contain fortiguard.com?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T07:14:36+00:00</div>
+    <p>There are only .net FortiGuard domains in the docs. Probing HTTPS to .com servers is kinda pointless when I want to measure my links for the best FortiGuard performance. Or are the servers the same? Troubleshooting Tip: FortiGate FortiGu...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u2z3i1/how_do_you_keep_track_of_why_your_fortigate/" target="_blank" rel="noopener">How do you keep track of why your FortiGate local-in policies exist?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T13:27:56+00:00</div>
-    <p>Going through a firewall review this week and realized we have a handful of local in policies that made perfect sense when they were created but nobody on the team could remember why some of them still exist We have a mix of management a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u3npw4/fortios_remote_access_exploited_every_year_since/" target="_blank" rel="noopener">FortiOS remote access exploited every year since 2022. At what point does this become an architecture review?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T06:46:55+00:00</div>
+    <p>Been managing remote access across a few distributed sites for a while now. Every year since 2022 there has been an actively exploited vuln in this product class. 2024 had an out-of-bounds write being used in the wild while we were still...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u3a5gn/will_central_snat_be_required_in_future_versions/" target="_blank" rel="noopener">Will Central SNAT be required in future versions of FortiOS?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T20:15:38+00:00</div>
+    <p>An MSP that helps manage our Fortigates is saying that future iterations of FortiOS will require Central SNAT. Ive looked all over the web asked Copilot, Gemini and ChatGPT and cant find anything on this. The only thing that I see is cha...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u39u48/forticlient_cert_vpn/" target="_blank" rel="noopener">Forticlient cert - vpn</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T20:03:37+00:00</div>
+    <p>We have a user trying to connect to the VPN. It&#x27;s getting a cert error on their computer but we can test it on another and it works just fine. Where can we delete that cert in her computer? Is like it&#x27;s stuck on an old cert or profile so...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u38ira/7411_7412_upgrade_issue/" target="_blank" rel="noopener">7.4.11 --&gt; 7.4.12 upgrade issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T19:15:03+00:00</div>
+    <p>We have a pair of 100F&#x27;s in HA. This morning we went to 7.4.12 from 7.4.11 and during the upgrade process we lost all internal network and internet access entirely. It seems as though when the secondary FortiGate took over it was in an u...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u35ehh/web_filtering_strategy/" target="_blank" rel="noopener">Web Filtering Strategy</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T17:22:42+00:00</div>
+    <p>Hi. I&#x27;m curious what is your strategy for web filtering. I&#x27;m running a thorough review of our firewall policy, that was inherited from a previous admin. The approach so far was to rely purely on FQDN filtering, but not paying much attent...</p>
   </div>
 </li>
 <li class="card">
@@ -35,86 +67,6 @@ _Updated: June 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/n6vrxtildn6h1.png?width=140&amp;height=37&amp;auto=webp&amp;s=5c4a2f88e4d2d6369d61f4817b768ceff0426cf4" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u2xva6/howto_760_advpn_embedded_sla_enhancements_finally/" target="_blank" rel="noopener">HOWTO: 7.6.0 - ADVPN - Embedded SLA - Enhancements (finally)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T12:37:12+00:00</div>
-    <p>We have many customers that we have helped implemented ADVPN, and also many on Reddit we have shared knowledge with and assisted. Up until through 7.2 and 7.4 code while using BGP on Loopback and using embedded SLA&#x27;s we&#x27;ve been very care...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u2uhcz/has_anyone_taken_the_fcp_fwf_ad74_practice_exam/" target="_blank" rel="noopener">Has anyone taken the FCP_FWF_AD-7.4 practice exam recently? Need advice</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T09:45:56+00:00</div>
-    <p>I’m currently preparing for the FCP_FWF_AD-7.4 exam and trying to improve my practice results. Can someone who has already taken it share: How difficult the real exam is compared to practice tests? Which topics are most important to focu...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/a6ko0sotcm6h1.png?width=140&amp;height=134&amp;auto=webp&amp;s=3042e37ea7b8a6e2216c22d9237d0ab6f61d43f3" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u2ts8x/fortiswitch_in_mclag_causes_outage_after/" target="_blank" rel="noopener">FortiSwitch in MCLAG causes outage after reload/power cycle</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T09:04:36+00:00</div>
-    <p>Hello everyone, I encountered issue where after I reload on of my core switches I lose connection to Access Switch even tho its connected redundantly to my other Core switch. This is diagram of the connection: https://preview.redd.it/a6k...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u2jltg/forticlient_standalone_paid/" target="_blank" rel="noopener">Forticlient standalone paid</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T00:17:45+00:00</div>
-    <p>https://www.youtube.com/watch?v=0yVT352TIzk This is without EMS but allows upwards of 7.4.3 from what i saw. submitted by /u/VeryOldITGuy [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u2e7wj/fgt_authentication_setting_vs_authentication_rule/" target="_blank" rel="noopener">FGT Authentication Setting vs Authentication Rule</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T20:39:34+00:00</div>
-    <p>I’m having trouble figuring out the purpose of “active-auth-scheme” in authentication setting vs “active-auth-scheme” in authentication rule. In my setup I have 2 schemes, one Entra-Id and the other Kerberos. Entra-Id for desktops/laptop...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u29ep0/why_are_some_computers_not_doing_split_tunnel_on/" target="_blank" rel="noopener">Why are some computers not doing SPLIT TUNNEL on IPSEC?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T17:46:57+00:00</div>
-    <p>Hi guys, I recently moved from SSL to IPSEC on several Fortigates. I am having this strange issue where the rare computer is doing full tunnel instead of split tunnel. At one site, I have a 90G on 7.4.x, and i have about 3/30 users whose...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u297n8/fortigate_767_blank_page_on_loading_gui_after/" target="_blank" rel="noopener">FortiGate 7.6.7: blank page on loading GUI after upgrade?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T17:40:08+00:00</div>
-    <p>I&#x27;ve noticed an extremely strange thing upon upgrading some test FortiGates to the new version 7.6.7: the upgrade goes fine, and the FortiGate is happily online and is routing/firewalling-just fine. However, when trying to load the GUI i...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u28ydd/problems_with_forticlient_on_ubuntu/" target="_blank" rel="noopener">Problems with forticlient on Ubuntu</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T17:31:00+00:00</div>
-    <p>I hope somebody can help. We are migrating to forticlient VPN at work. I am the only one using linux, Ubuntu. The issue is that the client connects but then reports &quot;IPsec VPN has been disabled&quot; and disconnects. The connection last for a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u26ude/fortiview_bytes_sentreceived/" target="_blank" rel="noopener">FortiView Bytes (Sent/Received)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T16:17:21+00:00</div>
-    <p>Hello, I&#x27;m trying to wrap my head around how FortiGate/FortiAnalyzer counts bytes per firewall policy and I&#x27;m getting conflicting info depending on where I look. My setup: Policy A: Backup → VM Policy B: VM → Backup What I see: FortiGate...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u25z2q/rss_feeds/" target="_blank" rel="noopener">RSS feeds</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T15:47:10+00:00</div>
-    <p>Howdy, I wanted to repost this here in case there is an alternative way members have found to automate updates. Thanks in advance. submitted by /u/Rexus-CMD [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/957926186/0/fortinet/blogs~Fortinet-Achieves-Million-People-Trained-in-Cybersecurity-Goal-Ahead-of-Schedule" target="_blank" rel="noopener">Fortinet Achieves 1 Million People Trained in Cybersecurity Goal Ahead of Schedule</a></h3>
@@ -123,19 +75,11 @@ _Updated: June 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u24k4p/transparent_mode_fortigate/" target="_blank" rel="noopener">Transparent mode Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T14:56:22+00:00</div>
-    <p>I&#x27;m looking to offer some customers just simple web-filtering and application control for their traffic. All the NAT, Port forwards etc will be controlled on their own devices. The Fortigate is just going to act as a breakout where web-f...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u23sg9/fortigate_tls_dns_stopped_working_suddenly/" target="_blank" rel="noopener">Fortigate tls dns stopped working suddenly</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-10T14:28:14+00:00</div>
-    <p>I have so many customers with fortigate 70-80F, I noticed fortiguard servers aren&#x27;t reachable from command line and forticloud logs showing error, I tried to disabled TLS and enable UDP then it started working, anyone facing the same iss...</p>
+    <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
+    <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
+    <p>A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent...</p>
   </div>
 </li>
 <li class="card">
