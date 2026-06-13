@@ -7,55 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/dzhbcek5jw6h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc0b2325c50a34addfab435db0264bd854fa5afe" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u3o75y/why_does_the_default_fortiguard_sd_wan/" target="_blank" rel="noopener">Why does the default FortiGuard SD WAN performance SLA contain fortiguard.com?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T07:14:36+00:00</div>
-    <p>There are only .net FortiGuard domains in the docs. Probing HTTPS to .com servers is kinda pointless when I want to measure my links for the best FortiGuard performance. Or are the servers the same? Troubleshooting Tip: FortiGate FortiGu...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u44vbz/fac_cloud_and_fgt_radius/" target="_blank" rel="noopener">FAC Cloud and FGT radius</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T19:18:34+00:00</div>
+    <p>I just got a trial of FAC Cloud from my SE and tried to make radius work to then try wifi with radius from FAC. I tried and tried and couldn&#x27;t make it work. Then i looked at the debug in FAC and saw that it sees a natted IP instead of my...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u3npw4/fortios_remote_access_exploited_every_year_since/" target="_blank" rel="noopener">FortiOS remote access exploited every year since 2022. At what point does this become an architecture review?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T06:46:55+00:00</div>
-    <p>Been managing remote access across a few distributed sites for a while now. Every year since 2022 there has been an actively exploited vuln in this product class. 2024 had an out-of-bounds write being used in the wild while we were still...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u43kpr/weird_issue_with_isp_modem/" target="_blank" rel="noopener">Weird issue with ISP modem</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T18:29:54+00:00</div>
+    <p>Having an issue I’ve never seen before, I have a ticket open with TAC but figured I’d see if anyone has ever seen this before. As soon as I plug the modem into my Fortigate, the modem crashes constantly and will never get a lock on the I...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u3a5gn/will_central_snat_be_required_in_future_versions/" target="_blank" rel="noopener">Will Central SNAT be required in future versions of FortiOS?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T20:15:38+00:00</div>
-    <p>An MSP that helps manage our Fortigates is saying that future iterations of FortiOS will require Central SNAT. Ive looked all over the web asked Copilot, Gemini and ChatGPT and cant find anything on this. The only thing that I see is cha...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u42kx2/what_would_you_do_with_these_fortinet_systems/" target="_blank" rel="noopener">What Would You Do With These Fortinet Systems Today?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T17:54:13+00:00</div>
+    <p>Looking for some input from people running Fortinet gear in production. I currently have access to the following equipment, all with active FortiCare / support coverage until 2027/2028: 2x FortiGate 600F 2x FortiSwitch 1024E 2x FortiSwit...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u39u48/forticlient_cert_vpn/" target="_blank" rel="noopener">Forticlient cert - vpn</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T20:03:37+00:00</div>
-    <p>We have a user trying to connect to the VPN. It&#x27;s getting a cert error on their computer but we can test it on another and it works just fine. Where can we delete that cert in her computer? Is like it&#x27;s stuck on an old cert or profile so...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u41qq1/fortigate_managing_fortiswitches_with_third_party/" target="_blank" rel="noopener">FortiGate managing fortiswitches with third party core</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T17:23:24+00:00</div>
+    <p>I am working in a set up where there is a FortiGate and Extreme switches. We wanted to keep the extreme core (its new) but replace the old access extreme switches with FortiSwitch and manage them via the FortiGate. From my research, this...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u38ira/7411_7412_upgrade_issue/" target="_blank" rel="noopener">7.4.11 --&gt; 7.4.12 upgrade issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T19:15:03+00:00</div>
-    <p>We have a pair of 100F&#x27;s in HA. This morning we went to 7.4.12 from 7.4.11 and during the upgrade process we lost all internal network and internet access entirely. It seems as though when the secondary FortiGate took over it was in an u...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u41owz/mind_bending_ipsec_remote_access_vpn_issue/" target="_blank" rel="noopener">Mind bending IPSec remote access VPN issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T17:21:35+00:00</div>
+    <p>Hi all, Hitting a strange error here with IPsec VPN tunnels on my FortiGate 100F. (Latest version) I have two tunnels, I can connect to Tunnel 1 and am able to RDP to servers, ping, hit web pages everything is working perfectly fine. On ...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u35ehh/web_filtering_strategy/" target="_blank" rel="noopener">Web Filtering Strategy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-11T17:22:42+00:00</div>
-    <p>Hi. I&#x27;m curious what is your strategy for web filtering. I&#x27;m running a thorough review of our firewall policy, that was inherited from a previous admin. The approach so far was to rely purely on FQDN filtering, but not paying much attent...</p>
+    <h3><a href="https://feeds.fortinet.com/~/957984980/0/fortinet/blogs~Advancing-ThreatInformed-Defense-through-Fortinet%e2%80%99s-Collaboration-with-MITRE-CTID" target="_blank" rel="noopener">Advancing Threat-Informed Defense through Fortinet’s Collaboration with MITRE CTID</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 12 Jun 2026 15:00:00 +0000</div>
+    <p>Fortinet’s collaboration with the MITRE Center for Threat-Informed Defense helps advance practical cybersecurity through open research, shared expertise, and projects focused on cloud security, pro…</p>
   </div>
 </li>
 <li class="card">
@@ -75,7 +75,7 @@ _Updated: June 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
@@ -136,14 +136,6 @@ _Updated: June 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/957685901/0/fortinet/blogs~Inside-the-CrossPlatform-Propagation-of-a-New-Gafgyt-Variant-CXMO" target="_blank" rel="noopener">Inside the Cross-Platform Propagation of a New Gafgyt Variant C0XMO</a></h3>
     <div class="meta">Fortinet Blog · Wed, 3 Jun 2026 13:00:00 +0000</div>
     <p>FortiGuard Labs analyzes C0XMO, a new Gafgyt variant leveraging DD-WRT exploitation and multi-architecture propagation to expand IoT botnet infections.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957651275/0/fortinet/blogs~Battling-AIBased-Threats-with-FortiNDR" target="_blank" rel="noopener">Battling AI-Based Threats with FortiNDR</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 2 Jun 2026 15:00:00 +0000</div>
-    <p>FortiNDR Cloud helps SOC teams detect AI-based threats, uncover shadow AI, identify prompt injection attempts, and accelerate investigations with FortiAI Assistant.…</p>
   </div>
 </li>
 </ul>
