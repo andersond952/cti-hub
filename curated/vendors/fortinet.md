@@ -7,49 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://preview.redd.it/dzhbcek5jw6h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc0b2325c50a34addfab435db0264bd854fa5afe" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u44vbz/fac_cloud_and_fgt_radius/" target="_blank" rel="noopener">FAC Cloud and FGT radius</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T19:18:34+00:00</div>
-    <p>I just got a trial of FAC Cloud from my SE and tried to make radius work to then try wifi with radius from FAC. I tried and tried and couldn&#x27;t make it work. Then i looked at the debug in FAC and saw that it sees a natted IP instead of my...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u43kpr/weird_issue_with_isp_modem/" target="_blank" rel="noopener">Weird issue with ISP modem</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T18:29:54+00:00</div>
-    <p>Having an issue I’ve never seen before, I have a ticket open with TAC but figured I’d see if anyone has ever seen this before. As soon as I plug the modem into my Fortigate, the modem crashes constantly and will never get a lock on the I...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u42kx2/what_would_you_do_with_these_fortinet_systems/" target="_blank" rel="noopener">What Would You Do With These Fortinet Systems Today?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T17:54:13+00:00</div>
-    <p>Looking for some input from people running Fortinet gear in production. I currently have access to the following equipment, all with active FortiCare / support coverage until 2027/2028: 2x FortiGate 600F 2x FortiSwitch 1024E 2x FortiSwit...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u41qq1/fortigate_managing_fortiswitches_with_third_party/" target="_blank" rel="noopener">FortiGate managing fortiswitches with third party core</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T17:23:24+00:00</div>
-    <p>I am working in a set up where there is a FortiGate and Extreme switches. We wanted to keep the extreme core (its new) but replace the old access extreme switches with FortiSwitch and manage them via the FortiGate. From my research, this...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u41owz/mind_bending_ipsec_remote_access_vpn_issue/" target="_blank" rel="noopener">Mind bending IPSec remote access VPN issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-12T17:21:35+00:00</div>
-    <p>Hi all, Hitting a strange error here with IPsec VPN tunnels on my FortiGate 100F. (Latest version) I have two tunnels, I can connect to Tunnel 1 and am able to RDP to servers, ping, hit web pages everything is working perfectly fine. On ...</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -75,7 +35,7 @@ _Updated: June 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
