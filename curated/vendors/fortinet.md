@@ -7,63 +7,111 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/958088444/0/fortinet/blogs~Introducing-FortiSOC-One-Platform-Total-Control" target="_blank" rel="noopener">Introducing FortiSOC: One Platform, Total Control</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 16 Jun 2026 13:00:00 +0000</div>
+    <p>FortiSOC is Fortinet’s cloud-delivered SOC platform that unifies analytics, SIEM, SOAR, threat intelligence, and AI into a single service with a shared data model to streamline detection and respon…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7cha2/forticlient_ems_747_autoupdate/" target="_blank" rel="noopener">FortiClient EMS 7.4.7 Auto-Update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T12:44:01+00:00</div>
+    <p>Hi All, Recently built a new forticlient EMS server because of the move to Linux for EMS. However currently trying to setup a Forticlient installer/deployment. When creating it, regardless of if I use a custom, package or official, it wi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7at6b/fortinac_rest_api/" target="_blank" rel="noopener">FortiNAC REST API</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T11:26:44+00:00</div>
+    <p>Does anyone have experience with normal administrative work with the REST API on FortiNAC? Specifically logical networks and virtualized devices configuration? 😅 submitted by /u/bartlolli [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7a6je/ha_out_of_sync_v766/" target="_blank" rel="noopener">HA out of Sync v7.6.6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T10:54:19+00:00</div>
+    <p>Hi all, Yesterday I noticed that my FortiGate HA cluster went into an out-of-sync state. I tried recalculating the HA checksums on both nodes and also rebooted the secondary unit, but the cluster is still showing out of sync . Has anyone...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7987m/multihub_multiregion_sdwan/" target="_blank" rel="noopener">MultiHub MultiRegion SDWAN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T10:02:29+00:00</div>
+    <p>Hey folks, anyone here every build a MultiHub MultiRegion SDWAN? 3 Regions 2 Hubs per Region BGP on Loopback with Dynamic BGP Full Mesh between all available ISPs on Spokes and HUBs including Regional SPOKEtoSPOKE ADVPN Including INTER-R...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u77smn/fortianalyzer_on_proxmox_qemuguestagent/" target="_blank" rel="noopener">Fortianalyzer on Proxmox - Qemu-guest-agent</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T08:38:17+00:00</div>
+    <p>Hi! I am trying to deploy a new Fortianalyzer-VM on Proxmox 9.2.2 This post does mention, that the qemu-guest-agent should be working. I am using the image: FAZ_VM64_ALI-v7.4.9.M-build2776-FORTINET.out.kvm ...but PVE is showing: &quot;Guest A...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u77ohe/advpn_spoke_to_spoke_not_communicating/" target="_blank" rel="noopener">ADVPN Spoke to Spoke Not communicating</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T08:31:02+00:00</div>
+    <p>HI everyone i am deploying Hub and Spoke ADVPN BGP over Loopback Topology in Real Environemnt . After Deploy full configuration follow by Fortinett Documents i can see Spoke A can talk to Hub and Spoke B can talk to Hub but when Spoke A ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6znao/forticasb/" target="_blank" rel="noopener">FortiCASB</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T01:26:42+00:00</div>
+    <p>Has anyone tried FortiCASB? Can I use it as standalone for my SaaS apps without any fortinet security products such fortigate, fortisase, etc? ​ In additon, does it support customization of dashboard and can integrate with any siem and s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6y4pp/fortigate_dns_resolve_issue/" target="_blank" rel="noopener">FortiGate DNS resolve issue.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T00:17:59+00:00</div>
+    <p>Hello, Rewriting with chatGPT (I&#x27;m fairly new to Fortinet and am trying to troubleshoot an issue. I&#x27;ll explain as much as I can without disclosing sensitive information. We have a SaaS application that connects to a SQL database over the...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6ryau/mclag_switch_peering_with_itself/" target="_blank" rel="noopener">MCLAG - switch peering with itself</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T20:14:00+00:00</div>
+    <p>Hello all, We recently got a new FAZ and I have been having issues configuring the switch-side LACP configuration. We are on FortiOS 7.4.8, and FortiSwitch 7.4.6. Rough typology is FAZ port 3 &gt; Core 1 &amp; FAZ port 4 -&gt; Core 2 When I config...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6lje8/forticlient_remote_access_profile_set_up_with/" target="_blank" rel="noopener">FortiClient remote access profile set up with certificate. Auth with MAC OS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T16:28:56+00:00</div>
+    <p>Hi all, Anyone ever set up a successful remote access (rVPN) connection for MAC users using cert. auth? For some context, we are attempting to set up remote access connection for the MAC users in our organization. Ideally, we would like ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6kfw4/fortinet_fortiswitch348gfpoe_availability/" target="_blank" rel="noopener">Fortinet FORTISWITCH-348G-FPOE Availability?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T15:50:24+00:00</div>
+    <p>Any idea when these will be available for purchase? submitted by /u/Diligent_Path_372 [link] [comments]</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/958055036/0/fortinet/blogs~PublicPrivate-Cooperation-Is-Critical-to-AIDriven-Cyber-Defense" target="_blank" rel="noopener">Public-Private Cooperation Is Critical to AI-Driven Cyber Defense</a></h3>
     <div class="meta">Fortinet Blog · Mon, 15 Jun 2026 13:00:00 +0000</div>
     <p>Fortinet experts contributed to new World Economic Forum guidance showing how public-private cooperation can help defenders to strengthen cyber defense and to use AI responsibly.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6e4bl/nse_training_update/" target="_blank" rel="noopener">NSE Training Update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T11:40:23+00:00</div>
-    <p>According with https://www.fortinet.com/nse-training-update the Fortinet NSE Certification program will be updated, starting July 15, 2026. Resuming: - 8 certification levels, instead of 5 - certifications validity for two years - new re...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u69uda/fortimanager_2fa_login/" target="_blank" rel="noopener">Fortimanager 2FA login</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T07:40:39+00:00</div>
-    <p>Hi all, ​ Can I check if we can do 2FA using email on fortimanager.? ​ I saw there is an option but I keep getting the error unable to sync to forticloud. Do I need any license for this? submitted by /u/AwayTraffic5735 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u676tf/how_to_nat_fortigategenerated_traffic/" target="_blank" rel="noopener">How to NAT FortiGate-generated traffic</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T05:13:29+00:00</div>
-    <p>Hi everyone, I&#x27;m using a FortiGate 201F with the following network topology: ISP connects to the FortiGate using a private point-to-point IP . The default route points to the ISP ONT&#x27;s private IP. I have a public IP subnet routed behind ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u66u0b/fortigate_vm_gui_completely_blank_white_page/" target="_blank" rel="noopener">FortiGate VM GUI completely blank - white page</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T04:54:44+00:00</div>
-    <p>Hi, I have FortiGate-VM64 v7.6.7 running on VMware Workstation. When I access the GUI the page loads (no timeout) but it&#x27;s completely white/blank. In Chrome DevTools Console I see: 401 Unauthorized on all /api/v2/ calls Events websocket ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u62up7/fortiswitch_autoisl_mclag_issue_with_a_controller/" target="_blank" rel="noopener">Fortiswitch Auto-ISL (MCLAG) issue with a controller</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T01:37:31+00:00</div>
-    <p>Hi everyone, I am running a POC bench setup with 1× FS1024-E (distribution) and 2× FS224E (access). A mechanical controller is connected to both access switches. The goal is to provide link redundancy to the controller, which has a singl...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u5xsh1/fortiap_223e_x_fortigate_74/" target="_blank" rel="noopener">Fortiap 223E x Fortigate 7.4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-14T21:48:08+00:00</div>
-    <p>Hello! I have a FortiP 223E access point. I can set it up in a lab environment on FortiGate 7.4 in the trial version on ESXi? submitted by /u/Gaucho_Green_Eyes [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -91,7 +139,7 @@ _Updated: June 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
@@ -136,14 +184,6 @@ _Updated: June 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/957732002/0/fortinet/blogs~Cybercriminals-Are-Targeting-the-FIFA-World-Cup" target="_blank" rel="noopener">Cybercriminals Are Targeting the FIFA World Cup 2026</a></h3>
     <div class="meta">Fortinet Blog · Thu, 4 Jun 2026 13:00:00 +0000</div>
     <p>FortiGuard Labs research shows how cybercriminals are exploiting the demand for the FIFA World Cup 2026 through phishing, fake tickets, malware, impersonation, and credential theft.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957699014/0/fortinet/blogs~Fortinet-Achieves-AVComparatives-Certification-for-Process-Injection-Protection" target="_blank" rel="noopener">Fortinet Achieves AV-Comparatives Certification for Process Injection Protection</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 3 Jun 2026 17:00:00 +0000</div>
-    <p>Fortinet earns AV-Comparatives 2026 Process Injection Protection certification after preventing or detecting all 15 tested techniques.…</p>
   </div>
 </li>
 </ul>
