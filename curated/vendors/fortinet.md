@@ -7,103 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6769d2c3991b5331/6a3282b9bd5a9a1a504483c3/fortinet_Lutsenko_Oleksandr_shutterstock.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices" target="_blank" rel="noopener">Sweeping Credential-Harvesting Heist Compromises +30K Fortinet Devices</a></h3>
+    <div class="meta">Dark Reading · Wed, 17 Jun 2026 11:15:31 GMT</div>
+    <p>Attackers are targeting various sectors across nearly 200 countries and have already compiled a list of working credentials for 10s of thousands of devices</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/kfxivzglgq7h1.png?width=140&amp;height=67&amp;auto=webp&amp;s=40255a6c84d0ff14c4792a709bfb2ca389e722d4" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7u9ah/fortilink_mclag_downstream_access_switch_trunk/" target="_blank" rel="noopener">FortiLink MCLAG — Downstream Access Switch Trunk Lost After Every HA Failover. How Are You Solving This?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T23:52:11+00:00</div>
+    <p>Hey r/fortinet , Running into what I believe is a fundamental FortiLink limitation and looking to see how others have handled it. **Environment:** - FG200F HA pair (active/passive) - 2x FS448E-POE as MCLAG core switches (Switch1 + Switch...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7rm10/thinking_about_getting_a_secondhand_fortigate/" target="_blank" rel="noopener">Thinking about getting a secondhand FortiGate 600E for my homelab. Is it worth it without licenses?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T22:01:18+00:00</div>
+    <p>Hi everyone, ​ I have the opportunity to acquire a FortiGate 600E from an acquaintance here in Europe for very little money. I want it for my homelab, but I&#x27;m worried that I won&#x27;t be able to register it on FortiCloud and I won&#x27;t be able ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7onan/fg200f_fortios_7412_packet_loss_stalls_only_when/" target="_blank" rel="noopener">FG-200F / FortiOS 7.4.12 - packet loss / stalls only when NAT-T is enabled (remote access IPsec/IKEv2)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T20:08:50+00:00</div>
+    <p>Hi all, I’m troubleshooting a remote access IPsec issue on a FortiGate 200F running FortiOS 7.4.12 and wanted to see if anyone else has run into something similar. When NAT-T is enabled, remote users get noticeable packet loss / stalls o...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7mt8e/fortiwhat_fortieck/" target="_blank" rel="noopener">FortiWHAT?!: FortiECK</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T19:02:59+00:00</div>
+    <p>In my first FortiWHAT?! I&#x27;m going to highlight the FortiECK. These are meant to just be highlights and not deep dives into the product to showcase some of the products that are a little lesser known in the Fortinet Ecosystem. With that d...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7j0vo/new_fortigate_70g_setup_question/" target="_blank" rel="noopener">New Fortigate 70G setup question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T16:49:57+00:00</div>
+    <p>We just purchased a fortigate 70g firewall, and I am having some issues getting it connected to our existing network. For context the existing network consists of 3 cisco switches with multiple vlans setup. I have configured a Trunk port...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/958088444/0/fortinet/blogs~Introducing-FortiSOC-One-Platform-Total-Control" target="_blank" rel="noopener">Introducing FortiSOC: One Platform, Total Control</a></h3>
     <div class="meta">Fortinet Blog · Tue, 16 Jun 2026 13:00:00 +0000</div>
     <p>FortiSOC is Fortinet’s cloud-delivered SOC platform that unifies analytics, SIEM, SOAR, threat intelligence, and AI into a single service with a shared data model to streamline detection and respon…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7cha2/forticlient_ems_747_autoupdate/" target="_blank" rel="noopener">FortiClient EMS 7.4.7 Auto-Update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T12:44:01+00:00</div>
-    <p>Hi All, Recently built a new forticlient EMS server because of the move to Linux for EMS. However currently trying to setup a Forticlient installer/deployment. When creating it, regardless of if I use a custom, package or official, it wi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7at6b/fortinac_rest_api/" target="_blank" rel="noopener">FortiNAC REST API</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T11:26:44+00:00</div>
-    <p>Does anyone have experience with normal administrative work with the REST API on FortiNAC? Specifically logical networks and virtualized devices configuration? 😅 submitted by /u/bartlolli [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7a6je/ha_out_of_sync_v766/" target="_blank" rel="noopener">HA out of Sync v7.6.6</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T10:54:19+00:00</div>
-    <p>Hi all, Yesterday I noticed that my FortiGate HA cluster went into an out-of-sync state. I tried recalculating the HA checksums on both nodes and also rebooted the secondary unit, but the cluster is still showing out of sync . Has anyone...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u7987m/multihub_multiregion_sdwan/" target="_blank" rel="noopener">MultiHub MultiRegion SDWAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T10:02:29+00:00</div>
-    <p>Hey folks, anyone here every build a MultiHub MultiRegion SDWAN? 3 Regions 2 Hubs per Region BGP on Loopback with Dynamic BGP Full Mesh between all available ISPs on Spokes and HUBs including Regional SPOKEtoSPOKE ADVPN Including INTER-R...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u77smn/fortianalyzer_on_proxmox_qemuguestagent/" target="_blank" rel="noopener">Fortianalyzer on Proxmox - Qemu-guest-agent</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T08:38:17+00:00</div>
-    <p>Hi! I am trying to deploy a new Fortianalyzer-VM on Proxmox 9.2.2 This post does mention, that the qemu-guest-agent should be working. I am using the image: FAZ_VM64_ALI-v7.4.9.M-build2776-FORTINET.out.kvm ...but PVE is showing: &quot;Guest A...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u77ohe/advpn_spoke_to_spoke_not_communicating/" target="_blank" rel="noopener">ADVPN Spoke to Spoke Not communicating</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T08:31:02+00:00</div>
-    <p>HI everyone i am deploying Hub and Spoke ADVPN BGP over Loopback Topology in Real Environemnt . After Deploy full configuration follow by Fortinett Documents i can see Spoke A can talk to Hub and Spoke B can talk to Hub but when Spoke A ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6znao/forticasb/" target="_blank" rel="noopener">FortiCASB</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T01:26:42+00:00</div>
-    <p>Has anyone tried FortiCASB? Can I use it as standalone for my SaaS apps without any fortinet security products such fortigate, fortisase, etc? ​ In additon, does it support customization of dashboard and can integrate with any siem and s...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6y4pp/fortigate_dns_resolve_issue/" target="_blank" rel="noopener">FortiGate DNS resolve issue.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-16T00:17:59+00:00</div>
-    <p>Hello, Rewriting with chatGPT (I&#x27;m fairly new to Fortinet and am trying to troubleshoot an issue. I&#x27;ll explain as much as I can without disclosing sensitive information. We have a SaaS application that connects to a SQL database over the...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6ryau/mclag_switch_peering_with_itself/" target="_blank" rel="noopener">MCLAG - switch peering with itself</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T20:14:00+00:00</div>
-    <p>Hello all, We recently got a new FAZ and I have been having issues configuring the switch-side LACP configuration. We are on FortiOS 7.4.8, and FortiSwitch 7.4.6. Rough typology is FAZ port 3 &gt; Core 1 &amp; FAZ port 4 -&gt; Core 2 When I config...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6lje8/forticlient_remote_access_profile_set_up_with/" target="_blank" rel="noopener">FortiClient remote access profile set up with certificate. Auth with MAC OS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T16:28:56+00:00</div>
-    <p>Hi all, Anyone ever set up a successful remote access (rVPN) connection for MAC users using cert. auth? For some context, we are attempting to set up remote access connection for the MAC users in our organization. Ideally, we would like ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u6kfw4/fortinet_fortiswitch348gfpoe_availability/" target="_blank" rel="noopener">Fortinet FORTISWITCH-348G-FPOE Availability?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-15T15:50:24+00:00</div>
-    <p>Any idea when these will be available for purchase? submitted by /u/Diligent_Path_372 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -139,7 +99,7 @@ _Updated: June 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
