@@ -7,79 +7,95 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uasb31/fortibleed_posts_deletion/" target="_blank" rel="noopener">Fortibleed posts deletion</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T09:34:59+00:00</div>
+    <p>I have a question, maybe for a mod. Thursday morning I started seeing fortibleed posts being flagged and deleted by mods. That was the earliest I ever heard of it. Is there a reason for this? This obviously was very valid and could have ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uaq0zn/fortibleed_blog/" target="_blank" rel="noopener">FortiBleed blog</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T07:13:13+00:00</div>
+    <p>submitted by /u/ForeignRice [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uair2h/fortigate_change_gremlins/" target="_blank" rel="noopener">Fortigate change gremlins.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T00:48:11+00:00</div>
+    <p>TL;DR: File/SMB access over an ADVPN tunnel went unreliable right after a firewall hardware and firmware refresh. Found a hard path MTU ceiling of 1422 (1394 byte ping payload max) on the route to the servers, no MSS clamp anywhere, and ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uach5k/por_qué_cuando_conecto_una_red_local_a_un/" target="_blank" rel="noopener">¿Por qué cuando conecto una red local a un firewall fortigate pierdo conexión con mis Access point?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T20:14:39+00:00</div>
+    <p>tengo un problema a nivel de red, tengo switches industriales y antenas y por esos equipos corren vlans de datos y voz y la empresa donde instalamos esos equipos quiere integrar a esos switches una vlan de internet creada en el firewall ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uabd4x/unable_to_select_mgmt2_as_ha_management_interface/" target="_blank" rel="noopener">Unable to Select mgmt2 as HA Management Interface</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T19:29:52+00:00</div>
+    <p>Hi all, I’m running a FortiGate 2600F HA pair on FortiOS 7.6.6. I recently broke and rebuilt the HA cluster due to a VDOM issue. After moving the interfaces back to the root VDOM, everything appears to be working correctly. However, I ca...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/958204499/0/fortinet/blogs~Analysis-of-Reported-Credential-Compromise-of-FortiGate-Devices" target="_blank" rel="noopener">Analysis of Reported Credential Compromise of FortiGate Devices</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 19 Jun 2026 17:22:00 +0000</div>
+    <p>What you need to know about “FortiBleed”…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua4oau/advanced_support_change_without_communication/" target="_blank" rel="noopener">Advanced support change without communication</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T15:14:21+00:00</div>
+    <p>Hello guys, recently there seems to have been a change in the management of Advanced Support Core accounts. If you are not familiar these are &quot;entry-level&quot; TAM account you do not get a few benefits of PRO such as TAM but you will get a d...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua3q99/fortibleed_question_about_admin_accounts/" target="_blank" rel="noopener">FortiBleed question about admin accounts</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T14:37:17+00:00</div>
+    <p>Good day everyone, I have been trying to look for this or googling it. However, one of our non-production firewalls was hit by this FortiBleed. unfortunatly the logging does not show much. I&#x27;ve gone through the firewall to see what excit...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua3m6x/error_cliente_resolucion_dns_fortinet/" target="_blank" rel="noopener">Error Cliente, resolucion DNS Fortinet</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T14:32:52+00:00</div>
+    <p>Hola a todos. Quisiera pedir su ayuda para analizar un inconveniente que estoy presentando con un cliente. Soy un ISP y le entrego un servicio de Internet dedicado con una dirección IP pública. El enlace llega a un puerto WAN de un Forti...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/958197488/0/fortinet/blogs~Teaching-Cybersecurity-the-Way-It%e2%80%99s-Actually-Used" target="_blank" rel="noopener">Teaching Cybersecurity the Way It’s Actually Used</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 19 Jun 2026 14:00:00 +0000</div>
+    <p>A conversation with Graafschap College, a Fortinet Academic Partner, on how they’re embedding cybersecurity into everyday IT education programs, and why hands-on experience is the most effective ap…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua1sxf/cannot_change_local_captive_portal_for_saml/" target="_blank" rel="noopener">Cannot change &quot;local&quot; captive portal for SAML authentication</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T13:18:29+00:00</div>
     <p>Hi everyone, I&#x27;m trying to change the redirect IP address of the authentication portal on a FortiGate running version 7.4.12 . I currently have a captive portal that intercepts internet users traffic and authenticate them via SAML with E...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9zdae/fortigate_admin_login_duo/" target="_blank" rel="noopener">FortiGate Admin Login &amp; Duo</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T11:24:15+00:00</div>
-    <p>I have a pair of FortiGates in Azure that I&#x27;m having problems getting Duo to work. I have a pair of 101F&#x27;s running 7.4.x and have it working in them. I mirrored the configuration the same. ⁠Added the Duo Proxy server as a LDAP server. Te...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/1t7eaw8st78h1.jpg?width=140&amp;height=84&amp;auto=webp&amp;s=b38eefa92c585f00fb5f72224dddc3af93023638" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9yc69/microsoft_office_365_apps_updates_and_microsoft/" target="_blank" rel="noopener">Microsoft Office 365 apps updates and Microsoft Office 365 Offline Installation download does not work.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T10:28:17+00:00</div>
-    <p>The Microsoft Office 365 apps updates download does not work in the office that shows this. Microsoft Office 365 Offline Installation C:\setup.exe /download C:\configuration.xml which will download about 3gb of installation data for the ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9w37i/azure_vwan_and_fortigate_managed_app_nva/" target="_blank" rel="noopener">Azure vWAN and fortigate managed app NVA deployment using terraform, is it worth it?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T08:14:52+00:00</div>
-    <p>Hey guys, I&#x27;m failrly new to terraform and I was curious if fortigate managed app deployment within Azure vWAN is a good option/approach? Keeping in mind that rest of the infrastructure (vWAN, HUB/s, VNETs, NSGs, subnets..etc) is deploye...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9lkyf/server_loadbalancer_healthcheck_sni_and_cert/" target="_blank" rel="noopener">Server Load-Balancer Healthcheck - SNI and Cert Verification</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-18T23:15:42+00:00</div>
-    <p>Hi Everyone, I would like to setup an https virtual-server on my FGTs but I&#x27;m concerned about a few things: Is there any way to stop the FGT validating the cert of the internal app as part of it&#x27;s healthchecking? Would the &#x27;set http-host...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9kxjh/tough_times_with_the_fortiwifi_50g5g/" target="_blank" rel="noopener">Tough times with the FortiWiFi 50G-5G</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-18T22:47:33+00:00</div>
-    <p>Hey all, wondering if there&#x27;s any words of wisdom for me in this journey i&#x27;ve been on to try and get consistent internet for a business operation that is out in the boonies w/o access to a traditional internet service. They have a couple...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9knkk/fortigate_admin_mfa/" target="_blank" rel="noopener">FortiGate - Admin MFA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-18T22:35:31+00:00</div>
-    <p>Currently using FortiToken for MFA on our fleet of gates and been looking at switching over to SAML via Entra to take advantage of conditional access policies + our ITDR against the accounts. Looking for other experiences to see if peopl...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9cnrz/loss_of_ipsec_remember_password_functionality/" target="_blank" rel="noopener">Loss of IPSEC Remember Password Functionality after Firewall Upgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-18T17:29:45+00:00</div>
-    <p>Weird one. We have forticlient configured via EMS to allow saving passwords and auto connect however all of a sudden forticlient no longer remembers the password and thus no autoconnect. The save password and autoconnect tick boxes are t...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1u9bavj/any_reason_not_to_upgrade_to_7412/" target="_blank" rel="noopener">Any reason not to upgrade to 7.4.12??</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-18T16:39:50+00:00</div>
-    <p>I manage a small fleet of Fortigates and currently on the 7.4.11 build. Nothing too crazy being used, just ZTNA and IPSEC VPN. Looking to upgrade to 7.4.12. Any reason not too just to be on the most current 7.4.X build? thanks in advance...</p>
   </div>
 </li>
 <li class="card">
@@ -131,7 +147,7 @@ _Updated: June 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
@@ -160,22 +176,6 @@ _Updated: June 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/957866381/0/fortinet/blogs~Executive-QA-Strong-Q-Momentum-Driven-by-Differentiated-Innovation-and-Customer-Demand" target="_blank" rel="noopener">Executive Q&amp;A: Strong Q1 Momentum Driven by Differentiated Innovation and Customer Demand</a></h3>
     <div class="meta">Fortinet Blog · Mon, 8 Jun 2026 15:00:00 +0000</div>
     <p>Fortinet leaders discuss Q1 2026 results, customer momentum, AI-driven demand, and continued growth across Secure Networking, Unified SASE, and SecOps.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957736664/0/fortinet/blogs~Fortinet-Earns-AVComparatives-Certification-for-EDR-Detection-Visibility" target="_blank" rel="noopener">Fortinet Earns AV-Comparatives Certification for EDR Detection Visibility</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 4 Jun 2026 15:00:00 +0000</div>
-    <p>Fortinet earns AV-Comparatives 2026 EDR Detection Validation certification, highlighting FortiEDR visibility, telemetry, and threat hunting support.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957732002/0/fortinet/blogs~Cybercriminals-Are-Targeting-the-FIFA-World-Cup" target="_blank" rel="noopener">Cybercriminals Are Targeting the FIFA World Cup 2026</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 4 Jun 2026 13:00:00 +0000</div>
-    <p>FortiGuard Labs research shows how cybercriminals are exploiting the demand for the FIFA World Cup 2026 through phishing, fake tickets, malware, impersonation, and credential theft.…</p>
   </div>
 </li>
 </ul>
