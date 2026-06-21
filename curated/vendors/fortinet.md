@@ -7,47 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uasb31/fortibleed_posts_deletion/" target="_blank" rel="noopener">Fortibleed posts deletion</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T09:34:59+00:00</div>
-    <p>I have a question, maybe for a mod. Thursday morning I started seeing fortibleed posts being flagged and deleted by mods. That was the earliest I ever heard of it. Is there a reason for this? This obviously was very valid and could have ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub8ber/help_regarding_fortinet_certification/" target="_blank" rel="noopener">Help regarding fortinet certification</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T21:40:02+00:00</div>
+    <p>So my collage is doing summer traning program for fortinet certification (nse 1 - 5) depending on performance and I do not know anything about the cybersecurity field so it would be really helpful if anyone can help me understand value o...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/h05gmhmssh8h1.png?width=140&amp;height=90&amp;auto=webp&amp;s=c346edbb58a316485d55db62925ef9c6734413f6" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub5ubn/custom_email_template_for_ssl_vpn_mfa_tokens/" target="_blank" rel="noopener">custom email template for ssl vpn mfa tokens? (getting marked as spam)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T19:53:43+00:00</div>
+    <p>trying to stop token emails sent via smtp from landing straight into users&#x27; spam folders for ssl vpn mfa login. i checked system &gt; replacement messages (second screenshot) but there’s no template listed there for modifying the actual bod...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uaq0zn/fortibleed_blog/" target="_blank" rel="noopener">FortiBleed blog</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T07:13:13+00:00</div>
-    <p>submitted by /u/ForeignRice [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub2ual/fortiap_with_intervlan_routing_on_3rd_party_l3/" target="_blank" rel="noopener">FortiAP with Intervlan routing on 3rd party L3 switches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T17:50:42+00:00</div>
+    <p>New to FortiWiFi and we currently have Cisco Layer 3 switches performing intervlan routing and routing to the gateway (fortigate). Usually for other WiFis solutions we would have our SSID&#x27;s and tag the vlan ID against each and Tag the AP...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uair2h/fortigate_change_gremlins/" target="_blank" rel="noopener">Fortigate change gremlins.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T00:48:11+00:00</div>
-    <p>TL;DR: File/SMB access over an ADVPN tunnel went unreliable right after a firewall hardware and firmware refresh. Found a hard path MTU ceiling of 1422 (1394 byte ping payload max) on the route to the servers, no MSS clamp anywhere, and ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub1i2h/nse_exam_changes_should_i_wait_till_july_16th/" target="_blank" rel="noopener">NSE exam changes -Should i wait till July 16th</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T16:55:39+00:00</div>
+    <p>Hey everyone, I’m planning to go for the NSE4, but I noticed Fortinet is making some changes to their certification structure (seems like they keep updating it). I’ve been doing a lot of hands-on work recently with Fortinet and FortiMana...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uach5k/por_qué_cuando_conecto_una_red_local_a_un/" target="_blank" rel="noopener">¿Por qué cuando conecto una red local a un firewall fortigate pierdo conexión con mis Access point?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T20:14:39+00:00</div>
-    <p>tengo un problema a nivel de red, tengo switches industriales y antenas y por esos equipos corren vlans de datos y voz y la empresa donde instalamos esos equipos quiere integrar a esos switches una vlan de internet creada en el firewall ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uazohz/nse_4_certified/" target="_blank" rel="noopener">NSE 4 Certified!</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T15:39:47+00:00</div>
+    <p>I have been preparing for NSE4 for almost 2 months and decided to get the exam date about two weeks later in the start of June and the exam stress just entered my mind and i was pretty tensed about how will i clear it Just few days ago i...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uabd4x/unable_to_select_mgmt2_as_ha_management_interface/" target="_blank" rel="noopener">Unable to Select mgmt2 as HA Management Interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T19:29:52+00:00</div>
-    <p>Hi all, I’m running a FortiGate 2600F HA pair on FortiOS 7.6.6. I recently broke and rebuilt the HA cluster due to a VDOM issue. After moving the interfaces back to the root VDOM, everything appears to be working correctly. However, I ca...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uax3ef/how_about_this_nearnac_setup/" target="_blank" rel="noopener">How About this near-NAC setup?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T13:48:25+00:00</div>
+    <p>I&#x27;ve had challenges in the past with using the native FOS NAC setup related to performance. It could be that I&#x27;m trying to get it to work on older switches with older firmware running on ring topologies, I&#x27;m not sure. We are moving to ne...</p>
   </div>
 </li>
 <li class="card">
@@ -59,43 +67,11 @@ _Updated: June 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua4oau/advanced_support_change_without_communication/" target="_blank" rel="noopener">Advanced support change without communication</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T15:14:21+00:00</div>
-    <p>Hello guys, recently there seems to have been a change in the management of Advanced Support Core accounts. If you are not familiar these are &quot;entry-level&quot; TAM account you do not get a few benefits of PRO such as TAM but you will get a d...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua3q99/fortibleed_question_about_admin_accounts/" target="_blank" rel="noopener">FortiBleed question about admin accounts</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T14:37:17+00:00</div>
-    <p>Good day everyone, I have been trying to look for this or googling it. However, one of our non-production firewalls was hit by this FortiBleed. unfortunatly the logging does not show much. I&#x27;ve gone through the firewall to see what excit...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua3m6x/error_cliente_resolucion_dns_fortinet/" target="_blank" rel="noopener">Error Cliente, resolucion DNS Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T14:32:52+00:00</div>
-    <p>Hola a todos. Quisiera pedir su ayuda para analizar un inconveniente que estoy presentando con un cliente. Soy un ISP y le entrego un servicio de Internet dedicado con una dirección IP pública. El enlace llega a un puerto WAN de un Forti...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/958197488/0/fortinet/blogs~Teaching-Cybersecurity-the-Way-It%e2%80%99s-Actually-Used" target="_blank" rel="noopener">Teaching Cybersecurity the Way It’s Actually Used</a></h3>
     <div class="meta">Fortinet Blog · Fri, 19 Jun 2026 14:00:00 +0000</div>
     <p>A conversation with Graafschap College, a Fortinet Academic Partner, on how they’re embedding cybersecurity into everyday IT education programs, and why hands-on experience is the most effective ap…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ua1sxf/cannot_change_local_captive_portal_for_saml/" target="_blank" rel="noopener">Cannot change &quot;local&quot; captive portal for SAML authentication</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-19T13:18:29+00:00</div>
-    <p>Hi everyone, I&#x27;m trying to change the redirect IP address of the authentication portal on a FortiGate running version 7.4.12 . I currently have a captive portal that intercepts internet users traffic and authenticate them via SAML with E...</p>
   </div>
 </li>
 <li class="card">
