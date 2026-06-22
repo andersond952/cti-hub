@@ -7,55 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub8ber/help_regarding_fortinet_certification/" target="_blank" rel="noopener">Help regarding fortinet certification</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T21:40:02+00:00</div>
-    <p>So my collage is doing summer traning program for fortinet certification (nse 1 - 5) depending on performance and I do not know anything about the cybersecurity field so it would be really helpful if anyone can help me understand value o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/h05gmhmssh8h1.png?width=140&amp;height=90&amp;auto=webp&amp;s=c346edbb58a316485d55db62925ef9c6734413f6" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub5ubn/custom_email_template_for_ssl_vpn_mfa_tokens/" target="_blank" rel="noopener">custom email template for ssl vpn mfa tokens? (getting marked as spam)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T19:53:43+00:00</div>
-    <p>trying to stop token emails sent via smtp from landing straight into users&#x27; spam folders for ssl vpn mfa login. i checked system &gt; replacement messages (second screenshot) but there’s no template listed there for modifying the actual bod...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucmhsf/adding_firewall_to_new_ha_pair/" target="_blank" rel="noopener">Adding firewall to new HA pair</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T14:43:15+00:00</div>
+    <p>What is the correct way to add a new secondary firewall to an existing firewall to form an HA pair? The process I would normally follow is: Configure HA on the existing firewall (which will become the primary) and set the priority higher...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub2ual/fortiap_with_intervlan_routing_on_3rd_party_l3/" target="_blank" rel="noopener">FortiAP with Intervlan routing on 3rd party L3 switches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T17:50:42+00:00</div>
-    <p>New to FortiWiFi and we currently have Cisco Layer 3 switches performing intervlan routing and routing to the gateway (fortigate). Usually for other WiFis solutions we would have our SSID&#x27;s and tag the vlan ID against each and Tag the AP...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucf7me/ipsec_ikev1_aggressive_mode_phase_1_ike/" target="_blank" rel="noopener">IPsec IKEv1 Aggressive Mode, Phase 1 IKE negotiation timeout for multiple home users. FortiClient free.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T08:51:54+00:00</div>
+    <p>Environment: FortiGate 50G, FortiOS 7.6.6, FortiClient VPN Only (free, no EMS) I&#x27;m the IT person at a small company, not a network specialist, I handle general IT support and this VPN issue is above my usual comfort zone. Posting here be...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ub1i2h/nse_exam_changes_should_i_wait_till_july_16th/" target="_blank" rel="noopener">NSE exam changes -Should i wait till July 16th</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T16:55:39+00:00</div>
-    <p>Hey everyone, I’m planning to go for the NSE4, but I noticed Fortinet is making some changes to their certification structure (seems like they keep updating it). I’ve been doing a lot of hands-on work recently with Fortinet and FortiMana...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucdrno/fmg_provisioning_template_assignment_still_broken/" target="_blank" rel="noopener">FMG provisioning template assignment still broken</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T07:23:13+00:00</div>
+    <p>Does work: Assign a Template to a device in the Device View. (Device Manager -&gt; Devices &amp; Groups -&gt; &lt;device&gt; -&gt; Templates -&gt; Assign) Does not work: Assign the Device to a Template in the Template view. (Device Manager -&gt; Provisioning Tem...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uazohz/nse_4_certified/" target="_blank" rel="noopener">NSE 4 Certified!</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T15:39:47+00:00</div>
-    <p>I have been preparing for NSE4 for almost 2 months and decided to get the exam date about two weeks later in the start of June and the exam stress just entered my mind and i was pretty tensed about how will i clear it Just few days ago i...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uax3ef/how_about_this_nearnac_setup/" target="_blank" rel="noopener">How About this near-NAC setup?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-20T13:48:25+00:00</div>
-    <p>I&#x27;ve had challenges in the past with using the native FOS NAC setup related to performance. It could be that I&#x27;m trying to get it to work on older switches with older firmware running on ring topologies, I&#x27;m not sure. We are moving to ne...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ubuf7x/fortigate_transparent_mode_certificateprobefailed/" target="_blank" rel="noopener">FortiGate (Transparent Mode) – certificate-probe-failed with Web Filter, no TLS probe packets</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-21T16:30:33+00:00</div>
+    <p>Hi all, I’m running a FortiGate 50G on FortiOS 7.4.12 in transparent mode . My WAN port is connected to my ISP and lan1 is connected to the WAN port of my router. lan3 is connected to a lan port of my router for management access. When I...</p>
   </div>
 </li>
 <li class="card">
@@ -123,7 +107,7 @@ _Updated: June 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
