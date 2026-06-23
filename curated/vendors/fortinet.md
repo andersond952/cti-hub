@@ -7,39 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd01406474eab6933/6a3a80e658a7dfc97c4b2d8e/fortinet-JHVEPhoto-Getty-1670649574.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers" target="_blank" rel="noopener">FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist</a></h3>
+    <div class="meta">Dark Reading · Tue, 23 Jun 2026 12:34:54 GMT</div>
+    <p>The threat actors used a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uddolt/how_does_fgt_handle_dns_replies_with_fast/" target="_blank" rel="noopener">how does fgt handle DNS replies with fast changing destinations and short TTLs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T10:44:33+00:00</div>
+    <p>Hi everyone, got an annoying topic here... A customer is using openshift k8s and the ovn stack in combination with egressFirewall... As soon as you&#x27;re having cloudservices like smtp.office365.com or others, you&#x27;re in trouble. What we hav...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1udb7q1/span_with_current_port_and_vlan_interfaces/" target="_blank" rel="noopener">SPAN - with current port and vlan interfaces?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T08:21:37+00:00</div>
+    <p>Dear all I am somewhat at a loss as I have no prior experience or knowhow with this. Current configuration: Smaller Fortigates (60F, 80F, 90G) with one single physical port connected to (third party) switches and on that pyhsical interfa...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ud9qjb/fortiauthenticator_question/" target="_blank" rel="noopener">FortiAuthenticator question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T06:53:55+00:00</div>
+    <p>Hi, We have a FortiAuthenticator license that allows us to create a maximum of 110 groups, version 6.6.2. Is it true that after upgrading to version 6.6.3 or higher, the group limit will be recalculated as Users/5 instead of Users/10? su...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ud1ivd/bulk_rma_process_for_fortifones_checking/" target="_blank" rel="noopener">Bulk RMA process for FortiFones &amp; checking FortiCare on dead units?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T00:07:25+00:00</div>
+    <p>Hey everyone, I need to process an RMA for a batch of 15 dead FortiFones. They are all the exact same model and are experiencing the exact same hardware issue. I have two questions before I start dealing with support: How do you normally...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/wcbjys9d5x8h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5212acfb346fbb0669c41071186ea69eea9f261a" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ud0nem/best_way_to_automate_the_fortigate_15day_trial/" target="_blank" rel="noopener">Best way to automate the FortiGate 15-day trial reset in GNS3?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T23:29:59+00:00</div>
+    <p>Hey everyone. I am running FortiGate VMs in my GNS3 lab and the 15-day evaluation license expiration is getting annoying. What is the cleanest way to automate a configuration backup, an execute factoryreset, and a configuration restore s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucubgf/proxy_mode_when_do_you_actually_use_it_in/" target="_blank" rel="noopener">Proxy Mode – When do you actually use it in production?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T19:27:30+00:00</div>
+    <p>Hi everyone, I&#x27;m looking for some real-world experience with Proxy Mode on FortiGate firewalls. Most deployments I&#x27;ve seen seem to use Flow Mode by default, but I&#x27;m curious about situations where Proxy Mode provides significant advantage...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucmhsf/adding_firewall_to_new_ha_pair/" target="_blank" rel="noopener">Adding firewall to new HA pair</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T14:43:15+00:00</div>
     <p>What is the correct way to add a new secondary firewall to an existing firewall to form an HA pair? The process I would normally follow is: Configure HA on the existing firewall (which will become the primary) and set the priority higher...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucf7me/ipsec_ikev1_aggressive_mode_phase_1_ike/" target="_blank" rel="noopener">IPsec IKEv1 Aggressive Mode, Phase 1 IKE negotiation timeout for multiple home users. FortiClient free.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T08:51:54+00:00</div>
-    <p>Environment: FortiGate 50G, FortiOS 7.6.6, FortiClient VPN Only (free, no EMS) I&#x27;m the IT person at a small company, not a network specialist, I handle general IT support and this VPN issue is above my usual comfort zone. Posting here be...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucdrno/fmg_provisioning_template_assignment_still_broken/" target="_blank" rel="noopener">FMG provisioning template assignment still broken</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T07:23:13+00:00</div>
-    <p>Does work: Assign a Template to a device in the Device View. (Device Manager -&gt; Devices &amp; Groups -&gt; &lt;device&gt; -&gt; Templates -&gt; Assign) Does not work: Assign the Device to a Template in the Template view. (Device Manager -&gt; Provisioning Tem...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ubuf7x/fortigate_transparent_mode_certificateprobefailed/" target="_blank" rel="noopener">FortiGate (Transparent Mode) – certificate-probe-failed with Web Filter, no TLS probe packets</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-21T16:30:33+00:00</div>
-    <p>Hi all, I’m running a FortiGate 50G on FortiOS 7.4.12 in transparent mode . My WAN port is connected to my ISP and lan1 is connected to the WAN port of my router. lan3 is connected to a lan port of my router for management access. When I...</p>
   </div>
 </li>
 <li class="card">
@@ -107,7 +139,7 @@ _Updated: June 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
