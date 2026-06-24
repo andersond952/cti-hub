@@ -7,71 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uea8nk/100e_to_120g_config_import/" target="_blank" rel="noopener">100E to 120G Config import</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T10:55:50+00:00</div>
+    <p>Hey all, I need some guidance anyone has done a config import from a 100E? It appears 100E does not have the forticonverter option… submitted by /u/crucial100 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ue7t5b/student_want_learn_forti_with_gns3/" target="_blank" rel="noopener">Student wan&#x27;t learn forti with gns3</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T08:35:35+00:00</div>
+    <p>Hello, I am a student and I am looking for a way to learn Fortinet with GNS3. I can&#x27;t find a free license for it. Do you have a solution for this? submitted by /u/Portillons [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ue6u2d/how_are_you_approaching_network_formation_during/" target="_blank" rel="noopener">How are you approaching network formation during a full WAN refresh in 2026?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T07:36:59+00:00</div>
+    <p>We’re in the middle of planning a full WAN refresh and it’s forcing a more fundamental conversation about network formation than “replace old boxes with new ones.” Do we still think in terms of a hub‑and‑spoke with datacenters at the cen...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/p0b8wh6op29h1.png?width=140&amp;height=13&amp;auto=webp&amp;s=ed8336ca8bf2a13ac776d7ff93c96c9674c85e38" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1udova6/hostname_resolution_failed_ipsec_vpn_with_saml/" target="_blank" rel="noopener">&quot;Hostname Resolution failed&quot; IPsec VPN with SAML over TCP 443 for both. Fortigate 7.6.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T18:13:21+00:00</div>
+    <p>Hey all, Could use some help. I configured IPsec dialup user remote access vpn for our staff on our fortigate. I set the IPsec IKE and SAML over 443 using &quot; set ike-tcp-port 443&quot; to make sure they dont get blocked at hotel wifi&#x27;s, etc. I...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1udm3fi/fortinet_no_long_auto_connects_options_enabled/" target="_blank" rel="noopener">Fortinet No Long Auto Connects - Options Enabled and Greyed Out. Won&#x27;t save password.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T16:32:56+00:00</div>
+    <p>submitted by /u/Izual_Rebirth [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/9onht7f9029h1.png?width=140&amp;height=93&amp;auto=webp&amp;s=0838a6e1b295ab196dab464fd5569fda83fd0dd1" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1udkx5w/fortigate_and_cisco_switch_vlan_setup/" target="_blank" rel="noopener">Fortigate and Cisco Switch VLAN setup</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T15:50:40+00:00</div>
+    <p>I am having some trouble getting my VLans to work the way i need them to, when connecting a new Fortigate 70G to my exisitng Cisco switches. Then connecting new fortiswitches via fortilink to the Fortigate. In the diagram attached all th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1udh6yq/forticlient_fortiems_point_to_internal_ems_for/" target="_blank" rel="noopener">FortiClient + FortiEMS - Point to internal EMS for Updates not India</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T13:29:36+00:00</div>
+    <p>I have a Fortclient EMS Server on 7.1.12 with FortiClients that are going to the internet FortiGuard servers for some of their updates instead of the internal server. Currently I am getting alerts that they are going to Fortiguard server...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd01406474eab6933/6a3a80e658a7dfc97c4b2d8e/fortinet-JHVEPhoto-Getty-1670649574.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers" target="_blank" rel="noopener">FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist</a></h3>
     <div class="meta">Dark Reading · Tue, 23 Jun 2026 12:34:54 GMT</div>
     <p>The threat actors used a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uddolt/how_does_fgt_handle_dns_replies_with_fast/" target="_blank" rel="noopener">how does fgt handle DNS replies with fast changing destinations and short TTLs?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T10:44:33+00:00</div>
-    <p>Hi everyone, got an annoying topic here... A customer is using openshift k8s and the ovn stack in combination with egressFirewall... As soon as you&#x27;re having cloudservices like smtp.office365.com or others, you&#x27;re in trouble. What we hav...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1udb7q1/span_with_current_port_and_vlan_interfaces/" target="_blank" rel="noopener">SPAN - with current port and vlan interfaces?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T08:21:37+00:00</div>
-    <p>Dear all I am somewhat at a loss as I have no prior experience or knowhow with this. Current configuration: Smaller Fortigates (60F, 80F, 90G) with one single physical port connected to (third party) switches and on that pyhsical interfa...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ud9qjb/fortiauthenticator_question/" target="_blank" rel="noopener">FortiAuthenticator question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T06:53:55+00:00</div>
-    <p>Hi, We have a FortiAuthenticator license that allows us to create a maximum of 110 groups, version 6.6.2. Is it true that after upgrading to version 6.6.3 or higher, the group limit will be recalculated as Users/5 instead of Users/10? su...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ud1ivd/bulk_rma_process_for_fortifones_checking/" target="_blank" rel="noopener">Bulk RMA process for FortiFones &amp; checking FortiCare on dead units?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-23T00:07:25+00:00</div>
-    <p>Hey everyone, I need to process an RMA for a batch of 15 dead FortiFones. They are all the exact same model and are experiencing the exact same hardware issue. I have two questions before I start dealing with support: How do you normally...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/wcbjys9d5x8h1.jpg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=5212acfb346fbb0669c41071186ea69eea9f261a" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ud0nem/best_way_to_automate_the_fortigate_15day_trial/" target="_blank" rel="noopener">Best way to automate the FortiGate 15-day trial reset in GNS3?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T23:29:59+00:00</div>
-    <p>Hey everyone. I am running FortiGate VMs in my GNS3 lab and the 15-day evaluation license expiration is getting annoying. What is the cleanest way to automate a configuration backup, an execute factoryreset, and a configuration restore s...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucubgf/proxy_mode_when_do_you_actually_use_it_in/" target="_blank" rel="noopener">Proxy Mode – When do you actually use it in production?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T19:27:30+00:00</div>
-    <p>Hi everyone, I&#x27;m looking for some real-world experience with Proxy Mode on FortiGate firewalls. Most deployments I&#x27;ve seen seem to use Flow Mode by default, but I&#x27;m curious about situations where Proxy Mode provides significant advantage...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ucmhsf/adding_firewall_to_new_ha_pair/" target="_blank" rel="noopener">Adding firewall to new HA pair</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-22T14:43:15+00:00</div>
-    <p>What is the correct way to add a new secondary firewall to an existing firewall to form an HA pair? The process I would normally follow is: Configure HA on the existing firewall (which will become the primary) and set the priority higher...</p>
   </div>
 </li>
 <li class="card">
@@ -139,7 +139,7 @@ _Updated: June 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
