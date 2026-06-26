@@ -7,95 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uf2v8r/fortiauthenticator_saml_sso_from_fortigate_to_fac/" target="_blank" rel="noopener">FortiAuthenticator - SAML SSO from FortiGate to FAC</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T07:08:40+00:00</div>
-    <p>FAC is a beast of a product with some good resources out there, but I often find that they only show the basic setup and not everything you’d need when configuring in production. Take this video for example - https://youtu.be/5i4NEWkacmE...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug3qss/where_is_my_problem/" target="_blank" rel="noopener">Where is my Problem</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T11:07:04+00:00</div>
+    <p>I &#x27;ve built a network using a fortigate 401E as my DHCP and gateway, running a 4 PORT LAG to a UNIFI XG 10 POE, I have 4 UWB XG connected via 10G copper broadcasting a 5G WIFI network with 802.11v turned on. The FORTIGATE has a 4 WAN Sdw...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uf1us8/fg_74_how_to_clone_predefined_internet_service/" target="_blank" rel="noopener">FG 7.4 How to clone predefined Internet Service Database record</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T06:11:18+00:00</div>
-    <p>Hello guys! There are lots of predefined Services - but I need modified one. That service has lots of IPs, ports both UDP and TCP. I don&#x27;t want to manually copy all of that to make my own custom service. I can clone my own services, but ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://external-preview.redd.it/Dvad6W-2hW0Fk2mHekyC3LaVemtH52n846FXNFa5cZM.jpeg?width=140&amp;height=47&amp;auto=webp&amp;s=7396eeb3f5bac56dd9de598cfcaed04a81201dd5" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uevsjj/fortigate_120gs_wont_connect_to_the_sandbox/" target="_blank" rel="noopener">Fortigate 120Gs won&#x27;t connect to the Sandbox</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T01:08:21+00:00</div>
-    <p>Hi guys, I have one cluster of 120Gs and somehow he can&#x27;t connect to the FortiSandbox servers... I tried everything, or debugging from official Fortinet pages: https://community.fortinet.com/fortigate-3/technical-tip-fortisandbox-cloud-s...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug22eq/was_forticlient_74_vibe_coded_or_what/" target="_blank" rel="noopener">Was Forticlient 7.4 vibe coded or what?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T09:36:34+00:00</div>
+    <p>I&#x27;m pulling my hair out here and looking for other brands of firewall. I&#x27;m posting here out of desperation. I&#x27;m in IT and I have VPN connections to a lot of clients, and my daily business has me regularly connecting and disconnecting var...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uesv7k/dialup_ipsec_best_practices/" target="_blank" rel="noopener">Dialup IPSec Best Practices</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T23:00:09+00:00</div>
-    <p>Hello everyone, What&#x27;s the best practice for setting up a dial-up IPsec VPN? Would you create a single tunnel for everyone and control access using policies, or would you create separate IPsec tunnels for different groups (e.g., Staff an...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufi6vv/threat_feed_to_whitelist_urls/" target="_blank" rel="noopener">threat feed to whitelist urls</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T18:24:11+00:00</div>
+    <p>does anyone here use threatfeeds to white list urls and put them in a custom category? If i do this will it take precedence over the built it fortiguard categories? submitted by /u/Mercdecember84 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uerxlh/fortiap831f_profile_missing_in_fortigate/" target="_blank" rel="noopener">FortiAP-831F Profile missing in Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T22:21:35+00:00</div>
-    <p>We have Fortigate 200F currently running firmware v7.2.13. FortiAP-831F shows up in FortiSwitch and try to configure but couldn&#x27;t find FortiAP Profile for 831F in Fortigate. How do we go about fixing this? submitted by /u/renovatio522 [l...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufgkgt/fortiauthenticator_with_windows_11_24h2_8021x/" target="_blank" rel="noopener">FortiAuthenticator with Windows 11 24H2 / 802.1x - Cipher suite change</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T17:26:37+00:00</div>
+    <p>We are recently seeing some strange issues with EAP-TLS 1x authentication on Windows 11 24H2 and FortiAuthenticator. During the exchange, we see success policy application and negotiation. The PCAP then shows that the client is requestin...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/958418582/0/fortinet/blogs~Fortinet-Launches-Its-Product-Carbon-Footprint-Calculator" target="_blank" rel="noopener">Fortinet Launches Its Product Carbon Footprint Calculator</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 25 Jun 2026 15:00:00 +0000</div>
+    <p>Fortinet’s Product Carbon Footprint Calculator helps customers estimate lifecycle emissions for more than 790 products and support Scope 3 reporting.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uepyck/fortios_767_agentless_vpn_rdp_to_rds/" target="_blank" rel="noopener">FortiOS 7.6.7 agentless VPN RDP to RDS functionality broken post patch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T21:05:18+00:00</div>
-    <p>submitted by /u/Thatconfusedginger [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/3s47shcsea9h1.png?width=140&amp;height=27&amp;auto=webp&amp;s=35c8d343f64d09c1c7ce5e712f1e92283738cf13" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ueoev1/url_incorrectly_redirected_by_dns_filter_security/" target="_blank" rel="noopener">URL incorrectly redirected by DNS Filter security profile</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T20:07:15+00:00</div>
-    <p>Hi folks, We have a lot of failed connection logs from windows machines to ` http://www.msftconnecttest.com/connecttest.txt\` When reviewing the Fortigate logs, ` www.msftconnecttest.com\` is being redirected to the DNS filter block page...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/bgzlnm60x99h1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=2107a47e9ccac3978b00e50e1489876f3fd82afa" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ueln4g/this_built_in_automation_picked_my_interest/" target="_blank" rel="noopener">This built in AUTOMATION picked my interest</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T18:27:16+00:00</div>
-    <p>Hi everyone, i am running in a GNS3 training lab and i was thinking about using built in automation of fortiGate (7.0.9) to built a chain of : after my free 15 day trial expires: 1- perform [execute factoryreset] (to get new 15 day free ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufbt4s/fortiap_managed_on_wan_ip_via_port_forwarding/" target="_blank" rel="noopener">FortiAP - managed on WAN IP via port forwarding CAPWAP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T14:35:17+00:00</div>
+    <p>Hello, have anyone tried to manage FAP on WAN IP, but using VIP to UDP/5246-5247 to another VDOM interface? Is it even possible ? Thanks submitted by /u/Vegetable_Wrangler16 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ueihuv/is_fsso_widely_used_at_enterprise_scale_looking/" target="_blank" rel="noopener">Is FSSO widely used at enterprise scale? Looking for real-world feedback and lab setup tips.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T16:33:40+00:00</div>
-    <p>Hey everyone, I’m planning to implement FSSO (Fortinet Single Sign-On) in a GNS3 practical lab using a Windows Active Directory server and a FortiGate VM. Before I dive in, I want to understand how it actually performs in real-world ente...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uegsaw/initial_fortingate_90g_setup/" target="_blank" rel="noopener">Initial FortinGate 90G setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T15:31:18+00:00</div>
-    <p>Hi everyone, i&#x27;m a complete newbie with network devices, so I need your help. I received my FortiGate 90G today and need to configure it to connect to a Huawei NetEngine AR651C router. I connected the router&#x27;s GE1 port to the firewall&#x27;s ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/z298qompy89h1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=c1fe7814cf4ade987de8cf0294f6f03033074c33" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uegbct/nable_to_activate_fortigate_vm_evaluation_license/" target="_blank" rel="noopener">nable to activate FortiGate VM Evaluation License in EVE-NG (Internet connectivity works)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T15:14:08+00:00</div>
-    <p>Hi everyone, I&#x27;m running a FortiGate VM v7.6.2 in EVE-NG and I&#x27;m unable to activate the Evaluation License. Environment FortiGate-VM64-KVM v7.6.2 EVE-NG Community Edition Port1 connected to Cloud1 (management network) VM Resources: 1 CPU...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufbpti/vpn_disconnects_that_generate_500_different/" target="_blank" rel="noopener">VPN disconnects that generate 500 different possible causes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T14:31:50+00:00</div>
+    <p>Hey folks, Spent part of this morning digging through a VPN issue and I&#x27;m still kinda annoyed thinking about it. A few branch offices started reporting random disconnects. We&#x27;re running a decent number of sites and the amount of firewall...</p>
   </div>
 </li>
 <li class="card">
@@ -104,30 +72,6 @@ _Updated: June 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/958368557/0/fortinet/blogs~FortiSASE-Training-Builds-Skills-for-Secure-Access-Success" target="_blank" rel="noopener">FortiSASE Training Builds Skills for Secure Access Success</a></h3>
     <div class="meta">Fortinet Blog · Wed, 24 Jun 2026 15:00:00 +0000</div>
     <p>Learn how FortiSASE training helps customers and partners build practical skills for SASE deployment, ZTNA, endpoint control, and secure access.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ueen6z/isdb_lists_in_localinpolicy_how_do_you_check_if/" target="_blank" rel="noopener">ISDB lists in local-in-policy - how do you check if those are REALLY working?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T14:11:44+00:00</div>
-    <p>As per title, we started adding ISDB lists as local-in-policy block on all new setups and some consolidated old installation. Code is simple enough: config firewall local-in-policy edit 90 set intf &quot;wan1&quot; set dstaddr &quot;all&quot; set internet-s...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uee0mr/fortios_766_to_767/" target="_blank" rel="noopener">FortiOS 7.6.6 to 7.6.7</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T13:47:37+00:00</div>
-    <p>I upgraded the FortiGate from FortiOS 7.6.6 to 7.6.7, and I&#x27;m experiencing issues with SSL inspection certificates. After the upgrade, the firewall started dropping all requests. Even traffic matching firewall policies that do not have S...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uedyix/dynamic_vlan_assignment_for_wireless_connections/" target="_blank" rel="noopener">Dynamic VLAN Assignment for Wireless Connections</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-24T13:45:16+00:00</div>
-    <p>Hello, I am currently deploying a FortiNAC 500F (v7.4) and configuring Dynamic VLAN Assignment based on Active Directory user groups. The deployment is successful for wired connections , but it is failing for wireless connections . Our e...</p>
   </div>
 </li>
 <li class="card">
@@ -203,7 +147,7 @@ _Updated: June 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
@@ -216,14 +160,6 @@ _Updated: June 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/957890930/0/fortinet/blogs~While-OT-Security-Is-Maturing-Risk-Is-Not-Slowing-Down" target="_blank" rel="noopener">While OT Security Is Maturing, Risk Is Not Slowing Down</a></h3>
     <div class="meta">Fortinet Blog · Tue, 9 Jun 2026 13:00:00 +0000</div>
     <p>The 2026 State of OT and Cybersecurity Report shows OT security maturity is improving, but visibility, intrusions, regulations, and ransomware remain major concerns.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957870890/0/fortinet/blogs~AI-Policy-Meets-Operational-Reality-White-House-AI-Cybersecurity-Order-Calls-for-PublicPrivate-Coordination" target="_blank" rel="noopener">AI Policy Meets Operational Reality: White House AI Cybersecurity Order Calls for Public-Private Coordination</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 8 Jun 2026 18:00:00 +0000</div>
-    <p>As frontier AI models gain stronger cyber capabilities, public-private collaboration will be essential for improving AI-assisted defense, strengthening vulnerability response, and building critical…</p>
   </div>
 </li>
 </ul>
