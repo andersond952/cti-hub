@@ -7,39 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug3qss/where_is_my_problem/" target="_blank" rel="noopener">Where is my Problem</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T11:07:04+00:00</div>
-    <p>I &#x27;ve built a network using a fortigate 401E as my DHCP and gateway, running a 4 PORT LAG to a UNIFI XG 10 POE, I have 4 UWB XG connected via 10G copper broadcasting a 5G WIFI network with 802.11v turned on. The FORTIGATE has a 4 WAN Sdw...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugylcc/steps_upgrade_fortimanager_fortigate_72x_to_74x/" target="_blank" rel="noopener">Steps Upgrade Fortimanager / Fortigate 7.2.x to 7.4.x</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T09:51:57+00:00</div>
+    <p>I&#x27;m just planning to upgrade all Fortigates from 7.2.x to 7.4.x and as it&#x27;s the first major release upgrade via FMG for me i just wanted to be sure to upgrade in the correct sequence: FMG is already running on 7.4.11 All Fortigates are o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug22eq/was_forticlient_74_vibe_coded_or_what/" target="_blank" rel="noopener">Was Forticlient 7.4 vibe coded or what?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T09:36:34+00:00</div>
-    <p>I&#x27;m pulling my hair out here and looking for other brands of firewall. I&#x27;m posting here out of desperation. I&#x27;m in IT and I have VPN connections to a lot of clients, and my daily business has me regularly connecting and disconnecting var...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugw1wl/fortinac_common_deployment/" target="_blank" rel="noopener">FortiNAC common deployment</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T07:20:11+00:00</div>
+    <p>Hello community, Im once again dealing with FortiNAC, as my company is been back and forwards with it. For example using Cisco ISE, we configure 802.1x on the switches, Cisco ISE validates certificate or username (if im not mistaken) and...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufi6vv/threat_feed_to_whitelist_urls/" target="_blank" rel="noopener">threat feed to whitelist urls</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T18:24:11+00:00</div>
-    <p>does anyone here use threatfeeds to white list urls and put them in a custom category? If i do this will it take precedence over the built it fortiguard categories? submitted by /u/Mercdecember84 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugqqs8/traffic_shaping_only_youtube/" target="_blank" rel="noopener">Traffic shaping *only* youtube</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T02:41:17+00:00</div>
+    <p>Hi. This might be newbie question but here I go. I am currently working on throttling youtube just to test, but it doesn&#x27;t seem to work long term. The most I&#x27;ve done is adding an SSL certificate inspection and adding all of the items con...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufgkgt/fortiauthenticator_with_windows_11_24h2_8021x/" target="_blank" rel="noopener">FortiAuthenticator with Windows 11 24H2 / 802.1x - Cipher suite change</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T17:26:37+00:00</div>
-    <p>We are recently seeing some strange issues with EAP-TLS 1x authentication on Windows 11 24H2 and FortiAuthenticator. During the exchange, we see success policy application and negotiation. The PCAP then shows that the client is requestin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugops2/fortios_767_ems_cloud_gui_says_endpoints_are/" target="_blank" rel="noopener">FortiOS 7.6.7 / EMS Cloud — GUI says endpoints are offline or shows no matched endpoints, but dynamic tags resolve correctly</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T01:04:09+00:00</div>
+    <p>I upgraded a FortiGate 400F to FortiOS 7.6.7. FortiClient EMS Cloud connector shows Connected, and diagnose test application fcnacd 2 shows the EMS WebSocket as connected. The FortiGate is receiving the endpoint data correctly. For examp...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://external-preview.redd.it/Dvad6W-2hW0Fk2mHekyC3LaVemtH52n846FXNFa5cZM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fa5d935ea6426ae260fdfd055bd58d485723776f" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugm6t2/30_days_since_the_dot_issue_vms_will_drop_this/" target="_blank" rel="noopener">30 days since the DoT issue, VMs will drop this weekend</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T23:12:37+00:00</div>
+    <p>I wonder how many support tickets for VMs that were not fixed will land on someone&#x27;s weekend shift. submitted by /u/toby_zeee [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug80xh/from_ssl_vpn_to_ipsec_issues_with_certain_users/" target="_blank" rel="noopener">From SSL VPN to IPSec - Issues with certain users (hexadecimal and crash)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T14:13:45+00:00</div>
+    <p>Hello everyone, We&#x27;re currently on FortiOS 7.4.8, and we&#x27;re trying to migrate from SSL VPN to IPsec VPN since SSL VPN tunnel mode will no longer be supported starting with FortiOS 7.6.3. We&#x27;re running into a few issues. Here are the two ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug6cks/controlling_bgp_neighborships_via_sdwan/" target="_blank" rel="noopener">Controlling BGP Neighborships via SDWAN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T13:06:51+00:00</div>
+    <p>Hi Everyone, I have two ISP&#x27;s hooked into a Gate running 7.4.12. We&#x27;re advertising an AS / Subnet out via BGP via both of them. We &quot;prefer&quot; ISP #1 outbound and also inbound. ISP #2 is just there for redundancy purposes. We would like to ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/958459373/0/fortinet/blogs~From-CICD-to-Cloud-Data-How-Shai-Hulud-Persistence-Leads-to-Redshift-Breach" target="_blank" rel="noopener">From CI/CD to Cloud Data: How Shai Hulud Persistence Leads to Redshift Breach</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 26 Jun 2026 13:00:00 +0000</div>
+    <p>See how Shai Hulud-linked CI/CD compromise exposed Jenkins credentials, enabled AWS escalation, and led to Redshift breach activity detected by FortiCNAPP…</p>
   </div>
 </li>
 <li class="card">
@@ -48,22 +80,6 @@ _Updated: June 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/958418582/0/fortinet/blogs~Fortinet-Launches-Its-Product-Carbon-Footprint-Calculator" target="_blank" rel="noopener">Fortinet Launches Its Product Carbon Footprint Calculator</a></h3>
     <div class="meta">Fortinet Blog · Thu, 25 Jun 2026 15:00:00 +0000</div>
     <p>Fortinet’s Product Carbon Footprint Calculator helps customers estimate lifecycle emissions for more than 790 products and support Scope 3 reporting.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufbt4s/fortiap_managed_on_wan_ip_via_port_forwarding/" target="_blank" rel="noopener">FortiAP - managed on WAN IP via port forwarding CAPWAP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T14:35:17+00:00</div>
-    <p>Hello, have anyone tried to manage FAP on WAN IP, but using VIP to UDP/5246-5247 to another VDOM interface? Is it even possible ? Thanks submitted by /u/Vegetable_Wrangler16 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ufbpti/vpn_disconnects_that_generate_500_different/" target="_blank" rel="noopener">VPN disconnects that generate 500 different possible causes</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-25T14:31:50+00:00</div>
-    <p>Hey folks, Spent part of this morning digging through a VPN issue and I&#x27;m still kinda annoyed thinking about it. A few branch offices started reporting random disconnects. We&#x27;re running a decent number of sites and the amount of firewall...</p>
   </div>
 </li>
 <li class="card">
@@ -147,19 +163,11 @@ _Updated: June 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
     <p>A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957890930/0/fortinet/blogs~While-OT-Security-Is-Maturing-Risk-Is-Not-Slowing-Down" target="_blank" rel="noopener">While OT Security Is Maturing, Risk Is Not Slowing Down</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 9 Jun 2026 13:00:00 +0000</div>
-    <p>The 2026 State of OT and Cybersecurity Report shows OT security maturity is improving, but visibility, intrusions, regulations, and ransomware remain major concerns.…</p>
   </div>
 </li>
 </ul>
