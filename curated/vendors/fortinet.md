@@ -7,63 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugylcc/steps_upgrade_fortimanager_fortigate_72x_to_74x/" target="_blank" rel="noopener">Steps Upgrade Fortimanager / Fortigate 7.2.x to 7.4.x</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T09:51:57+00:00</div>
-    <p>I&#x27;m just planning to upgrade all Fortigates from 7.2.x to 7.4.x and as it&#x27;s the first major release upgrade via FMG for me i just wanted to be sure to upgrade in the correct sequence: FMG is already running on 7.4.11 All Fortigates are o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uhbcl0/fsso_collector_agent_download/" target="_blank" rel="noopener">FSSO collector agent download</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T19:18:29+00:00</div>
+    <p>Hi Everyone I&#x27;m practicing in a GNS3 LAB, I was wondering if i can get FSSO collector agent for free? I tried downloading it from the fortinet official but it&#x27;s impossible without fortinet valid support contract device. submitted by /u/M...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugw1wl/fortinac_common_deployment/" target="_blank" rel="noopener">FortiNAC common deployment</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T07:20:11+00:00</div>
-    <p>Hello community, Im once again dealing with FortiNAC, as my company is been back and forwards with it. For example using Cisco ISE, we configure 802.1x on the switches, Cisco ISE validates certificate or username (if im not mistaken) and...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uhaefn/saseagent_based_spa/" target="_blank" rel="noopener">SASE+Agent based SPA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T18:40:19+00:00</div>
+    <p>FortiSASE SPA + Active Directory (.local) DNS Issue I&#x27;m currently working on a FortiSASE Agent-Based SPA deployment with an on-prem Active Directory environment and have reached a point where I&#x27;m trying to determine whether the issue is ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugqqs8/traffic_shaping_only_youtube/" target="_blank" rel="noopener">Traffic shaping *only* youtube</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T02:41:17+00:00</div>
-    <p>Hi. This might be newbie question but here I go. I am currently working on throttling youtube just to test, but it doesn&#x27;t seem to work long term. The most I&#x27;ve done is adding an SSL certificate inspection and adding all of the items con...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uh3bxs/ipsec_dialup_w_entra_auth_via_fortimanager/" target="_blank" rel="noopener">IPSec Dialup w/ Entra Auth via Fortimanager?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T13:51:43+00:00</div>
+    <p>Hi all, I&#x27;m new to Fortinet products so forgive any obvious answers I&#x27;m oblivious to. I have two 121G&#x27;s managed via Fortimanager. I need to set up a basic dialup IPSec tunnel for Forticlient Free usage on Windows on just one of the 121G&#x27;...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugops2/fortios_767_ems_cloud_gui_says_endpoints_are/" target="_blank" rel="noopener">FortiOS 7.6.7 / EMS Cloud — GUI says endpoints are offline or shows no matched endpoints, but dynamic tags resolve correctly</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T01:04:09+00:00</div>
-    <p>I upgraded a FortiGate 400F to FortiOS 7.6.7. FortiClient EMS Cloud connector shows Connected, and diagnose test application fcnacd 2 shows the EMS WebSocket as connected. The FortiGate is receiving the endpoint data correctly. For examp...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://external-preview.redd.it/Dvad6W-2hW0Fk2mHekyC3LaVemtH52n846FXNFa5cZM.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fa5d935ea6426ae260fdfd055bd58d485723776f" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ugm6t2/30_days_since_the_dot_issue_vms_will_drop_this/" target="_blank" rel="noopener">30 days since the DoT issue, VMs will drop this weekend</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T23:12:37+00:00</div>
-    <p>I wonder how many support tickets for VMs that were not fixed will land on someone&#x27;s weekend shift. submitted by /u/toby_zeee [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug80xh/from_ssl_vpn_to_ipsec_issues_with_certain_users/" target="_blank" rel="noopener">From SSL VPN to IPSec - Issues with certain users (hexadecimal and crash)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T14:13:45+00:00</div>
-    <p>Hello everyone, We&#x27;re currently on FortiOS 7.4.8, and we&#x27;re trying to migrate from SSL VPN to IPsec VPN since SSL VPN tunnel mode will no longer be supported starting with FortiOS 7.6.3. We&#x27;re running into a few issues. Here are the two ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ug6cks/controlling_bgp_neighborships_via_sdwan/" target="_blank" rel="noopener">Controlling BGP Neighborships via SDWAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-26T13:06:51+00:00</div>
-    <p>Hi Everyone, I have two ISP&#x27;s hooked into a Gate running 7.4.12. We&#x27;re advertising an AS / Subnet out via BGP via both of them. We &quot;prefer&quot; ISP #1 outbound and also inbound. ISP #2 is just there for redundancy purposes. We would like to ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uh1rkv/admin_profile_question/" target="_blank" rel="noopener">Admin Profile Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T12:40:53+00:00</div>
+    <p>So we have multiple admin profiles running on our fortigates from Read Only to Super Admins. There is occasions where the users with Read Only access need to have an ipsec tunnel reset for whatever reason. Obviously this could be done th...</p>
   </div>
 </li>
 <li class="card">
@@ -160,14 +136,6 @@ _Updated: June 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/957926186/0/fortinet/blogs~Fortinet-Achieves-Million-People-Trained-in-Cybersecurity-Goal-Ahead-of-Schedule" target="_blank" rel="noopener">Fortinet Achieves 1 Million People Trained in Cybersecurity Goal Ahead of Schedule</a></h3>
     <div class="meta">Fortinet Blog · Wed, 10 Jun 2026 15:00:00 +0000</div>
     <p>Fortinet Training Institute has reached its goal to train 1 million people in cybersecurity ahead of schedule, reinforcing the value of certifications and skills development.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
-  <div>
-    <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
-    <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
-    <p>A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent...</p>
   </div>
 </li>
 </ul>
