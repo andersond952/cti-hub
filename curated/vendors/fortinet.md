@@ -7,39 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uhbcl0/fsso_collector_agent_download/" target="_blank" rel="noopener">FSSO collector agent download</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T19:18:29+00:00</div>
-    <p>Hi Everyone I&#x27;m practicing in a GNS3 LAB, I was wondering if i can get FSSO collector agent for free? I tried downloading it from the fortinet official but it&#x27;s impossible without fortinet valid support contract device. submitted by /u/M...</p>
+    <h3><a href="https://feeds.fortinet.com/~/958723709/0/fortinet/blogs~Fortinet-Supports-INTERPOL-Operation-CyberProtect-III-Targeting-Online-Exploitation" target="_blank" rel="noopener">Fortinet Supports INTERPOL Operation CyberProtect III Targeting Online Exploitation</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 29 Jun 2026 13:00:00 +0000</div>
+    <p>Fortinet highlights its Cybercrime Atlas leadership and support for INTERPOL Operation CyberProtect III, targeting online sexual exploitation networks.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/pb9ae06w37ah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=800e91aa95fbe2ba0e32abb19fa8a6a487d0e2bc" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uio8bi/anyone_know_where_i_can_get_the_promo_stickers/" target="_blank" rel="noopener">Anyone know where I can get the promo stickers?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T10:03:38+00:00</div>
+    <p>Trying to find ones like this, I love Fortinet and have a Fortigate 81E POE I’ve been learning networking and firewall policies on and just wanna show off my Fortinet Pride submitted by /u/fnPSychotiq [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uhaefn/saseagent_based_spa/" target="_blank" rel="noopener">SASE+Agent based SPA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T18:40:19+00:00</div>
-    <p>FortiSASE SPA + Active Directory (.local) DNS Issue I&#x27;m currently working on a FortiSASE Agent-Based SPA deployment with an on-prem Active Directory environment and have reached a point where I&#x27;m trying to determine whether the issue is ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ui27iu/new_fortigate_701g_firewall_works_normally_for_a/" target="_blank" rel="noopener">New Fortigate 701G firewall works normally for a few minutes after bootup, but then suddenly stops passing traffic. The interfaces won&#x27;t even respond to pings. Has anyone else had a similar experience ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-28T16:48:43+00:00</div>
+    <p>I&#x27;m replacing my a Fortigate 1500D active/passive HA cluster with a a pair of 701g firewalls. The 1500Ds are running FotiOS 7.2.11. I&#x27;ve tried to replace the 1500Ds twice, and had the same problem both times. The 701G works normally for ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uh3bxs/ipsec_dialup_w_entra_auth_via_fortimanager/" target="_blank" rel="noopener">IPSec Dialup w/ Entra Auth via Fortimanager?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T13:51:43+00:00</div>
-    <p>Hi all, I&#x27;m new to Fortinet products so forgive any obvious answers I&#x27;m oblivious to. I have two 121G&#x27;s managed via Fortimanager. I need to set up a basic dialup IPSec tunnel for Forticlient Free usage on Windows on just one of the 121G&#x27;...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uh1rkv/admin_profile_question/" target="_blank" rel="noopener">Admin Profile Question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-27T12:40:53+00:00</div>
-    <p>So we have multiple admin profiles running on our fortigates from Read Only to Super Admins. There is occasions where the users with Read Only access need to have an ipsec tunnel reset for whatever reason. Obviously this could be done th...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ui1cfv/ipsec_vpn_issue_in_firewall_policies_with_nat/" target="_blank" rel="noopener">IPsec VPN issue in firewall policies with NAT enabled</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-28T16:13:51+00:00</div>
+    <p>Hi everyone, We are currentrly switching SSL-VPN to IPsec on our good old FG-200e (v7.4.12) The problem I am facing is that we have a few VPN &gt; SD-WAN rules with NAT enabled, so that the traffic goes trough the tunnel and arrives destina...</p>
   </div>
 </li>
 <li class="card">
@@ -131,11 +131,11 @@ _Updated: June 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/957926186/0/fortinet/blogs~Fortinet-Achieves-Million-People-Trained-in-Cybersecurity-Goal-Ahead-of-Schedule" target="_blank" rel="noopener">Fortinet Achieves 1 Million People Trained in Cybersecurity Goal Ahead of Schedule</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 10 Jun 2026 15:00:00 +0000</div>
-    <p>Fortinet Training Institute has reached its goal to train 1 million people in cybersecurity ahead of schedule, reinforcing the value of certifications and skills development.…</p>
+    <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
+    <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
+    <p>A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent...</p>
   </div>
 </li>
 </ul>
