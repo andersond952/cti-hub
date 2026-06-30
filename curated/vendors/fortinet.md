@@ -7,39 +7,111 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: June 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujmj0d/rete_hubspoke/" target="_blank" rel="noopener">Rete Hub&amp;Spoke</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T11:27:16+00:00</div>
+    <p>Ciao a tutti, sto configurando una rete Hub &amp; spoke con un FG-90G ccome Hub e 16 FG-50G come spoke. Consigliare di aggiornar tutto alla versione 7.6.7 oppure tenere tutto alla 7.4.12? submitted by /u/Fun_Efficiency6189 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujm7lw/fsso_with_citrix_servers_collector_sees_users/" target="_blank" rel="noopener">FSSO with Citrix servers - Collector sees users correctly but FortiGate doesn&#x27;t identify them</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T11:11:19+00:00</div>
+    <p>Bonjour à tous, Je suis un peu perdu avec ma configuration FSSO et j&#x27;espère que quelqu&#x27;un pourra m&#x27;orienter. Mon objectif Nous avons plusieurs serveurs Citrix qui répartissent la charge des sessions utilisateur. Je souhaite que notre For...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujjz9s/communication_fortimanager_branch_offices/" target="_blank" rel="noopener">Communication Fortimanager – Branch Offices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T09:05:00+00:00</div>
+    <p>I have a problem understanding the communication between Fortimanager and remote firewalls. I have a Fortimanager, sitting behind a Fortigate firewall, managing about 10 firewalls. All the firewalls, except the one on the HQ where the Fo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujjc58/forticlient_vpn_not_connecting_for_two_users_no/" target="_blank" rel="noopener">FortiClient VPN Not Connecting for Two Users – No Login Attempts Appearing in FortiGate Logs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T08:25:57+00:00</div>
+    <p>We&#x27;re facing a strange issue with FortiClient VPN. The same VPN account is being used by three users. Currently, only one user is able to connect successfully, while the other two either get a timeout, see &quot;connection is down,&quot; or the cl...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujiuzw/unable_to_assign_sdwan_template_to_vdom_in_fmg/" target="_blank" rel="noopener">Unable to assign SD-WAN template to VDOM in FMG 7.6.7 due to bug/TCL error. Any workaround?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T07:57:49+00:00</div>
+    <p>FMG 7.6.7, ADOM 7.4, FGT 7.4. This is a known issue; bug ID 1202307, but it&#x27;s not in the release notes (yet)... https://docs.fortinet.com/document/fortimanager/7.6.7/release-notes/454729/known-issues When assigning an SD-WAN template to ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujhxxi/jr_software_developer_onsite_interview/" target="_blank" rel="noopener">Jr Software Developer Onsite Interview</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T07:04:27+00:00</div>
+    <p>Can anyone give me pointers about what the interviews go over and what to expect for as for question type and length? submitted by /u/Expert_Conference112 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uj7jde/looking_to_build_weekly_genai_application_report/" target="_blank" rel="noopener">looking to build weekly GenAI application report in FortiAnalyzer</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T22:48:11+00:00</div>
+    <p>not sure why there aren&#x27;t pre-built templates for this. GenAI application filter and Artificial Intelligence Technology web filter Being asked to have a weekly report sent on both filters. There are no pre-made filters for either thing. ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uj428v/vpn_only_forticlient_dh_group/" target="_blank" rel="noopener">VPN only FortiClient - DH group</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T20:32:51+00:00</div>
+    <p>Hello community, if have a kind of annoying problem. There is a client who sticks to free FortiClient and it is okay till we get to the iphones. Based on my tests altough you can set DH group for Phase 1 and 2 from 14 to 18 only the DH 1...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uizkr3/could_use_some_advice_221e_ap/" target="_blank" rel="noopener">could use some advice 221e AP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T17:48:47+00:00</div>
+    <p>We recently upgraded our firewalls to 70G (7.4.11) and our AP&#x27;s are 221e (7.4.6). Since we upgraded the AP&#x27;s to the recommended firmware I am having issues with WPA2 psk auth stopping authentication on certain AP&#x27;s. Only our open guest n...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uiyqb4/sdwan_slas/" target="_blank" rel="noopener">SD-WAN - SLAS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T17:17:42+00:00</div>
+    <p>Looking for best practice configurations for SD-WAN Performance SLA on WAN Links. -SLA Protocol -SLA Targets (latency, jitter, packet loss) -Check intervals etc submitted by /u/Laroemwen [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uitcry/advpn_bgp_over_overlay_or_loopback_which/" target="_blank" rel="noopener">ADVPN: BGP over Overlay or Loopback? Which architecture is best?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T14:01:05+00:00</div>
+    <p>I’ve observed different approaches to ADVPN projects and would like to understand the community&#x27;s experience. In your view, does running BGP over the overlay really provide more stable operation, while BGP over loopback offers greater sc...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uitavu/exam_voucher_pearson_vue_and_email_address/" target="_blank" rel="noopener">Exam Voucher, Pearson Vue, and Email address</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T13:59:20+00:00</div>
+    <p>My employer just purchased an exam voucher from Fortinet for the NSE 4 exam for me to use. This is the first time anyone here is taking a Fortinet exam. In the email there is this: Be sure to use your training account email address in bo...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/958723709/0/fortinet/blogs~Fortinet-Supports-INTERPOL-Operation-CyberProtect-III-Targeting-Online-Exploitation" target="_blank" rel="noopener">Fortinet Supports INTERPOL Operation CyberProtect III Targeting Online Exploitation</a></h3>
     <div class="meta">Fortinet Blog · Mon, 29 Jun 2026 13:00:00 +0000</div>
     <p>Fortinet highlights its Cybercrime Atlas leadership and support for INTERPOL Operation CyberProtect III, targeting online sexual exploitation networks.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/pb9ae06w37ah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=800e91aa95fbe2ba0e32abb19fa8a6a487d0e2bc" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uio8bi/anyone_know_where_i_can_get_the_promo_stickers/" target="_blank" rel="noopener">Anyone know where I can get the promo stickers?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T10:03:38+00:00</div>
-    <p>Trying to find ones like this, I love Fortinet and have a Fortigate 81E POE I’ve been learning networking and firewall policies on and just wanna show off my Fortinet Pride submitted by /u/fnPSychotiq [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ui27iu/new_fortigate_701g_firewall_works_normally_for_a/" target="_blank" rel="noopener">New Fortigate 701G firewall works normally for a few minutes after bootup, but then suddenly stops passing traffic. The interfaces won&#x27;t even respond to pings. Has anyone else had a similar experience ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-28T16:48:43+00:00</div>
-    <p>I&#x27;m replacing my a Fortigate 1500D active/passive HA cluster with a a pair of 701g firewalls. The 1500Ds are running FotiOS 7.2.11. I&#x27;ve tried to replace the 1500Ds twice, and had the same problem both times. The 701G works normally for ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ui1cfv/ipsec_vpn_issue_in_firewall_policies_with_nat/" target="_blank" rel="noopener">IPsec VPN issue in firewall policies with NAT enabled</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-28T16:13:51+00:00</div>
-    <p>Hi everyone, We are currentrly switching SSL-VPN to IPsec on our good old FG-200e (v7.4.12) The problem I am facing is that we have a few VPN &gt; SD-WAN rules with NAT enabled, so that the traffic goes trough the tunnel and arrives destina...</p>
   </div>
 </li>
 <li class="card">
@@ -79,7 +151,7 @@ _Updated: June 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   <div>
     <h3><a href="https://feeds.fortinet.com/~/958204499/0/fortinet/blogs~Analysis-of-Reported-Credential-Compromise-of-FortiGate-Devices" target="_blank" rel="noopener">Analysis of Reported Credential Compromise of FortiGate Devices</a></h3>
     <div class="meta">Fortinet Blog · Fri, 19 Jun 2026 17:22:00 +0000</div>
-    <p>What you need to know about “FortiBleed”…</p>
+    <p>What you need to know about the credential and access campaign referenced as “FortiBleed” …</p>
   </div>
 </li>
 <li class="card">
@@ -131,7 +203,7 @@ _Updated: June 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-knowbe4/52.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
