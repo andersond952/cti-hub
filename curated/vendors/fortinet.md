@@ -7,103 +7,167 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: June 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujmj0d/rete_hubspoke/" target="_blank" rel="noopener">Rete Hub&amp;Spoke</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T11:27:16+00:00</div>
-    <p>Ciao a tutti, sto configurando una rete Hub &amp; spoke con un FG-90G ccome Hub e 16 FG-50G come spoke. Consigliare di aggiornar tutto alla versione 7.6.7 oppure tenere tutto alla 7.4.12? submitted by /u/Fun_Efficiency6189 [link] [comments]</p>
+    <h3><a href="https://feeds.fortinet.com/~/958831322/0/fortinet/blogs~Analysis-of-Ongoing-Ousaban-Attacks-Targeting-the-Iberian-Peninsula" target="_blank" rel="noopener">Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 1 Jul 2026 13:00:00 +0000</div>
+    <p>FortiGuard Labs analyzes a geofenced Ousaban campaign targeting Spain and Portugal with phishing PDFs, steganography, and evasive C2.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujm7lw/fsso_with_citrix_servers_collector_sees_users/" target="_blank" rel="noopener">FSSO with Citrix servers - Collector sees users correctly but FortiGate doesn&#x27;t identify them</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T11:11:19+00:00</div>
-    <p>Bonjour à tous, Je suis un peu perdu avec ma configuration FSSO et j&#x27;espère que quelqu&#x27;un pourra m&#x27;orienter. Mon objectif Nous avons plusieurs serveurs Citrix qui répartissent la charge des sessions utilisateur. Je souhaite que notre For...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ukjrf5/fg_ipsec_ra_vpn_in_china/" target="_blank" rel="noopener">FG IPSec RA VPN in China</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T12:04:59+00:00</div>
+    <p>Anyone here has a working setup? Or all VPNs are blocked there? submitted by /u/aliensinmylifetime [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujjz9s/communication_fortimanager_branch_offices/" target="_blank" rel="noopener">Communication Fortimanager – Branch Offices</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T09:05:00+00:00</div>
-    <p>I have a problem understanding the communication between Fortimanager and remote firewalls. I have a Fortimanager, sitting behind a Fortigate firewall, managing about 10 firewalls. All the firewalls, except the one on the HQ where the Fo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ukh96i/android_forticlient_test_tack/" target="_blank" rel="noopener">Android Forticlient test tack</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T09:54:31+00:00</div>
+    <p>As its a business critical app, we&#x27;d like to test new versions of the Android forticlient before they are released widely. Our devices are Android enterprise and are managed via MDM. Do we know whether fortinet offer a test track via man...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujjc58/forticlient_vpn_not_connecting_for_two_users_no/" target="_blank" rel="noopener">FortiClient VPN Not Connecting for Two Users – No Login Attempts Appearing in FortiGate Logs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T08:25:57+00:00</div>
-    <p>We&#x27;re facing a strange issue with FortiClient VPN. The same VPN account is being used by three users. Currently, only one user is able to connect successfully, while the other two either get a timeout, see &quot;connection is down,&quot; or the cl...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ukfx3b/using_llms_against_fortigate_configurations/" target="_blank" rel="noopener">Using LLMs against Fortigate configurations (claude.ai, gemini, Le Chat, DeepSeek, others)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T08:34:11+00:00</div>
+    <p>Anybody started dabbling with LLMs (your flavour) and Fortigate configs? I was wondering if they could be useful in the following contexts: - running a check against a baseline configuration (settings sync between multiple FGTs) - lookin...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujiuzw/unable_to_assign_sdwan_template_to_vdom_in_fmg/" target="_blank" rel="noopener">Unable to assign SD-WAN template to VDOM in FMG 7.6.7 due to bug/TCL error. Any workaround?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T07:57:49+00:00</div>
-    <p>FMG 7.6.7, ADOM 7.4, FGT 7.4. This is a known issue; bug ID 1202307, but it&#x27;s not in the release notes (yet)... https://docs.fortinet.com/document/fortimanager/7.6.7/release-notes/454729/known-issues When assigning an SD-WAN template to ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uke4fb/fortisase_device_compliance/" target="_blank" rel="noopener">FortiSASE - Device Compliance</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T06:49:06+00:00</div>
+    <p>Hi all, We&#x27;re looking at FortiSASE to possibly replace Cato SASE (a different debate). What mechanisms does FortSASE have to ensure only corporate devices connect? Does it support Entra Conditional Access Policies and Compliance checks? ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/y86prcgzriah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5aaba9a997893fa3117c2d5d50d757cb2abc3307" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uk7md5/i_failed_my_nse4_exam_yesterday/" target="_blank" rel="noopener">I failed my NSE4 exam yesterday.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T01:18:16+00:00</div>
+    <p>And I know why I failed. The CNF/Cloud part in general brought my score to the floor. The surprising part is my co-workers, manager included, are utterly surprised that I dont / have not used dumps for my exams ever (CCNA, az-900). They ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujhxxi/jr_software_developer_onsite_interview/" target="_blank" rel="noopener">Jr Software Developer Onsite Interview</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T07:04:27+00:00</div>
-    <p>Can anyone give me pointers about what the interviews go over and what to expect for as for question type and length? submitted by /u/Expert_Conference112 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uk5wrm/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T00:00:24+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uj7jde/looking_to_build_weekly_genai_application_report/" target="_blank" rel="noopener">looking to build weekly GenAI application report in FortiAnalyzer</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T22:48:11+00:00</div>
-    <p>not sure why there aren&#x27;t pre-built templates for this. GenAI application filter and Artificial Intelligence Technology web filter Being asked to have a weekly report sent on both filters. There are no pre-made filters for either thing. ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uk4wpj/is_it_possible_to_have_voicedata_vlan_via_lldpmed/" target="_blank" rel="noopener">Is it possible to have Voice/Data VLAN via LLDP-MED + MAC NAC on the same ports?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T23:17:19+00:00</div>
+    <p>Hey guys so I&#x27;m currently working on recreating an entire customer&#x27;s network from scratch using fortinet gear. They have workstations, phones, cameras(nvr) and other peripherals Now, given how massive the customer warehouse is, it&#x27;s been...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uj428v/vpn_only_forticlient_dh_group/" target="_blank" rel="noopener">VPN only FortiClient - DH group</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T20:32:51+00:00</div>
-    <p>Hello community, if have a kind of annoying problem. There is a client who sticks to free FortiClient and it is okay till we get to the iphones. Based on my tests altough you can set DH group for Phase 1 and 2 from 14 to 18 only the DH 1...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uk4ngi/security_operations_76_architect_exam/" target="_blank" rel="noopener">Security Operations 7.6 Architect Exam</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T23:06:40+00:00</div>
+    <p>Good day, Just curious on what to expect on this exam is it just gonna be question on FortiSiem and FortiSoar, or are there gonna be other Fortinet solutions thrown in there as well? If anyone knows would really appreciate. submitted by ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uizkr3/could_use_some_advice_221e_ap/" target="_blank" rel="noopener">could use some advice 221e AP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T17:48:47+00:00</div>
-    <p>We recently upgraded our firewalls to 70G (7.4.11) and our AP&#x27;s are 221e (7.4.6). Since we upgraded the AP&#x27;s to the recommended firmware I am having issues with WPA2 psk auth stopping authentication on certain AP&#x27;s. Only our open guest n...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uk0ut0/fg2000e_price/" target="_blank" rel="noopener">FG-2000E Price</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T20:37:08+00:00</div>
+    <p>Does anybody know how much these go for used? What’s an average price submitted by /u/Resident_Macaron_800 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uiyqb4/sdwan_slas/" target="_blank" rel="noopener">SD-WAN - SLAS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T17:17:42+00:00</div>
-    <p>Looking for best practice configurations for SD-WAN Performance SLA on WAN Links. -SLA Protocol -SLA Targets (latency, jitter, packet loss) -Check intervals etc submitted by /u/Laroemwen [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujyz09/do_i_need_forticonverter/" target="_blank" rel="noopener">Do I need FortiConverter?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T19:27:34+00:00</div>
+    <p>Replacing a 50E with a 60F. Do I need FortiConverter? submitted by /u/40yearoldnoob [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uitcry/advpn_bgp_over_overlay_or_loopback_which/" target="_blank" rel="noopener">ADVPN: BGP over Overlay or Loopback? Which architecture is best?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T14:01:05+00:00</div>
-    <p>I’ve observed different approaches to ADVPN projects and would like to understand the community&#x27;s experience. In your view, does running BGP over the overlay really provide more stable operation, while BGP over loopback offers greater sc...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujye3w/bgpsdwan_route_retention_during_hafailover/" target="_blank" rel="noopener">BGP/SD-WAN Route retention during HA-Failover</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T19:06:55+00:00</div>
+    <p>Hello everyone, We are running a single Hub SD-WAN with BGP on Loopback. We have applied the following commands to keep BGP routes in the table after HA failover of the hub: https://community.fortinet.com/fortigate-3/technical-tip-reduci...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uitavu/exam_voucher_pearson_vue_and_email_address/" target="_blank" rel="noopener">Exam Voucher, Pearson Vue, and Email address</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-29T13:59:20+00:00</div>
-    <p>My employer just purchased an exam voucher from Fortinet for the NSE 4 exam for me to use. This is the first time anyone here is taking a Fortinet exam. In the email there is this: Be sure to use your training account email address in bo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujxjbs/monitoring_apis/" target="_blank" rel="noopener">Monitoring API&#x27;s</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T18:35:52+00:00</div>
+    <p>Hi everyone, I&#x27;m integrating Fortinet into our monitoring platform and wanted to understand the recommended approach. For device discovery, interface discovery, packet loss/latency/jitter (PLJ), and interface utilization, is it better to...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujvhbt/what_kind_of_traffic_shaping_do_you_do/" target="_blank" rel="noopener">What kind of traffic shaping do you do?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T17:22:02+00:00</div>
+    <p>We have fortigates with a pretty basic setup - we have two traffic shaping policies, one for prioritizing voice traffic and a second for throttling guest traffic. We had a site manager complain about some video calls and another applicat...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujus5l/faz_license_issues/" target="_blank" rel="noopener">FAZ license issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T16:56:40+00:00</div>
+    <p>Hi We are testing the fortianalyzer and we are planning to run a POC until end of august. We have bought a 5gb/day license. After the installation we noticed that we proccess 10-12gb/day. What will happen now? Is it &quot;just&quot; we won&#x27;t get s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/4u0k6rwz3gah1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=f992d29400cf727db0416f76c9b00ddcd873b415" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujtsiu/topology_check/" target="_blank" rel="noopener">Topology check?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T16:20:33+00:00</div>
+    <p>submitted by /u/balladmachine [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujsil2/fortianalyzer_stay_on_7411m_or_jump_to_767/" target="_blank" rel="noopener">FortiAnalyzer - Stay on 7.4.11M or Jump to 7.6.7?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T15:33:17+00:00</div>
+    <p>Guys, I have a FAZ400E running 7.4.11M that will reach End of Service Life on July 14, 2026. I want to extend it&#x27;s usable life as much as I can so I&#x27;m wondering if it makes sense upgrading to 7.6.7 now or just accepting fate and staying ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujrida/set_default_ports_on_new_fortiswitch/" target="_blank" rel="noopener">Set default ports on new Fortiswitch automatically controlled by fortilink</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T14:55:35+00:00</div>
+    <p>I am working on setting up a zero touch deployment for new FortiGate&#x27;s at our offices, and trying to save some time when plugging in new switches. Right now, we config the FortiGate through FortiManager, works great setting up the VLANS,...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ujrh4v/static_routes_for_the_mgmt_port/" target="_blank" rel="noopener">Static Routes for the MGMT port</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-06-30T14:54:22+00:00</div>
+    <p>Trying to configure the dedicated management port on our firewall to be accessible from another subnet. We need to apply a couple static routes for the interface to route to a downstream layer 3 switch. But when we try to apply the route...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/958785326/0/fortinet/blogs~Update-on-Fortinet-Use-of-Frontier-AI" target="_blank" rel="noopener">Update on Fortinet Use of Frontier AI</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 30 Jun 2026 13:00:00 +0000</div>
+    <p>Fortinet CISO Carl Windsor shares an update on Fortinet&#x27;s active use of frontier AI—including Anthropic&#x27;s Glasswing and OpenAI&#x27;s Daybreak—for large-scale security testing, source code analysis find…</p>
   </div>
 </li>
 <li class="card">
@@ -184,22 +248,6 @@ _Updated: June 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/958055036/0/fortinet/blogs~PublicPrivate-Cooperation-Is-Critical-to-AIDriven-Cyber-Defense" target="_blank" rel="noopener">Public-Private Cooperation Is Critical to AI-Driven Cyber Defense</a></h3>
     <div class="meta">Fortinet Blog · Mon, 15 Jun 2026 13:00:00 +0000</div>
     <p>Fortinet experts contributed to new World Economic Forum guidance showing how public-private cooperation can help defenders to strengthen cyber defense and to use AI responsibly.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957984980/0/fortinet/blogs~Advancing-ThreatInformed-Defense-through-Fortinet%e2%80%99s-Collaboration-with-MITRE-CTID" target="_blank" rel="noopener">Advancing Threat-Informed Defense through Fortinet’s Collaboration with MITRE CTID</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 12 Jun 2026 15:00:00 +0000</div>
-    <p>Fortinet’s collaboration with the MITRE Center for Threat-Informed Defense helps advance practical cybersecurity through open research, shared expertise, and projects focused on cloud security, pro…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/957950855/0/fortinet/blogs~Threat-Actors-Weaponize-AI-Hype-to-Deliver-AsyncRAT" target="_blank" rel="noopener">Threat Actors Weaponize AI Hype to Deliver AsyncRAT</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 11 Jun 2026 13:00:00 +0000</div>
-    <p>FortiGuard Labs analyzes a multi-stage malware campaign that uses fake AI-themed documents, hidden PowerShell scripts, AutoHotkey loaders, and process injection to deploy AsyncRAT and maintain remo…</p>
   </div>
 </li>
 <li class="card">
