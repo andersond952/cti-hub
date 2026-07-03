@@ -7,63 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ul5u2n/nse4_certification/" target="_blank" rel="noopener">NSE4 certification</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T02:39:25+00:00</div>
-    <p>Hi, I&#x27;m still fresh in Fortinet firewall. My company required me to take NSE4 certification. My question is what will be different after 14 July, because from my understanding we have to: 1) take nse4 and pass it 2) choose 1 nse 5 tracks...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1um6opf/forticlient_800_is_out_still_no_vpnonly/" target="_blank" rel="noopener">FortiClient 8.0.0 is out - still no VPN-only</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T06:32:23+00:00</div>
+    <p>Contrary to what some FTNT folks told us many months ago, it seems like the VPN-Only client is really gone ... 8.0.0 came out yesterday, and no VPN-only archive available (haven&#x27;t tried installing it yet, though) What viable alternatives...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ul2ste/clarification_of_log_action_messages_accept/" target="_blank" rel="noopener">Clarification of &quot;Log action messages &#x27;Accept: session close&#x27; and &#x27;Accept: session timeout&#x27;&quot;</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T00:19:05+00:00</div>
-    <p>Hi! I’m seeking clarification of KB96255 , stating that there are two different triggers types for a session drop due to idle-timeout: (a) for a session in TCP Established state - resulting in log message with “action=close”; and (b) for...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1um1hbf/forticlient_8/" target="_blank" rel="noopener">FortiClient 8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T02:07:40+00:00</div>
+    <p>My organization has been using FortiClient free version for the past 5-6 years. I have been following the semi-official deprecation of the free version for the past few months. We have been using 7.4.3 now for a few weeks. Now FortiClien...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs" target="_blank" rel="noopener">FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs</a></h3>
+    <div class="meta">Dark Reading · Thu, 02 Jul 2026 19:11:33 GMT</div>
+    <p>After gaining a foothold in 1000s of Fortinet firewalls, attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ukzt5y/fortisase_dlp_best_practices_sensitive_data/" target="_blank" rel="noopener">FortiSASE DLP Best Practices, Sensitive Data Detection &amp; GenAI Control</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T22:13:05+00:00</div>
-    <p>Hi everyone, I&#x27;m currently implementing FortiSASE DLP for a customer and wanted to understand how others have approached real-world deployments. They&#x27;ve raised a few questions that I&#x27;d like to validate with people who have implemented Fo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ulrflm/ipsec_remote_access_cant_ping/" target="_blank" rel="noopener">IPsec Remote Access Can&#x27;t Ping</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T19:06:30+00:00</div>
+    <p>I&#x27;ve got a user whose IPsec Remote Access VPN won&#x27;t ping out when connected. It can access a file server via IP address (despite failing to ping it), but it&#x27;s not able to get DNS, nor can I ping the DNS server or anything external. The F...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uktny8/fortitoken_issues_after_any_maintenance/" target="_blank" rel="noopener">FortiToken Issues After Any Maintenance?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T18:23:48+00:00</div>
-    <p>After I do any kind of updates on my Fortigate, I have a few users I have to reassign FortiTokens to. Does anyone else experience this? submitted by /u/No_Loss_3996 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uloy7o/prevent_vlan_jump_by_unplugging_fortiaps_port/" target="_blank" rel="noopener">Prevent VLAN Jump by unplugging FortiAPs port</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T17:37:12+00:00</div>
+    <p>What are some of the ways to prevent users from unplugging FortiAPs and plug in their own computer to jump VLANs? Could you provide instruction on how to do this? Thank you! submitted by /u/renovatio522 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ukr2uw/need_advice_for_ikev2_ipsec_vpn_access_with_mfa/" target="_blank" rel="noopener">Need advice for IKEv2 IPsec VPN access with MFA configuration bound to AD groups</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T16:49:10+00:00</div>
-    <p>I&#x27;m looking at building out configuration to support VPN access using FortiClient VPN (free), but need to do it in a way that uses IPsec (no SSL), IKEv2, and MFA with users tied to AD groups granting permission. My initial test was built...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ulo77t/multiple_captive_portal_designs_on_fortigate/" target="_blank" rel="noopener">Multiple captive portal designs on FortiGate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T17:09:58+00:00</div>
+    <p>Working on a group of restaurants where a single Fortigate will be shared between 2 or 3 outlets. Each outlet has its own branding, so we need to set up an SSID/VLAN for each outlet and a captive portal for Guest Wi-Fi. It will be a simp...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/zpgwhpvm0uah1.jpg?width=140&amp;height=59&amp;auto=webp&amp;s=3737125afbef083518fbabbe1da495d289c543f3" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ukq2j8/fortisase_pop/" target="_blank" rel="noopener">FortiSASE PoP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T16:11:45+00:00</div>
-    <p>Hello Is there a way in FortiSASE portal to specify that user group X be redirected for example to London PoP while group Y be redirected to Dubai PoP submitted by /u/thenetwork_security [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ukp3ra/ztna_server_best_practices_ems/" target="_blank" rel="noopener">ZTNA Server best practices (EMS)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-01T15:36:56+00:00</div>
-    <p>Hi all, Setting up ZTNA access proxy on FortiGate 7.4.12 to expose ~5 internal apps (mix of RDP/SMB and internal web apps) through a single external IP/port, using FortiClient EMS for ZTNA destinations. Trying to figure out the recommend...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ulktww/new_perimeter_fw/" target="_blank" rel="noopener">New perimeter FW</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T15:06:23+00:00</div>
+    <p>Hello everyone we have a new project of adding a new perimeter firewall to the existing fortigate (which works as DC &amp; perim) firewall We have VPN LLs and internet connections aggregated at fortiswitch and fortigate connects to fortiswit...</p>
   </div>
 </li>
 <li class="card">
@@ -139,14 +139,6 @@ _Updated: July 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6769d2c3991b5331/6a3282b9bd5a9a1a504483c3/fortinet_Lutsenko_Oleksandr_shutterstock.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices" target="_blank" rel="noopener">Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices</a></h3>
-    <div class="meta">Dark Reading · Wed, 17 Jun 2026 14:06:34 GMT</div>
-    <p>Attackers are targeting various sectors across nearly 200 countries and have compiled working credentials for tends of thousands of devices.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/958088444/0/fortinet/blogs~Introducing-FortiSOC-One-Platform-Total-Control" target="_blank" rel="noopener">Introducing FortiSOC: One Platform, Total Control</a></h3>
@@ -163,7 +155,7 @@ _Updated: July 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-knowbe4/48.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
