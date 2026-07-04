@@ -7,23 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1um6opf/forticlient_800_is_out_still_no_vpnonly/" target="_blank" rel="noopener">FortiClient 8.0.0 is out - still no VPN-only</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T06:32:23+00:00</div>
-    <p>Contrary to what some FTNT folks told us many months ago, it seems like the VPN-Only client is really gone ... 8.0.0 came out yesterday, and no VPN-only archive available (haven&#x27;t tried installing it yet, though) What viable alternatives...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umopvs/is_ztna_part_of_the_nse4/" target="_blank" rel="noopener">Is ZTNA part of the NSE4?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T20:08:22+00:00</div>
+    <p>SSL VPN and ZTNA are not included in the official study guide fortios7.6 Administrator submitted by /u/ngt_x [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1um1hbf/forticlient_8/" target="_blank" rel="noopener">FortiClient 8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T02:07:40+00:00</div>
-    <p>My organization has been using FortiClient free version for the past 5-6 years. I have been following the semi-official deprecation of the free version for the past few months. We have been using 7.4.3 now for a few weeks. Now FortiClien...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uml3p3/best_way_to_monitor_fortigate_interfaces_using/" target="_blank" rel="noopener">Best way to monitor FortiGate interfaces using the FortiManager JSON-RPC API?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T17:45:32+00:00</div>
+    <p>Hi everyone, I&#x27;m new to FortiManager and its JSON-RPC API, so I apologize if this is a basic question. I&#x27;m trying to monitor the interfaces of managed FortiGate devices through the FortiManager JSON-RPC API. Currently, I&#x27;m using the foll...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umjy8p/nse_4/" target="_blank" rel="noopener">NSE 4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T17:01:16+00:00</div>
+    <p>Hi, I&#x27;m currently preparing for the NSE 4 certification. I wanted to ask if studying only the FortiOS 7.6 Administrator Study Guide is enough to pass the exam. Is that guide the only resource I need, or are there other topics, documents,...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/mn23amp991bh1.png?width=140&amp;height=46&amp;auto=webp&amp;s=096ea72a94db294485f699a156cdddbc736cf4ff" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umhhx5/why_cant_i_set_this_to_0/" target="_blank" rel="noopener">Why can&#x27;t I set this to 0?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T15:27:54+00:00</div>
+    <p>I want to set this to 0 to immediately prevent any sort of internet access. Inside the exclusion section I already have the addresses it needs to go to for authentication. submitted by /u/Ok-Memory922 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umgk6h/fortimanager_76_administrator_lab/" target="_blank" rel="noopener">FortiManager 7.6 administrator Lab</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T14:51:25+00:00</div>
+    <p>I am currently studying for FortiManager 7.6 administrator exam and I have had issues with labbing in GNS3 as I am having the issue with my 7.6.6 FortiGate VM and FortiManager VM where the SN of the FortiGate is not in the certificate so...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umd151/fortinac_ad_integrated_groups_not_assigning_vlans/" target="_blank" rel="noopener">FortiNAC / AD integrated groups not assigning VLANs automatically</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T12:23:15+00:00</div>
+    <p>Hi, I am experiencing an issue with FortiNAC version 7.4 integrated with Active Directory (AD). Although I successfully imported the AD groups into FortiNAC, the system fails to assign VLANs based on these AD group memberships. As a temp...</p>
   </div>
 </li>
 <li class="card">
@@ -32,38 +64,6 @@ _Updated: July 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs" target="_blank" rel="noopener">FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs</a></h3>
     <div class="meta">Dark Reading · Thu, 02 Jul 2026 19:11:33 GMT</div>
     <p>After gaining a foothold in 1000s of Fortinet firewalls, attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ulrflm/ipsec_remote_access_cant_ping/" target="_blank" rel="noopener">IPsec Remote Access Can&#x27;t Ping</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T19:06:30+00:00</div>
-    <p>I&#x27;ve got a user whose IPsec Remote Access VPN won&#x27;t ping out when connected. It can access a file server via IP address (despite failing to ping it), but it&#x27;s not able to get DNS, nor can I ping the DNS server or anything external. The F...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uloy7o/prevent_vlan_jump_by_unplugging_fortiaps_port/" target="_blank" rel="noopener">Prevent VLAN Jump by unplugging FortiAPs port</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T17:37:12+00:00</div>
-    <p>What are some of the ways to prevent users from unplugging FortiAPs and plug in their own computer to jump VLANs? Could you provide instruction on how to do this? Thank you! submitted by /u/renovatio522 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ulo77t/multiple_captive_portal_designs_on_fortigate/" target="_blank" rel="noopener">Multiple captive portal designs on FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T17:09:58+00:00</div>
-    <p>Working on a group of restaurants where a single Fortigate will be shared between 2 or 3 outlets. Each outlet has its own branding, so we need to set up an SSID/VLAN for each outlet and a captive portal for Guest Wi-Fi. It will be a simp...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/zpgwhpvm0uah1.jpg?width=140&amp;height=59&amp;auto=webp&amp;s=3737125afbef083518fbabbe1da495d289c543f3" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ulktww/new_perimeter_fw/" target="_blank" rel="noopener">New perimeter FW</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-02T15:06:23+00:00</div>
-    <p>Hello everyone we have a new project of adding a new perimeter firewall to the existing fortigate (which works as DC &amp; perim) firewall We have VPN LLs and internet connections aggregated at fortiswitch and fortigate connects to fortiswit...</p>
   </div>
 </li>
 <li class="card">
@@ -155,7 +155,7 @@ _Updated: July 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
