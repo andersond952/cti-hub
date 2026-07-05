@@ -7,55 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umopvs/is_ztna_part_of_the_nse4/" target="_blank" rel="noopener">Is ZTNA part of the NSE4?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T20:08:22+00:00</div>
-    <p>SSL VPN and ZTNA are not included in the official study guide fortios7.6 Administrator submitted by /u/ngt_x [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unr8zm/bulk_rename_aps_in_fmg/" target="_blank" rel="noopener">Bulk rename APs in FMG</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-05T03:07:00+00:00</div>
+    <p>Hi all We have just deployed a site with 100+ FortiAPs. Does anyone have any pro tips on renaming the APs in bulk? Thanks 🙏 submitted by /u/WabbitTamer [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uml3p3/best_way_to_monitor_fortigate_interfaces_using/" target="_blank" rel="noopener">Best way to monitor FortiGate interfaces using the FortiManager JSON-RPC API?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T17:45:32+00:00</div>
-    <p>Hi everyone, I&#x27;m new to FortiManager and its JSON-RPC API, so I apologize if this is a basic question. I&#x27;m trying to monitor the interfaces of managed FortiGate devices through the FortiManager JSON-RPC API. Currently, I&#x27;m using the foll...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unb8qt/best_practices_for_sdwan_spillover/" target="_blank" rel="noopener">Best practices for sd-wan spillover</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-04T15:00:39+00:00</div>
+    <p>Hi everyone, I’m looking for best practices for configuring FortiGate SD-WAN spillover between two WAN links. The goal is to prefer the primary WAN and only send traffic to the secondary WAN when the primary reaches a certain bandwidth t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umjy8p/nse_4/" target="_blank" rel="noopener">NSE 4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T17:01:16+00:00</div>
-    <p>Hi, I&#x27;m currently preparing for the NSE 4 certification. I wanted to ask if studying only the FortiOS 7.6 Administrator Study Guide is enough to pass the exam. Is that guide the only resource I need, or are there other topics, documents,...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/mn23amp991bh1.png?width=140&amp;height=46&amp;auto=webp&amp;s=096ea72a94db294485f699a156cdddbc736cf4ff" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umhhx5/why_cant_i_set_this_to_0/" target="_blank" rel="noopener">Why can&#x27;t I set this to 0?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T15:27:54+00:00</div>
-    <p>I want to set this to 0 to immediately prevent any sort of internet access. Inside the exclusion section I already have the addresses it needs to go to for authentication. submitted by /u/Ok-Memory922 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unb708/fortinac_macos/" target="_blank" rel="noopener">FortiNAC &amp; MacOS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-04T14:58:48+00:00</div>
+    <p>Hi everyone, I’m looking at implementing 802.1X authentication for macOS devices with FortiNAC . I know macOS supports 802.1X natively, but I’d like to hear from anyone who has deployed it successfully in production. Are you using EAP-TL...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umgk6h/fortimanager_76_administrator_lab/" target="_blank" rel="noopener">FortiManager 7.6 administrator Lab</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T14:51:25+00:00</div>
-    <p>I am currently studying for FortiManager 7.6 administrator exam and I have had issues with labbing in GNS3 as I am having the issue with my 7.6.6 FortiGate VM and FortiManager VM where the SN of the FortiGate is not in the certificate so...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1umd151/fortinac_ad_integrated_groups_not_assigning_vlans/" target="_blank" rel="noopener">FortiNAC / AD integrated groups not assigning VLANs automatically</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-03T12:23:15+00:00</div>
-    <p>Hi, I am experiencing an issue with FortiNAC version 7.4 integrated with Active Directory (AD). Although I successfully imported the AD groups into FortiNAC, the system fails to assign VLANs based on these AD group memberships. As a temp...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unb1tf/ems_migration/" target="_blank" rel="noopener">EMS migration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-04T14:52:39+00:00</div>
+    <p>Hi everyone, I’m planning to migrate an existing FortiClient EMS 7.0.2 deployment to a fresh EMS 7.4 installation and would appreciate advice from anyone who’s been through this process. My current understanding is that restoring the old...</p>
   </div>
 </li>
 <li class="card">
@@ -155,7 +139,7 @@ _Updated: July 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
