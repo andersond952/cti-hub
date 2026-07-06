@@ -7,39 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unr8zm/bulk_rename_aps_in_fmg/" target="_blank" rel="noopener">Bulk rename APs in FMG</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-05T03:07:00+00:00</div>
-    <p>Hi all We have just deployed a site with 100+ FortiAPs. Does anyone have any pro tips on renaming the APs in bulk? Thanks 🙏 submitted by /u/WabbitTamer [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uovu2y/used_fortigate_40f/" target="_blank" rel="noopener">Used Fortigate 40f</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T12:24:09+00:00</div>
+    <p>Guys i need your help and guidance please i hope i am not crossing the rules So i have purchased a used preowned 40f where sadly they have left their email address tied to them. I tried contacting that email and aswell others which all f...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unb8qt/best_practices_for_sdwan_spillover/" target="_blank" rel="noopener">Best practices for sd-wan spillover</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-04T15:00:39+00:00</div>
-    <p>Hi everyone, I’m looking for best practices for configuring FortiGate SD-WAN spillover between two WAN links. The goal is to prefer the primary WAN and only send traffic to the secondary WAN when the primary reaches a certain bandwidth t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uotkh6/monitoring_fortilinkmanaged_fortiswitches/" target="_blank" rel="noopener">Monitoring FortiLink-managed FortiSwitches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T10:34:19+00:00</div>
+    <p>How are people monitoring FortiSwitches managed by FortiLink when using tools like SolarWinds, PRTG, OpManager etc.? Are you routing/advertising the FortiLink subnet so the NMS can poll the switches directly, or are you just monitoring v...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unb708/fortinac_macos/" target="_blank" rel="noopener">FortiNAC &amp; MacOS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-04T14:58:48+00:00</div>
-    <p>Hi everyone, I’m looking at implementing 802.1X authentication for macOS devices with FortiNAC . I know macOS supports 802.1X natively, but I’d like to hear from anyone who has deployed it successfully in production. Are you using EAP-TL...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uotara/trying_forti_vm_authentication_failure/" target="_blank" rel="noopener">Trying Forti VM - Authentication failure</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T10:19:39+00:00</div>
+    <p>Setting up a new forti VM for nse practice. Repeatedly having authentication failure after reboot . Not sure what&#x27;s happening. Password is correct. submitted by /u/BlacksmithUnhappy744 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1unb1tf/ems_migration/" target="_blank" rel="noopener">EMS migration</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-04T14:52:39+00:00</div>
-    <p>Hi everyone, I’m planning to migrate an existing FortiClient EMS 7.0.2 deployment to a fresh EMS 7.4 installation and would appreciate advice from anyone who’s been through this process. My current understanding is that restoring the old...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uonqdl/the_main_problem_with_the_767_update/" target="_blank" rel="noopener">The main problem with the 7.6.7 update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T04:59:15+00:00</div>
+    <p>https://community.fortinet.com/fortigate-3/troubleshooting-tip-the-firewall-policy-gui-page-gets-stuck-in-loading-state-on-fortios-v7-6-7-228532 The major issue in FortiOS v7.6.7 is that the Firewall Policy GUI page gets stuck in an infi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uo492j/fortiap_mesh/" target="_blank" rel="noopener">FortiAP Mesh</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-05T14:56:30+00:00</div>
+    <p>Quick question here. I have the mesh using 441K with no issues. While in mesh setup, is it possible to use a port on the non hardwired meshed AP to create a wired connection? I&#x27;ve configured the AP profile and used a port to bridge to th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uo3ba2/upgrade_or_restart_your_1xx_series_fortiswitches/" target="_blank" rel="noopener">Upgrade or restart your 1xx series FortiSwitches to avoid the NTPd high CPU 250 day uptime bug (Resolved in 7.6.7)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-05T14:16:26+00:00</div>
+    <p>Guess what we did &quot;almost&quot; 250 days ago? Upgraded and restarted our FortiSwitches. Guess what ruined my weekend? Bug 1286219 : The Network Time Protocol (NTP) daemon causes high CPU usage in switches with almost 250 days of uptime. This ...</p>
   </div>
 </li>
 <li class="card">
@@ -139,7 +155,7 @@ _Updated: July 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-cape/1.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
