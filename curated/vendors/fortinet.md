@@ -7,55 +7,143 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uovu2y/used_fortigate_40f/" target="_blank" rel="noopener">Used Fortigate 40f</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T12:24:09+00:00</div>
-    <p>Guys i need your help and guidance please i hope i am not crossing the rules So i have purchased a used preowned 40f where sadly they have left their email address tied to them. I tried contacting that email and aswell others which all f...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1upt82j/fortiidentity_cloud_issues_on_tuesday_07th_of_july/" target="_blank" rel="noopener">FortiIdentity Cloud - Issues on Tuesday, 07th of July?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-07T12:11:06+00:00</div>
+    <p>Dear all Its Tuesday, 07th of July, about 14:00 CEST. Anyone else getting an error (504 Gateway Timeout) when trying to reach FortiIdentity Cloud in their FortiPortal Cloud account? Also, some services that use FortiToken Mobile via Fort...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uotkh6/monitoring_fortilinkmanaged_fortiswitches/" target="_blank" rel="noopener">Monitoring FortiLink-managed FortiSwitches</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T10:34:19+00:00</div>
-    <p>How are people monitoring FortiSwitches managed by FortiLink when using tools like SolarWinds, PRTG, OpManager etc.? Are you routing/advertising the FortiLink subnet so the NMS can poll the switches directly, or are you just monitoring v...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1upk33q/vxlan_l2_extension_softwareswitch_stops_passing/" target="_blank" rel="noopener">VxLAN L2 extension (software-switch) stops passing STP/LACP/LLDP after FG-200F 7.0.2 → 7.0.4 — identical config, downgrade fixes it</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-07T04:03:50+00:00</div>
+    <p>Two FG-200F doing a point-to-point L2 extension over VxLAN (VNI 4321, UDP 4789), with a software-switch bridging the LAN port ( port1 ) and the VxLAN interface. Works fine on 7.0.2. Upgrade both ends to 7.0.4 (build 0301) and the L2 cont...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uotara/trying_forti_vm_authentication_failure/" target="_blank" rel="noopener">Trying Forti VM - Authentication failure</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T10:19:39+00:00</div>
-    <p>Setting up a new forti VM for nse practice. Repeatedly having authentication failure after reboot . Not sure what&#x27;s happening. Password is correct. submitted by /u/BlacksmithUnhappy744 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1upi6qw/updating_certificate_information/" target="_blank" rel="noopener">Updating Certificate Information</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-07T02:33:54+00:00</div>
+    <p>I was surprised to find out about the recent update. Previously, holding NSE 7 was valid even without NSE 4. However, it’s quite shocking to learn that NSE 7 is no longer valid unless you also hold NSE 4. https://training.fortinet.com/lo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uonqdl/the_main_problem_with_the_767_update/" target="_blank" rel="noopener">The main problem with the 7.6.7 update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T04:59:15+00:00</div>
-    <p>https://community.fortinet.com/fortigate-3/troubleshooting-tip-the-firewall-policy-gui-page-gets-stuck-in-loading-state-on-fortios-v7-6-7-228532 The major issue in FortiOS v7.6.7 is that the Firewall Policy GUI page gets stuck in an infi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1upcksy/att_fiberfortigate_ipsec_vpn_issue/" target="_blank" rel="noopener">ATT Fiber/FortiGate IPsec VPN Issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T22:35:01+00:00</div>
+    <p>Recently switched a site to ATT fiber. They were previously using Cox. After the change IPsec VPN will not work using forticlient. Changing nothing on the FGT other than IPs and putting back on Cox it works fine. Below the is setup with ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uo492j/fortiap_mesh/" target="_blank" rel="noopener">FortiAP Mesh</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-05T14:56:30+00:00</div>
-    <p>Quick question here. I have the mesh using 441K with no issues. While in mesh setup, is it possible to use a port on the non hardwired meshed AP to create a wired connection? I&#x27;ve configured the AP profile and used a port to bridge to th...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1upcf42/fortimanager_766_ldap_config_from_one_vdom/" target="_blank" rel="noopener">FortiManager 7.6.6 LDAP config from one VDOM showing up in another VDOM during install</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T22:28:55+00:00</div>
+    <p>Hey guys, I&#x27;ve run into a weird issue and I&#x27;m not sure whether this is expected behavior, user error, or a possible FortiManager bug. One of my colleagues recently added an LDAP configuration change on one of our FortiGate&#x27;s VDOMs. When ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uo3ba2/upgrade_or_restart_your_1xx_series_fortiswitches/" target="_blank" rel="noopener">Upgrade or restart your 1xx series FortiSwitches to avoid the NTPd high CPU 250 day uptime bug (Resolved in 7.6.7)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-05T14:16:26+00:00</div>
-    <p>Guess what we did &quot;almost&quot; 250 days ago? Upgraded and restarted our FortiSwitches. Guess what ruined my weekend? Bug 1286219 : The Network Time Protocol (NTP) daemon causes high CPU usage in switches with almost 250 days of uptime. This ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1upafa2/nse7_enterprise_firewall_after_15_of_july/" target="_blank" rel="noopener">NSE7 Enterprise Firewall after 15 of July</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T21:14:03+00:00</div>
+    <p>Hello everyone, I have a question about the changes to Fortinet certifications. A few weeks ago, I was preparing to take the NSE7 Enterprise Firewall exam (the FCSS core exam), but I started wondering whether passing this exam will count...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up9epu/fortinet_wifi_and_clearpass/" target="_blank" rel="noopener">Fortinet wifi and clearpass</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T20:35:54+00:00</div>
+    <p>Has anybody ne had any success with fortinet controllers on 8.6 using Clearpass for guest access, I am not having much joy, it seems that I can get online but it&#x27;s a combination of urls that I land on with &quot;retry&quot; Anyone done this and ha...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up7ysm/is_there_a_supported_way_to_combine_microsoft_ad/" target="_blank" rel="noopener">Is there a supported way to combine Microsoft AD CS client certificates with FortiAuthenticator MFA for IPsec IKEv2 Dial-up VPN?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T19:43:29+00:00</div>
+    <p>Hi everyone, We&#x27;re currently evaluating FortiAuthenticator together with FortiToken Mobile for a new remote access deployment and I&#x27;d like to validate the architecture before making the purchase. The planned environment will include: For...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up51ro/forticlient_ems_webfilter_logs/" target="_blank" rel="noopener">FortiClient EMS WebFilter Logs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T18:01:49+00:00</div>
+    <p>I&#x27;m a bit new to FortiEMS and I was wondering where I can find the WebFilter Logs for the Clients. submitted by /u/Miserable_Shake9184 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up3zul/disti_account_manager/" target="_blank" rel="noopener">Disti Account Manager</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T17:25:49+00:00</div>
+    <p>Hello, I’m currently an SE at another networking company and need to get out of the technical side. I noticed an opening for a distribution account manager role, and am wondering how technical it is? Is there quota pressure like a tradit...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up3v4j/forticlientvpn_ipsec_not_connecting_reliably_over/" target="_blank" rel="noopener">FortiClientVPN IPsec not connecting reliably over mobile network – intermittent issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T17:21:19+00:00</div>
+    <p>Hey everyone, I&#x27;m running FortiClientVPN with IPsec on a FortiGate 40F and facing an intermittent connectivity issue specifically on mobile networks (4G/5G). Sometimes it connects fine, sometimes it just fails or drops. Works perfectly o...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up38q1/redundant_ipsec_between_meraki_and_fortigate/" target="_blank" rel="noopener">Redundant IPsec between Meraki and FortiGate.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T16:59:52+00:00</div>
+    <p>submitted by /u/DrSl0th [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up2kw9/hub_spoke_sdwan_bgp_on_loopback/" target="_blank" rel="noopener">Hub &amp; Spoke / SDWAN / BGP on loopback</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T16:36:45+00:00</div>
+    <p>Hello all, I’m currently playing with HUB and SPOKE design in my LAB. Is there a way to configure a Hub &amp; Spoke design with usage of SDWAN and BGP on loopback (starting 7.6.7 BGP can be influenced by SDWAN) where SPOKE have 2 ISP and HUB...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up1gak/enable_tcp_syslog_in_fortigate_40f/" target="_blank" rel="noopener">Enable TCP Syslog in Fortigate 40F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T15:57:47+00:00</div>
+    <p>Hi all, about 9 months ago I made the following post asking how to add a certificate to a Fortigate firewall for syslog: https://www.reddit.com/r/fortinet/s/Na5V2WHDWV It took 9 months but our firewall admin got around to doing that a co...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/57pal71eqmbh1.png?width=140&amp;height=74&amp;auto=webp&amp;s=13f36e043c15f60a442cc54175d472d187a06242" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up14h0/advpn_cross_regional_spoke_to_hub_shortcut/" target="_blank" rel="noopener">ADVPN Cross Regional Spoke to Hub Shortcut</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T15:46:25+00:00</div>
+    <p>I&#x27;m lab testing a few different ADVPN setups and noticed the Cross-regional spoke to hub shortcuts: https://docs.fortinet.com/document/fortigate/7.6.0/sd-wan-architecture-for-enterprise/242856/using-ibgp-between-regions-with-inter-region...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1up021v/its_xperts_time_of_year_again/" target="_blank" rel="noopener">It&#x27;s Xperts time of year again</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T15:08:46+00:00</div>
+    <p>This time, for the first time in 13 years since I returned to Fortinet-partner-land, I&#x27;ve been able to go to Xperts EMEA. I shall be the Guy in Horrible Shirts. I may also learn some stuff. Anyone else from here made it to Madrid? submit...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uozbkx/block_anydesk/" target="_blank" rel="noopener">Block Anydesk</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-06T14:42:05+00:00</div>
+    <p>i can block external anydesk and liberate in lan ? submitted by /u/Large-Leopard-725 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
