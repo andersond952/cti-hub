@@ -7,79 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1urkjn0/40f_767_performance_issues/" target="_blank" rel="noopener">40-F 7.6.7 performance issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T08:48:23+00:00</div>
-    <p>Hi All, I have recently upgraded my 40-F to 7.6.7 due to all the vulnerabilities and EOS for 7.2.x. Since the upgrade web browsing, Facebook is garbage and slow to refresh. The memory, CPU usage etc is stable and actually using less memo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usj687/request_for_documentation_eaptls_authentication/" target="_blank" rel="noopener">Request for Documentation – EAP-TLS Authentication with FortiNAC and Active Director</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T09:57:27+00:00</div>
+    <p>Hello, We need to configure an SSID that uses EAP-TLS certificate-based authentication through FortiNAC , with certificates issued by Active Directory Certificate Services . We have reviewed the available Fortinet documentation, but it o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1urezsi/why_is_fnac_so_consistently_inconsistent/" target="_blank" rel="noopener">why is FNAC so consistently inconsistent?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T03:46:12+00:00</div>
-    <p>I&#x27;ve been experiencing a wide array of issues with FNAC lately. I won&#x27;t get into them all, but one that is really irking me is when I browse to the FNAC home page via HTTPS, I login successfully, I click on any navigation item (i.e Inven...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/naenwlqmk4ch1.jpg?width=140&amp;height=32&amp;auto=webp&amp;s=8abf1587e9cea32997b976bb7ada0d8a8c95c41b" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1urevih/ip_sec/" target="_blank" rel="noopener">IP Sec</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T03:40:26+00:00</div>
-    <p>Hi i am still a newbie in firewall configuration. Recently i tried to setup ipsec tunnel. I need to access the network from outside. I already set the wan interface as the remote gateway and the lan interface as the accessible network. T...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usgufy/vpn_dialup_using_eapsaml_authentication_with/" target="_blank" rel="noopener">VPN dial-up using EAP+SAML authentication with Azure AD on FortiOS 7.6.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T07:41:37+00:00</div>
+    <p>Hi everyone, I hope you&#x27;re all doing well. I&#x27;m having trouble integrating my Azure AD with my FortiGate 50G. I currently have a dial-up VPN set up so that corporate users can log in with their domain accounts. However, when I try to log ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1urduuj/study_guide_for_nse4_purchase/" target="_blank" rel="noopener">Study Guide for NSE4 Purchase</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T02:51:43+00:00</div>
-    <p>Hi. Does anyone have the link for the study guide (PDF)? I know you could purchase it a while back. I&#x27;m not affiliated with any partners. TIA. *** Updated *** For anyone that is wondering ... https://fortinet.gilmoreglobal.com/en/product...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usghjh/fortianalyzer_uplift_from_7410_to_764_postgresql/" target="_blank" rel="noopener">Fortianalyzer uplift from 7.4.10 to 7.6.4 (PostgreSQL to ClickHouse)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T07:20:36+00:00</div>
+    <p>Anyone else agree when uplifting to new firmware on the FAZ the annoying generic one liner error is appalling when attempting to troubleshoot SQL datasets: Invalid SQL query. Please check the syntax. This generic, single-line error is ar...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ur6pbe/forticlient_standalone_for_iosandroid/" target="_blank" rel="noopener">Forticlient standalone for iOS/android?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-08T21:44:47+00:00</div>
-    <p>Is Forticlient Standalone coming to iOS and android? We need proper dialup IPsec with MFA for two android devices, so it’s not worth getting 25 EMS seats. submitted by /u/JustinHoMi [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usex0h/what_does_ha_slavestatus_actually_mean_in/" target="_blank" rel="noopener">What does ha_slave.status actually mean in FortiManager JSON-RPC?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T05:53:29+00:00</div>
+    <p>I&#x27;m seeing what appears to be a contradiction in the How to FortiManager API documentation regarding the ha_slave.status field. Documentation: https://how-to-fortimanager-api.readthedocs.io/en/latest/007_device_management/007_device_mana...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ur368e/issues_with_ipv6_sessions_by_mac_np6xlite/" target="_blank" rel="noopener">Issues with IPv6 sessions by MAC &amp; NP6XLITE silently blackholing</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-08T19:37:18+00:00</div>
-    <p>Setup: 200F, FortiOS 7.6.7, MAB auth via FreeRADIUS, allow list as mac-address external-resource (push API), LACP aggregate x1-x4 with VLANs on it. For IPv4, RADIUS CoA Disconnect works fine - but only with Framed-IP-Address included (MA...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1useg1o/sanity_check_ipsec_on_loopback_interface_instead/" target="_blank" rel="noopener">Sanity Check - IPSec on loopback interface instead of &quot;real&quot; interface</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T05:27:16+00:00</div>
+    <p>Hi all I haven&#x27;t seen IPSec (site-to-site and especially dialup) confgured on loopback for a long, long while now and was just recently confronted with an older device (7.2.x) that has this confgured.. It using loopback interfaces for IP...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uqzqkk/certificate_automation_recommendations_multi_vdom/" target="_blank" rel="noopener">Certificate Automation Recommendations - Multi VDOM Setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-08T17:38:02+00:00</div>
-    <p>I&#x27;m exploring using a Let&#x27;s Encrpt certificate on my FortiGate for use with SAML auth for VPN clients so they don&#x27;t see security warnings when completing SAML authentication. I&#x27;d like to automate the renewal of this cert on the firewall ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uscu8h/certification_change_track/" target="_blank" rel="noopener">Certification - Change Track</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T04:04:41+00:00</div>
+    <p>Passed below exams: FortiGate AD (nse4) + FortiAnalyzer Analyst (nse5) = FCP - Sec Ops Now I’m planning to study for Nse 7 firewall enterprise firewall Admin this time, but this is a different track (FCSS - Network Sec). Is this a good i...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uqz8qy/fortiedr_false_positives/" target="_blank" rel="noopener">FortiEDR false positives</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-08T17:21:03+00:00</div>
-    <p>I have recently come across FortiEDR block incidents against legit processes such as Lenovo and Dell updates through it&#x27;s PC utilities and respective update managers. Have you come across this kind of false positives? submitted by /u/edd...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1us6t1x/weird_ipsec_issue_involving_a_single_ip/" target="_blank" rel="noopener">Weird IPSec issue involving a single IP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T23:30:32+00:00</div>
+    <p>So we recently migrated our SSLVPN users to IPSEC IKEv2 over TCP443, and so far no major issues, been quiet, outside of some small issues that we have been resolving pretty quick. Except a weird one popped up today that was being that I’...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/7j8blzt2h9ch1.png?width=140&amp;height=18&amp;auto=webp&amp;s=1ea4eec1ad75f98fb4bc6c145a596e173fd882fa" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1us1jo8/pls_explain/" target="_blank" rel="noopener">Pls explain?!</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T20:09:50+00:00</div>
+    <p>Study Guide: https://preview.redd.it/7j8blzt2h9ch1.png?width=1055&amp;format=png&amp;auto=webp&amp;s=aeddf3827e40825d17d74f2f6382acd47e2d6fa6 FortiGate: https://preview.redd.it/8dhdtbj5h9ch1.png?width=822&amp;format=png&amp;auto=webp&amp;s=90ce98fe7357d5e886c1b...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uqxyjl/is_there_a_way_to_get_fortiswitch_uptime_via/" target="_blank" rel="noopener">Is there a way to get fortiswitch uptime via Fortigate?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-08T16:37:08+00:00</div>
-    <p>I see fortilink provides the join time of the switch but this isn&#x27;t the switches uptime - the only way I&#x27;ve been able to find the switch up time is to SSH in to the individual switches and check it via get system performance status submi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1urxzl4/vpn_onconnect_script_questions_variables/" target="_blank" rel="noopener">VPN On-Connect script questions / variables</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T18:03:31+00:00</div>
+    <p>I have a customer who has a requirement to use an after-connect script in EMS for their VPN to map some network drives. Everything seems to work except for one drive mapping where we have to use a &#x27;%username%&#x27; variable (for a home folder...</p>
   </div>
 </li>
 <li class="card">
