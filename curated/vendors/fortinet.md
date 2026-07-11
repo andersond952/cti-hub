@@ -7,79 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usj687/request_for_documentation_eaptls_authentication/" target="_blank" rel="noopener">Request for Documentation – EAP-TLS Authentication with FortiNAC and Active Director</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T09:57:27+00:00</div>
-    <p>Hello, We need to configure an SSID that uses EAP-TLS certificate-based authentication through FortiNAC , with certificates issued by Active Directory Certificate Services . We have reviewed the available Fortinet documentation, but it o...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usxb5b/fortimanager_experts_please_settle_an_argument/" target="_blank" rel="noopener">FortiManager Experts - Please Settle an Argument</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T19:16:59+00:00</div>
+    <p>I&#x27;ve never used, nor have access to FortiManager. A project I&#x27;m involved in has a requirement to access backups of device config files for passive, offline vulnerability assessment and best practice configuration audit. The assessments a...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usgufy/vpn_dialup_using_eapsaml_authentication_with/" target="_blank" rel="noopener">VPN dial-up using EAP+SAML authentication with Azure AD on FortiOS 7.6.7</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T07:41:37+00:00</div>
-    <p>Hi everyone, I hope you&#x27;re all doing well. I&#x27;m having trouble integrating my Azure AD with my FortiGate 50G. I currently have a dial-up VPN set up so that corporate users can log in with their domain accounts. However, when I try to log ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usghjh/fortianalyzer_uplift_from_7410_to_764_postgresql/" target="_blank" rel="noopener">Fortianalyzer uplift from 7.4.10 to 7.6.4 (PostgreSQL to ClickHouse)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T07:20:36+00:00</div>
-    <p>Anyone else agree when uplifting to new firmware on the FAZ the annoying generic one liner error is appalling when attempting to troubleshoot SQL datasets: Invalid SQL query. Please check the syntax. This generic, single-line error is ar...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usex0h/what_does_ha_slavestatus_actually_mean_in/" target="_blank" rel="noopener">What does ha_slave.status actually mean in FortiManager JSON-RPC?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T05:53:29+00:00</div>
-    <p>I&#x27;m seeing what appears to be a contradiction in the How to FortiManager API documentation regarding the ha_slave.status field. Documentation: https://how-to-fortimanager-api.readthedocs.io/en/latest/007_device_management/007_device_mana...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1useg1o/sanity_check_ipsec_on_loopback_interface_instead/" target="_blank" rel="noopener">Sanity Check - IPSec on loopback interface instead of &quot;real&quot; interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T05:27:16+00:00</div>
-    <p>Hi all I haven&#x27;t seen IPSec (site-to-site and especially dialup) confgured on loopback for a long, long while now and was just recently confronted with an older device (7.2.x) that has this confgured.. It using loopback interfaces for IP...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uscu8h/certification_change_track/" target="_blank" rel="noopener">Certification - Change Track</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T04:04:41+00:00</div>
-    <p>Passed below exams: FortiGate AD (nse4) + FortiAnalyzer Analyst (nse5) = FCP - Sec Ops Now I’m planning to study for Nse 7 firewall enterprise firewall Admin this time, but this is a different track (FCSS - Network Sec). Is this a good i...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1us6t1x/weird_ipsec_issue_involving_a_single_ip/" target="_blank" rel="noopener">Weird IPSec issue involving a single IP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T23:30:32+00:00</div>
-    <p>So we recently migrated our SSLVPN users to IPSEC IKEv2 over TCP443, and so far no major issues, been quiet, outside of some small issues that we have been resolving pretty quick. Except a weird one popped up today that was being that I’...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/7j8blzt2h9ch1.png?width=140&amp;height=18&amp;auto=webp&amp;s=1ea4eec1ad75f98fb4bc6c145a596e173fd882fa" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1us1jo8/pls_explain/" target="_blank" rel="noopener">Pls explain?!</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T20:09:50+00:00</div>
-    <p>Study Guide: https://preview.redd.it/7j8blzt2h9ch1.png?width=1055&amp;format=png&amp;auto=webp&amp;s=aeddf3827e40825d17d74f2f6382acd47e2d6fa6 FortiGate: https://preview.redd.it/8dhdtbj5h9ch1.png?width=822&amp;format=png&amp;auto=webp&amp;s=90ce98fe7357d5e886c1b...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1urxzl4/vpn_onconnect_script_questions_variables/" target="_blank" rel="noopener">VPN On-Connect script questions / variables</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-09T18:03:31+00:00</div>
-    <p>I have a customer who has a requirement to use an after-connect script in EMS for their VPN to map some network drives. Everything seems to work except for one drive mapping where we have to use a &#x27;%username%&#x27; variable (for a home folder...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usua9l/fortigate_50g_reimaged_with_7019_wont_boot/" target="_blank" rel="noopener">FortiGate 50G re-imaged with 7.0.19 won&#x27;t boot</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T17:29:39+00:00</div>
+    <p>Hello FortiRedditors, A customer was transfered to me that bought a brand new FortiGate 50G to replace their defective 50E. The unit is on a 6.05 firmware unfortunately, with an expired licence. There is also three FortiAPs 221E managed ...</p>
   </div>
 </li>
 <li class="card">
@@ -171,7 +115,7 @@ _Updated: July 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-cape/1.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
