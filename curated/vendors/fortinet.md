@@ -7,25 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usxb5b/fortimanager_experts_please_settle_an_argument/" target="_blank" rel="noopener">FortiManager Experts - Please Settle an Argument</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T19:16:59+00:00</div>
-    <p>I&#x27;ve never used, nor have access to FortiManager. A project I&#x27;m involved in has a requirement to access backups of device config files for passive, offline vulnerability assessment and best practice configuration audit. The assessments a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1usua9l/fortigate_50g_reimaged_with_7019_wont_boot/" target="_blank" rel="noopener">FortiGate 50G re-imaged with 7.0.19 won&#x27;t boot</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-10T17:29:39+00:00</div>
-    <p>Hello FortiRedditors, A customer was transfered to me that bought a brand new FortiGate 50G to replace their defective 50E. The unit is on a 6.05 firmware unfortunately, with an expired licence. There is also three FortiAPs 221E managed ...</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
