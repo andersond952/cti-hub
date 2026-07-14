@@ -7,63 +7,119 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uw5aj4/help_with_connection_with_fortimanager_downshould/" target="_blank" rel="noopener">Help with Connection with fortimanager down..(should be a very unique issue)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-14T10:53:52+00:00</div>
+    <p>We didn’t notice VM fortigate was not able to validate license with fortimanager after upgrade from 7.2.12 to 7.4.12. We noticed when after around 1 month one of the firewall pair stopped all traffic. License status from get sys status w...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uw4sw9/client_on_internal_blocked_dns_requests_to_server/" target="_blank" rel="noopener">client on internal blocked dns requests to server on internal same subnet</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-14T10:28:02+00:00</div>
+    <p>Hi all, I&#x27;ve got a Fortigate 70F at home. There are several vlans active also a few vdoms, but they&#x27;re not getting hit at all.. Situation: GoogleTV client connecting to Wifi (unifi) that&#x27;s attached to vlan1 (interface internal) DNS serve...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uw31mk/forticlient_free_on_macos_sends_hostname_as_peer/" target="_blank" rel="noopener">FortiClient Free on macOS sends hostname as Peer Identifier in IKEv2 dial-up IPsec VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-14T08:47:25+00:00</div>
+    <p>Hi everyone, we are currently troubleshooting an IKEv2 dial-up IPsec VPN connection with the following setup: FortiGate: FortiOS 7.4.12 Client: FortiClient Free VPN type: Dial-up IPsec IKE version: IKEv2 Authentication: Pre-shared key Fo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uw2ig7/fortios_766_ipsec_vpn_fails_in_phase_1_after/" target="_blank" rel="noopener">[FortiOS 7.6.6] IPsec VPN fails in phase 1 after introducing FIC 2FA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-14T08:16:01+00:00</div>
+    <p>I have an LDAP group role-de-vpn containing users who need VPN access. Yesterday I added the LDAP server for authentication. Authentication works. config user ldap edit &quot;ad-ldap-auth&quot; set server 10.0.0.100 set cnid &quot;samaccountname&quot; set d...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvprx0/forticloud_organization_confusion/" target="_blank" rel="noopener">Forticloud Organization confusion</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T22:02:29+00:00</div>
+    <p>Questions Suppose I use a Fortinet account to create a Fortinet Organization. Does that account automatically become the root (master) account? Is the account itself considered part of the organization it created? If I then activate Fort...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvprsp/766_fg40f_locked_up/" target="_blank" rel="noopener">7.6.6 FG-40F locked up</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T22:02:21+00:00</div>
+    <p>I have a Fortigate 40F. The config has not changed in the past year. We have been using it a few years. It has had 7.6.6 for a couple of months now. For the first time ever, it had the following issue today: The network started getting s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvk6i9/fortigate_dhcp_handing_out_used_ips/" target="_blank" rel="noopener">Fortigate DHCP handing out used IPs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T18:40:20+00:00</div>
+    <p>I have an odd issue that&#x27;s only affecting IP addressing for Guest networks that are using the FGT as the DHCP server. I&#x27;m seeing about 30% DHCP failure rate for new endpoints. The endpoints usually end up getting an IP, but sometimes the...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvjq6y/8021x_computer_and_user_authentication/" target="_blank" rel="noopener">802.1x - computer and user authentication</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T18:24:21+00:00</div>
+    <p>Hello, I&#x27;m finalizing our 802.1x setup. I&#x27;m about 90% done. I&#x27;m using Windows Server NPS as the RADIUS server for my FortiSwitches and I&#x27;m using certificate-based authentication. The vast majority of the stuff is working, but I&#x27;m having ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvh6ac/policy_hitssessions_on_web_mode_vpn/" target="_blank" rel="noopener">Policy hits/sessions on Web Mode VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T16:54:39+00:00</div>
+    <p>Hello, The company I work for heavily utilizes web mode VPN for contractors to access resources on our network, gross I know. Anyways, we are starting to migrate off of DUO for MFA to MS Authenticator and I thought this would be a good t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/960267959/0/fortinet/blogs~Cyber-Attacks-Leveraging-AI-Require-BehaviorFirst-Security-Training-Not-Simply-Better-Awareness" target="_blank" rel="noopener">Cyber Attacks Leveraging AI Require Behavior-First Security Training, Not Simply Better Awareness</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 13 Jul 2026 15:00:00 +0000</div>
+    <p>AI security awareness training must go beyond just awareness to help employees recognize AI-driven threats, use approved tools responsibly, and make safer decisions in real time.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvdqi3/fortiidentity_cloud_ldap_group/" target="_blank" rel="noopener">FortiIdentity Cloud &amp; LDAP Group</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T14:50:29+00:00</div>
+    <p>Fortigate 7.6.6, no FortiAuth. In this environment, I have an LDAP Group of VPN users. These should get FortiTokens through FortiIdentity Cloud. Am I correctly seeing that, to assign tokens I need to create all 200 users locally? My aim ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvde35/forticlient_vpn_ios/" target="_blank" rel="noopener">Forticlient VPN - iOS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T14:37:30+00:00</div>
+    <p>Hello We have been transitioning to SSL VPN. Some of our users use an iPad. We had a third party set this up. We use FortiTokens for 2FA. The Fortitoken prompt was not popping up on these devices. The thing that works is &quot;smashing&quot; the p...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uvclxh/nse5_exam_pearsonvue_delivery_successful/" target="_blank" rel="noopener">NSE5 exam pearsonvue delivery successful</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T14:08:01+00:00</div>
+    <p>hey guys did my NSE5 on friday , it said I passed but says delivery successful on pearsonvue and no update yet. Anybody know why submitted by /u/n4mbo [link] [comments]</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1uva2ip/1000f1001f_single_ha_port_for_fgcp_clustering/" target="_blank" rel="noopener">1000F/1001F Single HA Port for FGCP Clustering</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T12:24:04+00:00</div>
     <p>Alas there is only a single HA port on this firewall ! Could anyone advise please? If I want to dedicate two interfaces for HA, would this combination work? &gt; Use HA Port + one of the eight 10G/5G/2.5G/1G/100M RJ45 ports connected to the...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uv57g0/how_well_do_the_migration_tools_fortinet_provides/" target="_blank" rel="noopener">how well do the migration tools fortinet provides do ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T08:04:15+00:00</div>
-    <p>I have to migrate cisco FW to fortigate and fortigate to fortigate appliacnces , I have alot of in Cisco FW and i am getting my training in Fortigate at the moment, one of my colleages said the migration tools forti provices do not work ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uuyeyp/ayuda_urgente_en_mi_red_interna_no_deja_abrir_una/" target="_blank" rel="noopener">AYUDA URGENTE. EN MI RED INTERNA NO DEJA ABRIR UNA PAGINA,PERO SI PUEDO VER LA PAGINA DESDE FUERA DE MI RED INTERNA. FORTIGATE 100F</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-13T02:04:59+00:00</div>
-    <p>Necesito ayuda urgente En mi trabajo tengo un fortigate 100F v7.4.12 build2902(Mature) y la empresa donde trabajo tienen un dominio .net, que permite abrir otras paginas del mismo dominio .net (subdominios); pero de un momento a otro ya ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uuvf35/use_the_same_subnet_for_fortiswitches_and_fortiaps/" target="_blank" rel="noopener">Use the same subnet for FortiSwitches and FortiAPs?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-12T23:47:44+00:00</div>
-    <p>How do you configure Fortigate Fortilink interfaces so that FortiSwitches and FortiAPs use the same default vlan 1 subnet for management? Do you assign the ip and dhcp server on the fortilink interface or the _default.fortilink (_default...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uuv4u5/i_lost_internet_access_after_upgrading_the/" target="_blank" rel="noopener">I lost internet access after upgrading the FortiGate.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-12T23:35:08+00:00</div>
-    <p>I lost internet connectivity after upgrading my FortiGate 90G from version 7.0.15 to 7.4.5. Does anyone know how to resolve this? This section was translated using Google Translate, so it may contain unnatural phrasing. submitted by /u/S...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uuqbru/fortigate_fw_vm_on_proxmox/" target="_blank" rel="noopener">Fortigate FW VM on Proxmox</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-12T20:18:20+00:00</div>
-    <p>I&#x27;ve been in contact with Fortinet support regardin their option for a Permanent Trial License Availability: Fortinet now offers a permanent trial license for FortiGate-VM, intended for ongoing evaluation and learning. The only problem i...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uupgqt/manually_authenticated_internet_access/" target="_blank" rel="noopener">Manually Authenticated Internet Access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-12T19:45:35+00:00</div>
-    <p>I’m trying to figure out how best to implement authenticated on-demand internet access for certain users on certain VLANs. We have two networks. One is the corporate network, the other is the production network. Production network is new...</p>
   </div>
 </li>
 <li class="card">
@@ -144,14 +200,6 @@ _Updated: July 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/958197488/0/fortinet/blogs~Teaching-Cybersecurity-the-Way-It%e2%80%99s-Actually-Used" target="_blank" rel="noopener">Teaching Cybersecurity the Way It’s Actually Used</a></h3>
     <div class="meta">Fortinet Blog · Fri, 19 Jun 2026 14:00:00 +0000</div>
     <p>A conversation with Graafschap College, a Fortinet Academic Partner, on how they’re embedding cybersecurity into everyday IT education programs, and why hands-on experience is the most effective ap…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/958088444/0/fortinet/blogs~Introducing-FortiSOC-One-Platform-Total-Control" target="_blank" rel="noopener">Introducing FortiSOC: One Platform, Total Control</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 16 Jun 2026 13:00:00 +0000</div>
-    <p>FortiSOC is Fortinet’s cloud-delivered SOC platform that unifies analytics, SIEM, SOAR, threat intelligence, and AI into a single service with a shared data model to streamline detection and respon…</p>
   </div>
 </li>
 <li class="card">
