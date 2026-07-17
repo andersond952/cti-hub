@@ -7,103 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxydkf/fortinet_captive_portal_via_a_firewall_policy/" target="_blank" rel="noopener">Fortinet Captive portal via a firewall policy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T09:56:17+00:00</div>
-    <p>I&#x27;m trying to setup a captive portal for a specific subnet which is reachable via the same LAN interface which should not have a captive portal. For example the LAN is on 10.0.0.0/24 and via this there is a subnet 192.168.10.0/24 which i...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uyjys6/some_ios_devices_cant_get_ip_when_connected_to/" target="_blank" rel="noopener">Some iOS devices can&#x27;t get IP when connected to AP22</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T00:10:56+00:00</div>
+    <p>submitted by /u/TrunkMunki [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/gbr9ayj26odh1.png?width=140&amp;height=64&amp;auto=webp&amp;s=20d92d64378a0ed432886ff3afb083b68fe097a5" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uyhs88/fortigate_selforiginated_ike_traffic_bypasses/" target="_blank" rel="noopener">FortiGate Self-Originated IKE Traffic Bypasses Local-In-Policy Drop on Dial-Up VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T22:39:02+00:00</div>
+    <p>Hello, I am facing a persistent issue with a Dial-up IPSec VPN tunnel configuration on our HQ FortiGate. HQ Public IP -&gt; 176.x.x.x Location -&gt; 91.x.x.x Our goal is to restrict IPSec VPN connections only to a specific list of public IP ad...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxxidf/forticlient_linux_747_fails_to_configure/" target="_blank" rel="noopener">FortiClient Linux 7.4.7 fails to configure systemd-resolved routing domain for IPsec VPN on Ubuntu 24.04</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T09:06:47+00:00</div>
-    <p>Product: FortiClient Linux 7.4.7 (EMS cloud managed) Platform: Ubuntu 24.04 LTS Issue: After establishing a full-tunnel IPsec VPN, FortiClient configures the DNS servers but does not configure the DNS routing domain for systemd-resolved ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uyesw9/runbook_migration_of_saml_sslvpn_to_ipsec/" target="_blank" rel="noopener">Runbook Migration of SAML SSLVPN to IPSEC?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T20:45:59+00:00</div>
+    <p>Hi. Has someone done this smoothly who would be prepared to share their recommendations/runbook/checklist? We ideally want to run them parallel for a short period of time, inject the new VPN Connection into Forticlient on every machine a...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxx8ev/managing_vpn_certificates/" target="_blank" rel="noopener">Managing vpn certificates</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T08:50:51+00:00</div>
-    <p>Hello, I am looking to convert all vpn tunnels to use certificates for authentication. Is there a good way to manage the enrollment, distribution and renewal of certificates with fortimanager. I do not have fortiauthenticator but do have...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uybw6k/nse4_cursos_laboratorios_y_recomendaciones/" target="_blank" rel="noopener">NSE4 – Cursos, laboratorios y recomendaciones</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T18:57:16+00:00</div>
+    <p>Hola a todos. Estoy preparándome para presentar la certificación Fortinet NSE4 y me gustaría conocer las recomendaciones de quienes ya la aprobaron o están estudiando actualmente. Tengo algunas dudas: ¿Qué cursos externos realmente valen...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxwbxs/forticlient_2fa_question/" target="_blank" rel="noopener">Forticlient 2Fa Question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T07:58:26+00:00</div>
-    <p>I have a problem with my FortiGate IPsec VPN. Currently, when I log in through the FortiClient VPN settings, I’m prompted to enter a verification code. However, when the verification code pop-up appears, my computer disconnects, preventi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uy9cce/using_ems_with_70f_in_fipscc_mode_having_issues/" target="_blank" rel="noopener">Using EMS with 70f in FIPS-CC mode, having issues with ZTNA Destinations</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T17:25:35+00:00</div>
+    <p>We are working towards our CMMC Level 2 assestment, I have an On-Prem Fortigate EMS Server with 25 licenses. Firewall is a 70f with 7.2.4 in FIPS-CC mode. All I need is 3 laptops to each be able to access 3 different computers in the off...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxuz86/how_to_automatically_reboot_a_failed_ha_cluster/" target="_blank" rel="noopener">How to automatically reboot a failed HA cluster node after HA failover?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T06:39:38+00:00</div>
-    <p>Ok, this is kind of a bummer and should be a &quot;set failover-auto-reboot enable&quot; option, since automation stitches cannot target nodes based on their current HA role. The problem: HA a-p cluster where the primary unit runs into memory or c...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uy8q1f/nse_recertification/" target="_blank" rel="noopener">NSE RECERTIFICATION</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T17:03:40+00:00</div>
+    <p>Hi everyone, I have the FCSS Network Security certificate. with the new updated NSE Certification path, when i logged on the portal to see my certificates, i had three. the NSE6 Network Security, NSE6 SASE and NSE7 Network Security. So m...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxkqi2/routing_vlans_over_npuvlinks/" target="_blank" rel="noopener">Routing VLANs over NPU-vlinks</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-15T22:34:45+00:00</div>
-    <p>Okay, we had two firewalls which I squished down to two vdoms on one piece of hardware. So, no more need for IPsec tunnels between the two. I&#x27;m building npu-vlinks now which are routing traffic. Our big sysadmin wants to be able to migra...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uy5hho/eve_ng_with_mobaxterm_issue/" target="_blank" rel="noopener">EVE NG with Mobaxterm (issue)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T15:05:35+00:00</div>
+    <p>Hi everyone, I&#x27;ve been using EVE-NG over the past few weeks, and I really like it. However, I&#x27;m running into an issue with MobaXterm. When I connect to Cisco devices such as routers and switches, everything works perfectly. The problem o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxhr98/fgt_in_explicit_proxy_mode_how_i_send/" target="_blank" rel="noopener">FGT in explicit proxy mode, how i send X-Forwarded-For to FAZ with traffic logs? ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-15T20:42:14+00:00</div>
-    <p>​Hi everyone, ​Does anyone know how to configure a fgt in explicit proxy mode to include the X-Forwarded-For field when sending traffic logs to a FAZ? ​My load balancer sends me that field, and I already figured out how to forward it usi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uy41y9/problema_com_o_forticlientvpn_e_o_oracle_19c/" target="_blank" rel="noopener">Problema com o FortiClientVPN e o Oracle 19C</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-16T14:12:49+00:00</div>
+    <p>Bom dia pessoal! Estou tentando conectar a VPN para acessar o banco de dados. Quando eu baixo o FortiClient e logo com o usuario que foi criado, ele conecta normalmente. A partir do momento que eu baixo o Oracle DataBase 19C a VPN para d...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxhc1y/dpd_errors_during_off_hours_with_no_user_traffic/" target="_blank" rel="noopener">DPD errors during off hours (with no user traffic) on one site of the IPSec tunnel</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-15T20:25:06+00:00</div>
-    <p>Dear all One of our Fortigates (100F, v7.4.11) and one of our customers Fortigates (100F, v7.4.11) have an IPSec tunnel (site to site) established. The tunnel works, there are no issues with work/user traffic (so far). However, there is ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uxh0sn/getting_fortiaps_on_same_vlan/" target="_blank" rel="noopener">Getting FortiAPs on same VLAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-15T20:12:38+00:00</div>
-    <p>(Home Network) I&#x27;m fairly new to Fortigate administration. I have a Fortiswitch that&#x27;s POE powering 2 FortiAPs being controlled over Fortilink by my Fortigate and they&#x27;re on the default fortilink VLAN I have a 3rd AP that&#x27;s directly conn...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ux83hz/anyone_ingesting_fortigate_logs_to_sentinelone/" target="_blank" rel="noopener">Anyone ingesting Fortigate logs to SentinelOne SIEM?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-15T14:51:48+00:00</div>
-    <p>Has anyone successfully integrated FortiGate logs to S1 SIEM? The Marketplace instructions don’t seem terribly practical as you have to setup a host to functionally act as a parser, which is going to be a giant box for hundreds of gigs a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ux7s4l/tracking_wireless_clients_per_ap/" target="_blank" rel="noopener">Tracking Wireless Clients per AP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-15T14:39:56+00:00</div>
-    <p>We recently upgraded our infrastructure from Cisco Meraki to full FortiStack: firewalls (100F v-7.4.12), switching(148F), and Wi-Fi access points (231G and K). Being in K-12, we have students that tend to lose devices. With Meraki, we we...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ux5a8j/enterprise_sdwan_cloud_security_vs_sase_what_are/" target="_blank" rel="noopener">Enterprise SD-WAN + Cloud Security vs SASE: what are we really missing?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-15T13:03:59+00:00</div>
-    <p>submitted by /u/luieklimmer [link] [comments]</p>
+    <h3><a href="https://feeds.fortinet.com/~/960560447/0/fortinet/blogs~The-TTF-Trap-A-Global-Campaign-of-a-LowDetection-Lua-Loader" target="_blank" rel="noopener">The TTF Trap: A Global Campaign of a Low-Detection Lua Loader</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 16 Jul 2026 13:00:00 +0000</div>
+    <p>FortiGuard Labs analyzes a global phishing campaign using obfuscated JScript, disguised .ttf files, and Lua loaders to deliver RATs and infostealers.…</p>
   </div>
 </li>
 <li class="card">
@@ -187,15 +163,7 @@ _Updated: July 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/958368557/0/fortinet/blogs~FortiSASE-Training-Builds-Skills-for-Secure-Access-Success" target="_blank" rel="noopener">FortiSASE Training Builds Skills for Secure Access Success</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 24 Jun 2026 15:00:00 +0000</div>
-    <p>Learn how FortiSASE training helps customers and partners build practical skills for SASE deployment, ZTNA, endpoint control, and secure access.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-cape/1.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
