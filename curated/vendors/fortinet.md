@@ -7,87 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/kstu9e4xrydh1.png?width=140&amp;height=68&amp;auto=webp&amp;s=c11f712d0b7f03d851222b17fcddd5f06f07164a" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uzs97p/fortiauthenticator/" target="_blank" rel="noopener">FortiAuthenticator.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-18T10:23:50+00:00</div>
-    <p>Good Morning Techs! Question is about MAB authentication that dont work with TP-Link Switches. I have one instance where I use cert authentication(this works very good) but, there must be an exception like Printers where it doesnt have s...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/iql5q9fppxdh1.png?width=140&amp;height=79&amp;auto=webp&amp;s=f08293ee9ada147a97f2e44fba8b3182276caad0" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uzopi4/need_help_with_advpn_10_routing_control_and/" target="_blank" rel="noopener">Need help with ADVPN 1.0 routing control and failover priority in a Multi-Hub iBGP setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-18T06:56:23+00:00</div>
-    <p>Topology Diagram Hey everyone, I&#x27;m currently working on an ADVPN 1.0 architecture with a multi-hub layout using iBGP Environment / Topology Overview We have 3 distinct Zones, each with its own dedicated Hub. Spoke WAN: Every Spoke has du...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0ggtj/ipsec_between_azure_vwan_hub_and_fortigate/" target="_blank" rel="noopener">IPSEC between Azure vWan Hub and Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T04:12:00+00:00</div>
+    <p>At my wits end for this and probably missing something obvious. Worked with Fortigate gear for 12 years never had this much of an issue. IPSEC to plenty of other gear and to cloud providers before. We’ve involved Fortinet support and Azu...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uzo431/why_is_my_fortiap_showing_power_mode_high_3_under/" target="_blank" rel="noopener">Why is my FortiAP showing `Power Mode: high (3)` under `cw_diag power` even though I have the FortiAP profile POE_MODE set to high (which has value 6 within `cfg -c POE_MODE`)?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-18T06:23:07+00:00</div>
-    <p>See google drive link for txt files showing diagnostics outputs from fortiap as well as from the fortigate side (wlc). I&#x27;m seeing `cw_diag power` show the `oper power mode` as high (which is what it is supposed to be), but then putting (...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0chhl/fortiap_745_wireless_disconnect_bug/" target="_blank" rel="noopener">FortiAP 7.4.5 wireless disconnect bug</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T00:51:26+00:00</div>
+    <p>Ran into an issue yesterday, 3 FortiAPs managed in the cloud was randomly disconnecting wireless devices only on one SSID. Verified dns and network settings received from DHCP were fine. Verified we were getting proper power from the swi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uz9cqw/nat_exhaustion/" target="_blank" rel="noopener">NAT Exhaustion</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T19:18:28+00:00</div>
-    <p>Firewalls started dropping all connections today until we rebooted. Fortigate 120G in HA stack Logs show: NAT port exhaustion We have a single WAN IP for guest wifi + staff networks. We&#x27;ve dropped the default NAT timers down from 1 hour ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uz8onz/fortiswitch_766_8021x_broken/" target="_blank" rel="noopener">Fortiswitch 7.6.6 802.1x Broken?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T18:54:21+00:00</div>
-    <p>I am setting up 802.1x with clearpass and most of my switch are running 7.6.1 or lower and are working fine. I upgraded 2 switches this morning to 7.6.6 and now they absolutely refuse to work if I have the 802.1x security policy on the p...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uz729d/ns4_certification_with_fortios_exam_on_february/" target="_blank" rel="noopener">NS4 certification with fortios exam on February</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T17:56:15+00:00</div>
-    <p>I received my NSE4 Certification credly badge yesterday with Just a fortios exam passed on February. I didn’t find yet the pdf certification on my fortinet training account, is just my issue? Thanks EDIT: Pdf appeared on my training dash...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uz6yn4/forticlient_vpn_refuses_to_install/" target="_blank" rel="noopener">Forticlient VPN refuses to install</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T17:52:40+00:00</div>
-    <p>I&#x27;m at my wits end y&#x27;all. I work for an MSP and I&#x27;ve installed the FortiClient VPN a hundred times for a hundred clients. Recently had to re-image my Windows 11 computer and now the FortiClientVPNInstaller.exe simply refuses to run on my...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uz6b4y/replacement_messages_for_ssl_certificate_errors/" target="_blank" rel="noopener">Replacement Messages for SSL Certificate Errors in Flow-Based Inspection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T17:29:25+00:00</div>
-    <p>Hello, We are implementing category-based web filtering with deep packet inspection for outbound user traffic. Both category filtering and deep packet inspection are working as expected. We would now like to display replacement messages ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uz371r/fortinet_support_not_worth_it/" target="_blank" rel="noopener">Fortinet Support. Not worth it?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T15:36:41+00:00</div>
-    <p>I&#x27;ve used Fortinet Support several times in the past, but it&#x27;s been a while since I last needed them. I&#x27;ve got a situation where a wireguard tunnel traversing a FortiGate goes down some time over night local time. Packet captures show ou...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1uyyq41/fortimanager_sdbranch_best_way_to_assign_a_unique/" target="_blank" rel="noopener">FortiManager SD-Branch: Best way to assign a unique IP to the default nac_segment for each branch?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-17T12:46:32+00:00</div>
-    <p>FortiManager SD-Branch: Best way to assign a unique IP to the default nac_segment for each branch? Body I&#x27;m building an SD-Branch deployment using: FortiManager 7.6.7 FortiGate 40F (FortiOS 7.6.4) FortiSwitch Manager Blueprints Model Dev...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0737n/best_way_to_use_a_local_rj45_port_for_an_existing/" target="_blank" rel="noopener">Best way to use a local RJ45 port for an existing VLAN carried over an LACP trunk?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-18T20:53:35+00:00</div>
+    <p>Hi everyone, I&#x27;m currently redesigning my network and have run into what feels like a common problem, but I&#x27;m curious how others have solved it. My setup is: FortiGate 120G LACP bundle ( x1/x2 ) connected to my core switch Multiple VLANs...</p>
   </div>
 </li>
 <li class="card">
@@ -171,7 +115,7 @@ _Updated: July 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-cape/1.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
