@@ -7,31 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0ggtj/ipsec_between_azure_vwan_hub_and_fortigate/" target="_blank" rel="noopener">IPSEC between Azure vWan Hub and Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T04:12:00+00:00</div>
-    <p>At my wits end for this and probably missing something obvious. Worked with Fortigate gear for 12 years never had this much of an issue. IPSEC to plenty of other gear and to cloud providers before. We’ve involved Fortinet support and Azu...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v1hpwe/forticlient_vpn_only_license_and_start_before/" target="_blank" rel="noopener">Forticlient VPN only license and Start before logon</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T10:31:46+00:00</div>
+    <p>I have a customer who just needs the capability to use Start before logon on their Forticlient. Traditionally they would need to license an EMS solution to unlock this but I&#x27;m wondering if the new VPN licensing will allow this without EM...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0chhl/fortiap_745_wireless_disconnect_bug/" target="_blank" rel="noopener">FortiAP 7.4.5 wireless disconnect bug</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T00:51:26+00:00</div>
-    <p>Ran into an issue yesterday, 3 FortiAPs managed in the cloud was randomly disconnecting wireless devices only on one SSID. Verified dns and network settings received from DHCP were fine. Verified we were getting proper power from the swi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v1d6o5/1_isp_to_ha_fortigate/" target="_blank" rel="noopener">1 ISP to HA FortiGate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T06:09:11+00:00</div>
+    <p>I have a situation which is my HA FortiGate need a wan connection from 1 ISP. Basically, this HA setup is active-passive. Can this 1 ISP connect physically to 2 different FortiGate with same wan IP ? Is it possible to connect directly wi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0737n/best_way_to_use_a_local_rj45_port_for_an_existing/" target="_blank" rel="noopener">Best way to use a local RJ45 port for an existing VLAN carried over an LACP trunk?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-18T20:53:35+00:00</div>
-    <p>Hi everyone, I&#x27;m currently redesigning my network and have run into what feels like a common problem, but I&#x27;m curious how others have solved it. My setup is: FortiGate 120G LACP bundle ( x1/x2 ) connected to my core switch Multiple VLANs...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v153mr/questions_on_fortigate_70g_sizing_check_for_a/" target="_blank" rel="noopener">Questions on FortiGate 70G sizing check for a small biotech/office site (~25 users, SOC2) + UniFi on the LAN from a first-time setup?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T23:27:47+00:00</div>
+    <p>Hi all! I&#x27;ve been put on the task to help out the small company I&#x27;m at for setting up their networking for the new office (I do not have networking experience though). It is a single location of 8500 sqft, mix of office and lab. There wi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0wd3s/should_i_move/" target="_blank" rel="noopener">Should I move</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T17:20:07+00:00</div>
+    <p>We are using a WatchGuard M390 firewall right now, should we move to Fortinet? If so what appliance should we move to? Is there an easy migration? Software cost? submitted by /u/EfficiencyUpbeat8354 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -115,7 +123,7 @@ _Updated: July 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-cape/1.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
