@@ -7,39 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/lhihzubwvgeh1.png?width=140&amp;height=81&amp;auto=webp&amp;s=4ad1f9718ea9a911ec6ce69859e06ae64a50e8c5" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v1hpwe/forticlient_vpn_only_license_and_start_before/" target="_blank" rel="noopener">Forticlient VPN only license and Start before logon</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T10:31:46+00:00</div>
-    <p>I have a customer who just needs the capability to use Start before logon on their Forticlient. Traditionally they would need to license an EMS solution to unlock this but I&#x27;m wondering if the new VPN licensing will allow this without EM...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v21c40/bsod_removing_fortiedr_stop_bad_pool_caller/" target="_blank" rel="noopener">BSOD Removing FortiEDR Stop: Bad_Pool_CALLER</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T23:18:40+00:00</div>
+    <p>https://preview.redd.it/lhihzubwvgeh1.png?width=1118&amp;format=png&amp;auto=webp&amp;s=50538f8665aa81859031544b778ebfe1e398b686 I am moving to a new EDR product and I am using the following script to remove FortiEDR via GPO GPP immediate task and t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v1d6o5/1_isp_to_ha_fortigate/" target="_blank" rel="noopener">1 ISP to HA FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T06:09:11+00:00</div>
-    <p>I have a situation which is my HA FortiGate need a wan connection from 1 ISP. Basically, this HA setup is active-passive. Can this 1 ISP connect physically to 2 different FortiGate with same wan IP ? Is it possible to connect directly wi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v216go/fortinet_nse7_network_security_architect/" target="_blank" rel="noopener">Fortinet NSE7 - Network Security Architect</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T23:12:16+00:00</div>
+    <p>Does anyone know if the new exam is using Enteroruse Firewall Admin questions? NSE library has enterprise firewall admin and sdwan modules but nothing that lines up with name Network security architect or is it a whole new exam with both...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v153mr/questions_on_fortigate_70g_sizing_check_for_a/" target="_blank" rel="noopener">Questions on FortiGate 70G sizing check for a small biotech/office site (~25 users, SOC2) + UniFi on the LAN from a first-time setup?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T23:27:47+00:00</div>
-    <p>Hi all! I&#x27;ve been put on the task to help out the small company I&#x27;m at for setting up their networking for the new office (I do not have networking experience though). It is a single location of 8500 sqft, mix of office and lab. There wi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v1voh2/renewal_is_up_and_im_weighing_sticking_with/" target="_blank" rel="noopener">Renewal is up and I&#x27;m weighing sticking with FortiSASE against moving to Cato or Zscaler</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T19:38:06+00:00</div>
+    <p>Hi y&#x27;all, long-time Fortinet shop. 60-odd sites, FortiGates everywhere, FortiClient on the endpoints, the lot. Renewal is in October so this is the moment to think properly. I want to be fair about this because I like the kit. The firewa...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v0wd3s/should_i_move/" target="_blank" rel="noopener">Should I move</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-19T17:20:07+00:00</div>
-    <p>We are using a WatchGuard M390 firewall right now, should we move to Fortinet? If so what appliance should we move to? Is there an easy migration? Software cost? submitted by /u/EfficiencyUpbeat8354 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v1u9qq/unable_to_connect_on_main_admin_profile_but_not/" target="_blank" rel="noopener">Unable to connect on main admin profile but not other local profiles.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T18:47:22+00:00</div>
+    <p>I started having issues with connecting to FortiClient VPN for work on my main/local profile when using my personal computer (error -7200 message). Logs show Last Error = 231. My main profile has administrator access. I tried reinstallin...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v1o6vt/slow_on_startup_mac/" target="_blank" rel="noopener">Slow on startup (Mac)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-20T15:07:40+00:00</div>
+    <p>I have a vpn connection through fortinet on a PowerBook. I have it as a menu bar startup item. I get others that load and appear right away, but this one can take over a minute. I’ve been using it for years, both in a system menu bar sta...</p>
   </div>
 </li>
 <li class="card">
@@ -123,7 +131,7 @@ _Updated: July 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
