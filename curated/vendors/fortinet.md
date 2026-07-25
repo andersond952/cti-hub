@@ -7,71 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v537ml/forticlient_ztna_clients_lose_affiliation_with_ems/" target="_blank" rel="noopener">Forticlient ZTNA / Clients lose affiliation with EMS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-24T06:25:56+00:00</div>
-    <p>Hi, I would like to just ask around (not going to open an official case with fortinet just now) if any of you have noticed something similar recently. I have a very low but increasing number of users that start up their laptops in the mo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v5rnfn/forticlient_impacting_network_performance_on/" target="_blank" rel="noopener">FortiClient impacting network performance on endpoints</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-24T23:29:37+00:00</div>
+    <p>This only started happening recently. We unfortunately are still on the EOL/near-EOL 7.2.14 clients. We have had a surge in VPN connections due to a sharp increase in users. Tried to submit a ticket to TAC, no luck. Every suggestion is: ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4yqsd/new_to_fortinet/" target="_blank" rel="noopener">New to Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-24T02:44:01+00:00</div>
-    <p>Hi there, I’m new to Fortinet and I’m trying to set the 90g up using my home network. The device can’t connect to FortiCloud and when I called support they said I need to contact the Fortinet partner for the initial setup. I bought the t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v5lrwg/forticlient_web_filter_vs_vpn_to_fortigate_vs/" target="_blank" rel="noopener">FortiClient Web Filter vs VPN to FortiGate vs FortiSASE</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-24T19:42:59+00:00</div>
+    <p>I am working through a few different possibilites for adding security for remote workers. As it is we have about 80 offices and 500 employees. Half of these offices have fortigates (70F/G for branch and 90G for a few headquarters) with t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/962621522/0/fortinet/blogs~Expert-Density-as-Strategy-How-FIT-Built-One-of-Germany%e2%80%99s-Deepest-Fortinet-Practices" target="_blank" rel="noopener">Expert Density as Strategy: How 2F-IT Built One of Germany’s Deepest Fortinet Practices</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 24 Jul 2026 15:00:00 +0000</div>
+    <p>Learn how 2F-IT GmbH built one of Germany’s strongest Fortinet expert teams by making NSE 8 talent density, mentorship, and specialization part of its operating model.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4t9iu/fortigate_user_groups_limited_to_1_saml_server/" target="_blank" rel="noopener">FortiGate user groups limited to 1 SAML server per user group?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T22:42:32+00:00</div>
-    <p>Currently implementing IPsec-over-TCP VPN and ZTNA Agentless Portal (replacing SSL web-mode), each have their own public FQDN, so they need separate SAML SP objects on the FortiGate ( SSO-VPN , SSO-ZTNA — different entity-id/ACS). Proble...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/dy739hacx1fh1.png?width=140&amp;height=75&amp;auto=webp&amp;s=e1008a56bdc3c05fac27f51dc8508c58d7514b1b" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4sa1o/fortimail_in_gateway_mode_m365_are/" target="_blank" rel="noopener">FortiMail in Gateway Mode (M365) - Are IMAP/POP3/Webmail services necessary?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T22:03:39+00:00</div>
-    <p>Good afternoon, I was reviewing the configurations on my FortiMail appliance. It is currently operating in Gateway mode to analyze inbound traffic and route it to Microsoft 365; outbound emails do not pass through here. Given this situat...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v5by5v/where_can_i_find_forticlient_ems_download_files/" target="_blank" rel="noopener">Where can I find FortiClient EMS download files for a GNS3 lab?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-24T13:48:59+00:00</div>
+    <p>Hey everyone, I’m trying to set up a Fortinet lab in GNS3 to practice ZTNA and endpoint management. I know FortiClient EMS comes with a free 3-endpoint trial license, but I’m struggling to find the actual installer/image files without an...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4rzg6/fortiswitch_issue_with_tacacs/" target="_blank" rel="noopener">Fortiswitch issue with tacacs+</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T21:52:38+00:00</div>
-    <p>Management ip’s Switch 1 10.255.2.1 Switch 2 10.255.2.2 mclag icl on ports 49/50 Port 1 vlan 5 is the management vlan Switch 1 tacacs works. Ping to gateway works. Ping to tacacs server works. Switch 2 tacacs fails. Ping to gateway works...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v5bi8v/health_check_on_a_single_real_server_in_fortiweb/" target="_blank" rel="noopener">Health Check on a Single Real Server in FortiWeb</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-24T13:31:23+00:00</div>
+    <p>Is it possible to apply a Health Check profile in FortiWeb when using a single Real Server IP? When I configure the server as a Single Server, I do not see an option to assign a Health Check profile. If I instead configure it as a Server...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4ol4d/is_7_days_enough_to_prepare_for_the_nse_4_exam/" target="_blank" rel="noopener">Is 7 days enough to prepare for the NSE 4 exam? + Are online practice questions similar to the real exam?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T19:48:06+00:00</div>
-    <p>Hi everyone, I’m planning to take the NSE 4 exam next week, and I only have 7 days left for preparation. I have a good background in networking, and I studied FortiGate about 3 months ago. I did some labs and practical work, but I wouldn...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4nzvv/fortigate_ha_multi_vdom_ha_reserved_mgmt/" target="_blank" rel="noopener">Fortigate HA multi VDOM ha reserved mgmt interface or in-band management?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T19:27:22+00:00</div>
-    <p>Hi guys, I have the following challenge. Can you guys maybe recommend what you do in this case and if it&#x27;s possible? I have two FortiGate 601F&#x27;s in HA A/P with multi-VDOM. The root VDOM is also the management VDOM. The mgmt ports are in ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4nhvj/sdwan_rules_question_force_all_traffic_out_of_one/" target="_blank" rel="noopener">SD-WAN rules question -- Force all traffic out of one specific interface unless down</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T19:09:50+00:00</div>
-    <p>I thought I achieved this, but it seems that its not working. I really only want my secondary connection to function when the primary goes down. What SD-Wan rule config should I put in place for this? submitted by /u/dnsinc [link] [comme...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v5aw0t/problem_with_sso_in_fortiweb_fortios_upgrade_to/" target="_blank" rel="noopener">Problem with SSO in FortiWeb FortiOS Upgrade to 7.6.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-24T13:06:46+00:00</div>
+    <p>Hello, we have upgraded our FortiWeb cluster from v7.4.11M to v7.6.7M, through the recommended path (7.4.11M -&gt; 7.6.2F -&gt; 7.6.7M). The SSO login (with AWS provider) was working, both in 7.4.11 and in 7.6.2, but now is not working with v7...</p>
   </div>
 </li>
 <li class="card">
@@ -83,14 +67,6 @@ _Updated: July 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4er06/hub_spokes_setup_with_ibgp_routing/" target="_blank" rel="noopener">Hub &amp; Spokes setup with iBgp routing</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T13:59:45+00:00</div>
-    <p>Hello everyone, I am in the process of establishing a hub-and-spoke topology utilizing iBGP routing. I encountered ADVPN, which automatically creates overlay tunnels between FortiGate devices. However, there is a stipulation that prohibi...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/962130836/0/fortinet/blogs~A-Conversation-with-Crime-Stoppers-International-About-Our-Shared-Cybercrime-Bounty-Initiative" target="_blank" rel="noopener">A Conversation with Crime Stoppers International About Our Shared Cybercrime Bounty Initiative</a></h3>
@@ -99,11 +75,11 @@ _Updated: July 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v4ctlu/fortiap_vs_ruckus_help/" target="_blank" rel="noopener">FortiAP vs Ruckus Help</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-23T12:42:26+00:00</div>
-    <p>submitted by /u/Klutzy_Implement4188 [link] [comments]</p>
+    <h3><a href="https://feeds.fortinet.com/~/961655441/0/fortinet/blogs~Inside-a-TrickBot-Variant-Using-DNS-Tunneling-for-C" target="_blank" rel="noopener">Inside a TrickBot Variant Using DNS Tunneling for C2</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 22 Jul 2026 13:00:00 +0000</div>
+    <p>FortiGuard Labs analyzes a TrickBot variant that uses DNS tunneling for C2 communication, modular execution, and employs persistence and obfuscation techniques…</p>
   </div>
 </li>
 <li class="card">
@@ -112,14 +88,6 @@ _Updated: July 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
     <h3><a href="https://feeds.fortinet.com/~/961703621/0/fortinet/blogs~Meeting-the-European-Central-Bank%e2%80%99s-AI-Cybersecurity-Mandate" target="_blank" rel="noopener">Meeting the European Central Bank’s AI Cybersecurity Mandate</a></h3>
     <div class="meta">Fortinet Blog · Wed, 22 Jul 2026 13:00:00 +0000</div>
     <p>The European Central Bank’s AI cybersecurity mandate requires banks to submit a board-endorsed action plan by October 31, 2026. See how Fortinet helps you meet that timeline and the Digital Operati…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/961655441/0/fortinet/blogs~Inside-a-TrickBot-Variant-Using-DNS-Tunneling-for-C" target="_blank" rel="noopener">Inside a TrickBot Variant Using DNS Tunneling for C2</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 22 Jul 2026 13:00:00 +0000</div>
-    <p>FortiGuard Labs analyzes a TrickBot variant that uses DNS tunneling for C2 communication, modular execution, and employs persistence and obfuscation techniques…</p>
   </div>
 </li>
 <li class="card">
@@ -163,15 +131,7 @@ _Updated: July 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/958831322/0/fortinet/blogs~Analysis-of-Ongoing-Ousaban-Attacks-Targeting-the-Iberian-Peninsula" target="_blank" rel="noopener">Analysis of Ongoing Ousaban Attacks Targeting the Iberian Peninsula</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 1 Jul 2026 13:00:00 +0000</div>
-    <p>FortiGuard Labs analyzes a geofenced Ousaban campaign targeting Spain and Portugal with phishing PDFs, steganography, and evasive C2.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-cape/1.jpg" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
