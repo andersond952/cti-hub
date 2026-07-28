@@ -7,39 +7,95 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v8ufw2/fortios_80_anyone_use_in_prodution/" target="_blank" rel="noopener">FortiOS 8.0 - Anyone Use in Prodution</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T10:30:59+00:00</div>
+    <p>We have a small fleet of Fortigates 1x 100F 2x 90G 10x 60F Does anyone use FortiOS on any of those if so what issues do you see? We are currentlly on 7.6.7 and aside from having to login to it multiple times havent seen any issues. We ju...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v8qprc/forticlient_ems_80_intune_deployment_mst/" target="_blank" rel="noopener">FortiClient EMS 8.0 + Intune Deployment - MST configuration not being applied (Invitation Code prompt)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T07:05:59+00:00</div>
+    <p>Hi Fellas, I&#x27;m deploying FortiClient EMS 8.0 using Microsoft Intune (Win32 app) and have run into an issue. Environment FortiClient EMS 8.0.x Microsoft Intune (Win32 app) Deployment package generated from EMS with MSI Installer Files ena...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v8plez/ipsec_ikev2_password_renewal/" target="_blank" rel="noopener">IPSec IKEv2 password renewal</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T06:05:37+00:00</div>
+    <p>Question regarding this KB article ( https://community.fortinet.com/fortigate-3/technical-tip-enable-ldap-user-to-renew-expired-password-via-vpn-ipsec-213183 ), specifically the note: &quot;This configuration only works with IKE v1, IKE v2 us...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v8k0mr/difficulty_of_fsw_76_exam/" target="_blank" rel="noopener">Difficulty of FSW 7.6 Exam</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T01:38:44+00:00</div>
+    <p>Has anyone taken and passed the FortiSwitch 7.6 exam after the recent certification changes? How was it? Any tips or advice? Can it be said that exam content after the cert changes is the same? I’ve been studying since June submitted by ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v8dari/bgp_per_overlay_need_to_fail_sla_when_bgp_goes/" target="_blank" rel="noopener">BGP per overlay need to fail SLA when BGP goes down, is it possible?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T21:07:42+00:00</div>
+    <p>We ran into an issue last week where someone pushed out a bad BGP configuration that broke the BGP neighborship on the main overlay that majority of remote sites use. This broke all spoke initiated spoke to hub connectivity. Hub to spoke...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v8b5t8/found_a_personalized_fortinet_louisville_slugger/" target="_blank" rel="noopener">Found a personalized Fortinet Louisville Slugger bat for Kevin Walter (Mountain Desert Team) at Goodwill in Louisville – $2</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T19:50:53+00:00</div>
+    <p>Hey everyone, Picked this up at the Goodwill at 101 Marshall Dr, Louisville, KY 40207. It’s a red Louisville Slugger with gold engraving that says: Kevin Walter 101% Attainment Q4 FY’17 Mountain Desert Team Plus “FORTINET” and the normal...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v89tyu/split_tunnel_not_working_anyone_else_having_an/" target="_blank" rel="noopener">Split Tunnel Not Working - Anyone Else Having an Issue?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T19:03:50+00:00</div>
+    <p>I am using the FortiClient VPN agent. My VPN is set to allow split tunneling, but the Forticlient is creating a default route with a higher metric to send all traffic to the tunnel. 0.0.0.0/0 -&gt; 192.168.1.1 (local Internet) 100 0.0.0.0/0...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/963628532/0/fortinet/blogs~Canada-Signs-the-UN-Cybercrime-Convention-Turning-Global-Agreement-into-Coordinated-Action" target="_blank" rel="noopener">Canada Signs the UN Cybercrime Convention: Turning Global Agreement into Coordinated Action</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 27 Jul 2026 15:00:00 +0000</div>
+    <p>Canada’s signing of the UN Convention against Cybercrime advances global cooperation and highlights the essential role of public-private partnerships.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v82fan/migrating_fortigate_config_from_100e_to_120g/" target="_blank" rel="noopener">Migrating FortiGate Config from 100E to 120G.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T14:44:07+00:00</div>
+    <p>Hi everyone, I&#x27;m fairly new to the Fortinet world, and look for guidance/advice on migrating a config from one unit to another. We currently use a 100E with 7.0.19. We are waiting on an 120G to arrive which should have the latest 7.4.x v...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v80q9r/cannot_connect_to_vpn_after_updating_my_mac/" target="_blank" rel="noopener">Cannot connect to VPN after updating my mac?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T13:39:59+00:00</div>
+    <p>Hi there, I recently updated my computer to MacOS Tahoe 26.5.2 and for some reason now I cannot connect to FortiClient. I am not getting any log in prompts or anything it just tries to connect and then eventually times out. Any easy fix ...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://preview.redd.it/jpmx5s3xqrfh1.png?width=140&amp;height=67&amp;auto=webp&amp;s=29d156909e219a59d1fd1082b6844b2e388bbaca" alt="preview">
   <div>
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1v7zjxq/sitetositeipsec_vpn_slow_transfersiperf3_tests/" target="_blank" rel="noopener">Site-to-Site/IPsec VPN - Slow Transfers/iPerf3 Tests</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T12:53:16+00:00</div>
     <p>I&#x27;ve setup a site-to-site VPN between two offices, with the intention to replicate data between them via Veeam. There is a proxy at each site. Both these sites have dedicated symmetrical gigabit links, and can achieve line speed easily o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v7wnac/fortiems_cloud_license/" target="_blank" rel="noopener">Fortiems cloud license</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T10:36:57+00:00</div>
-    <p>Hey everyone so i m working on deploying a ztna arch and i was consifering ems as a cloud solution instead of on prem is there a possibility to get a free license or a period of trial for the cloud and if yes please help me who to contac...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v7snog/fortigate_migration_with_a_new_config_how_to/" target="_blank" rel="noopener">FortiGate migration with a new config - how to migrate FortiExtender</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-27T06:48:11+00:00</div>
-    <p>Hello, I have migrate company to the new FortiGate, but without FortiConverter (mine reasoning it that the config is really old, and has some really weird issues that I don&#x27;t see on other devices). My main issue is that old FortiGate has...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v7gq96/nse4/" target="_blank" rel="noopener">NSE4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-26T21:29:07+00:00</div>
-    <p>I want to study for the NSE4 exam, ant recommendations for learning resources? submitted by /u/HasanZahra [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -69,17 +125,17 @@ _Updated: July 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/961703621/0/fortinet/blogs~Meeting-the-European-Central-Bank%e2%80%99s-AI-Cybersecurity-Mandate" target="_blank" rel="noopener">Meeting the European Central Bank’s AI Cybersecurity Mandate</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/961655441/0/fortinet/blogs~Inside-a-TrickBot-Variant-Using-DNS-Tunneling-for-C" target="_blank" rel="noopener">Inside a TrickBot Variant Using DNS Tunneling for C2</a></h3>
     <div class="meta">Fortinet Blog · Wed, 22 Jul 2026 13:00:00 +0000</div>
-    <p>The European Central Bank’s AI cybersecurity mandate requires banks to submit a board-endorsed action plan by October 31, 2026. See how Fortinet helps you meet that timeline and the Digital Operati…</p>
+    <p>FortiGuard Labs analyzes a TrickBot variant that uses DNS tunneling for C2 communication, modular execution, and employs persistence and obfuscation techniques…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/961655441/0/fortinet/blogs~Inside-a-TrickBot-Variant-Using-DNS-Tunneling-for-C" target="_blank" rel="noopener">Inside a TrickBot Variant Using DNS Tunneling for C2</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/961703621/0/fortinet/blogs~Meeting-the-European-Central-Bank%e2%80%99s-AI-Cybersecurity-Mandate" target="_blank" rel="noopener">Meeting the European Central Bank’s AI Cybersecurity Mandate</a></h3>
     <div class="meta">Fortinet Blog · Wed, 22 Jul 2026 13:00:00 +0000</div>
-    <p>FortiGuard Labs analyzes a TrickBot variant that uses DNS tunneling for C2 communication, modular execution, and employs persistence and obfuscation techniques…</p>
+    <p>The European Central Bank’s AI cybersecurity mandate requires banks to submit a board-endorsed action plan by October 31, 2026. See how Fortinet helps you meet that timeline and the Digital Operati…</p>
   </div>
 </li>
 <li class="card">
@@ -115,15 +171,7 @@ _Updated: July 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/959760329/0/fortinet/blogs~The-AI-Era-Needs-a-New-SASE-Here%e2%80%99s-What-That-Actually-Looks-Like" target="_blank" rel="noopener">The AI Era Needs a New SASE. Here’s What That Actually Looks Like.</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 8 Jul 2026 15:00:00 +0000</div>
-    <p>Fortinet Unified SASE helps secure the AI era with integrated networking, AI-aware controls, sovereign options, and digital experience visibility.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-gartner/15.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
