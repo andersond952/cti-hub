@@ -7,79 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: July 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: July 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9r2ry/introducing_a_replacement_fortigate_into_a_ha/" target="_blank" rel="noopener">Introducing a replacement Fortigate into a HA pair. If the unit you are swapping out is Standby/Secondary, will it avoid disturbing the Primary so that you avoid a failover?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T09:25:11+00:00</div>
-    <p>I have a change to replace a failed Fortigate 100F. The unit is part of a HA pair. The unit that needs to be replaced is the Secondary/Standby unit. My aim is to install the replacement without disturbing the Primary so that services tha...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vaovkh/vxlan_layer_3/" target="_blank" rel="noopener">VXLAN Layer 3</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-30T09:38:39+00:00</div>
+    <p>Hi, how do you set up a VXLAN when you have two locations? We&#x27;re using FortiSwitches at both locations, and VLANs are also in use there. But we now have another location, and I&#x27;d like to know if it&#x27;s possible to set up a VXLAN using the ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9puds/custom_header_detection/" target="_blank" rel="noopener">Custom Header Detection</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T08:14:28+00:00</div>
-    <p>Hey all, At the moment, we&#x27;re implementing a browser plugin to ensure compliance regarding user prompts to a.i. The plugin works great, but the problem is that it can be bypassed using incognito or private mode. I can enable an option so...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vam5yl/forticlient_forticlient_ems_748_released/" target="_blank" rel="noopener">Forticlient &amp; Forticlient EMS 7.4.8 released</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-30T07:01:34+00:00</div>
+    <p>FortiClient &amp; EMS 7.4.8 are out. Release Notes: https://docs.fortinet.com/document/forticlient/7.4.8/windows-release-notes https://docs.fortinet.com/document/forticlient/7.4.8/macos-release-notes https://docs.fortinet.com/document/fortic...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9mmhp/migrating_wan_uplink_to_a_new_physical_port_same/" target="_blank" rel="noopener">Migrating WAN uplink to a new physical port (same IP)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T05:19:24+00:00</div>
-    <p>Hey, We&#x27;re moving our primary ISP uplink from a 1G copper port to a 10G SFP+ port on a FortiGate. The public IP stays exactly the same, we&#x27;re just changing which physical interface it lives on. We have a handful of site-to-site and remot...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/s7fq0fy6r3gh1.png?width=140&amp;height=9&amp;auto=webp&amp;s=d74bfcb7bb9b4eb354912e88e6fc20fb1be1b9bb" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9mjcr/advpn_shortcut_forming_successfully_phase_12_up/" target="_blank" rel="noopener">ADVPN Shortcut Forming Successfully (Phase 1/2 Up, Dynamic Routes Installed), but Traffic Still Traverses the Hub Instead of the Shortcut Tunnel</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T05:14:58+00:00</div>
-    <p>Hi everyone, I&#x27;m working on an SD-WAN deployment for a client, and I have all hub-and-spoke connectivity working correctly. However, there is a requirement for spoke-to-spoke communication. During initial testing, I noticed there was no ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vak5do/is_forticlient_ems_worth_it_for_improving_vpn/" target="_blank" rel="noopener">Is FortiClient EMS worth it for improving VPN reliability?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-30T05:12:02+00:00</div>
+    <p>We currently use a FortiGate with the free FortiClient VPN and are considering moving to paid FortClient with FortiClient EMS. The environment uses Entra ID, AD, and Intunue, and is subject to NIST SP 800-171/CUI requirements. For those ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9j89z/trying_to_avoid_changing_from_fortigate_firewalls/" target="_blank" rel="noopener">Trying to avoid changing from fortigate firewalls and need help troubleshooting.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T02:35:35+00:00</div>
-    <p>We have 5 sites with two 1gb fiber ISPs running through big leaf SDWAN appliances to each. 3 of the sites have ha pairs for fortigate 100f appliances, the 4th is a 200f ha pair plus a cloud virtual appliance ha pair with IPsec tunnels be...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vah6dq/free_to_paid_forticlient_gotchas/" target="_blank" rel="noopener">Free to paid Forticlient Gotchas?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-30T02:45:47+00:00</div>
+    <p>A client has decided enoughs enough with the limitations and endless issues with free forticlient and has signed off Forticlient Paid (EMS). We have never handled a migration like this before. Is the recommended method to uninstall free ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9buj1/nse_8_prep_for_core_exam/" target="_blank" rel="noopener">NSE 8 Prep for Core exam</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T21:30:06+00:00</div>
-    <p>Any advice on how to start prepping for the NSE 8 Core exam .. any company providing the Immersion training , or any information. submitted by /u/javisensacion [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1va9k39/forticlient_743_ipsec_mfa_options/" target="_blank" rel="noopener">FortiClient 7.4.3 IPSEC MFA Options?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T21:24:29+00:00</div>
+    <p>It seems IPSEC MFA via FortiToken requires FortiClient 7.4.4 when using LDAP, so no free FortiClient version then. Are there any other options for MFA with FortiClient VPN Only 7.4.3? Does it still work with SAML, or Radius via Windows N...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9b2bh/can_dynamic_port_policy_nac_tackle_downstream/" target="_blank" rel="noopener">Can Dynamic Port Policy NAC tackle downstream unmanaged switches with multiple randomised endpoints?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T21:01:04+00:00</div>
-    <p>Hey guys so I&#x27;ve been playing around with Dynamic Port Policy primarily because of the lldp profile functionality. Now, it&#x27;s all working fine and everything when a connect an endpoint directly. Lets say, i got VLAN 10 for WORKSTATIONS, a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9wb1o/fortigate_vm00_license/" target="_blank" rel="noopener">Fortigate VM00 license</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T13:31:13+00:00</div>
+    <p>Hi all We still have some fortigate vm00 running. Today I heard from a friend, that VM00 license is no longer supported. I couldn‘t find anything about that from Fortinet. Do you know if that‘s true and how long is it possible to extend ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v948ln/fs148gfpoe/" target="_blank" rel="noopener">FS-148G-FPOE</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T16:56:58+00:00</div>
-    <p>Do any of you lovely Forti-folks have any insight on when / if we&#x27;ll be seeing a 148G-FPOE? The 124G variants have all been available for a while now. I&#x27;m starting to think that they might be limiting the 100 series to 24 ports going for...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9w4mv/for_everyone_upgrading_from_72x_tot_74x_watch_out/" target="_blank" rel="noopener">For everyone upgrading from 7.2.X tot 7.4.X, WATCH OUT!</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T13:24:24+00:00</div>
+    <p>So today I upgraded our FW from 7.2.13 to 7.4.12. Apparently, since 7.4.10 Fortinet decided to change the default behavior of hairpin traffic. Before this was allowed by default. Now you need to create explicit policies for this. Or if y...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v91e9q/ipv6_working_with_no_route/" target="_blank" rel="noopener">IPv6 working with no route?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-28T15:14:54+00:00</div>
-    <p>SOLVED: There is apparently two routing tables. I was looking at &quot;get router info6 routing-table&quot; but there is also &quot;get router info6 kernel&quot; which provides a different output. Strange, but it does answer my question. Original post: I ha...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9w28i/fortimanger_pushes_some_device_settings_during/" target="_blank" rel="noopener">Fortimanger pushes some device settings during policy only installs.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T13:21:40+00:00</div>
+    <p>I&#x27;m attempting to run down where these settings are within the fortimanager that attempt to make changes to the following: RADIUS admin profile Fortianalzyer (Specifically wants to change the local to cloud) and then Forti EMS settings. ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1v9v1o1/1200g_just_announced/" target="_blank" rel="noopener">1200G just announced!</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-29T12:40:10+00:00</div>
+    <p>Anyone considering it, and, does anyone know the specs on the main CPU yet? submitted by /u/mrnemesisman [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -163,7 +163,7 @@ _Updated: July 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: f
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-gartner/11.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-gartner/15.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
