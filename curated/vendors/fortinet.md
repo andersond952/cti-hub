@@ -7,47 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vc7lfm/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-01T00:00:22+00:00</div>
-    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vc3k2u/ipsec_vpn_ignoring_ikev2_request_no_policy/" target="_blank" rel="noopener">IPSec VPN - ignoring IKEv2 request, no policy configured</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-31T21:15:03+00:00</div>
-    <p>submitted by /u/szczebrzeszyn09 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vc3jai/ipsec_vpn_ignoring_ikev2_request_no_policy/" target="_blank" rel="noopener">IPSec VPN - ignoring IKEv2 request, no policy configured</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-31T21:14:13+00:00</div>
-    <p>I’m trying to set up a remote IPSec VPN for my users, but I’m having trouble. I can see that client authorisation is proceeding correctly, but it crashes at the final stage of client authentication. I’m getting the following error: ike V...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/1kbszmwxjlgh1.png?width=140&amp;height=65&amp;auto=webp&amp;s=23c556363c225937fdb0472ec8cc95930e19eead" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vbwsox/can_i_connect_mclag_peer_group_to_access_switches/" target="_blank" rel="noopener">Can I connect MC-LAG peer group to access switches with a single link per access switch?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-31T17:04:04+00:00</div>
-    <p>The FortiDocumentation is not explicitly clear on if I can have access switches connect to a single switch in a MC-LAG peer group. I have a single FortiGate (121G) setup with four 10Gbps ports/cables in a single fortilink trunk to a set ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vbtwu8/setting_dedicated_ips_for_specific_services/" target="_blank" rel="noopener">Setting dedicated IPs for specific services outbound with SD-WAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-07-31T15:19:57+00:00</div>
-    <p>We have 2 internet connections terminated to our firewall with spare IPs, and SD-WAN is already configured outbound for load-balance/failover. We have a specific outbound service (SMTP) that we want to attach to a dedicated outbound IP a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vcvfqi/fortisiem_moving_old_online_data_to_archive_in/" target="_blank" rel="noopener">FortiSIEM: Moving old online data to archive in Clickhouse deployment.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-01T18:53:28+00:00</div>
+    <p>Hello everyone. I want to move old online data before I enabled Archiving to Archive storage. Since Clickhouse Archive only moves incoming logs as it comes, I swear I saw some commands to move old data to Archive but cannot find it now. ...</p>
   </div>
 </li>
 <li class="card">
@@ -131,7 +99,7 @@ _Updated: August 01, 2026 • Sources filter: fortinet, fortiguard • Keywords:
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-cape/1.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-gartner/15.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
