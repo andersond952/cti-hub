@@ -7,15 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vcvfqi/fortisiem_moving_old_online_data_to_archive_in/" target="_blank" rel="noopener">FortiSIEM: Moving old online data to archive in Clickhouse deployment.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-01T18:53:28+00:00</div>
-    <p>Hello everyone. I want to move old online data before I enabled Archiving to Archive storage. Since Clickhouse Archive only moves incoming logs as it comes, I swear I saw some commands to move old data to Archive but cannot find it now. ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vea7j1/forticlient_ems_72_to_74_migration/" target="_blank" rel="noopener">FortiClient EMS 7.2 to 7.4 Migration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T10:59:30+00:00</div>
+    <p>Hi All, We are looking to migrate our FortiClient EMS from 7.2.14 to 7.4.7. Our EMS serves around 2500 endpoints and is a crucial component for accessing our environment. As we use ZTNA tag checking for our VPN profiles and ZTNA destinat...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ve5q6b/fortinet_fs_248e_fpoe_high_cpu/" target="_blank" rel="noopener">Fortinet FS 248E FPOE High CPU</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T06:44:46+00:00</div>
+    <p>Having an ongoing issue on a 248E FPOE switch. It is on our school campus and has 2 cameras, 6 Voip phones, and 13 desktops connected, and the switch will idle at 80% cpu then when users are on campus it will ramp up and somethings will ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ve2bnp/guest_wifi_access/" target="_blank" rel="noopener">Guest WIFI Access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T03:41:27+00:00</div>
+    <p>Hello, Just wanting to make sure there isn&#x27;t a better option for Guest WIFI. We have the full Fortinet stack (FGT, FSW and FAP). Need to provide guest wireless access. My thoughts were to: Create dedicated vlan for guests that only have ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vdryss/fortigate_50g_767_ha_pair_keep_going_into/" target="_blank" rel="noopener">FortiGate 50G 7.6.7 HA Pair keep going into &quot;Conserve mode&quot;, issue continues.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-02T20:01:58+00:00</div>
+    <p>I really have to warn ANY users of 2GB RAM units (and maybe others?) from upgrading to 7.6.6/7.6.7. There still seems to be no answers as to why they keep going into conserver mode and breaking internet routing. Worked with HarryTran86 a...</p>
   </div>
 </li>
 <li class="card">
@@ -99,7 +123,7 @@ _Updated: August 02, 2026 • Sources filter: fortinet, fortiguard • Keywords:
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-gartner/15.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-keeper/13.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
