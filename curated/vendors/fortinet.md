@@ -7,71 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vf3i08/windows_native_vpn_with_fortigate_and_identity/" target="_blank" rel="noopener">Windows Native vpn with Fortigate and identity based policies</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-04T07:35:04+00:00</div>
-    <p>Hi everyone, I&#x27;m trying to accomplish what the title says. Please don&#x27;t argue with me why I shouldn&#x27;t. I&#x27;m helping a customer and I have already lost that discussion. We are trying to figure out if we can migrate the vpn users from SSL-V...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vg3zuf/upgrading_fortigate_200f_from_748_to_766_and_ssl/" target="_blank" rel="noopener">Upgrading FortiGate 200F from 7.4.8 to 7.6.6 and SSL VPN Deprecation Concern</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-05T10:52:55+00:00</div>
+    <p>Hi All, I&#x27;m currently running a FortiGate 200F on FortiOS v7.4.8 . While the system suggests upgrading to v7.4.9 for the mature branch, I&#x27;m planning to jump to the version recommended in the Fortinet Technical Tip , which is v7.6.6 . How...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vf3g79/ad_group_based_web_filter_overlaps/" target="_blank" rel="noopener">AD Group based Web Filter overlaps</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-04T07:32:09+00:00</div>
-    <p>Hello, coming from PAN firewalls mainly, I might be a spoiled on that topic. Now I have the requirement to define the following type of rules on Fortigates: Source: Group=&quot;Social-Media&quot; Allow Traffic to= &quot;Social Websites&quot; Source: Group=&quot;...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vg2s9j/questions_about_faz_and_fmg_integration/" target="_blank" rel="noopener">Questions about FAZ and FMG Integration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-05T09:48:55+00:00</div>
+    <p>Hello, I work as the Head of Cybersecurity at an MSP, and we manage a fleet of about 400 FortiGate firewalls. Each firewall is completely independent, sharing only the initial baseline configuration, as every firewall is subsequently cus...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vexdvg/ipsec_vpn_over_sdwan_for_already_established/" target="_blank" rel="noopener">IPsec VPN over SD-WAN for already established tunnels</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-04T02:16:36+00:00</div>
-    <p>I got two sites with FG per each one. Site1 / FG1 got 2 WAN links. Site2 / FG2 got single WAN connection. Site 1 has SD-WAN setup and working fine IPsec is already configured between the sites and working as expected. my goal is to confi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vfq2oz/no_utp_how_vulnerable_am_i/" target="_blank" rel="noopener">No UTP. how vulnerable am i?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-04T23:07:46+00:00</div>
+    <p>Hi all, I am new to the Fortinet world. I recently started a job in a IT support role at a smallish company. I started a few months back. last month, our firewalls were set to expire in August. i sent in a request to have them set up for...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vesahf/ztna_fortimanager/" target="_blank" rel="noopener">ZTNA + Fortimanager</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T22:36:13+00:00</div>
-    <p>Having issues setting up ZTNA with two HTTPS destinations via Fortimanager. Have get it configured fine via the firewall itself, but that won&#x27;t import, and it keeps throwing &quot;api-gateway/1/ : There is already an api-gateway with the same...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vfmt04/upgrade_fortimanager_cloud_from_72_to_74any/" target="_blank" rel="noopener">Upgrade FortiManager Cloud from 7.2 to 7.4--any gotchas</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-04T20:57:59+00:00</div>
+    <p>Has anyone encountered any issues or gotchas when upgrading FortiManager Cloud (or even regular FortiManager) from 7.2 to 7.4? We are an all-7.2 shop (60F, 80F, 90G, 120G, 400F models) except FortiAnalyzer on-premise (already 7.4) and ne...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vej6k9/121g_ha_pair_wont_grab_wan_ip_on_port1wan1/" target="_blank" rel="noopener">121G HA Pair won&#x27;t grab WAN ip on port1(wan1)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T16:59:04+00:00</div>
-    <p>I am at a loss here. New to fortigate world, so bear with me. I picked up two FortiGate 121Gs. Both units have been licensed, HA is configured and synchronized, and SD-WAN is set up. Current layout: ISP circuit → WAN switch → FortiGate H...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vfhevz/best_way_to_share_same_l2_domain_over_multiple/" target="_blank" rel="noopener">Best way to share same L2 domain over multiple fortilinked switches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-04T17:43:13+00:00</div>
+    <p>Hello I&#x27;m looking for a feasible way to share the same VLANs over multiple fortilink interfaces. Topology Fortigate 80F - Fortigate 80F (HA) Fortilink interface A; Fortiswitch 148 (Active). Fortiswitch 148 (Hot spare). fortilink Interfac...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1veixv3/paid_foritclient_version_for_group_of_4/" target="_blank" rel="noopener">Paid Foritclient version for group of 4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T16:50:28+00:00</div>
-    <p>Hello all, What are the recommendations for small companies to get a current, paid copy of FortiClient? We only have 4-5 users. Hoping there is something smaller and easier than FC EMS Cloud. Thanks submitted by /u/Enough-Dependent-470 [...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vffrko/ipsec_onoff_fabric/" target="_blank" rel="noopener">IPSec on/off fabric.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-04T16:45:38+00:00</div>
+    <p>I have the following problem. I have an SSL VPN that is working correctly. When a user logs in to their computer and connects to the SSL VPN, they move from off-fabric to on-fabric. The SSL VPN connection is maintained correctly and is n...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vehrna/european_dns_filter_rating_server/" target="_blank" rel="noopener">European DNS Filter Rating Server?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T16:08:24+00:00</div>
-    <p>Does anyone know how to modify the DNS filter rating servers to set them to be based in Europe? submitted by /u/_Philein [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1veh4ct/fortios_for_fortiswitch_and_fortiap/" target="_blank" rel="noopener">FortiOS for FortiSwitch and FortiAP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T15:45:32+00:00</div>
-    <p>The FGT is managing the FortiSwitch and FortiAP. FGT is recommending an upgrade for the FortiSwitch to FortiOS v8.0.0. I&#x27;m assuming the recommendation is stay with FS v7.6.6 and FortiAP v7.6.5 vs upgrading them to v8.0.0 while the FGT is...</p>
+    <h3><a href="https://feeds.fortinet.com/~/966214247/0/fortinet/blogs~QuickFox-Supply-Chain-Attack-Used-to-Deploy-FDMTP-Implant" target="_blank" rel="noopener">QuickFox Supply Chain Attack Used to Deploy FDMTP Implant</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 4 Aug 2026 13:00:00 +0000</div>
+    <p>The FortiGuard Labs Incident Response team analyzes a QuickFox supply chain attack that used trojanized Windows installers, selective targeting, and an evolving FDMTP implant…</p>
   </div>
 </li>
 <li class="card">
@@ -80,30 +72,6 @@ _Updated: August 04, 2026 • Sources filter: fortinet, fortiguard • Keywords:
     <h3><a href="https://feeds.fortinet.com/~/966036563/0/fortinet/blogs~From-Threat-Intelligence-to-Action-The-First-Cybercrime-Bounty-Is-Now-Live" target="_blank" rel="noopener">From Threat Intelligence to Action: The First Cybercrime Bounty Is Now Live</a></h3>
     <div class="meta">Fortinet Blog · Mon, 3 Aug 2026 15:00:00 +0000</div>
     <p>Crime Stoppers International launches Operation Silent Vector I, the first live bounty targeting a cybercrime group, as a part of the Crime Stoppers International and Fortinet Cybercrime Bounty ini…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vefo21/whitelisting_issues_on_a_fortigate_isolated/" target="_blank" rel="noopener">Whitelisting issues on a fortigate isolated network</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T14:52:35+00:00</div>
-    <p>I work in a small company and the company bought some machines that come with support, I will call them company A . We put these on a network with blocked internet access and we can whitelist what that network has access to. We use a for...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vef465/vpn_não_conecta_fortos_7213/" target="_blank" rel="noopener">VPN não conecta FortOS 7.2.13</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T14:31:50+00:00</div>
-    <p>Bom dia a todos, estou com um laboratorio com Fortgate 1801F e um 1000D estou tentando fechar VPN entre os dois firewalls na bancada de de teste. Cenário: FW Matriz 1081F. - FortOS 7.2.12 FW Filial 1000D - FortOS 7.2.13 Segmento de rede ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vecb22/fortigate_dns_failover_primary_dns_stays_ready1/" target="_blank" rel="noopener">FortiGate DNS Failover: Primary DNS stays ready=1 after hundreds of timeouts, causing 1-second delay on every query</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-03T12:40:22+00:00</div>
-    <p>We are using a FortiGate FG-60E as a DNS proxy for our clients. The primary DNS server is the local Active Directory DNS server at the site. The secondary DNS server is hosted in Azure and is reachable through an IPsec tunnel. With the d...</p>
   </div>
 </li>
 <li class="card">
@@ -171,15 +139,7 @@ _Updated: August 04, 2026 • Sources filter: fortinet, fortiguard • Keywords:
   </div>
 </li>
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/960489146/0/fortinet/blogs~Helping-Law-Enforcement-Keep-Pace-with-the-Future-of-Cybercrime" target="_blank" rel="noopener">Helping Law Enforcement Keep Pace with the Future of Cybercrime</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 15 Jul 2026 13:00:00 +0000</div>
-    <p>Val Saengphaibul, director of threat response at Fortinet’s FortiGuard Labs, reports on the 2026 INTERPOL Partners’ Conference and Fortinet’s long-standing partnership to help disrupt global cyberc…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-gartner/11.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
