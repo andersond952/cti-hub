@@ -7,79 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/6dciio7xbqhh1.png?width=140&amp;height=99&amp;auto=webp&amp;s=f06d83af0b44e81f8c6a9ef7a7a5b462b47224b6" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vh04zn/cannot_find_nse6_sdw_ad76_excam_on_pearson_view/" target="_blank" rel="noopener">cannot find NSE6_SDW_AD-7.6 excam on pearson view</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T10:13:30+00:00</div>
-    <p>Hi Peeps I&#x27;m trying to schedule the exam for &quot;Fortinet NSE 6 - SD-WAN 7.6 Enterprise Administrator&quot; but somehow I cannot find it on the pearson vue catalog. and also when i search for it from teh search bar I get nothing. has anyone had ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vhtia5/oneway_site_to_site_vpn_traffic/" target="_blank" rel="noopener">One-way Site to Site VPN Traffic</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T07:09:01+00:00</div>
+    <p>I&#x27;ve been playing about in my lab environment with 7.6.7 on both devices, trying to get site to site VPNs working. I thought this would be straightforward; use the wizard, match settings, witchcraft occurs, vpn is up. The problem I&#x27;m hav...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgygsx/fortigate_cloud_and_free_emscloud_license/" target="_blank" rel="noopener">fortigate cloud and free emscloud license</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T08:35:12+00:00</div>
-    <p>so i just got a free ems cloud license using my fortigate cloud and it gave me 3 endpoint i was asking if i transfere the fgt to another account do i lose the trial license or not or could i just activate it again i hope someone have a c...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vhiqyj/help_azure_migrated_my_vpn_gateway_sku_and/" target="_blank" rel="noopener">HELP Azure migrated my VPN Gateway SKU and something is badly messed</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T22:26:54+00:00</div>
+    <p>submitted by /u/eastcoastoilfan [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgvvt5/strange_explicit_proxy_behaviour/" target="_blank" rel="noopener">Strange explicit proxy behaviour.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T06:05:59+00:00</div>
-    <p>Hello everybody! I have a Fortigate and an Ubuntu server. There&#x27;s an IPSec tunnel between the devices, and there&#x27;s an SDWAN rule on the Fortigate that sends traffic to Telegram to that tunnel interface. When explicit proxy is turned off,...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vhcqrs/peering_with_a_2gb_model/" target="_blank" rel="noopener">Peering with a 2GB model</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T18:37:12+00:00</div>
+    <p>Hi everyone, I operate a small autonomous system. There is not much throughput, maybe 200Mbit/s peak. I&#x27;m wondering if a 80E has enough RAM for peering at 2 IXPs+receiving a full table from a transit provider. Anyone with experience in t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgr2k5/psa_android_forticlient_80_mixed_authentication/" target="_blank" rel="noopener">PSA - Android FortiClient 8.0 - Mixed Authentication Types - IKEv2</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T02:03:27+00:00</div>
-    <p>Previously if you had wanted to do SAML/RADIUS on FortiClient Android with IKEv2, you had to use certificate based authentication + SAML/RADIUS. This usually meant having a different dial up IPSec VPN for Windows and Android. It seems no...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgqr7e/speedtest/" target="_blank" rel="noopener">Speedtest</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T01:48:56+00:00</div>
-    <p>Trying to perform a speedtest from the router but it seems Fortinet doesn&#x27;t think this functionality is something that should be simple and easy (and requires some specific license). What are people doing to perform a speedtest, (even fr...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgni9x/traffic_dropped_before_matching_policy/" target="_blank" rel="noopener">Traffic dropped before matching policy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-05T23:25:08+00:00</div>
-    <p>Got an issues, where I have a bgw 10.30.27.7 connected to fortigate lan 10.30.27.5 which is gw…. Now traffic from this bgw never exits past lan… not to 8.8.8.8 via wan interface, not to remote peer via an active healthy tunnel interface ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgnf58/traffic_dropped_before_matching_policies/" target="_blank" rel="noopener">Traffic dropped before matching policies</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-05T23:21:22+00:00</div>
-    <p>Hello guys, Got an issues, where I have a bgw 10.30.27.7 connected to fortigate lan 10.30.27.5 which is gw…. Now traffic from this bgw never exits past lan… not to 8.8.8.8 via wan interface, not to remote peer via an active healthy tunne...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgia75/looking_for_fortimail_400f_accessories/" target="_blank" rel="noopener">Looking for FortiMail 400F accessories</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-05T20:01:45+00:00</div>
-    <p>I need some help. I have a FortiMail 400F unit but lack the appropriate rack-mount ears. I need to find the part number for the rack-mount kit so I can contact a distributor to buy it, or—at the very least—see if anyone has a spare set t...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vgg6j9/is_there_a_way_to_block_specific_ai_models/" target="_blank" rel="noopener">Is there a way to block specific AI models?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-05T18:47:07+00:00</div>
-    <p>Hello, Recently, I have been dealing with a situation involving AI service access control requirements. The requirement is not to block all AI services, but rather to find a way to control access to specific large-scale models. For examp...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vh61n6/forticlient_ems_v80_ha/" target="_blank" rel="noopener">FortiClient EMS v8.0 HA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T14:36:22+00:00</div>
+    <p>Hey all After some help with a HA issue I have with joining 3 x EMS nodes together in a cluster. So we&#x27;ve performed fresh builds and installed 3 x FortiClient EMS server on ESXi hosts. They all boot up fine and I&#x27;ve performed the few ini...</p>
   </div>
 </li>
 <li class="card">
@@ -88,14 +48,6 @@ _Updated: August 06, 2026 • Sources filter: fortinet, fortiguard • Keywords:
     <h3><a href="https://feeds.fortinet.com/~/966582785/0/fortinet/blogs~Cybersecurity-Skills-Gap-More-Than-Just-a-Workforce-Challenge" target="_blank" rel="noopener">Cybersecurity Skills Gap: More Than Just a Workforce Challenge</a></h3>
     <div class="meta">Fortinet Blog · Wed, 5 Aug 2026 15:00:00 +0000</div>
     <p>Learn why the cyber skills gap is a business risk according to the Fortinet 2026 Cybersecurity Skills Gap Report findings.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vg9rk5/saml_auth_on_multiple_fortigates_azure/" target="_blank" rel="noopener">SAML Auth on multiple FortiGate&#x27;s - Azure</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-05T14:59:41+00:00</div>
-    <p>We are trying to find a good way to put a user to the traffic on the FortiAnalyzer. Traffic shows up, and sometimes shows a device name, but this is hit or miss. We are needing to find a better way to get the username to show up on traff...</p>
   </div>
 </li>
 <li class="card">
