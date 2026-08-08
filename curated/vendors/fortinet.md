@@ -7,39 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vhtia5/oneway_site_to_site_vpn_traffic/" target="_blank" rel="noopener">One-way Site to Site VPN Traffic</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T07:09:01+00:00</div>
-    <p>I&#x27;ve been playing about in my lab environment with 7.6.7 on both devices, trying to get site to site VPNs working. I thought this would be straightforward; use the wizard, match settings, witchcraft occurs, vpn is up. The problem I&#x27;m hav...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1viqcjz/moved_from_ssl_vpn_radius_to_ipsecv2_saml_could_i/" target="_blank" rel="noopener">Moved from SSL vpn (radius) to IPSecV2 (SAML) - Could I do better</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T08:15:44+00:00</div>
+    <p>Hi, we were an on-prem only company. Earlier this year we went hybrid with 365. For VPN earlier we had our clients connecting through forticlient with AD credentials leveraging RADIUS. No MFA. We then configured a parallel setup using IP...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vhiqyj/help_azure_migrated_my_vpn_gateway_sku_and/" target="_blank" rel="noopener">HELP Azure migrated my VPN Gateway SKU and something is badly messed</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T22:26:54+00:00</div>
-    <p>submitted by /u/eastcoastoilfan [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vify17/ipsecv2radiusmfawindows_computer_cert/" target="_blank" rel="noopener">IPSecv2+RADIUS+MFA+Windows computer cert</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T23:17:48+00:00</div>
+    <p>I have an idea for setting up an IPSec v2 connection on FortiGate 7.4. Users are authenticated via RADIUS+MFA using a Forti Token. At the same time, FortiGate is linked to a Windows Certificate Server. The aim is to verify certificates f...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/1j46eg74i0ih1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ecce0bc407290f5c49178131e05c82f25884a412" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vibuh0/dynamic_port_policy_vs_nac_policy/" target="_blank" rel="noopener">Dynamic Port Policy VS NAC Policy</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T20:28:42+00:00</div>
+    <p>I have three Fortiswitches and all off them have every port setup with Dynamic port policy and it works like I expect for MAB. However the ones where It needs to look at the hardware and vendor info sometimes this fails. I have 5 Forti A...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vhcqrs/peering_with_a_2gb_model/" target="_blank" rel="noopener">Peering with a 2GB model</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T18:37:12+00:00</div>
-    <p>Hi everyone, I operate a small autonomous system. There is not much throughput, maybe 200Mbit/s peak. I&#x27;m wondering if a 80E has enough RAM for peering at 2 IXPs+receiving a full table from a transit provider. Anyone with experience in t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1via3y2/state_of_node_process_memory_consumption/" target="_blank" rel="noopener">State of node process memory consumption?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T19:22:15+00:00</div>
+    <p>I know lower end units in 7.6 have frequently seen problems with memory consumption and conserve mode (in my experience) due to the node process. I have other units that have far more memory, but it&#x27;s apparent the node process still cons...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vh61n6/forticlient_ems_v80_ha/" target="_blank" rel="noopener">FortiClient EMS v8.0 HA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-06T14:36:22+00:00</div>
-    <p>Hey all After some help with a HA issue I have with joining 3 x EMS nodes together in a cluster. So we&#x27;ve performed fresh builds and installed 3 x FortiClient EMS server on ESXi hosts. They all boot up fine and I&#x27;ve performed the few ini...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vi8qm9/fortigate_91g_utp_renewal/" target="_blank" rel="noopener">Fortigate 91G UTP Renewal</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T18:31:30+00:00</div>
+    <p>Hello, We need a UTP renewal for our FG-91G and came across Router-Switch.com whilst comparing prices. We’ve also seen Skydata Solutions Ltd. Has anyone had any experience with this supplier? Thanks in advance submitted by /u/Severe-Rein...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vi3o6n/fortiwhat_forticompanion/" target="_blank" rel="noopener">FortiWHAT?!: FortiCompanion</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T15:25:06+00:00</div>
+    <p>For my next edition of FortiWhat?! I wanted to deviate a little bit from it being product specific.... There&#x27;s a very beneficial document that I feel not enough people know about that answers a lot of questions that pop up here from time...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vi3873/fortianalyser_report_fake_clone_button/" target="_blank" rel="noopener">Fortianalyser report FAKE CLONE button</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T15:08:20+00:00</div>
+    <p>When you clone a report in FortiAnalyzer, it clones the report container, not the child dependencies . The cloned report simply references the existing chart library elements and underlying SQL datasets. If you edit a chart&#x27;s layout or m...</p>
   </div>
 </li>
 <li class="card">
