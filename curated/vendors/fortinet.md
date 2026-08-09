@@ -7,63 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1viqcjz/moved_from_ssl_vpn_radius_to_ipsecv2_saml_could_i/" target="_blank" rel="noopener">Moved from SSL vpn (radius) to IPSecV2 (SAML) - Could I do better</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T08:15:44+00:00</div>
-    <p>Hi, we were an on-prem only company. Earlier this year we went hybrid with 365. For VPN earlier we had our clients connecting through forticlient with AD credentials leveraging RADIUS. No MFA. We then configured a parallel setup using IP...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vj75kd/fortisase_sia/" target="_blank" rel="noopener">FortiSASE SIA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T21:09:16+00:00</div>
+    <p>Hello folks, I want to know about your experience with FortiSASE, I use it for SIA (agent-based) only and feel like it&#x27;s full of bugs. I opened two TAC cases in one week and the two registered as BUG. recently, I am not able to connect &quot;...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/r11q15n257ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1046bcd248fa59e7aa783ba540097857f4be7888" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vj3p32/fortinacf_existe_una_licencia_trialevaluation/" target="_blank" rel="noopener">FortiNAC-F ¿Existe una licencia Trial/Evaluation?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T18:43:20+00:00</div>
+    <p>Hola a todos, colegas y expertos en Fortinet. Estoy realizando un laboratorio de FortiNAC-F en VMware con fines de aprendizaje y capacitación. Ya tengo desplegada la VM, pero durante el asistente de configuración me solicita una License ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vify17/ipsecv2radiusmfawindows_computer_cert/" target="_blank" rel="noopener">IPSecv2+RADIUS+MFA+Windows computer cert</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T23:17:48+00:00</div>
-    <p>I have an idea for setting up an IPSec v2 connection on FortiGate 7.4. Users are authenticated via RADIUS+MFA using a Forti Token. At the same time, FortiGate is linked to a Windows Certificate Server. The aim is to verify certificates f...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/1j46eg74i0ih1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=ecce0bc407290f5c49178131e05c82f25884a412" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vibuh0/dynamic_port_policy_vs_nac_policy/" target="_blank" rel="noopener">Dynamic Port Policy VS NAC Policy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T20:28:42+00:00</div>
-    <p>I have three Fortiswitches and all off them have every port setup with Dynamic port policy and it works like I expect for MAB. However the ones where It needs to look at the hardware and vendor info sometimes this fails. I have 5 Forti A...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1via3y2/state_of_node_process_memory_consumption/" target="_blank" rel="noopener">State of node process memory consumption?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T19:22:15+00:00</div>
-    <p>I know lower end units in 7.6 have frequently seen problems with memory consumption and conserve mode (in my experience) due to the node process. I have other units that have far more memory, but it&#x27;s apparent the node process still cons...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vi8qm9/fortigate_91g_utp_renewal/" target="_blank" rel="noopener">Fortigate 91G UTP Renewal</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T18:31:30+00:00</div>
-    <p>Hello, We need a UTP renewal for our FG-91G and came across Router-Switch.com whilst comparing prices. We’ve also seen Skydata Solutions Ltd. Has anyone had any experience with this supplier? Thanks in advance submitted by /u/Severe-Rein...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vi3o6n/fortiwhat_forticompanion/" target="_blank" rel="noopener">FortiWHAT?!: FortiCompanion</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T15:25:06+00:00</div>
-    <p>For my next edition of FortiWhat?! I wanted to deviate a little bit from it being product specific.... There&#x27;s a very beneficial document that I feel not enough people know about that answers a lot of questions that pop up here from time...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vi3873/fortianalyser_report_fake_clone_button/" target="_blank" rel="noopener">Fortianalyser report FAKE CLONE button</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-07T15:08:20+00:00</div>
-    <p>When you clone a report in FortiAnalyzer, it clones the report container, not the child dependencies . The cloned report simply references the existing chart library elements and underlying SQL datasets. If you edit a chart&#x27;s layout or m...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1viy29e/forticlient_without_ems_would_you_still_deploy_it/" target="_blank" rel="noopener">FortiClient without EMS - would you still deploy it in 2026?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T14:54:59+00:00</div>
+    <p>If you only needed VPN connectivity and weren&#x27;t interested in the wider endpoint stack, would you still choose FortiClient today? Or are there better options now for a relatively straightforward FortiGate + Entra ID environment? submitte...</p>
   </div>
 </li>
 <li class="card">
