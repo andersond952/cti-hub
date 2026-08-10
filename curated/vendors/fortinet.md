@@ -7,31 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vj75kd/fortisase_sia/" target="_blank" rel="noopener">FortiSASE SIA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T21:09:16+00:00</div>
-    <p>Hello folks, I want to know about your experience with FortiSASE, I use it for SIA (agent-based) only and feel like it&#x27;s full of bugs. I opened two TAC cases in one week and the two registered as BUG. recently, I am not able to connect &quot;...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/r11q15n257ih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1046bcd248fa59e7aa783ba540097857f4be7888" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vj3p32/fortinacf_existe_una_licencia_trialevaluation/" target="_blank" rel="noopener">FortiNAC-F ¿Existe una licencia Trial/Evaluation?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T18:43:20+00:00</div>
-    <p>Hola a todos, colegas y expertos en Fortinet. Estoy realizando un laboratorio de FortiNAC-F en VMware con fines de aprendizaje y capacitación. Ya tengo desplegada la VM, pero durante el asistente de configuración me solicita una License ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vk7jr1/agentless_vpn/" target="_blank" rel="noopener">Agentless VPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T01:42:46+00:00</div>
+    <p>Anyone using this? If so, any pros and cons you have found? Thank you. submitted by /u/cback1985 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1viy29e/forticlient_without_ems_would_you_still_deploy_it/" target="_blank" rel="noopener">FortiClient without EMS - would you still deploy it in 2026?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-08T14:54:59+00:00</div>
-    <p>If you only needed VPN connectivity and weren&#x27;t interested in the wider endpoint stack, would you still choose FortiClient today? Or are there better options now for a relatively straightforward FortiGate + Entra ID environment? submitte...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vjzcta/how_do_i_run_tests_in_my_sdwan_lab/" target="_blank" rel="noopener">How do I run tests in my SDWAN lab?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-09T19:47:23+00:00</div>
+    <p>I&#x27;ve simulated an SDWAN lab with Fortinet and configured rules for ERP and voice traffic. How can I test and validate these rules with different traffic types? What tools can I use? he simulado una laboratorio sdwan con fortinet, ocnfigu...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vjtyjt/how_much_cpu_headroom_do_you_realistically_leave/" target="_blank" rel="noopener">How much CPU headroom do you realistically leave on a FortiGate?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-09T16:16:09+00:00</div>
+    <p>I’ve looked around online and there are obviously plenty of general recommendations, but I’d rather hear from people actually managing these day to day. At what level of sustained CPU usage do you personally start paying attention, even ...</p>
   </div>
 </li>
 <li class="card">
@@ -115,7 +115,7 @@ _Updated: August 09, 2026 • Sources filter: fortinet, fortiguard • Keywords:
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-gartner/11.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-gartner/15.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/" target="_blank" rel="noopener">Who Runs the Ransomware Group ‘The Gentlemen?’</a></h3>
     <div class="meta">@briankrebs · Wed, 10 Jun 2026 14:03:44 +0000</div>
