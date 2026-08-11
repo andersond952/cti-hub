@@ -7,31 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 11, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vk7jr1/agentless_vpn/" target="_blank" rel="noopener">Agentless VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T01:42:46+00:00</div>
-    <p>Anyone using this? If so, any pros and cons you have found? Thank you. submitted by /u/cback1985 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vl8ket/fortigates_wfortiswitches/" target="_blank" rel="noopener">Fortigates w/Fortiswitches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-11T05:33:10+00:00</div>
+    <p>I work in an environment that was unknown to me as a sandbox for fortinet. The bugs we have found along the way are pretty extreme and noted in release notes. We are running ha fortigates with a significant amount of fortiswitches. Our T...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://external-preview.redd.it/dIi7rI-4-_l8X8i3tG5Br-uKXd_Ycku__VU85thvVzw.png?width=140&amp;height=114&amp;auto=webp&amp;s=0736c3e754ac9c9dbe5e625cee3b8c005f8c4c70" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vkzjsq/using_a_fortigate_hardware_switch_instead_of_an/" target="_blank" rel="noopener">Using a FortiGate Hardware Switch Instead of an External L2 Switch for HA Failover?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T22:32:10+00:00</div>
+    <p>Hey guys, I&#x27;m currently trying to connect a single FortiGate 101F to an HA cluster of FortiGate 401Fs running Active/Passive. My understanding is that there needs to be a Layer 2 switch between the downstream 101F and the 401F HA cluster...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/q7p1bohojmih1.jpg?width=140&amp;height=70&amp;auto=webp&amp;s=dd23eb45ee0668fbb3cd88b1686e235293f41add" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vkzjk6/change_type_or_remote_gateway_in_ipsec/" target="_blank" rel="noopener">Change type or remote gateway in IPsec</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T22:31:55+00:00</div>
+    <p>Hi everyone, is there any way to change the type of the phase1 in a fortigate 60F, I need to change it cuz mi IP change and I don’t have a domain, I have 16 IPsec tunnels so duplicate the tunnels isn’t an option submitted by /u/Unusual_P...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vjzcta/how_do_i_run_tests_in_my_sdwan_lab/" target="_blank" rel="noopener">How do I run tests in my SDWAN lab?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-09T19:47:23+00:00</div>
-    <p>I&#x27;ve simulated an SDWAN lab with Fortinet and configured rules for ERP and voice traffic. How can I test and validate these rules with different traffic types? What tools can I use? he simulado una laboratorio sdwan con fortinet, ocnfigu...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vksptw/authenticating_intune_clients/" target="_blank" rel="noopener">Authenticating InTune clients</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T18:15:46+00:00</div>
+    <p>So how are we all doing SSO user authentication on InTune/Entra joined clients going through an on-prem Fortigate? For many years we&#x27;ve been using the DC SSO agent to authenticate users on domain-joined devices, but now with clients movi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vjtyjt/how_much_cpu_headroom_do_you_realistically_leave/" target="_blank" rel="noopener">How much CPU headroom do you realistically leave on a FortiGate?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-09T16:16:09+00:00</div>
-    <p>I’ve looked around online and there are obviously plenty of general recommendations, but I’d rather hear from people actually managing these day to day. At what level of sustained CPU usage do you personally start paying attention, even ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vkrm96/fortigate_asset_transfere_to_another_forticould/" target="_blank" rel="noopener">Fortigate asset transfere to another forticould account (ems free trial)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T17:36:32+00:00</div>
+    <p>So i m doing a demo for a project i m doing for a client and i activated the free trial doe 200f series fortigate that work as HA I transfered the assets into another forticlould account but the ems free trial is still on the older accou...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vkpz1i/forticlient_743_split_tunnel_issue_has_anyone/" target="_blank" rel="noopener">FortiClient 7.4.3 Split Tunnel Issue - Has Anyone Found a Real Solution</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T16:38:15+00:00</div>
+    <p>We have the known issues when the Fortigate is sending the correct routes to the client, but the client ignores it and installs a default route instead effectively meaning no split tunnel. Support is useless. I have tried uninstalling an...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vkmxu9/anyone_ever_use_api_to_update_certificates/" target="_blank" rel="noopener">Anyone ever use API to update certificates?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T14:47:56+00:00</div>
+    <p>This is in regards to IPSEC tunnels Basically using SCEP for cert renewal (internally) and on the gates renewing this works fine... However the process to then refresh the cert on the hubs... Is still manual. EG: Updating PKI peer and pe...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vkm8ss/forum_telecom/" target="_blank" rel="noopener">Forum Telecom</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T14:21:43+00:00</div>
+    <p>submitted by /u/Glum_Background_631 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vklany/forticlient_posture_tags_based_on_entraid_group/" target="_blank" rel="noopener">Forticlient Posture tags based on EntraID group membership to MacOS devices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-10T13:44:48+00:00</div>
+    <p>Hello, Is there anyone out there that has been able to assign posture tags based on entraID group membership to MacOS devices? I have a customer that has a small amount of Mac devices and we would like to assign rbac based on group membe...</p>
   </div>
 </li>
 <li class="card">
