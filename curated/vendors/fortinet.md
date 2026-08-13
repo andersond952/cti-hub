@@ -7,39 +7,87 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vm7hcd/fortios_update_7411_to_7412_crashed_clearpass/" target="_blank" rel="noopener">FortiOS update 7.4.11 to 7.4.12 crashed Clearpass EAP-PEAP / MS-CHAPV2 Auth</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T07:42:54+00:00</div>
-    <p>Hi, we recently updated our FortiGate to 7.4.12 and directly afterwards the username+password authentication through Clearpass Radius Authentication stopped working: MSCHAP: AD status:{Access Denied} A process has requested access to an ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn6tvz/forticlient_vpn_save_password_option/" target="_blank" rel="noopener">FortiClient VPN &quot;Save Password&quot; option.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T10:22:41+00:00</div>
+    <p>Hello everyone! I&#x27;m looking for a way to make FortiClient (the free one, VPN only) save user password. When I fresh install FortiClient VPN (7.4.3 hotfix 1.8758), this checkbox is not present at all. I&#x27;ve read some manuals on XML configs...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vm116t/fortideceptors_running_during_pen_test_advice/" target="_blank" rel="noopener">FortiDeceptors running during PEN test - advice</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T02:02:03+00:00</div>
-    <p>Our cyber insurance company is running an internal pen test, and I wanted to see what others do when FortiDeceptor is running. My plan was to say nothing but add their IP to the safe list to prevent them from getting locked out mid-test....</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn5o7b/udemy_for_fortinet/" target="_blank" rel="noopener">Udemy for Fortinet</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T09:15:44+00:00</div>
+    <p>Hello, which Udemy course is suitable for the new NSE4, the proctored one. I am going to use youtube, the labs and also the provided study material on top of the Udemy course, submitted by /u/Straight-Carpet-6315 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vm0qjq/rsso_and_8021x_reauth_flushing_dhcp_snooping/" target="_blank" rel="noopener">RSSO and 802.1x Reauth Flushing DHCP Snooping Bindings</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T01:48:56+00:00</div>
-    <p>Fortigate running 7.6.6 managed Fortiswitches running 7.6.8. We have setup 802.1x device authentication for our wired clients with MAB for our IP Phones and it’s working. We then decided to take it a step further and setup RSSO so we cou...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn2rlz/forticonverter_service_does_the_source_fortigate/" target="_blank" rel="noopener">FortiConverter Service: Does the source FortiGate need to be in the same FortiCare account?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T06:25:32+00:00</div>
+    <p>Hi everyone, We are planning a firewall migration from an old FortiGate 500E to a new FortiGate 200G using a FortiConverter ticket. However, we hit a roadblock regarding account access: The customer does not have access to the FortiCare/...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vlw6gx/fortigate_ssl_vpn_cert_renewal_godaddy_wildcard/" target="_blank" rel="noopener">Fortigate SSL VPN Cert renewal GoDaddy wildcard</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-11T22:29:51+00:00</div>
-    <p>Hi, im struggling to get a new SSL cert installed for the SSL-VPN, cert checks confirms its ok but it doesn&#x27;t seem to work for my remote VPN &quot;site-domain.com&quot;. It works fine with the existing cert created last year, but this expires in 2...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmyx3m/who_here_abandoned_ipsec_vpn_completely_in_favor/" target="_blank" rel="noopener">Who here abandoned IPSec VPN completely in favor of ZTNA?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T03:03:02+00:00</div>
+    <p>How is it going? How was it done, the user experience and gotchas. submitted by /u/aliensinmylifetime [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmn6nf/non_http_traffic_fwb/" target="_blank" rel="noopener">Non http traffic FWB</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T18:56:26+00:00</div>
+    <p>Is there a any way or work around to forward non-http traffic terminated on the Fortiweb VIP in reverse proxy mode? To be forwarded to the backend server As per the docs: “By default, any non-HTTP or non-HTTPS traffic sent directly to a ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmmrww/passed_nse4_got_picked_for_a_promotion_a_few/" target="_blank" rel="noopener">Passed NSE4, got picked for a promotion a few months later. Certs are more underrated than this sub admits.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T18:41:49+00:00</div>
+    <p>Every time certifications come up here someone says &quot;nobody cares about paper, just get experience.&quot; I&#x27;ve said it myself. I want to push back a bit, because NSE4 changed things for me faster than I expected. Background: 5 years in networ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmkva0/getting_fortinet_working_with_voip/" target="_blank" rel="noopener">Getting Fortinet Working with VOIP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T17:33:35+00:00</div>
+    <p>Hey folks, Bit of a newbie here. We have purchased a Fortinet firewall recently in an attempt to replace our Cisco firewall. I have a 3rd party help trying to get this firewall setup, but they are pretty stumped on trying to get this par...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmgy91/after_upgrade_to_7411_mfa_is_broken_for_ssl_vpn/" target="_blank" rel="noopener">After upgrade to 7.4.11 mfa is broken for ssl vpn</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T15:14:03+00:00</div>
+    <p>Hi, had a perfect working 7.2.11 ha setup for ssl vpn. Certificate based client vpn ssl connection. With mfa doing ldaps searching for a valid user towards AD. Upgraded to 7.4.11. Then mfa was no longer working. Debugged and seems that w...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmcl1o/forticlient_7213_on_macos_1531_ssl_vpn_connects/" target="_blank" rel="noopener">FortiClient 7.2.13 on macOS 15.3.1 - SSL VPN connects successfully but browser traffic intermittently times out</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T12:21:31+00:00</div>
+    <p>Hi everyone, I’m having a very strange issue with FortiClient on macOS and I’m hoping someone has seen something similar. Environment macOS Sequoia 15.3.1 FortiClient VPN 7.2.13 SSL VPN FortiGate VPN gateway Same VPN account works perfec...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/elcqh7mepxih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ae7fce895f023d6645c323332edb304f34e6079" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmc730/fortilego/" target="_blank" rel="noopener">FortiLego</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T12:03:37+00:00</div>
+    <p>Running a mini tech convention and Fortinet sent us these. Pretty neat! submitted by /u/GullibleSquid [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -48,22 +96,6 @@ _Updated: August 12, 2026 • Sources filter: fortinet, fortiguard • Keywords:
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa" target="_blank" rel="noopener">Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA</a></h3>
     <div class="meta">Dark Reading · Tue, 11 Aug 2026 21:16:25 GMT</div>
     <p>The ransomware-as-a-service operation is finding success with leaked Conti code and old flaws in firewalls and VPN appliances.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vlsfeb/adding_an_mclag_to_an_existing_switch/" target="_blank" rel="noopener">Adding an MCLAG to an existing switch</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-11T20:06:15+00:00</div>
-    <p>I have a pair of fortigates and a single 648F switch. I am getting a second switch to create MCLAG for core redundancy. When I do this config to set up MCLAG, is it going to wipe my existing config on the current 648F? I am just trying t...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vlnq9p/fortipam_web_browsing_secret_security_issue/" target="_blank" rel="noopener">Fortipam web browsing secret security issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-11T17:18:04+00:00</div>
-    <p>So my company has FortiPAM 3000d setup that’s required to be used for accessing of servers behind it. The issue is when we have something like artifactory behind it, and we have users with two levels of permissions, we don’t have a way o...</p>
   </div>
 </li>
 <li class="card">
