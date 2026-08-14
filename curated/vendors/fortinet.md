@@ -7,87 +7,87 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn6tvz/forticlient_vpn_save_password_option/" target="_blank" rel="noopener">FortiClient VPN &quot;Save Password&quot; option.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T10:22:41+00:00</div>
-    <p>Hello everyone! I&#x27;m looking for a way to make FortiClient (the free one, VPN only) save user password. When I fresh install FortiClient VPN (7.4.3 hotfix 1.8758), this checkbox is not present at all. I&#x27;ve read some manuals on XML configs...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vo0w9z/memory_and_cpu_usage_increase_after_upgrading_to/" target="_blank" rel="noopener">Memory and CPU usage increase after upgrading to 7.6.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-14T07:53:56+00:00</div>
+    <p>Hi, We currently have a support ticket with Fortinet but wanted to hear from the comminuty if anyone had a similar problem after upgrading. We run a 200F HA cluster where before the upgrade our average CPU was around 5% on the primary un...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn5o7b/udemy_for_fortinet/" target="_blank" rel="noopener">Udemy for Fortinet</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T09:15:44+00:00</div>
-    <p>Hello, which Udemy course is suitable for the new NSE4, the proctored one. I am going to use youtube, the labs and also the provided study material on top of the Udemy course, submitted by /u/Straight-Carpet-6315 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vnsvw3/nse4_prep/" target="_blank" rel="noopener">NSE4 prep</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-14T00:59:14+00:00</div>
+    <p>Hi everyone, I’m preparing for the NSE4 exam in 7 days. I want to find a big sample of questions ( apart from the one in the fortinet site). Is 7 days enough? And finally i have 2 evaluation licenses which roadmap can i do to practice hi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn2rlz/forticonverter_service_does_the_source_fortigate/" target="_blank" rel="noopener">FortiConverter Service: Does the source FortiGate need to be in the same FortiCare account?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T06:25:32+00:00</div>
-    <p>Hi everyone, We are planning a firewall migration from an old FortiGate 500E to a new FortiGate 200G using a FortiConverter ticket. However, we hit a roadblock regarding account access: The customer does not have access to the FortiCare/...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vnlm57/fortimanager_ztp_question/" target="_blank" rel="noopener">Fortimanager ztp question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T20:01:16+00:00</div>
+    <p>I’ m planning to use ztp to add fortigates to the manager and have all needed configurations. Fortigate will have multiple vdom’s, IP-addressing will come from the metafield configuration and provisioning templates. Any idea how I should...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmyx3m/who_here_abandoned_ipsec_vpn_completely_in_favor/" target="_blank" rel="noopener">Who here abandoned IPSec VPN completely in favor of ZTNA?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T03:03:02+00:00</div>
-    <p>How is it going? How was it done, the user experience and gotchas. submitted by /u/aliensinmylifetime [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vnl5lo/fortigate_cw_acd_process_keeps_consuming_memory/" target="_blank" rel="noopener">Fortigate cw_acd process keeps consuming memory without releasing it</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T19:44:16+00:00</div>
+    <p>Hello, I have a FortiGate that can manage up to 512 APs running version 7.4.12, with 70 FortiAPs running versions 7.4.6 and 7.4.7. The cw_acd process keeps consuming memory without releasing it... This started happening ever since I upgr...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmn6nf/non_http_traffic_fwb/" target="_blank" rel="noopener">Non http traffic FWB</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T18:56:26+00:00</div>
-    <p>Is there a any way or work around to forward non-http traffic terminated on the Fortiweb VIP in reverse proxy mode? To be forwarded to the backend server As per the docs: “By default, any non-HTTP or non-HTTPS traffic sent directly to a ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vngncy/auto_channel_width_for_fortiaps/" target="_blank" rel="noopener">Auto Channel Width for FortiAPs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T17:05:09+00:00</div>
+    <p>How do you set auto on Channel Wdth? Does any of these help auto adjustment Channel Width? Radio Resource Provision DARRP Dynamic Radio Mode Assignment What are the best practice settings on those? submitted by /u/rhap4boy [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmmrww/passed_nse4_got_picked_for_a_promotion_a_few/" target="_blank" rel="noopener">Passed NSE4, got picked for a promotion a few months later. Certs are more underrated than this sub admits.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T18:41:49+00:00</div>
-    <p>Every time certifications come up here someone says &quot;nobody cares about paper, just get experience.&quot; I&#x27;ve said it myself. I want to push back a bit, because NSE4 changed things for me faster than I expected. Background: 5 years in networ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vncq4x/routing_on_and_management_of_standalone/" target="_blank" rel="noopener">Routing on, and management of, stand-alone FortiSwitches</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T14:45:05+00:00</div>
+    <p>I&#x27;m wrestling with a pair of stand-alone FortiSwitches that are to be used as external BGP routers, and I&#x27;m NOT happy. My customer is using public IP space on their internal network (which they own, so no shenanigans there), and this is ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmkva0/getting_fortinet_working_with_voip/" target="_blank" rel="noopener">Getting Fortinet Working with VOIP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T17:33:35+00:00</div>
-    <p>Hey folks, Bit of a newbie here. We have purchased a Fortinet firewall recently in an attempt to replace our Cisco firewall. I have a 3rd party help trying to get this firewall setup, but they are pretty stumped on trying to get this par...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vnbzhy/frustrated_nse_test_fails/" target="_blank" rel="noopener">frustrated - nse test fails</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T14:16:55+00:00</div>
+    <p>I&#x27;m absolutely frustrated with myself and fortinet test... Been working on Fortinet Gates for well over 15 years back when it was release 4. back in January 2026, failed the NSE7 Enterprise 6.4 twice. Today, failed NSE4 Admin 7.6 WTF am ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/967797734/0/fortinet/blogs~MultiFunctional-Linux-Botnet-%e2%80%9cEvoooBot%e2%80%9d" target="_blank" rel="noopener">Multi-Functional Linux Botnet “Evooo1Bot”</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 13 Aug 2026 13:00:00 +0000</div>
+    <p>FortiGuard Labs analyzes Evooo1Bot, a modular Linux botnet targeting internet-facing devices with DDoS, SSH attacks, CVE exploits, and SOCKS relays…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmgy91/after_upgrade_to_7411_mfa_is_broken_for_ssl_vpn/" target="_blank" rel="noopener">After upgrade to 7.4.11 mfa is broken for ssl vpn</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T15:14:03+00:00</div>
-    <p>Hi, had a perfect working 7.2.11 ha setup for ssl vpn. Certificate based client vpn ssl connection. With mfa doing ldaps searching for a valid user towards AD. Upgraded to 7.4.11. Then mfa was no longer working. Debugged and seems that w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn8n25/fortinac_fortiadc_fortiswitch_coa_design_question/" target="_blank" rel="noopener">FortiNAC + FortiADC + FortiSwitch CoA Design Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T11:57:25+00:00</div>
+    <p>I have two FortiNACs running active/active behind a FortiADC load balancer. The FortiGate/FortiSwitch RADIUS server is configured with the FortiADC VIP (192.168.3.205), so RADIUS authentication traffic (UDP/1812) goes through the VIP and...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmcl1o/forticlient_7213_on_macos_1531_ssl_vpn_connects/" target="_blank" rel="noopener">FortiClient 7.2.13 on macOS 15.3.1 - SSL VPN connects successfully but browser traffic intermittently times out</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T12:21:31+00:00</div>
-    <p>Hi everyone, I’m having a very strange issue with FortiClient on macOS and I’m hoping someone has seen something similar. Environment macOS Sequoia 15.3.1 FortiClient VPN 7.2.13 SSL VPN FortiGate VPN gateway Same VPN account works perfec...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/elcqh7mepxih1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=1ae7fce895f023d6645c323332edb304f34e6079" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vmc730/fortilego/" target="_blank" rel="noopener">FortiLego</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-12T12:03:37+00:00</div>
-    <p>Running a mini tech convention and Fortinet sent us these. Pretty neat! submitted by /u/GullibleSquid [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vn8if5/first_time_peering_secondary_ebgp_with_isp_for/" target="_blank" rel="noopener">first time peering secondary eBGP with ISP for failover</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-13T11:50:59+00:00</div>
+    <p>Good morning everyone! We are setup to do eBGP peering with our one ISP currently. Not exchanging full routing tables but we receive 0.0.0.0/0 from ISP and we advertise our public /24 block that we own back to them. We are getting a seco...</p>
   </div>
 </li>
 <li class="card">
@@ -168,14 +168,6 @@ _Updated: August 13, 2026 • Sources filter: fortinet, fortiguard • Keywords:
     <h3><a href="https://feeds.fortinet.com/~/962130836/0/fortinet/blogs~A-Conversation-with-Crime-Stoppers-International-About-Our-Shared-Cybercrime-Bounty-Initiative" target="_blank" rel="noopener">A Conversation with Crime Stoppers International About Our Shared Cybercrime Bounty Initiative</a></h3>
     <div class="meta">Fortinet Blog · Thu, 23 Jul 2026 13:00:00 +0000</div>
     <p>Fortinet’s Glenn Maiden, chief security officer for Fortinet Australia, connects with Crime Stoppers International CEO Hayley van Loon to discuss how Fortinet’s partnership with Crime Stoppers Inte…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/961703621/0/fortinet/blogs~Meeting-the-European-Central-Bank%e2%80%99s-AI-Cybersecurity-Mandate" target="_blank" rel="noopener">Meeting the European Central Bank’s AI Cybersecurity Mandate</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 22 Jul 2026 13:00:00 +0000</div>
-    <p>The European Central Bank’s AI cybersecurity mandate requires banks to submit a board-endorsed action plan by October 31, 2026. See how Fortinet helps you meet that timeline and the Digital Operati…</p>
   </div>
 </li>
 </ul>
