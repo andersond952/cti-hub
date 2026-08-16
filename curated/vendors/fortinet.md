@@ -7,55 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://external-preview.redd.it/aWpzNHAxNDR0a2poMdWM2Hy6aRvw2Wv6a9ii0Kllyc3WGUz_i0BwWOZTwwE3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b36b9ef0417944f37f36dd37592b49fe9fc53e67" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vovij7/cisco_ise_guest_portal_integration/" target="_blank" rel="noopener">Cisco ISE guest portal integration</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-15T06:38:39+00:00</div>
-    <p>Hi, Has anyone got a working setup with Cisco ISE Guest portal self register CWA? Kind regards, Germans submitted by /u/gkornaks [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vok0ws/any_poor_souls_in_here_interact_with_the_fortinac/" target="_blank" rel="noopener">Any poor souls in here interact with the FortiNAC API??</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-14T21:24:57+00:00</div>
-    <p>Since FortiNAC does not have an ACME bot I am working on building one. I am seeing some conflicting documentation out there. The docs.fortinet.com link here says content type should be &quot;application/json&quot; however when I test the syntax wi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vofugf/lowering_mtu_on_forticlient_ipsec_vpn_due_to_drops/" target="_blank" rel="noopener">Lowering MTU on FortiClient IPsec VPN due to drops</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-14T18:46:40+00:00</div>
-    <p>We recently migrated to FortiClient (Managed by FortiClient EMS) with IPSec VPN, overall it&#x27;s been successful for 90% of our users. However, we have a few users where either the VPN will drop completely or it will stay connected, but tra...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vo8975/nse_4_preparation/" target="_blank" rel="noopener">NSE 4 preparation</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-14T14:06:39+00:00</div>
-    <p>Hi all, I&#x27;m planning to take nse 4 exam by the end of this month. I finish all the videos in the self-paced training. I am more reading guy than video and I plan to make my own notes and read it on my phone&#x27;s on my free time and I also b...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vo7ssq/ipsec_vpn_and_ems/" target="_blank" rel="noopener">Ipsec vpn and ems</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-14T13:48:42+00:00</div>
-    <p>New to EMS and am in the process of setting up a new vpn tunnel. As part of the setup I linked ems to our fortigate in fabric and was wondering if I set up everything in ems will it push the configuration to the fortigate or do i need to...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/8q227jexobjh1.png?width=140&amp;height=109&amp;auto=webp&amp;s=ea77367f87b54541357311fbb546bad67cce2cf2" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vo47u2/fortiswitch_replacement/" target="_blank" rel="noopener">FortiSwitch Replacement</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-14T11:06:23+00:00</div>
-    <p>I&#x27;ve been tasked with replacing a FortiSwitch. I&#x27;ve never touched one before. The switch is deployed in the following topology (see the drawing). https://preview.redd.it/8q227jexobjh1.png?width=759&amp;format=png&amp;auto=webp&amp;s=df0bc8af39a39ec4...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vp97if/help_me_with_this_does_anyone_knows_whats_the/" target="_blank" rel="noopener">help me with this does anyone knows whats the problem ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-15T17:46:46+00:00</div>
+    <p>when i loggin it keeps refreshig the page submitted by /u/Traditional-Maize435 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
