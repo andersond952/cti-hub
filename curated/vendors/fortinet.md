@@ -7,15 +7,87 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://external-preview.redd.it/aWpzNHAxNDR0a2poMdWM2Hy6aRvw2Wv6a9ii0Kllyc3WGUz_i0BwWOZTwwE3.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=b36b9ef0417944f37f36dd37592b49fe9fc53e67" alt="preview">
+  <img src="https://preview.redd.it/pt0lfrkchwjh1.png?width=140&amp;height=40&amp;auto=webp&amp;s=aae22672f92cff160dea9513d372433636676156" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vp97if/help_me_with_this_does_anyone_knows_whats_the/" target="_blank" rel="noopener">help me with this does anyone knows whats the problem ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-15T17:46:46+00:00</div>
-    <p>when i loggin it keeps refreshig the page submitted by /u/Traditional-Maize435 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqn0rk/60f_firewall_cant_update_to_767/" target="_blank" rel="noopener">60F firewall cant update to 7.6.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T09:02:51+00:00</div>
+    <p>The firewall went in to conserve mode the first time I tried to patch and it had to be manually rebooted. This time I tried uploading the firmware manually and got this. The firewall is currently running 7.6.6. Is there a way to get this...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqlr4m/fortigate_and_acmelets_encrypt_over_http01_not/" target="_blank" rel="noopener">Fortigate and ACME/Let&#x27;s Encrypt over http-01 not working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T07:46:40+00:00</div>
+    <p>Dear all I am trying to use the (yes, limited) ACME client on Fortigate to get a TLS cert for a specific domain. Unfortunately, tls-alpn-01 doesn&#x27;t work (see below) as tcp/443 is already in use and http-01 isn&#x27;t kicking in. And I am wond...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqkx80/fortigate_hubspoke_ipvpn_redundancy_second_tunnel/" target="_blank" rel="noopener">FortiGate Hub‑Spoke IPVPN Redundancy - Second Tunnel Up but No Failover - SLA Dead</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T06:57:42+00:00</div>
+    <p>I’m working on a Hub‑Spoke IPVPN design across 5 offices, all connected to a central FortiGate hub using IPVPN + BGP (Tunnel‑A). Everything has been stable for years. Recently I added a second ISP at the hub, and I’m trying to introduce ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqfnvn/confirming_if_forticlient_or_fortigate_ssl_vpn/" target="_blank" rel="noopener">Confirming if Forticlient or Fortigate SSL VPN are still free as for August 2026</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T02:21:09+00:00</div>
+    <p>I would try to deploy some Fortigate SSL vpn with forticlient. But I wanna have some extra confirmation from you guys whether they are still free as to date. submitted by /u/roti_kaya_42 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqfaqv/forticlient_747_macos_repeated_kernel_panic_busy/" target="_blank" rel="noopener">FortiClient 7.4.7 macOS — repeated kernel panic, busy timeout[0] on Ethernet interface (watchdogd)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T02:03:35+00:00</div>
+    <p>We&#x27;re seeing repeated kernel panics on macOS machines running FortiClient 7.4.7 (build 1928), deployed via Jamf. Multiple Macs affected, not an isolated unit. Panic signature (consistent across machines, only the interface number changes...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqas25/fortigate_vs_aryaka/" target="_blank" rel="noopener">FortiGate VS Aryaka</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T22:35:27+00:00</div>
+    <p>submitted by /u/RevolutionaryCare138 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vq7j0d/ipsec_access_between_connections/" target="_blank" rel="noopener">IPSEC Access Between Connections</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T20:21:14+00:00</div>
+    <p>Hi, I have a central Fortigate (10.100.x.x) connected with a site to site connection to several other IPSEC VPNs (10.15.x.x). I have a remote access IPSEC connection for remote administration (10.16.x.x) used only by administrators, this...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vq5iwu/certification_renewal_after_certification_program/" target="_blank" rel="noopener">Certification Renewal after certification program changes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T19:02:51+00:00</div>
+    <p>Basically, all my certifications expire in 2 months. Before the changes i had FCP and FCSS in Secure Networking. After the changes i have NSE4, NSE6 and NSE7 in Secure Networking. As far as i can read, i should be able to renew NSE4 and ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/u6ok5vvxasjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97b29858cd20a49a09ba55f7d48f035a1ec9673c" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vq5e3m/got_this_from_used_market/" target="_blank" rel="noopener">Got this From Used Market !</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T18:57:47+00:00</div>
+    <p>I know nothing about firewalls, and I bought this to learn! submitted by /u/TechJoseph [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vpzfgg/external_antenna_for_fap432fr/" target="_blank" rel="noopener">External Antenna for FAP432FR</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T15:06:34+00:00</div>
+    <p>Does the 6 little antennas that came with FAP432FR needs to have the profile&#x27;s &quot;External Antenna&quot; option turned on and gain specified? submitted by /u/renovatio522 [link] [comments]</p>
   </div>
 </li>
 <li class="card">
