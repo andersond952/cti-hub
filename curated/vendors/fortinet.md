@@ -7,87 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/pt0lfrkchwjh1.png?width=140&amp;height=40&amp;auto=webp&amp;s=aae22672f92cff160dea9513d372433636676156" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqn0rk/60f_firewall_cant_update_to_767/" target="_blank" rel="noopener">60F firewall cant update to 7.6.7</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T09:02:51+00:00</div>
-    <p>The firewall went in to conserve mode the first time I tried to patch and it had to be manually rebooted. This time I tried uploading the firmware manually and got this. The firewall is currently running 7.6.6. Is there a way to get this...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrkqyp/ikev2_client_vpn_with_fac_and_ad_authenticating/" target="_blank" rel="noopener">IKEv2 Client VPN with FAC and AD Authenticating but client timed out</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T09:57:44+00:00</div>
+    <p>Hi All Hope anyone here is able to assist as logging issues with forti is more frustrating than dealing with this issue. Layout. Client VPN (EMS and free) Firewall to FAC to AD I created a new IPSec with IKEv2, I tested and got it all wo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqlr4m/fortigate_and_acmelets_encrypt_over_http01_not/" target="_blank" rel="noopener">Fortigate and ACME/Let&#x27;s Encrypt over http-01 not working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T07:46:40+00:00</div>
-    <p>Dear all I am trying to use the (yes, limited) ACME client on Fortigate to get a TLS cert for a specific domain. Unfortunately, tls-alpn-01 doesn&#x27;t work (see below) as tcp/443 is already in use and http-01 isn&#x27;t kicking in. And I am wond...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrjvd4/first_time_managing_fortiweb_courses_only_covered/" target="_blank" rel="noopener">First time managing FortiWeb - courses only covered ~30%, feeling lost. Looking for guidance on how to actually get proficient</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T09:05:54+00:00</div>
+    <p>Hi everyone, I recently stepped into managing a live, deployed FortiWeb environment as my first time ever working with the appliance. I&#x27;ve completed a couple of official courses, but honestly, they only covered about 30% to 40% of what I...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqkx80/fortigate_hubspoke_ipvpn_redundancy_second_tunnel/" target="_blank" rel="noopener">FortiGate Hub‑Spoke IPVPN Redundancy - Second Tunnel Up but No Failover - SLA Dead</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T06:57:42+00:00</div>
-    <p>I’m working on a Hub‑Spoke IPVPN design across 5 offices, all connected to a central FortiGate hub using IPVPN + BGP (Tunnel‑A). Everything has been stable for years. Recently I added a second ISP at the hub, and I’m trying to introduce ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrhdqf/fortigate_transparent_proxy_policy/" target="_blank" rel="noopener">FortiGate Transparent Proxy Policy</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T06:38:55+00:00</div>
+    <p>Hi, we use Transparent Proxy Policies for destination FQDN&#x27;s only, but I can&#x27;t really understand why would we do it if we can just stay with the IPv4 Firewall Policy and apply all security profiles there. Can someone explain the differen...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqfnvn/confirming_if_forticlient_or_fortigate_ssl_vpn/" target="_blank" rel="noopener">Confirming if Forticlient or Fortigate SSL VPN are still free as for August 2026</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T02:21:09+00:00</div>
-    <p>I would try to deploy some Fortigate SSL vpn with forticlient. But I wanna have some extra confirmation from you guys whether they are still free as to date. submitted by /u/roti_kaya_42 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vr4dba/any_ways_to_unlicensed_a_fortigate/" target="_blank" rel="noopener">Any ways to unlicensed a Fortigate?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T20:46:56+00:00</div>
+    <p>Hi all, Tasked with migrating from FGT-100E to FGT-121G. Was planning to migrate using the free forticonverter that supports FGT-FGT Migration. But accidentally licensed the new units with UTP first. Now the forticonverter doesn&#x27;t allow ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqfaqv/forticlient_747_macos_repeated_kernel_panic_busy/" target="_blank" rel="noopener">FortiClient 7.4.7 macOS — repeated kernel panic, busy timeout[0] on Ethernet interface (watchdogd)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T02:03:35+00:00</div>
-    <p>We&#x27;re seeing repeated kernel panics on macOS machines running FortiClient 7.4.7 (build 1928), deployed via Jamf. Multiple Macs affected, not an isolated unit. Panic signature (consistent across machines, only the interface number changes...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqtxua/basic_webfilter_mobilesandroid_block_page/" target="_blank" rel="noopener">Basic Web-Filter : Mobiles/Android block page</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T14:29:16+00:00</div>
+    <p>I&#x27;m just looking at setting up a web-filter only. Not doing anything more than blocking certain built in web-filtering groups. Pretty easy. This is just doing standard certificate-inspection. On regular PC&#x27;s when a page is blocked you ge...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqas25/fortigate_vs_aryaka/" target="_blank" rel="noopener">FortiGate VS Aryaka</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T22:35:27+00:00</div>
-    <p>submitted by /u/RevolutionaryCare138 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqt3es/unskippable_mandatory_forticare/" target="_blank" rel="noopener">Unskippable Mandatory FortiCare registrationg...really Fortinet?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T13:57:43+00:00</div>
+    <p>Tried to setup a 90G for the first time like many other models thought it would be straight froward , was welcome with a mandatory fortigate registration for forticare. I wouldn&#x27;t mind this infact I prefer it to link it straight away exc...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vq7j0d/ipsec_access_between_connections/" target="_blank" rel="noopener">IPSEC Access Between Connections</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T20:21:14+00:00</div>
-    <p>Hi, I have a central Fortigate (10.100.x.x) connected with a site to site connection to several other IPSEC VPNs (10.15.x.x). I have a remote access IPSEC connection for remote administration (10.16.x.x) used only by administrators, this...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vq5iwu/certification_renewal_after_certification_program/" target="_blank" rel="noopener">Certification Renewal after certification program changes</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T19:02:51+00:00</div>
-    <p>Basically, all my certifications expire in 2 months. Before the changes i had FCP and FCSS in Secure Networking. After the changes i have NSE4, NSE6 and NSE7 in Secure Networking. As far as i can read, i should be able to renew NSE4 and ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/u6ok5vvxasjh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=97b29858cd20a49a09ba55f7d48f035a1ec9673c" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vq5e3m/got_this_from_used_market/" target="_blank" rel="noopener">Got this From Used Market !</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T18:57:47+00:00</div>
-    <p>I know nothing about firewalls, and I bought this to learn! submitted by /u/TechJoseph [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vpzfgg/external_antenna_for_fap432fr/" target="_blank" rel="noopener">External Antenna for FAP432FR</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-16T15:06:34+00:00</div>
-    <p>Does the 6 little antennas that came with FAP432FR needs to have the profile&#x27;s &quot;External Antenna&quot; option turned on and gain specified? submitted by /u/renovatio522 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqq3tb/nse4_certification_study_discord_community/" target="_blank" rel="noopener">NSE4 Certification Study Discord Community</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T11:50:03+00:00</div>
+    <p>If you’re preparing for the NSE4 certification, check out this Discord server! It’s a community of people helping each other study, share resources, and get ready for the exam. Good luck with your preparation https://discord.gg/aG25GyB97...</p>
   </div>
 </li>
 <li class="card">
