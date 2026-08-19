@@ -7,63 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrkqyp/ikev2_client_vpn_with_fac_and_ad_authenticating/" target="_blank" rel="noopener">IKEv2 Client VPN with FAC and AD Authenticating but client timed out</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T09:57:44+00:00</div>
-    <p>Hi All Hope anyone here is able to assist as logging issues with forti is more frustrating than dealing with this issue. Layout. Client VPN (EMS and free) Firewall to FAC to AD I created a new IPSec with IKEv2, I tested and got it all wo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vsdx2s/forticlient_ipsec_ikev2_vpn_on_ios/" target="_blank" rel="noopener">FortiClient IPSec IKEv2 VPN on iOS</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T06:02:03+00:00</div>
+    <p>Hello everyone! I&#x27;m trying to configure RA IPSec VPN with IKEv2. My issue is, the gateway looks like thiks: edit &quot;Dialup_cert_2&quot; set type dynamic set interface &quot;VL1461&quot; set ike-version 2 set authmethod signature set net-device disable se...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrjvd4/first_time_managing_fortiweb_courses_only_covered/" target="_blank" rel="noopener">First time managing FortiWeb - courses only covered ~30%, feeling lost. Looking for guidance on how to actually get proficient</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T09:05:54+00:00</div>
-    <p>Hi everyone, I recently stepped into managing a live, deployed FortiWeb environment as my first time ever working with the appliance. I&#x27;ve completed a couple of official courses, but honestly, they only covered about 30% to 40% of what I...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrwkgw/fortigate_ztna_access_proxy_using_entra_saml/" target="_blank" rel="noopener">FortiGate ZTNA Access Proxy Using Entra SAML Authentication</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T17:51:11+00:00</div>
+    <p>Several posts I came across tried to achieve this in the past but none were ever able to provide a proper guide. Fortigate ZTNA with Azure-AD Authentication ZTNA with Entra ID SSO authentication With a little iteration over the current g...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrhdqf/fortigate_transparent_proxy_policy/" target="_blank" rel="noopener">FortiGate Transparent Proxy Policy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T06:38:55+00:00</div>
-    <p>Hi, we use Transparent Proxy Policies for destination FQDN&#x27;s only, but I can&#x27;t really understand why would we do it if we can just stay with the IPv4 Firewall Policy and apply all security profiles there. Can someone explain the differen...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrt5a4/advpn_routing_question/" target="_blank" rel="noopener">Advpn routing question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T15:56:22+00:00</div>
+    <p>Hello everyone, If I have lets say a Hub and spokes with 2 ISPs. For the ADVPN I will have 4 tunnels between each sopke and hub 1-1, 1-2, 2-1, 2-2....right? Anyways my question is how is asymmetrical routing handle here? Hub might think ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vr4dba/any_ways_to_unlicensed_a_fortigate/" target="_blank" rel="noopener">Any ways to unlicensed a Fortigate?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T20:46:56+00:00</div>
-    <p>Hi all, Tasked with migrating from FGT-100E to FGT-121G. Was planning to migrate using the free forticonverter that supports FGT-FGT Migration. But accidentally licensed the new units with UTP first. Now the forticonverter doesn&#x27;t allow ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqtxua/basic_webfilter_mobilesandroid_block_page/" target="_blank" rel="noopener">Basic Web-Filter : Mobiles/Android block page</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T14:29:16+00:00</div>
-    <p>I&#x27;m just looking at setting up a web-filter only. Not doing anything more than blocking certain built in web-filtering groups. Pretty easy. This is just doing standard certificate-inspection. On regular PC&#x27;s when a page is blocked you ge...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqt3es/unskippable_mandatory_forticare/" target="_blank" rel="noopener">Unskippable Mandatory FortiCare registrationg...really Fortinet?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T13:57:43+00:00</div>
-    <p>Tried to setup a 90G for the first time like many other models thought it would be straight froward , was welcome with a mandatory fortigate registration for forticare. I wouldn&#x27;t mind this infact I prefer it to link it straight away exc...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vqq3tb/nse4_certification_study_discord_community/" target="_blank" rel="noopener">NSE4 Certification Study Discord Community</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-17T11:50:03+00:00</div>
-    <p>If you’re preparing for the NSE4 certification, check out this Discord server! It’s a community of people helping each other study, share resources, and get ready for the exam. Good luck with your preparation https://discord.gg/aG25GyB97...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrol5z/désactivation_de_la_sécurité_sslssh_par_défaut/" target="_blank" rel="noopener">Désactivation de la sécurité ssl/ssh par défaut</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T13:03:28+00:00</div>
+    <p>J&#x27;ai un fortigate 60f que je commence à manipuler je suis un débutant il s&#x27;avère que nous avons plusieurs vlan qui se communique entre elles et le vlan réservé au caméra est coupée d&#x27;internet mais communique avec les différents vlan util...</p>
   </div>
 </li>
 <li class="card">
