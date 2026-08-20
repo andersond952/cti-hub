@@ -7,39 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/jwgp917kbikh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=1c4c4f593a155a18be9ea3929b2b789a489d5ada" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vsdx2s/forticlient_ipsec_ikev2_vpn_on_ios/" target="_blank" rel="noopener">FortiClient IPSec IKEv2 VPN on iOS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T06:02:03+00:00</div>
-    <p>Hello everyone! I&#x27;m trying to configure RA IPSec VPN with IKEv2. My issue is, the gateway looks like thiks: edit &quot;Dialup_cert_2&quot; set type dynamic set interface &quot;VL1461&quot; set ike-version 2 set authmethod signature set net-device disable se...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vtfnag/faz_reports_with_annoying_ffff_on_firmware_764/" target="_blank" rel="noopener">FAZ Reports with annoying ::ffff on firmware 7.6.4</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-20T10:27:47+00:00</div>
+    <p>Hello everyone, I have had the FAZ uplifted to the above firmware and now I am getting ::fff appended to all the reports, I even went to the built in chartbuilder after having done a search on source and destination and still get the ::f...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrwkgw/fortigate_ztna_access_proxy_using_entra_saml/" target="_blank" rel="noopener">FortiGate ZTNA Access Proxy Using Entra SAML Authentication</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T17:51:11+00:00</div>
-    <p>Several posts I came across tried to achieve this in the past but none were ever able to provide a proper guide. Fortigate ZTNA with Azure-AD Authentication ZTNA with Entra ID SSO authentication With a little iteration over the current g...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vtc3lz/application_control_not_working_on_roblox/" target="_blank" rel="noopener">Application control not working on ROBLOX</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-20T07:00:49+00:00</div>
+    <p>I would like to manage my child&#x27;s gaming time on ROBLOX. Created new Application control rule: Blocked all categories Allowed ROBLOX only Firewall policy: Enabled SSL deep inspection Enabled upper application control rule I found &quot;high U...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrt5a4/advpn_routing_question/" target="_blank" rel="noopener">Advpn routing question</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T15:56:22+00:00</div>
-    <p>Hello everyone, If I have lets say a Hub and spokes with 2 ISPs. For the ADVPN I will have 4 tunnels between each sopke and hub 1-1, 1-2, 2-1, 2-2....right? Anyways my question is how is asymmetrical routing handle here? Hub might think ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vsz4xk/my_boss_basically_forced_me_to_get_the_nse4_six/" target="_blank" rel="noopener">My boss basically forced me to get the NSE4. Six months later I&#x27;m glad he did, for a reason he definitely didnt intend.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T21:05:28+00:00</div>
+    <p>My boss basically forced me to get the NSE4. Six months later I&#x27;m glad he did, for a reason he definitely didnt intend. I do desktop support at a mid size logistics company. Ticket queue, printers, the occasional switch port. Fine job, n...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vrol5z/désactivation_de_la_sécurité_sslssh_par_défaut/" target="_blank" rel="noopener">Désactivation de la sécurité ssl/ssh par défaut</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-18T13:03:28+00:00</div>
-    <p>J&#x27;ai un fortigate 60f que je commence à manipuler je suis un débutant il s&#x27;avère que nous avons plusieurs vlan qui se communique entre elles et le vlan réservé au caméra est coupée d&#x27;internet mais communique avec les différents vlan util...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vsyxuq/forticlient_vpn_free_sso_to_entra_external/" target="_blank" rel="noopener">Forticlient VPN free, SSO to Entra, External Browser. Isn&#x27;t passing auth off to client after browser auth succeeds.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T20:58:07+00:00</div>
+    <p>****Resolved Forticlient 7.4.3 1.8758 Just started happening, no configuration changes. Edge opens, completed login and MFA Auth, hangs at https://login.microsoftonline.com/common/SAS/ProcessAuth and never sends the completed auth back t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vsr2c9/former_it_reset_fortinet_gateway_password/" target="_blank" rel="noopener">Former IT reset Fortinet Gateway Password</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T16:17:50+00:00</div>
+    <p>What&#x27;s the best way to get back in? It&#x27;s a Gateway, 7 switches, and 65 APs. I&#x27;ve asked the client who sold them the gear it&#x27;s been through the hands of 2 MSPs and no one seems to know passwords. Transitional passwords between the last 2 ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vslfm6/l2_policy_mac_address_policy_stop_broadcast/" target="_blank" rel="noopener">L2 policy (mac address policy) - stop broadcast - TRANSPARENT MODE</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T12:46:03+00:00</div>
+    <p>Hello, i&#x27;d like to block traffic from a mac address &quot;subnet&quot; to FF:FF:FF:FF:FF.FF (broadcast) on fortigate. Is it possible? Example Deny: SRC. 00:EE:AB:00:00:00 Mask FF:FF:FF:00:00:00 DST mac FF:FF:FF:FF:FF.FF (broadcast). Note1 VDOM in ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vskkpb/anyone_using_python_or_ansible_with_fortigate_in/" target="_blank" rel="noopener">Anyone using Python or Ansible with FortiGate in production? What does it actually look like?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T12:07:29+00:00</div>
+    <p>Managing FortiGate across 100+ sites and starting to think about automation. Curious what people are actually doing vs what&#x27;s theoretically possible: Are you using FortiGate&#x27;s REST API, Ansible (fortinet.fortios collection), or something...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vsjmlz/forticlient_ems_onprem_default_site_usage/" target="_blank" rel="noopener">FortiClient EMS OnPrem Default site usage</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-19T11:23:44+00:00</div>
+    <p>Hi all. Just started with EMS and set up our own on prem hosted installation. After activating multitenancy, I created and configured our first customer. But I am unsure about the Default site that got created automatically. Should i use...</p>
   </div>
 </li>
 <li class="card">
