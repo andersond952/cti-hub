@@ -7,71 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vuba6m/ztna_latency/" target="_blank" rel="noopener">ZTNA latency</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T09:20:41+00:00</div>
-    <p>So, we are starting to use ZTNA. The gates are currently running 7.4.11, and we are running EMS/FCT 7.4.7. We are using the proxy-policy, with an authentication scheme/rule authenticating users to Entra, and a SPT for checking AV and no ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vuwk8a/fortimanager_adom/" target="_blank" rel="noopener">FortiManager ADOM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T23:47:07+00:00</div>
+    <p>We have 8 sites running fortigate with version 7.4 and 2 sites running fortigates with version 7.6. When creating ADOM, is it better to create 7.4 ADOM or 7.6 ADOM to import configurations from all sites? I assume configuration needs to ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/968097068/0/fortinet/blogs~From-Awareness-to-Action-Building-A-BehaviorBased-Security-Program" target="_blank" rel="noopener">From Awareness to Action: Building A Behavior-Based Security Program</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 21 Aug 2026 16:00:00 +0000</div>
+    <p>New research shows organizations are moving from one-size-fits-all awareness training to behavior-based security programs that reinforce secure decisions, reduce risk, and improve workforce readine…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vu9ook/forticlient_saml_sso_break_on_edge/" target="_blank" rel="noopener">Forticlient SAML SSO break on Edge</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T07:46:16+00:00</div>
-    <p>USER A pc , domain joined only. Edge browser login with user A m365 profile. No Microsoft defender, no conditional access. Edge + User A = SAML SSO login failed. M365 prompted, user key in password and 2FA, returned result is empty respo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vuj8nd/on_200f_v766_or_v767/" target="_blank" rel="noopener">On 200F: v7.6.6 or v7.6.7?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T15:17:32+00:00</div>
+    <p>Hi there, I have a 200F currently running 7.2.12. I wanted to upgrade it to go to a more solid version (we have power outages sometimes, and the current version is super finicky at startup). The upgrade path tool recommends 7.6.7 but the...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vu3hzl/forticlient_ems_747_to_748_upgrade_results_in/" target="_blank" rel="noopener">FortiClient EMS 7.4.7 to 7.4.8 Upgrade results in broken Installer Links</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T02:21:13+00:00</div>
-    <p>Has anyone had any issues upgrading from FortiClient EMS 7.4.7 to 7.4.8? We upgraded FortiClient EMS from 7.4.7 to 7.4.8. This is running on Ubuntu Server 24.04. Immediately after the upgrade, all installer downloads on TCP 10443 returne...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vtx0ee/consolidate_fortigate_firewall_policies_and/" target="_blank" rel="noopener">Consolidate Fortigate firewall policies and objects and create templates</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-20T21:43:20+00:00</div>
-    <p>Could someone give me guidance how to consolidate policies and objects and create templates for 10 Fortigate sites connected via site to site vpn tunnels. One central location act as hub.. Currently all Fortigates are being managed with ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vtunq5/ipframed_ipsecv2_fortigate_74/" target="_blank" rel="noopener">IP-Framed IPSecv2 Fortigate 7.4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-20T20:13:37+00:00</div>
-    <p>Unfortunately, the option to assign an IP address to a user is not working. In the RADIUS test on the firewall, I can see that it receives an IP address along with the user’s details. Unfortunately, the address is not assigned to the tun...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/3dohirl2rkkh1.jpg?width=140&amp;height=43&amp;auto=webp&amp;s=6619bb4bd18e826b70a1f24316db82d68db5af8e" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vtrxyu/looking_for_study_advice/" target="_blank" rel="noopener">Looking for Study Advice</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-20T18:38:37+00:00</div>
-    <p>Unfortunately I did not pass the Fortinet NSE4 exam. Could anyone who&#x27;s studied for and passed this exam give me some advice on where I should focus my attention on when studying? Any tips or resources would be greatly appreciated. thank...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vtl49n/is_fortigate_filtering_photos_of_passwords/" target="_blank" rel="noopener">Is fortigate filtering photos of passwords?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-20T14:30:07+00:00</div>
-    <p>Hi guys, sorry for the dumb question. Minutes ago I was taking a photo from inside Whatsapp (to me) of my desktop screen with the LAPS password in the Entra admin console. The photo did not deliver, there were the clock icon. Tried sever...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vtkb5n/help_with_ap_management_if_possible/" target="_blank" rel="noopener">Help with AP management, if possible?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-20T13:59:39+00:00</div>
-    <p>Hello, I am wondering if it&#x27;s possible to manage AP&#x27;s without a fortiswitch? Company just bought a Fortigate to be used but they are sticking to the old Entrasys switch. I have it connected but it keeps using the main internet (10.1.1.x)...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vufr0y/foritap_ap_mgmt_vlan_id_variable_missing/" target="_blank" rel="noopener">ForitAP - AP_MGMT_VLAN_ID variable missing</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T13:01:35+00:00</div>
+    <p>Hi, I have a strange case with some fortiAPs right now. 1x FAP 231G and 1x431F both on 7.6.4. I want to set a VLAN ID to have the management tagged but the variable is missing when typing cfg -s. Then i connected to the HTTPS GUI and the...</p>
   </div>
 </li>
 <li class="card">
@@ -152,14 +120,6 @@ _Updated: August 21, 2026 • Sources filter: fortinet, fortiguard • Keywords:
     <h3><a href="https://feeds.fortinet.com/~/962170928/0/fortinet/blogs~From-Awareness-to-Action-Helping-Organizations-Prepare-for-PostQuantum-Cryptography" target="_blank" rel="noopener">From Awareness to Action: Helping Organizations Prepare for Post-Quantum Cryptography</a></h3>
     <div class="meta">Fortinet Blog · Thu, 23 Jul 2026 15:00:00 +0000</div>
     <p>Post-Quantum Cryptography is moving from policy discussion to operational priority. Learn how organizations can begin building visibility, reducing risk, and preparing for crypto-agile migration. …</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/962130836/0/fortinet/blogs~A-Conversation-with-Crime-Stoppers-International-About-Our-Shared-Cybercrime-Bounty-Initiative" target="_blank" rel="noopener">A Conversation with Crime Stoppers International About Our Shared Cybercrime Bounty Initiative</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 23 Jul 2026 13:00:00 +0000</div>
-    <p>Fortinet’s Glenn Maiden, chief security officer for Fortinet Australia, connects with Crime Stoppers International CEO Hayley van Loon to discuss how Fortinet’s partnership with Crime Stoppers Inte…</p>
   </div>
 </li>
 </ul>
