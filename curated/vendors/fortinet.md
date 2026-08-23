@@ -7,15 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vuwk8a/fortimanager_adom/" target="_blank" rel="noopener">FortiManager ADOM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T23:47:07+00:00</div>
-    <p>We have 8 sites running fortigate with version 7.4 and 2 sites running fortigates with version 7.6. When creating ADOM, is it better to create 7.4 ADOM or 7.6 ADOM to import configurations from all sites? I assume configuration needs to ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvu1ps/fortinet_nse_7_recertification_assessment_is_it/" target="_blank" rel="noopener">Fortinet NSE 7 Recertification Assessment – is it open book / are external resources allowed?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-23T01:40:28+00:00</div>
+    <p>Has anyone here completed one of the new Fortinet NSE recertification assessments introduced in July 2026? My NSE 7 SASE is due to expire soon, and the Training Institute is offering me the FortiSASE 26 Architect – Recertification Assess...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvm921/fortigate_external_admin_access/" target="_blank" rel="noopener">Fortigate external admin access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T19:57:39+00:00</div>
+    <p>Hi there I just want to see if we are going best practise. Usually we got this: Forti rename admin user to something 12char randomn. Allow admin access from froti mgmt vlan and 2 /30 external public ips (our offices). MFA on accounts and...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvkrpt/fortinet_using_hardcoded_backup_key/" target="_blank" rel="noopener">Fortinet Using Hardcoded Backup Key</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T18:59:28+00:00</div>
+    <p>This isn’t good news. https://blog.n0p.me/2026/08/2026-08-21-fortitool-fortios-decryption/ submitted by /u/Wasteway [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvk5xb/from_where_to_start_fortigate_firewall_course/" target="_blank" rel="noopener">From where to start fortigate firewall course</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T18:36:16+00:00</div>
+    <p>Hey everybody I&#x27;m new . currently I&#x27;m working as a desktop engineer and I&#x27;m planning to start studying. In a fortigate firewall now can anyone tell me where to start this course any free resources youtube channel n all. submitted by /u/s...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/r6rk94bkvwkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d05df5e034c4b1bea6438fbdcc2356b92e5c0053" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vv9vbw/best_environment_for_a_fortigate/" target="_blank" rel="noopener">Best environment for a FortiGate?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T11:24:37+00:00</div>
+    <p>submitted by /u/Ictforeveryone [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -24,22 +56,6 @@ _Updated: August 22, 2026 • Sources filter: fortinet, fortiguard • Keywords:
     <h3><a href="https://feeds.fortinet.com/~/968097068/0/fortinet/blogs~From-Awareness-to-Action-Building-A-BehaviorBased-Security-Program" target="_blank" rel="noopener">From Awareness to Action: Building A Behavior-Based Security Program</a></h3>
     <div class="meta">Fortinet Blog · Fri, 21 Aug 2026 16:00:00 +0000</div>
     <p>New research shows organizations are moving from one-size-fits-all awareness training to behavior-based security programs that reinforce secure decisions, reduce risk, and improve workforce readine…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vuj8nd/on_200f_v766_or_v767/" target="_blank" rel="noopener">On 200F: v7.6.6 or v7.6.7?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T15:17:32+00:00</div>
-    <p>Hi there, I have a 200F currently running 7.2.12. I wanted to upgrade it to go to a more solid version (we have power outages sometimes, and the current version is super finicky at startup). The upgrade path tool recommends 7.6.7 but the...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vufr0y/foritap_ap_mgmt_vlan_id_variable_missing/" target="_blank" rel="noopener">ForitAP - AP_MGMT_VLAN_ID variable missing</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-21T13:01:35+00:00</div>
-    <p>Hi, I have a strange case with some fortiAPs right now. 1x FAP 231G and 1x431F both on 7.6.4. I want to set a VLAN ID to have the management tagged but the variable is missing when typing cfg -s. Then i connected to the HTTPS GUI and the...</p>
   </div>
 </li>
 <li class="card">
