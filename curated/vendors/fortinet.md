@@ -7,47 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvu1ps/fortinet_nse_7_recertification_assessment_is_it/" target="_blank" rel="noopener">Fortinet NSE 7 Recertification Assessment – is it open book / are external resources allowed?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-23T01:40:28+00:00</div>
-    <p>Has anyone here completed one of the new Fortinet NSE recertification assessments introduced in July 2026? My NSE 7 SASE is due to expire soon, and the Training Institute is offering me the FortiSASE 26 Architect – Recertification Assess...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vwwqrf/best_practice_for_setting_up_a_new_customer/" target="_blank" rel="noopener">Best practice for setting up a new customer FortiCloud account &amp; linking to Partner Account?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-24T08:21:01+00:00</div>
+    <p>Hi everyone, We are about to set up a new FortiCloud account for a new customer and need to link it to our FortiCloud Partner Account. I want to make sure we follow the current MSP best practices for this workflow, but I have a question ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvm921/fortigate_external_admin_access/" target="_blank" rel="noopener">Fortigate external admin access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T19:57:39+00:00</div>
-    <p>Hi there I just want to see if we are going best practise. Usually we got this: Forti rename admin user to something 12char randomn. Allow admin access from froti mgmt vlan and 2 /30 external public ips (our offices). MFA on accounts and...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vwufjw/fortigate_firewall_access/" target="_blank" rel="noopener">Fortigate firewall access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-24T06:04:58+00:00</div>
+    <p>Hi everyone, I’m currently studying Fortinet NSE 3 and I’m new to network security. In the course, they show how to access a FortiGate firewall using https://192.168.1.99 and mention connecting the computer and FortiGate to the same netw...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvkrpt/fortinet_using_hardcoded_backup_key/" target="_blank" rel="noopener">Fortinet Using Hardcoded Backup Key</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T18:59:28+00:00</div>
-    <p>This isn’t good news. https://blog.n0p.me/2026/08/2026-08-21-fortitool-fortios-decryption/ submitted by /u/Wasteway [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vwu9ru/looking_for_a_genuine_factorydefault_fortigate/" target="_blank" rel="noopener">Looking for a genuine factory-default FortiGate configuration for audit-tool development</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-24T05:56:04+00:00</div>
+    <p>Hi everyone, I&#x27;m developing a firewall configuration-audit/parser tool and I&#x27;m looking for a genuine factory-default FortiGate configuration for testing. I&#x27;m interested in any FortiGate model (100F, 60F, 80F, 200F, 3001F, etc.). FortiOS ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vvk5xb/from_where_to_start_fortigate_firewall_course/" target="_blank" rel="noopener">From where to start fortigate firewall course</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T18:36:16+00:00</div>
-    <p>Hey everybody I&#x27;m new . currently I&#x27;m working as a desktop engineer and I&#x27;m planning to start studying. In a fortigate firewall now can anyone tell me where to start this course any free resources youtube channel n all. submitted by /u/s...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vwehjo/web_gui_unavailable_after_upgrade_to_7412/" target="_blank" rel="noopener">Web GUI unavailable after upgrade to 7.4.12</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-23T18:13:08+00:00</div>
+    <p>I recently updated a 40F from 7.2. to 7.4.12 a couple of weeks ago. Everything worked fine so far. Today, however, I realized that I can’t connect via SSL VPN, and also can’t access the management gui (management is enabled on the WAN in...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/r6rk94bkvwkh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d05df5e034c4b1bea6438fbdcc2356b92e5c0053" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vv9vbw/best_environment_for_a_fortigate/" target="_blank" rel="noopener">Best environment for a FortiGate?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-22T11:24:37+00:00</div>
-    <p>submitted by /u/Ictforeveryone [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vwbewu/used_fortigate_for_study/" target="_blank" rel="noopener">Used FortiGate For Study</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-23T16:16:42+00:00</div>
+    <p>Hello, I am studying for my NSE4 Exam and one thing I&#x27;ve noticed is the free fortigate trial license is extremely limited. So I am wondering what do people advise? Getting a used 40/60F and practicing with it? Or perhaps a cheap virtual ...</p>
   </div>
 </li>
 <li class="card">
