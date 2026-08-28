@@ -7,63 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: August 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vzteyf/why_does_fortiswitch_map_dscp46_to_cos_queue_1_by/" target="_blank" rel="noopener">Why does FortiSwitch map DSCP46 to COS Queue 1 by default?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-27T13:04:32+00:00</div>
-    <p>Good morning! We had an issue where a client with some older 100mb phones were having call quality issues if running large downloads and we started looking into the QOS configurations and noticed something strange. Client is using Cisco ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w129is/questions_regarding_ipsec_migration_from_sslvpn/" target="_blank" rel="noopener">Questions regarding IPSEC migration from SSLVPN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T20:43:09+00:00</div>
+    <p>I&#x27;m currently testing the IPSEC VPN setup and migrating users from SSLVPN. Our environment is pretty straightforward—just an LDAP server for authentication, using the free VPN client with FortiTokens. I got it working on a few firewalls,...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vzsx42/licence_service_costs/" target="_blank" rel="noopener">Licence service costs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-27T12:43:33+00:00</div>
-    <p>Hi Just wondering about Fortinets price increases. As an SMB i understand the cost increase on hardware but why softtware? It seems they use the same excuse every time. Based on all the issues we are seeing from buggy vpn migrations from...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/js8871ol5wlh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=94a758394db08798e1bdc74c819631d9847fb200" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vzpqat/fortinet_nse_1/" target="_blank" rel="noopener">Fortinet NSE 1</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-27T10:04:41+00:00</div>
-    <p>Anyone know how to fix these problems of NSE 1 stuck in to do can’t done submitted by /u/Complex_Cod_4007 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w117ln/fortigate_50g_fortilink_issues/" target="_blank" rel="noopener">Fortigate 50G fortilink issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T20:03:00+00:00</div>
+    <p>Came across something odd today. I did read that starting with 7.6, FortiLink neighbor detection is LLDP. But on a 50G running 7.4.10/11, I was testing a connection to a FortiSwitch and noticed it wasn’t even sending a single packet of t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vzl19d/monitoring_an_sslvpn_brute_force_attack_this_week/" target="_blank" rel="noopener">Monitoring an SSLVPN brute force attack this week. (Get yourself on IPsec folks)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-27T05:29:41+00:00</div>
-    <p>I configure and work on a lot of smaller deployments for SMB in my area. MSP that contacts with me for the work called me to take a look at one client. In the SMB space, it might be the biggest brute force attack ive seen on a target yet...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w0vc62/association_denied_max_supported_stations_reached/" target="_blank" rel="noopener">Association denied, max supported stations reached</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T16:28:08+00:00</div>
+    <p>All the sudden FortiAPs are getting &quot;Association denied, max supported stations reached&quot; message, where is this settings configured usually? APs are managed using FortiEdge Cloud. Only change was turned on &quot;Enhanced Logging&quot;. Help! submi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vzk5vs/fortiguard_ddns_reassignment_to_a_different/" target="_blank" rel="noopener">FortiGuard DDNS – Reassignment to a different FortiGate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-27T04:42:01+00:00</div>
-    <p>Hi all, We&#x27;re replacing a FortiGate and the config has already been migrated via FortiConverter. The old device has a FortiGuard DDNS entry (e.g. something.fortiddns.com ) that we need to move to the new unit. My question: Do I actually ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w0skg7/voip_sip_colliding_with_udp_4500_for_ipsec/" target="_blank" rel="noopener">VOIP/ SIP colliding with UDP 4500 for IPSEC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T14:45:21+00:00</div>
+    <p>I&#x27;ve upgraded my Fortigate 60F to 7.6.7. I wanted to switch from SSL to IPSEC VPN, and so did I. After upgrading and reconfiguring I ran into issues with the VOIP telephone system. The IPSEC VPN couldn&#x27;t connect because it looked like UD...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/tyq1rombptlh1.png?width=140&amp;height=20&amp;auto=webp&amp;s=ea73e01f392855f2ee0c55fa8fe3cd3eec2fc43a" alt="preview">
+  <img src="https://preview.redd.it/lnwv4mubd4mh1.png?width=140&amp;height=127&amp;auto=webp&amp;s=4c5be28647deaa7acded7a611bdf34afe37d145a" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vzgknj/how_to_distinguish_between_a_fortigate_vm_trial/" target="_blank" rel="noopener">How to distinguish between a FortiGate VM trial license and an official license on the FortiCloud site</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-27T01:49:29+00:00</div>
-    <p>https://preview.redd.it/tyq1rombptlh1.png?width=505&amp;format=png&amp;auto=webp&amp;s=589eeddfe49f09619cf34ea4b7a549260a4f9d76 Is there a way on the FortiCloud site to check whether a FortiGate VM license is trial or official? A few fortigates show...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w0qx10/not_able_to_select_web_filter/" target="_blank" rel="noopener">Not able to select web filter</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T13:40:50+00:00</div>
+    <p>https://preview.redd.it/lnwv4mubd4mh1.png?width=1025&amp;format=png&amp;auto=webp&amp;s=496c6cf7e47b974a3f425bdd349b45158a67a487 Hello guys, we bough fortigate 30G with utp license, but for some reason i cannot select web filter there.. and i do not...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1vzdscz/fortigate_sdwan_monitoring/" target="_blank" rel="noopener">FortiGate SD-WAN Monitoring</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-26T23:47:00+00:00</div>
-    <p>Hi Guys, Just wanted to ask if anyone has experience monitoring SD-WAN through PRTG. We currently have two ISPs configured under SD-WAN, and we would like to monitor them as a single entity rather than monitoring each ISP separately. At ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w0qm3x/limiting_lets_encrypt_http_challenge_on_fortios_76/" target="_blank" rel="noopener">Limiting Let&#x27;s Encrypt HTTP challenge on FortiOS 7.6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T13:28:30+00:00</div>
+    <p>Hi Everyone. I&#x27;m currently configuring a fortigate 200G, and I&#x27;m preparing all my WAF policies. In the past I&#x27;ve used a dedicated WAF policy for HTTP ACME challenge to reduce the type of request allowed toward local servers using Let&#x27;s E...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w0ncmy/best_sase_platform_for_a_midmarket_shop_down_to/" target="_blank" rel="noopener">Best SASE platform for a mid-market shop, down to Cato, Zscaler and Fortinet</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T10:59:09+00:00</div>
+    <p>Mandate from up top is consolidate onto SASE and stop stitching. We&#x27;re mid-market, ~25 sites, hybrid, the usual sprawl of a firewall vendor here, a proxy there, a vpn that&#x27;s its own little kingdom. Down to three and the SE demos all look...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w0jk1h/hi_we_use_a_fortigate_90g_and_face_severe/" target="_blank" rel="noopener">Hi, We use a FortiGate 90G and face severe audio/video lag on Teams, Zoom, and Meet. Browsing is fine. Should I bypass SSL/IPS for meeting IPs, disable SIP ALG, or set QoS? Any known 90G bugs? Thanks!</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-28T07:17:29+00:00</div>
+    <p>submitted by /u/Pale_Negotiation_402 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w07chk/looking_for_fortinet_nse_4_voucher/" target="_blank" rel="noopener">Looking for Fortinet NSE 4 Voucher</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-27T21:37:39+00:00</div>
+    <p>Hi everyone, I’m looking for a Fortinet NSE 4 voucher in Morocco. If anyone is selling a voucher, or knows someone who is, please send me a DM with the price and details. Also, if anyone can help me find a legitimate/official way to get ...</p>
   </div>
 </li>
 </ul>
