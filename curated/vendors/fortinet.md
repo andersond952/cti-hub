@@ -7,55 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: August 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w4d80y/how_do_you_interrupt_a_fortigate_in_the_middle_of/" target="_blank" rel="noopener">how do you interrupt a Fortigate in the middle of a show full-configuration command on a console session?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-01T14:14:31+00:00</div>
+    <p>I am stuck waiting for the console to to finish the output. It&#x27;s taking a very long time. submitted by /u/Network__Redditor [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w421hu/fortinet_3200f/" target="_blank" rel="noopener">Fortinet 3200F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-01T04:56:35+00:00</div>
+    <p>Some how ended up Fortinet 3200f. Anyone interested I know they’re in high demand. I don’t have use for them but if someone can connect me with someone who needs this high tech cybersecurity equipment! submitted by /u/darshpatel3773 [lin...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3vmeo/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-01T00:00:24+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3pjqd/anyone_deploy_fortinac_767_and_is_it_stable_at/" target="_blank" rel="noopener">Anyone deploy FortiNAC 7.6.7 and is it stable at this point?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T20:15:44+00:00</div>
+    <p>Last I heard (3-4+months) between talking with PS and support, 7.6 was still not something that was recommended in production. I have a case where I need to integrate SAML with our portal and this is only supported on 7.6+. Thanks! submi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3owx3/guide_setting_up_sonos_across_fortigate_ipsec/" target="_blank" rel="noopener">Guide: Setting up Sonos across FortiGate IPsec Tunnels between 2 sites (FortiOS 7.4)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T19:54:09+00:00</div>
+    <p>I spent some time actually getting this to fully work - enabling my Sonos Play 1, 3 and normal controller apps, alongside a music library (on a NAS in one location) to seamlessly work, in any combination between 2 homes. Although this ha...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3oj7b/redundant_pathways_to_switches_from_core/" target="_blank" rel="noopener">Redundant pathways to switches from &quot;core&quot;</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T19:41:03+00:00</div>
+    <p>We are trying to remove single points of failure from our switches. I can now connect all my 448E switches with Fiber back to one of two &quot;core&quot; switches (1024E). Do I have to do any special port configurations after patching them in? Eac...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3kqj2/fnac_dynamic_vlan_with_ldap/" target="_blank" rel="noopener">FNAC Dynamic VLAN with LDAP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T17:33:27+00:00</div>
+    <p>Anyone here tried Dynamic VLAN using LDAP? It seems to be like a “hit or miss” to me. Tried relogging in twice but it is having different results. FNAC is far from what I used to config which is Forescout. submitted by /u/Parking-Yak8527...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3kg67/dell_wd19wd19s_dock_causing_8021x_to_fall_back_to/" target="_blank" rel="noopener">Dell WD19/WD19S dock causing 802.1X to fall back to MAB — EAPOL not passing?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T17:23:39+00:00</div>
+    <p>Hi everyone, I’m troubleshooting an 802.1X issue with a Dell laptop connected through a Dell WD19/WD19S dock. Topology: Laptop → Dell Dock → Ethernet → Switch When I connect the laptop directly to the switch, 802.1X works perfectly and t...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3gv5s/fortigates_and_siem/" target="_blank" rel="noopener">Fortigates and SIEM</a></h3>
     <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T15:19:36+00:00</div>
     <p>I have about 100 Fortigate appliances (mostly 70G-PoE) managed via FortiManager. I&#x27;m setting up SIEM and trying to figure out how to capture Fortigate logs efficiently. I&#x27;m using SD-WAN for ISP failover, but I do not currently have site-...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3be3y/fortiguard_issues/" target="_blank" rel="noopener">FortiGuard Issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T11:46:46+00:00</div>
-    <p>Hello Guys, i am facing an issue with fortiguard services and i wanted to know if anyone has the same issue or face something similar. I tried with different fortigates on different version from a fortigate 100f, 70g, 90g etc. basically ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3b7on/question_about_fortigate_tls_13_pqc_support_and/" target="_blank" rel="noopener">Question about FortiGate TLS 1.3 PQC support and potential WebFilter bypass</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T11:38:21+00:00</div>
-    <p>Hello, I stumbled upon article that stated that you can bypass webfilter if website is using TLS 1.3 PQC but even when I tried to do it my FortiGate dropped traffic as it should. FortiGate is running 7.4.12 FortiOS. Article is from Forti...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w39z9m/fortigate_dedicated_management_interface_subnet/" target="_blank" rel="noopener">FortiGate dedicated management interface subnet needs to be reachable from VPN/SASE users - how do you handle this?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T10:38:05+00:00</div>
-    <p>I have a FortiGate where the built-in mgmt interface is configured as a dedicated management port with 11.11.11.20/24. Other network devices are also on the same 11.11.11.0/24 subnet. Remote users coming through a route-based VPN/FortiSA...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/wxa4wypatomh1.png?width=140&amp;height=140&amp;auto=webp&amp;s=f72e3aa72d798a489e21dc2a2cf87b3f52987369" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w39yik/ipsec_between_fortigate_in_data_center_and/" target="_blank" rel="noopener">IPSec between Fortigate in Data Center and Fortigate VM in cloud</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T10:37:00+00:00</div>
-    <p>I am having troubles establishing IPSec tunnel between DC FG and Cloud FG VM, specifically during Phase 1. My guess is that something is up with DC FG, since it&#x27;s VPN logs output &quot;ike negotiation timeout&quot;. Packet inspection shows that DC...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w39ih8/pbr_to_vpn_tunnel_works_when_static_route_is/" target="_blank" rel="noopener">PBR to VPN tunnel works when static route is configured</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T10:14:00+00:00</div>
-    <p>What I was trying to achieve is to route Internet traffic from one local interface out the IPsec VPN tunnel. I was able to make it work, but it only works when I add default route out the VPN tunnel interface (see below) plus it has to h...</p>
   </div>
 </li>
 </ul>
