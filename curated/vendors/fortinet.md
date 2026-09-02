@@ -7,79 +7,87 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w4d80y/how_do_you_interrupt_a_fortigate_in_the_middle_of/" target="_blank" rel="noopener">how do you interrupt a Fortigate in the middle of a show full-configuration command on a console session?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-01T14:14:31+00:00</div>
-    <p>I am stuck waiting for the console to to finish the output. It&#x27;s taking a very long time. submitted by /u/Network__Redditor [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w5ao1n/fortinet_datasheets/" target="_blank" rel="noopener">Fortinet datasheets</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T13:39:23+00:00</div>
+    <p>Hello, can someone tell me where to find datasheets for specific products? Fortinet seems to have changed its documentation, and I can&#x27;t find the datasheets for some products 🤔 Thank you submitted by /u/Alfonziino [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w421hu/fortinet_3200f/" target="_blank" rel="noopener">Fortinet 3200F</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-01T04:56:35+00:00</div>
-    <p>Some how ended up Fortinet 3200f. Anyone interested I know they’re in high demand. I don’t have use for them but if someone can connect me with someone who needs this high tech cybersecurity equipment! submitted by /u/darshpatel3773 [lin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w59u3n/ztna_performance_hw_acceleration_security/" target="_blank" rel="noopener">ZTNA - Performance / HW Acceleration / Security</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T13:06:25+00:00</div>
+    <p>We currently have users in the US and India who connect using IPSec Remote Access VPNs. We&#x27;ve noticed traffic being throttled from India to the US and starting to look into options. ZTNA Questions: What is the throughput like? Is it simi...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3vmeo/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-01T00:00:24+00:00</div>
-    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w58isb/fortigate_model/" target="_blank" rel="noopener">Fortigate model</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T12:09:54+00:00</div>
+    <p>What is the recommended/suggested model of fortigate for concurrent users of less than 200, and also capability of HA and 1 gig uplink. submitted by /u/shinky_splunky [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3pjqd/anyone_deploy_fortinac_767_and_is_it_stable_at/" target="_blank" rel="noopener">Anyone deploy FortiNAC 7.6.7 and is it stable at this point?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T20:15:44+00:00</div>
-    <p>Last I heard (3-4+months) between talking with PS and support, 7.6 was still not something that was recommended in production. I have a case where I need to integrate SAML with our portal and this is only supported on 7.6+. Thanks! submi...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w57tcx/need_help/" target="_blank" rel="noopener">Need help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T11:36:10+00:00</div>
+    <p>Thank you if you are willing to help me. submitted by /u/HiteshNagar [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3owx3/guide_setting_up_sonos_across_fortigate_ipsec/" target="_blank" rel="noopener">Guide: Setting up Sonos across FortiGate IPsec Tunnels between 2 sites (FortiOS 7.4)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T19:54:09+00:00</div>
-    <p>I spent some time actually getting this to fully work - enabling my Sonos Play 1, 3 and normal controller apps, alongside a music library (on a NAS in one location) to seamlessly work, in any combination between 2 homes. Although this ha...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w57rtb/need_help/" target="_blank" rel="noopener">Need help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T11:34:03+00:00</div>
+    <p>Can someone please teach me a fortigate firewall. I know everyone is busy but I don&#x27;t have money to spend i want to learn NSE8 submitted by /u/HiteshNagar [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/x8p5f9cow2nh1.png?width=140&amp;height=23&amp;auto=webp&amp;s=8c69884aff2d26be21344d674b5464ac6df6efd6" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w55ym4/fex_after_upgrade_offline_on_fgt/" target="_blank" rel="noopener">FEX after upgrade offline on FGT</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T09:57:50+00:00</div>
+    <p>Hello, anything else having problems after upgrade FEX from 7.6.5 to 7.6.6? FGT can&#x27;t fetch the status from FEX, a downgrade back to 7.6.5 solves the problem. This happens on both types of FEX we own (511F / 511G). Everything else is wor...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3oj7b/redundant_pathways_to_switches_from_core/" target="_blank" rel="noopener">Redundant pathways to switches from &quot;core&quot;</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T19:41:03+00:00</div>
-    <p>We are trying to remove single points of failure from our switches. I can now connect all my 448E switches with Fiber back to one of two &quot;core&quot; switches (1024E). Do I have to do any special port configurations after patching them in? Eac...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w545l3/nse5_or_nse6/" target="_blank" rel="noopener">NSE5 or NSE6 ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T08:13:12+00:00</div>
+    <p>Hey everyone, I just passed my NSE 4 and I’m mapping out what’s next. I originally planned on taking FMG (now NSE 6), but noticed that FAZ and SASE are NSE 5. Do I have to pass an NSE 5 first, or can I go straight for NSE 6? Also, does N...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3kqj2/fnac_dynamic_vlan_with_ldap/" target="_blank" rel="noopener">FNAC Dynamic VLAN with LDAP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T17:33:27+00:00</div>
-    <p>Anyone here tried Dynamic VLAN using LDAP? It seems to be like a “hit or miss” to me. Tried relogging in twice but it is having different results. FNAC is far from what I used to config which is Forescout. submitted by /u/Parking-Yak8527...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w4zrs8/fortios_7411_unexpected_issues/" target="_blank" rel="noopener">FortiOS 7.4.11 unexpected issues</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T04:13:27+00:00</div>
+    <p>Hello everyone! Recently we upgraded our Fortigate (120G HA Active-Passive cluster) from 7.2.11 to 7.4.11, and different problems started to occur. Some users spontaneously lose access to the Internet with ERR_TUNNEL_CONNECTION_FAILED (w...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3kg67/dell_wd19wd19s_dock_causing_8021x_to_fall_back_to/" target="_blank" rel="noopener">Dell WD19/WD19S dock causing 802.1X to fall back to MAB — EAPOL not passing?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T17:23:39+00:00</div>
-    <p>Hi everyone, I’m troubleshooting an 802.1X issue with a Dell laptop connected through a Dell WD19/WD19S dock. Topology: Laptop → Dell Dock → Ethernet → Switch When I connect the laptop directly to the switch, 802.1X works perfectly and t...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w4wi1t/asking_for_help/" target="_blank" rel="noopener">asking for help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-02T01:39:10+00:00</div>
+    <p>i asked to do a fortigate ha with 2 fortigates simulation and a topology for it and record a video showing they both working and when the main fortigate down the other one works after you ping and a found a huge problem bcs of my ram i c...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w3gv5s/fortigates_and_siem/" target="_blank" rel="noopener">Fortigates and SIEM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-08-31T15:19:36+00:00</div>
-    <p>I have about 100 Fortigate appliances (mostly 70G-PoE) managed via FortiManager. I&#x27;m setting up SIEM and trying to figure out how to capture Fortigate logs efficiently. I&#x27;m using SD-WAN for ISP failover, but I do not currently have site-...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w4frw6/ems_user_verification_on_client_registration/" target="_blank" rel="noopener">EMS user verification on client registration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-01T15:46:30+00:00</div>
+    <p>I am upgrading EMS from 7.2 to 7.4, and it&#x27;s throwing up all sorts of warnings about &quot;user verification is not enforced&quot; at the top of the UI - should I be concerned? Our current settings are for user verification to be off, but &quot;enforce...</p>
   </div>
 </li>
 </ul>
