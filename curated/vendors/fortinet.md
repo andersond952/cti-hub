@@ -7,47 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w7t28z/looking_for_a_structured_fortigate_lab_roadmap/" target="_blank" rel="noopener">Looking for a structured FortiGate lab roadmap toward NSE 7/8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-05T06:39:46+00:00</div>
-    <p>Hi everyone, I&#x27;m currently improving my FortiGate and network-security skills, with a long-term goal of reaching NSE 8 level. I already have some networking/FortiGate knowledge, but I want to develop stronger hands-on skills through labs...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w8ass2/forticlient_onoff_fabric_detection_delay/" target="_blank" rel="noopener">forticlient on/off fabric detection delay</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-05T19:57:16+00:00</div>
+    <p>hi. I have local web filter with exceptions(outlook,held desk ticket ,remote support and defender/intune) the once user is in trusted network:VPN or wifi on site. off fabric should turn to on fabric. problem is that this have giant delay...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w7c9cd/how_to_avoid_two_fortigates_from_going_active/" target="_blank" rel="noopener">How to avoid two Fortigates from going active active during a switch upgrade?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-04T18:17:04+00:00</div>
-    <p>HA pair of 101-F units. Both sat at different sites. HA mode a-p. HA interfaces have both been set to plumb through a switch at each site where the HA VLAN is stretched at layer 2 over to the other DC via an Inter-DC link. I&#x27;m tasked wit...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w886a8/wifi_roaming_has_traffic_drops/" target="_blank" rel="noopener">wifi roaming has traffic drops</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-05T18:17:41+00:00</div>
+    <p>I have a a dense ap deployment of aps. 231k in some zones they are 8meters apart. I have to put max power on 12 dbm to force roaming to each ap. using diagnose wireless-controller wlac -c/d sta machexa i checked that after associating to...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w7bns1/fortinac_upgrade_from_7210_to_744/" target="_blank" rel="noopener">FortiNAC upgrade from 7.2.10 to 7.4.4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-04T17:55:43+00:00</div>
-    <p>Can anyone give me step by step upgrade process for Fortinac which is in HA ? Thanks in advance submitted by /u/WorkingWolverine8631 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w7ab1o/nse_4_what_study_materials_did_you_use_to_pass/" target="_blank" rel="noopener">NSE 4 — What study materials did you use to pass?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-04T17:06:38+00:00</div>
-    <p>Hello guys, I’m planning to take the Fortinet NSE 4 exam and would like to hear from those who have already passed it. What study materials or resources did you use to prepare? I’m especially interested in any courses, videos, practice l...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w78cv6/remotely_updating_two_fortigates_to_ha/" target="_blank" rel="noopener">Remotely updating two Fortigates to HA (active/passive)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-04T15:57:46+00:00</div>
-    <p>I want to remotely update two stand-alone Fortigates from stand-alone to a HA setup. I can get on one Fortigate and make the changes by activating HA and setting the priority of it so it is primary. If at that point I backup the config. ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1w82mvx/fap241k_in_school_environment_with_apple_devices/" target="_blank" rel="noopener">FAP241K in school environment with Apple devices</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-05T14:44:42+00:00</div>
+    <p>I was wondering if anyone have any insights on this. Let say we have the following scenario School environment with one FAP241K AP per classroom Mix of windows and mac laptop and Apple iPad devices Need coverage redundancies in case one ...</p>
   </div>
 </li>
 </ul>
