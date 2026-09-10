@@ -7,79 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wbmt2p/fortiedr_crashes_pcs_with_docks_attached/" target="_blank" rel="noopener">FortiEDR crashes PC&#x27;s with docks attached</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T14:15:11+00:00</div>
-    <p>We have a strange scenario popping up in the lab for the new EDR deployments we were consulted to explore. Everything works normally except for when a USB dock is or SD card reader as it immediately crashes the computer Rebooting the wit...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wcjk69/are_we_making_a_mistake_by_still_using_the_free/" target="_blank" rel="noopener">Are we making a mistake by still using the free FortiClient?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-10T13:41:16+00:00</div>
+    <p>Hey, what are you guys using for remote access VPN these days? The free FortiClient VPN-only version or FortiClient EMS? We are only using the free client for IPsec-VPN and get rid of EMS about 1,5 years ago for reasons i dont know becau...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wblaw4/vpn_for_vendor_access/" target="_blank" rel="noopener">VPN for Vendor Access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T13:15:59+00:00</div>
-    <p>We currently have IKEv2 over 443 TCP working using DUO SAML for our internal users. I have a need, for the second time now, to allow remove access for a vendor for a specific need. The first time I was able to get by without it, but this...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wchezu/questions_about_relicensing_does_my_vendor_try_to/" target="_blank" rel="noopener">Questions about relicensing - Does my vendor try to scam me?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-10T12:11:23+00:00</div>
+    <p>Hello internet, I&#x27;m an admin in a company which switched to FortiGate a few years ago. When purchasing our 600F-Cluster (2 Nodes) we got what we thought was a good project price in total. Now we have to renew the FortiCare and the FortiG...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wbefkm/fortigate_401f_interface_and_ha_design_review/" target="_blank" rel="noopener">FortiGate 401F interface and HA design review</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T07:14:01+00:00</div>
-    <p>Hi everyone, I’m working on a data center network design and would appreciate some advice from the Fortinet community regarding the best deployment mode and interface allocation for FortiGate 401F . Current design The environment include...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wcdifu/61f_upgrade_from_7212_to_7412/" target="_blank" rel="noopener">61F upgrade from 7.2.12 to 7.4.12</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-10T08:50:11+00:00</div>
+    <p>Hi everyone, I&#x27;m planning an upgrade path for three FortiGate 61F units currently running FortiOS 7.2.12 . They are connected via Site-to-Site IPsec VPNs. With 7.2.x reaching End of Support soon, I need to push them to 7.4.x, but I have ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wb9k80/conflicting_information_about_fortiap_firmware/" target="_blank" rel="noopener">Conflicting information about FortiAP firmware upgrade</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T02:59:24+00:00</div>
-    <p>Hi all, I&#x27;m looking for a clarification on FortiAP firmware upgrades, because two official Fortinet sources seem to contradict each other. The Fortinet Community article — &quot;Technical Tip: Upgrading FortiAP firmware&quot; https://community.for...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wcbdx8/another_ddns_outage_today/" target="_blank" rel="noopener">Another DDNS outage today 🎉</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-10T06:47:23+00:00</div>
+    <p>Issues on both IPs, 173.243.138.225 and 173.243.138.226 1789022353: Start to update FortiGuardDDNS (ddnsdomain.fortiddns.com) 2026-09-10 08:39:13 1789022353: Start to update FortiGuardDDNS (ddnsdomainbckp.fortiddns.com) 2026-09-10 08:39:...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wb9gep/dúvidas_de_proxy/" target="_blank" rel="noopener">Dúvidas de proxy</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T02:54:18+00:00</div>
-    <p>Boa tarde, pessoal! Tenho uma dúvida sobre a criação de um Proxy no FortiGate para permitir que um parceiro acesse sites específicos na Internet. A ideia é utilizar o Proxy para permitir somente o acesso a sites previamente liberados por...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/bep9bg7redoh1.png?width=140&amp;height=83&amp;auto=webp&amp;s=3cac8f8bfc0bedc06809f3b8a76491be62650cfe" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wb36nh/my_brand_new_domain_was_flagged_as_phishing_by/" target="_blank" rel="noopener">My brand new domain was flagged as &#x27;phishing&#x27; by Fortinet, I appealed, they just changed it back to phishing</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-08T22:22:28+00:00</div>
-    <p>I recently registered a brand new domain (Lizzandra.com) for my new project. I was excited to finally post my homepage to friends and family on Facebook, but I instantly got blocked for &quot;breach of community rules.&quot; At first I thought it ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wcb1u8/forticlient_ems_748_build2245_mature/" target="_blank" rel="noopener">Forticlient EMS 7.4.8 build2245 (Mature)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-10T06:28:49+00:00</div>
+    <p>Hi I have a ticket with Fortinet in regards invitation emails from Forticlient EMS when creating invitations with custom install file for example 7.2.15 the text in the email says version 7.4 and download links points to exe file with ca...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wayveo/is_there_any_way_to_find_a_fortigates_mac_address/" target="_blank" rel="noopener">Is there any way to find a FortiGate’s MAC address from its serial number?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-08T19:44:15+00:00</div>
-    <p>This is a long shot, but I just wanted to check on here to be sure. I’m trying to troubleshoot some devices that are offline in difficult-to-access locations. I tried asking Fortinet tech support, and they said that no such database exis...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wbojig/forticlient_vpn_connects_every_other_day/" target="_blank" rel="noopener">Forticlient VPN connects every other day</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T15:19:34+00:00</div>
+    <p>My company recently adopted the Forticlient VPN and my computer at home manages to successfully connect to the VPN randomly. I&#x27;ve tried all the fixes available on the internet for the &quot;Forticlient stuck at connecting&quot; problem and the iss...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1watr8i/fortiap_and_forticare_essentials/" target="_blank" rel="noopener">FortiAP and Forticare Essentials</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-08T16:46:15+00:00</div>
-    <p>I have a bunch of FortiAP in Asset Management that do not have Support Contracts and never have had Forticare - Can we add Forticare essentials coverage to these or do they need to have a higher level of care first? submitted by /u/udloo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wboee7/anyone_taken_fortinets_onsite_closedbook_test/" target="_blank" rel="noopener">Anyone taken Fortinet&#x27;s onsite closed-book test (technical + maths/logic)? What to expect?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T15:14:13+00:00</div>
+    <p>Hi all, I&#x27;m in the final stages of a recruitment process with Fortinet support role. So far I&#x27;ve done: - HR screening - HackerRank technical test - Technical interview with the team - NSE4 certification (apparently a prerequisite now) HR...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1waradl/odd_behavior_767/" target="_blank" rel="noopener">Odd behavior 7.6.7</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-08T15:17:05+00:00</div>
-    <p>So I had bad storm take out power and two of the three ISP&#x27;s. When the power was restored I couldn&#x27;t connect to the internet I thought odd maybe the third ISP (Starlink) was having issues it was not. The problem was the SDWAN was still r...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wbnmfk/how_do_i_allow_a_url_of_this_type/" target="_blank" rel="noopener">How do I allow a URL of this type</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-09T14:46:03+00:00</div>
+    <p>I have a user attempting to open an eBook link. The URL is categorized as unrated. We block this category. I can not figure out how to create an exception for the URL below. Thanks https://3.167.138.6GET /v1/files/1aa87ff1cd2898b8ede19cd...</p>
   </div>
 </li>
 </ul>
