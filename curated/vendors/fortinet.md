@@ -7,15 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/969192815/0/fortinet/blogs~FortiEndpoint-Earns-Certified-Leader-Status-in-the-AVComparatives-EPR-Test" target="_blank" rel="noopener">FortiEndpoint Earns Certified Leader Status in the 2026 AV-Comparatives EPR Test</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 16 Sep 2026 15:00:00 +0000</div>
+    <p>FortiEndpoint with EDR earns Certified Leader status in the 2026 AV-Comparatives EPR Test after detecting all 50 attack scenarios in the first stage.…</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wh10z9/mclag_upgrade_process_for_1048e/" target="_blank" rel="noopener">MC-LAG Upgrade Process for 1048E</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-15T13:52:37+00:00</div>
-    <p>We have a pair of 1048Es running in an MC-LAG, Fortilink managed by a pair of 401Fs. This is an inherited environment running EOL 7.2.5 that we&#x27;re trying to bring up to 7.4 (Fortigate) and 7.6 (Fortiswitch). Is there any way to perform a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1whp1bm/blackhole_route_still_in_table_after_tunnel_is_up/" target="_blank" rel="noopener">Blackhole route still in table after tunnel is up</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-16T06:18:25+00:00</div>
+    <p>Ran into an issue yesterday. Moving some services over to new datacenter everything seemed to work except traffic from VPN tunnel was being dropped because of reverse path fail. After looking at the routing table it was seen that the bla...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1who94c/apple_devices_disappears/" target="_blank" rel="noopener">Apple devices disappears</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-16T05:35:57+00:00</div>
+    <p>What would cause apple devices running ARD to disappear in network list when there are more devices connected and reappears when there are less devices? This is a FortiAPs/FortiSwitches environment. submitted by /u/rhap4boy [link] [comme...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/sv4rug4icsph1.jpg?width=140&amp;height=72&amp;auto=webp&amp;s=fa2a170f0018967afd7cd486f6a13321cd5cc563" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1whj9r9/l2_switch_and_ha_design/" target="_blank" rel="noopener">L2 Switch and HA Design</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-16T01:31:19+00:00</div>
+    <p>Hi Fortinet Gurus, I recently came across redundant interfaces as well as disabling LACP on passive units (although outside the scope of this post). What is your preferred approach to HA A-P design between these two? Method 1: Each switc...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1whigzm/fortios_801_has_been_release/" target="_blank" rel="noopener">FortiOS 8.0.1 has been release</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-16T00:55:59+00:00</div>
+    <p>Release notes: Introduction and supported models | FortiGate / FortiOS 8.0.1 | Fortinet Document Library Changes in default behaviors: Changes in default behavior | FortiGate / FortiOS 8.0.1 | Fortinet Document Library Resolved issues: R...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1whbhn4/fortiedr_communication_control_causes_kubernetes/" target="_blank" rel="noopener">FortiEDR Communication Control causes Kubernetes cluster outage</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-15T20:12:49+00:00</div>
+    <p>Hi Everybody, We are running a Kubernetes cluster on Rocky Linux 10.2 VMs, with the FortiEDR Linux Collector installed on the host OS. When FortiEDR Communication Control was changed from Simulation to Prevention, the Kubernetes cluster ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/y9swxvfxoqph1.png?width=140&amp;height=133&amp;auto=webp&amp;s=0f39e65ea6a73555cbabd43b6b1b58c6aa367c3b" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1whb25y/fortigate_vm_interfaces_limit/" target="_blank" rel="noopener">Fortigate VM Interfaces limit</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-15T19:57:27+00:00</div>
+    <p>Hello, I&#x27;m trying to practice in the lab on v7.2.4 build 1396, but it&#x27;s limited to 3 interfaces. If I have something like what&#x27;s shown in the screenshot, it won&#x27;t work because port 1 is dedicated to the internet, and port 2 is being used...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wh5qhf/fortipam_password_rotation_issue/" target="_blank" rel="noopener">Fortipam password rotation issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-15T16:48:18+00:00</div>
+    <p>We are implementing fortipam with entra ID to access and rotate the admin passwords which we use for all the administration works across Microsoft stacks like entra, intune, exchange, etc. Note: we have conditional access policy for all ...</p>
   </div>
 </li>
 <li class="card">
@@ -24,38 +80,6 @@ _Updated: September 15, 2026 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/969135584/0/fortinet/blogs~From-Intelligence-to-Disruption-Strengthening-the-Fight-Against-Cybercrime-in-Latin-America" target="_blank" rel="noopener">From Intelligence to Disruption: Strengthening the Fight Against Cybercrime in Latin America</a></h3>
     <div class="meta">Fortinet Blog · Tue, 15 Sep 2026 13:00:00 +0000</div>
     <p>Fortinet joined INTERPOL, the World Economic Forum, and Paraguayan authorities to turn cyberthreat intelligence into coordinated action.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/e3ld5wowpmph1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=4f5ae11d71d48846a21361948f019da1cf1e503d" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wgskwq/registration_status_not_registered/" target="_blank" rel="noopener">Registration status : Not Registered.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-15T06:35:46+00:00</div>
-    <p>Hello everyone I have this error on my fortigate, I don’t really understand it because all its equipment has been registered in strong iCloud with the corresponding 🔑 cloud keys, I tried to contact support which did not help me so much b...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wgrxi1/the_fortios_8_ai_control_thing/" target="_blank" rel="noopener">The FortiOS 8 AI control thing?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-15T05:59:20+00:00</div>
-    <p>I&#x27;ve seen one sales presentation so I wanted to ask before I dig into it. It seemed to me that they have cosmetically redesigned the application control and deep inspection sections, putting AI-related stuff in it&#x27;s own lot. But undernea...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wgf5g0/blocking_intrassid_traffic_and_airprint/" target="_blank" rel="noopener">Blocking intra-SSID traffic and AirPrint</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-14T20:29:38+00:00</div>
-    <p>This isn&#x27;t as dumb as it sounds at first glance, I promise! No, I&#x27;m not trying to print to a printer that is wirelessly connected to the same SSID, which would obviously be blocked by this setting. I&#x27;m trying to set up a wireless network...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wgbck1/forticlient_vpn_standalon/" target="_blank" rel="noopener">forticlient vpn standalon</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-14T18:15:50+00:00</div>
-    <p>Hello, where can I download the FortiClient VPN .exe file? The website only offers the online installer, but I’m interested in downloading the offline version. Thanks. submitted by /u/TUTE6600K [link] [comments]</p>
   </div>
 </li>
 <li class="card">
@@ -120,14 +144,6 @@ _Updated: September 15, 2026 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/968505959/0/fortinet/blogs~The-Industrialization-of-Cybercrime-in-Africa" target="_blank" rel="noopener">The Industrialization of Cybercrime in Africa</a></h3>
     <div class="meta">Fortinet Blog · Wed, 2 Sep 2026 15:00:00 +0000</div>
     <p>INTERPOL’s African Cyberthreat Assessment Report 2026 shows how AI is industrializing cybercrime and why public-private collaboration is essential.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/968503934/0/fortinet/blogs~Join-the-SASE-Summit-Building-Autonomous-Trust-for-the-AI-Era" target="_blank" rel="noopener">Join the 2026 SASE Summit: Building Autonomous Trust for the AI Era</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 2 Sep 2026 13:00:00 +0000</div>
-    <p>Register for the 2026 SASE Summit to explore how Unified SASE can secure AI adoption, modernize access, and support sovereign operations.…</p>
   </div>
 </li>
 </ul>
