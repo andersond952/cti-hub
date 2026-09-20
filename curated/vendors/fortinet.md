@@ -7,63 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 19, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wkl0wr/fortinet_blocking_protonvpn/" target="_blank" rel="noopener">Fortinet blocking ProtonVpn</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-19T12:31:49+00:00</div>
-    <p>Fortinet is blocking ProtonVpn. Tor isnt being blocked. Some sites are being blocked. submitted by /u/BeltPsychological791 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wlfwau/web_filtering_issue/" target="_blank" rel="noopener">Web Filtering Issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T12:32:53+00:00</div>
+    <p>Hi, I’m trying to set up a web-filtering policy where one specific group of users can access a particular website, while the same website is blocked for everyone else. We have FSSO installed and integrated with our domain controller. I c...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wkfn8g/forticlientmacipsecsaml/" target="_blank" rel="noopener">Forticlient+Mac+Ipsec+saml</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-19T07:31:10+00:00</div>
-    <p>Hi guys, I want to share my situation with you. Recently, we migrated our VPN from SSL to IPsec, and everything went smoothly—no issues setting up a new IPsec connection with SAML (Azure). It works on Windows and Mac, but suddenly stoppe...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wle4d4/attending_my_first_xperts_event/" target="_blank" rel="noopener">Attending my first Xperts event</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T11:02:29+00:00</div>
+    <p>What should I expect from this event? I will be at the NOLA event in Punta Cana submitted by /u/papdogg [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/ouux5ysypmqh1.jpg?width=140&amp;height=40&amp;auto=webp&amp;s=67b68c755f73927d615196b850590aadb7d6edc5" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wlanan/fortigate_301e/" target="_blank" rel="noopener">Fortigate 301E</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T07:42:11+00:00</div>
+    <p>when ISP member-1 is connected, the ping to dns 8.8.... spikes drastically upto 1400ms on my fortigate 301E firewall. LAN bandwidth is choked. please help me relove the issue. Mob.7318060853 submitted by /u/Extra_Physics_5303 [link] [com...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wk4r1k/l3_roaming_support/" target="_blank" rel="noopener">L3 Roaming Support</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-18T22:38:53+00:00</div>
-    <p>Is FortiAP L3 roaming supported on FortiEdge Cloud? submitted by /u/rhap4boy [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/yifluwd7ncqh1.png?width=140&amp;height=105&amp;auto=webp&amp;s=8a1d75d1ff725d0ded05a1b33d5282e314fa8cf0" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wk3hcd/automate_the_installation_of_multiple_policy/" target="_blank" rel="noopener">Automate the installation of multiple policy packages.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-18T21:46:58+00:00</div>
-    <p>At the company where I work, we use several policy packages in the same ADOM. However, installing policies manually has become exhausting and time-consuming due to the sheer number of packages. I know it&#x27;s possible to go into each policy...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wl7ot0/fortinet_fsso/" target="_blank" rel="noopener">Fortinet FSSO</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T05:00:56+00:00</div>
+    <p>Hi everyone, We currently have Fortinet FSSO running under a Domain Administrator account, and I’m looking to move it to a dedicated service account for security reasons. Has anyone done this before? What specific permissions does the ne...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wk33s6/professional_services_engineer/" target="_blank" rel="noopener">Professional Services Engineer</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-18T21:31:46+00:00</div>
-    <p>Can anyone tell me me about this role? Specifically, typical “day in the life” experience, travel requirements, stress level, overall responsibilities etc? I see a few of these are remote roles. Are these types of roles the first to get ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wjtd2o/vpn_ssl_to_ipsec/" target="_blank" rel="noopener">VPN SSL TO IPSEC</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-18T15:29:31+00:00</div>
-    <p>Hi, We currently use an SSL VPN and are planning to migrate to IPsec VPN. At the moment, all users authenticate via SAML using Microsoft Entra ID. We have a Conditional Access policy in place that requires users to complete MFA through M...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wjrfml/the_fortinet_firewallantivirus_autotest_is/" target="_blank" rel="noopener">The Fortinet Firewall/Antivirus auto-test is blocking Action1, which prevents me from connecting remotely to the user&#x27;s machine</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-18T14:16:02+00:00</div>
-    <p>Hi everyone, I’m running into an issue with Action1 Remote Desktop and Fortinet (FortiClient/FortiGate). Here are the exact symptoms and details of the environment: * The Issue: When attempting to initiate a remote session to a user via ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wl2ckr/lab_fortinet_nse4_eveng/" target="_blank" rel="noopener">Lab Fortinet NSE4 - EVE-NG</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T00:33:26+00:00</div>
+    <p>Hi! Is anyone studying for NSE4? Is anyone using EVE-NG? I&#x27;d like to know if the trial version with a limit of 3 interfaces is sufficient for studying? submitted by /u/Analyst-TI-from-Poa [link] [comments]</p>
   </div>
 </li>
 <li class="card">
