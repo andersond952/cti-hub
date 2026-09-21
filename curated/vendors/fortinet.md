@@ -7,47 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 20, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wlfwau/web_filtering_issue/" target="_blank" rel="noopener">Web Filtering Issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T12:32:53+00:00</div>
-    <p>Hi, I’m trying to set up a web-filtering policy where one specific group of users can access a particular website, while the same website is blocked for everyone else. We have FSSO installed and integrated with our domain controller. I c...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmea58/enforcing_ikeesp_ipsec_localout_traffic_to_follow/" target="_blank" rel="noopener">Enforcing IKE/ESP IPSec Local-Out Traffic to Follow SD-WAN Rules</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T14:24:46+00:00</div>
+    <p>TL;DR: Is there a way to make IPSec tunnels configured on loopback interfaces have their local-out traffic egress out of specified WAN Interfaces using SD-WAN, or any other method? Ideally with a preference for one Interface, with the ca...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/hjybt4yhmvqh1.png?width=140&amp;height=128&amp;auto=webp&amp;s=3a6415755140bc042caa2980b541e33d6422a0b3" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmd1ct/ssl_deep_inspection_hsts_error_website_with/" target="_blank" rel="noopener">SSL Deep Inspection HSTS Error Website with Expired Cerificate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T13:37:08+00:00</div>
+    <p>I have a user trying to access this website: https:://creative.starbucks.com. The ssl certificate for this site is expired. In the deep inspection profile I have added the site to the exempted site list and set the Expired certificates o...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/q31yjafggsqh1.png?width=140&amp;height=91&amp;auto=webp&amp;s=3f87aa9aeb6d1662de8b93875815bbdefac3b984" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wm0w28/can_fortiswitch_in_mclag_setup_parse_usertraffic/" target="_blank" rel="noopener">Can FortiSwitch in MC-LAG setup parse user-traffic via the ICL link?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T02:59:13+00:00</div>
+    <p>Hey guys, So I have a setup where I have 2 FortiGates (401F&#x27;s) in HA but they are geographically appart (I have dark fibre between them). I also have some FortiSwitches at each site that will be also connected in an MC-LAG setup, basical...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wle4d4/attending_my_first_xperts_event/" target="_blank" rel="noopener">Attending my first Xperts event</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T11:02:29+00:00</div>
-    <p>What should I expect from this event? I will be at the NOLA event in Punta Cana submitted by /u/papdogg [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/ouux5ysypmqh1.jpg?width=140&amp;height=40&amp;auto=webp&amp;s=67b68c755f73927d615196b850590aadb7d6edc5" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wlanan/fortigate_301e/" target="_blank" rel="noopener">Fortigate 301E</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T07:42:11+00:00</div>
-    <p>when ISP member-1 is connected, the ping to dns 8.8.... spikes drastically upto 1400ms on my fortigate 301E firewall. LAN bandwidth is choked. please help me relove the issue. Mob.7318060853 submitted by /u/Extra_Physics_5303 [link] [com...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wl7ot0/fortinet_fsso/" target="_blank" rel="noopener">Fortinet FSSO</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T05:00:56+00:00</div>
-    <p>Hi everyone, We currently have Fortinet FSSO running under a Domain Administrator account, and I’m looking to move it to a dedicated service account for security reasons. Has anyone done this before? What specific permissions does the ne...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wl2ckr/lab_fortinet_nse4_eveng/" target="_blank" rel="noopener">Lab Fortinet NSE4 - EVE-NG</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T00:33:26+00:00</div>
-    <p>Hi! Is anyone studying for NSE4? Is anyone using EVE-NG? I&#x27;d like to know if the trial version with a limit of 3 interfaces is sufficient for studying? submitted by /u/Analyst-TI-from-Poa [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wlm9wj/vxlan_on_fortigate_with_svi/" target="_blank" rel="noopener">VXLAN on Fortigate with SVI</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T16:55:03+00:00</div>
+    <p>Hi All, Can anyone help me with below topology, I have p2p link between two fortigate firewall and let’s say its on X1 interface with 1.1.1.1 and 1.1.1.2 on remote firewall. I have SVI for vlan 100,101,102 on fortigate where LAN is aggre...</p>
   </div>
 </li>
 <li class="card">
