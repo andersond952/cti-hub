@@ -7,39 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmea58/enforcing_ikeesp_ipsec_localout_traffic_to_follow/" target="_blank" rel="noopener">Enforcing IKE/ESP IPSec Local-Out Traffic to Follow SD-WAN Rules</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T14:24:46+00:00</div>
-    <p>TL;DR: Is there a way to make IPSec tunnels configured on loopback interfaces have their local-out traffic egress out of specified WAN Interfaces using SD-WAN, or any other method? Ideally with a preference for one Interface, with the ca...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/hjybt4yhmvqh1.png?width=140&amp;height=128&amp;auto=webp&amp;s=3a6415755140bc042caa2980b541e33d6422a0b3" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmd1ct/ssl_deep_inspection_hsts_error_website_with/" target="_blank" rel="noopener">SSL Deep Inspection HSTS Error Website with Expired Cerificate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T13:37:08+00:00</div>
-    <p>I have a user trying to access this website: https:://creative.starbucks.com. The ssl certificate for this site is expired. In the deep inspection profile I have added the site to the exempted site list and set the Expired certificates o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/q31yjafggsqh1.png?width=140&amp;height=91&amp;auto=webp&amp;s=3f87aa9aeb6d1662de8b93875815bbdefac3b984" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wm0w28/can_fortiswitch_in_mclag_setup_parse_usertraffic/" target="_blank" rel="noopener">Can FortiSwitch in MC-LAG setup parse user-traffic via the ICL link?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T02:59:13+00:00</div>
-    <p>Hey guys, So I have a setup where I have 2 FortiGates (401F&#x27;s) in HA but they are geographically appart (I have dark fibre between them). I also have some FortiSwitches at each site that will be also connected in an MC-LAG setup, basical...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn5fjm/upgrading_from_72_to_74_at_last/" target="_blank" rel="noopener">Upgrading from 7.2 to 7.4 at last</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T10:11:51+00:00</div>
+    <p>Hello all ! I have a FGT 120G HA cluster and a FGT-VM still running on 7.2.13, and am currently planning the hop towards 7.4.12 as 7.2.x is EoL on September 30th. I have read all in-between release notes, and everything looks good. Only ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wlm9wj/vxlan_on_fortigate_with_svi/" target="_blank" rel="noopener">VXLAN on Fortigate with SVI</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-20T16:55:03+00:00</div>
-    <p>Hi All, Can anyone help me with below topology, I have p2p link between two fortigate firewall and let’s say its on X1 interface with 1.1.1.1 and 1.1.1.2 on remote firewall. I have SVI for vlan 100,101,102 on fortigate where LAN is aggre...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn3uwk/fortimanagement_cloud_performance_is_this_normal/" target="_blank" rel="noopener">FortiManagement Cloud Performance - Is This Normal?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T08:38:36+00:00</div>
+    <p>We&#x27;re an MSP managing multiple customer FortiGates through FortiManagement Cloud (previously FortiGate Cloud). We encouraged our engineers to use FortiManagement Cloud instead of direct management access, both for security reasons and be...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn3flh/upgrade_fortigate_from_7411_to_767/" target="_blank" rel="noopener">Upgrade Fortigate from 7.4.11 to 7.6.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T08:12:20+00:00</div>
+    <p>Hi! Next week I&#x27;ll have to update 2 Fortigate to the 7.6.7 version. The system is in HA and the cluster is &quot; in sync &quot; status ( Primary / Secondary ) how can I upgrade it in the best way to avoid downtimes ? what things should i verify b...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn2bjq/i_need_help/" target="_blank" rel="noopener">I need help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T07:04:16+00:00</div>
+    <p>How to bypass fortigate SSL and use unblocked site submitted by /u/Neat_Confusion_3523 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmrocp/fortiap_auto_transmit_power/" target="_blank" rel="noopener">FortiAP auto transmit power</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T22:32:13+00:00</div>
+    <p>Does FortiAP auto transmit power work as you add more APs? FortiAP default auto transmit power signal strength either hits the floor at 10 dBm or the ceiling at 17 dBm? What is the correct way to push it higher to achieve good SNR with e...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/62x6hry20yqh1.png?width=140&amp;height=35&amp;auto=webp&amp;s=b91b6e38f24ecbcd41c7515003e73527eaf44102" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmqcmp/fortiauthenticator_6610/" target="_blank" rel="noopener">FortiAuthenticator 6.6.10</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T21:40:06+00:00</div>
+    <p>Hello, After upgrading FortiAuthenticator from version 6.6.2 to 6.6.10, we noticed that FortiTokens under HA Status &gt; Core Tables is showing as Out of Sync. When we click on the warning, the “FortiTokens anomalies” section appears empty ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmn8vi/release_qa_specialist/" target="_blank" rel="noopener">Release QA Specialist</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T19:46:10+00:00</div>
+    <p>Hi everyone! I was contacted by an HR Manager from Fortinet about a job opportunity for Release QA Specialist role. I would like to seek guidance from anyone who experienced the recruitment process. And ask for advice what I need ro prep...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmixwc/transferring_assets_from_one_county_to_other/" target="_blank" rel="noopener">Transferring assets from one county to other.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T17:12:49+00:00</div>
+    <p>Hello, i have a fortiweb device with a license and support that i have purchased along with other hardware as a one stop shop in China, not sure if it was a reseller or a dealer but they gave me an account and told me that it can be tran...</p>
   </div>
 </li>
 <li class="card">
