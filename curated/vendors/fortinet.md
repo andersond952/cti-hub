@@ -7,71 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn5fjm/upgrading_from_72_to_74_at_last/" target="_blank" rel="noopener">Upgrading from 7.2 to 7.4 at last</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T10:11:51+00:00</div>
-    <p>Hello all ! I have a FGT 120G HA cluster and a FGT-VM still running on 7.2.13, and am currently planning the hop towards 7.4.12 as 7.2.x is EoL on September 30th. I have read all in-between release notes, and everything looks good. Only ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wo5yyf/fortianalyzer_log_size/" target="_blank" rel="noopener">FortiAnalyzer log size</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T13:26:07+00:00</div>
+    <p>Hi We have recently upgraded our FortiAnalyzer from 7.0.12 to 7.6.7. I have now noticed that the logs take up only about a quarter of the space they did before, given the same number of logs per second. Can this be right? Is the migratio...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn3uwk/fortimanagement_cloud_performance_is_this_normal/" target="_blank" rel="noopener">FortiManagement Cloud Performance - Is This Normal?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T08:38:36+00:00</div>
-    <p>We&#x27;re an MSP managing multiple customer FortiGates through FortiManagement Cloud (previously FortiGate Cloud). We encouraged our engineers to use FortiManagement Cloud instead of direct management access, both for security reasons and be...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wo3gv7/remote_cli/" target="_blank" rel="noopener">Remote CLI</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T11:33:56+00:00</div>
+    <p>I&#x27;ve worked in some Fortigate related projects lately and coming from other tooling found the way of automating tasks a little cumbersome. I&#x27;ve started developing a little CLI tool to configure fortigate firewalls via API. I wonder if th...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn3flh/upgrade_fortigate_from_7411_to_767/" target="_blank" rel="noopener">Upgrade Fortigate from 7.4.11 to 7.6.7</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T08:12:20+00:00</div>
-    <p>Hi! Next week I&#x27;ll have to update 2 Fortigate to the 7.6.7 version. The system is in HA and the cluster is &quot; in sync &quot; status ( Primary / Secondary ) how can I upgrade it in the best way to avoid downtimes ? what things should i verify b...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wo28yw/saml_auth_on_edge_captive_portal/" target="_blank" rel="noopener">SAML auth on edge captive portal</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T10:30:56+00:00</div>
+    <p>Hello redditors.. I need urgent help. I have an On-Ramp deployment on FortiSASE, where users are prompted to authenticate through a captive portal in the browser. However, when the user opens the browser, they receive an HSTS error. For ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wn2bjq/i_need_help/" target="_blank" rel="noopener">I need help</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T07:04:16+00:00</div>
-    <p>How to bypass fortigate SSL and use unblocked site submitted by /u/Neat_Confusion_3523 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wo1har/download_course_from_training/" target="_blank" rel="noopener">Download course from Training</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T09:48:04+00:00</div>
+    <p>Is there a way to download the videos/course from the training.fortinet.com? I&#x27;m planning a flight and I&#x27;d like to spend the time learning, not just watching Netflix submitted by /u/Pankracjusz [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmrocp/fortiap_auto_transmit_power/" target="_blank" rel="noopener">FortiAP auto transmit power</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T22:32:13+00:00</div>
-    <p>Does FortiAP auto transmit power work as you add more APs? FortiAP default auto transmit power signal strength either hits the floor at 10 dBm or the ceiling at 17 dBm? What is the correct way to push it higher to achieve good SNR with e...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/62x6hry20yqh1.png?width=140&amp;height=35&amp;auto=webp&amp;s=b91b6e38f24ecbcd41c7515003e73527eaf44102" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmqcmp/fortiauthenticator_6610/" target="_blank" rel="noopener">FortiAuthenticator 6.6.10</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T21:40:06+00:00</div>
-    <p>Hello, After upgrading FortiAuthenticator from version 6.6.2 to 6.6.10, we noticed that FortiTokens under HA Status &gt; Core Tables is showing as Out of Sync. When we click on the warning, the “FortiTokens anomalies” section appears empty ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wo0c07/fortiguard_reports_fakecaptcha_on_our_site_but/" target="_blank" rel="noopener">FortiGuard reports FakeCaptcha on our site, but repeated reviews won’t provide a sample — how do we escalate?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T08:38:49+00:00</div>
+    <p>Hey everyone, hoping someone can point me in the right direction because I’m going in circles with the FortiGuard review process. I manage an IIS server hosting a Symfony/PHP application. FortiGuard changed our hostname’s category from B...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmn8vi/release_qa_specialist/" target="_blank" rel="noopener">Release QA Specialist</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T19:46:10+00:00</div>
-    <p>Hi everyone! I was contacted by an HR Manager from Fortinet about a job opportunity for Release QA Specialist role. I would like to seek guidance from anyone who experienced the recruitment process. And ask for advice what I need ro prep...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wnkol4/enabling_sso_on_admin_logins_on_secondary_passive/" target="_blank" rel="noopener">Enabling SSO on admin logins on Secondary Passive fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T20:16:51+00:00</div>
+    <p>Hi Everyone, Is there other any option apart from this one : https://community.fortinet.com/fortigate-3/technical-tip-fortigate-login-with-saml-for-ha-management-interface-203676 to enable SSO when trying to login on the secondary passiv...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/izw7e9dx84rh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=21becc4b72407f54998a09241923175bd8aa7165" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wnhyj0/2_public_isp_on_one_fortigate/" target="_blank" rel="noopener">2 public isp on one fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T18:39:55+00:00</div>
+    <p>I have a Fortigate that was connected to an old public IP linked to my internet router, I just added a new block of public addresses that my provider gave me on the router. I have an IPBX on which I configured one of the new public IPs f...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wmixwc/transferring_assets_from_one_county_to_other/" target="_blank" rel="noopener">Transferring assets from one county to other.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-21T17:12:49+00:00</div>
-    <p>Hello, i have a fortiweb device with a license and support that i have purchased along with other hardware as a one stop shop in China, not sure if it was a reseller or a dealer but they gave me an account and told me that it can be tran...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wnefa3/ipsec_ike_p2_timeout/" target="_blank" rel="noopener">IPSec IKE P2 timeout</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T16:33:43+00:00</div>
+    <p>FortiClient VPN client won’t negotiate phase 2 while on some networks timeout. Namely a UniFi UDM SE appliance Have tired TCP (443), forced NAT-T, etc. No IP overlap on VPN / source networks. Works fine on my home network (UniFi SG) .. h...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wndy7t/has_anyone_passed_the_nse_7_fortisase_26_exam/" target="_blank" rel="noopener">Has anyone passed the NSE 7 FortiSASE 26 exam?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T16:16:24+00:00</div>
+    <p>As the title shows, looking to see if anyone has passed the new exam and what materials did you use to study. NSE7_SSE_AR-26 Thank you in advance. submitted by /u/PatchMaster [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wndtvd/ipsec_dialup_how_to_unsetdisable_dns_configuration/" target="_blank" rel="noopener">IPsec Dial-Up: How to Unset/Disable DNS Configuration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T16:12:01+00:00</div>
+    <p>Could anyone help with this? I need to unset/disable the DNS configuration from an IPsec dial-up configuration. Is this possible? The only option I’ve found is: set config-mode auto However, this automatically sets 0.0.0.0 as the default...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wnc6tm/fsso_advanced_mode_cant_select_individual_users/" target="_blank" rel="noopener">FSSO Advanced Mode – Can&#x27;t select individual users in policy (only groups appear)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-22T15:11:40+00:00</div>
+    <p>I&#x27;m trying to create a firewall policy that matches specific individual users (not groups) using FSSO. Setup: FortiGate (version: 7.0.9) FSSO Collector Agent on a Windows server 2012 R2, FSSO_Setup_5.0.0304_x64 Users are in various OUs L...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/969487394/0/fortinet/blogs~Sovereign-AI-Meets-QuantumReady-Defense-with-FortiNDR" target="_blank" rel="noopener">Sovereign AI Meets Quantum-Ready Defense with FortiNDR</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 22 Sep 2026 15:00:00 +0000</div>
+    <p>Explore new FortiNDR capabilities for quantum readiness, dynamic deception, agentic investigation, and sovereign AI across cloud and on-premises deployments.…</p>
   </div>
 </li>
 <li class="card">
@@ -144,14 +176,6 @@ _Updated: September 22, 2026 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/968521970/0/fortinet/blogs~Someone-Else-Is-Using-Your-AI" target="_blank" rel="noopener">Someone Else Is Using Your AI</a></h3>
     <div class="meta">Fortinet Blog · Thu, 3 Sep 2026 13:00:00 +0000</div>
     <p>FortiCNAPP analyzes an AWS LLMjacking incident involving a leaked administrator key and unauthorized access to Amazon Bedrock.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/968505959/0/fortinet/blogs~The-Industrialization-of-Cybercrime-in-Africa" target="_blank" rel="noopener">The Industrialization of Cybercrime in Africa</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 2 Sep 2026 15:00:00 +0000</div>
-    <p>INTERPOL’s African Cyberthreat Assessment Report 2026 shows how AI is industrializing cybercrime and why public-private collaboration is essential.…</p>
   </div>
 </li>
 </ul>
