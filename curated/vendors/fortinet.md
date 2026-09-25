@@ -7,15 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wp27p1/fortigate_as_local_ntp_server/" target="_blank" rel="noopener">Fortigate as local NTP server</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-24T13:51:35+00:00</div>
-    <p>Hello, Network setup: Two Fortigates in HA, two switches (stacked) connected to the Fortigates and couple of servers connected to the core switches (also some access switches connected to the core switches). Basic setup. My issue: I woul...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wpxtfr/fortigate_in_azure_for_nsew_and_remote_sdwan/" target="_blank" rel="noopener">FortiGate in Azure for N-S-E-W and remote SDWAN</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T14:28:42+00:00</div>
+    <p>I was wondering what the landscape looks like out there for FortiGate as Azure vNET NFGW and SDWAN connectivity. Can you guys give me an idea of how many are using FortiGate VM on Azure compute as N-S-E-W vNET and remote site SDWAN hub w...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wpv5uk/fortigate_sdwan_is_dialed_in_where_does_sase_fit/" target="_blank" rel="noopener">FortiGate SD-WAN is dialed in, where does SASE fit before I go all in?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T12:34:25+00:00</div>
+    <p>On our setup, weve got FortiGate SD-WAN running across all our sites and it&#x27;s been steady tbh on ADVPN, path selection, the health checks like basically no complaints on the network side. And currently, the remote folks either backhaul t...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wpuhbw/forticlient_standalone_not_pushing_dns_settings/" target="_blank" rel="noopener">Forticlient standalone not pushing DNS settings</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T12:01:19+00:00</div>
+    <p>Newly started to use standalone version of Forticlient(7.4.7). Having an issue that does not happen with forticlient free version(7.4.3), where DNS settings configured for Tunnel does not get pushed for the network adapter. Has anyone ha...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptzyf/need_help_troubleshooting_vpncdn_website_access/" target="_blank" rel="noopener">Need help troubleshooting VPN/CDN website access</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:36:30+00:00</div>
+    <p>Hi everyone, Our office and Content Team are located in India, while our work headquarters/work location is in the USA. Some websites cannot be accessed directly from India, so we configured a site-to-site/tunnel VPN to route the traffic...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptzny/cant_access_fortisatforticloudcom/" target="_blank" rel="noopener">Cant access fortisat.forticloud.com</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:36:02+00:00</div>
+    <p>Hi everyone, We have problem to access fortisat.forticloud.com Anyone experiecnig this problem also? submitted by /u/Popik195 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptyob/fg_dual_ap_azure_setup_and_fmg/" target="_blank" rel="noopener">FG dual A-P Azure setup and FMG</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:34:36+00:00</div>
+    <p>I launched FG Cluster from the Azure MP. Now trying to onboard the same cluster in FMG using model device method, so to push SDWAN and other templates. But FMG is wiping off the sdn connector configs and not pushing the loopback interfac...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptmpb/multiple_websites_inaccessible_from_corporate/" target="_blank" rel="noopener">Multiple websites inaccessible from corporate network in India – FortiGate / CDN / Geo-IP troubleshooting help</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:16:56+00:00</div>
+    <p>​ Hi everyone, We are facing an unusual website-access issue from our corporate network in Kochi, India. Our firewall is FortiGate. Multiple unrelated websites are not accessible from our corporate network, while some of the same website...</p>
   </div>
 </li>
 <li class="card">
@@ -24,54 +72,6 @@ _Updated: September 24, 2026 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/969841961/0/fortinet/blogs~Uncovering-a-SectopRAT-Variant-Embedded-in-Legitimate-Software" target="_blank" rel="noopener">Uncovering a SectopRAT Variant Embedded in Legitimate Software</a></h3>
     <div class="meta">Fortinet Blog · Thu, 24 Sep 2026 13:00:00 +0000</div>
     <p>Analysis of a SectopRAT variant hidden in tampered legitimate software that steals credentials and enables remote system control…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wozua5/fortswitch_memory_utilization/" target="_blank" rel="noopener">Fortswitch memory utilization</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-24T12:05:50+00:00</div>
-    <p>Hello everyone I have a problem with my fortswitch After i enbled ssh access to the switch and connected for the first time the memory usage jumped from almost 50% to 79% i dont think i activated any service on the switch so i really don...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wouqzu/fortiems_on_macos_ventura_135_and_annoying/" target="_blank" rel="noopener">FortiEMS - On MacOS Ventura 13.5 and annoying notifications prompts.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-24T07:04:52+00:00</div>
-    <p>Hi, has anyone simillar issue that on MacOS 13.5 user got many notifications about FCT is requiring access to setting of network, hdd etc. Even when FCT has full permissions allowed on that MacOS. FortiEMS is 7.4.8 now, and Client 7.4.5....</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1woqx9e/fortimanager_as_a_log_collector/" target="_blank" rel="noopener">FortiManager as a log collector</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-24T03:32:13+00:00</div>
-    <p>Hello everyone! We are currently running FAZ (100 licenses and 50GB logs per day) and we only use it&#x27;s log collector functions, all the SOAR and SIEM functionality is gathering dust atm. We are planning to also purchase FMG to manage con...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/x6ya1nlfgbrh1.png?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=bb9738dd70ca6ce1a6b839af087c0a5801cb25c6" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1woeozb/can_someone_please_explain_how_this_is_the/" target="_blank" rel="noopener">Can someone please explain how this is the correct answer? This is from the offical study guide practice questions.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T18:51:41+00:00</div>
-    <p>submitted by /u/4rty7 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1woeghb/difficulty_of_nse4/" target="_blank" rel="noopener">Difficulty of NSE4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T18:43:10+00:00</div>
-    <p>Hi, I&#x27;m a Pre-U student and my school offered a free course and exam voucher to the NSE4 administrator exam, I&#x27;m curious how difficult it is and how long it would take to prepare for the exam and what should I focus on? Should I just foc...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/qw5o46aajarh1.png?width=140&amp;height=83&amp;auto=webp&amp;s=fcf8389adfa6162505a29e2e03f4f9e03a11fe5b" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wo9nyr/fortidemo_loss_of_access/" target="_blank" rel="noopener">Fortidemo - Loss of access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-23T15:47:32+00:00</div>
-    <p>Has anyone else lost access to the Fortidemo labs? Up until last week, I had normal access and could run the labs without issues, but this week it says I don&#x27;t have permission. My certifications haven&#x27;t expired. https://preview.redd.it/q...</p>
   </div>
 </li>
 <li class="card">
