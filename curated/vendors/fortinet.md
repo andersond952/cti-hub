@@ -7,63 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wpxtfr/fortigate_in_azure_for_nsew_and_remote_sdwan/" target="_blank" rel="noopener">FortiGate in Azure for N-S-E-W and remote SDWAN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T14:28:42+00:00</div>
-    <p>I was wondering what the landscape looks like out there for FortiGate as Azure vNET NFGW and SDWAN connectivity. Can you guys give me an idea of how many are using FortiGate VM on Azure compute as N-S-E-W vNET and remote site SDWAN hub w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wqnmc8/do_not_migrate_to_fmg_80x_as_a_clean_install/" target="_blank" rel="noopener">DO NOT migrate to FMG 8.0.x as a clean install</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-26T10:56:54+00:00</div>
+    <p>I was running FMG 8.0.0 locally on a Hyper-V server I&#x27;m looking to retire, so I got 8.0.1 running on my ProxMox server. All was looking good, except I couldn&#x27;t restore the config to it. As my local instance is only a few devices, I figur...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/0n12ziv58urh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45a2e4f1d4f8a06d2efe39f85fa3e8b041136229" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wqmoin/uninstalling_fortinet_from_mac_2026/" target="_blank" rel="noopener">Uninstalling Fortinet from Mac, 2026</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-26T09:59:28+00:00</div>
+    <p>Uninstalling fortinet is very difficult, as the App has a lock icon. All 3 normal options fail - Uninstaller - hangs without feedback - Finder &quot;Move to Trash&quot; you get &lt;image&gt; - Terminal rm -rf /Applications/FortiClient.app /Applications/...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wpv5uk/fortigate_sdwan_is_dialed_in_where_does_sase_fit/" target="_blank" rel="noopener">FortiGate SD-WAN is dialed in, where does SASE fit before I go all in?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T12:34:25+00:00</div>
-    <p>On our setup, weve got FortiGate SD-WAN running across all our sites and it&#x27;s been steady tbh on ADVPN, path selection, the health checks like basically no complaints on the network side. And currently, the remote folks either backhaul t...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wpuhbw/forticlient_standalone_not_pushing_dns_settings/" target="_blank" rel="noopener">Forticlient standalone not pushing DNS settings</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T12:01:19+00:00</div>
-    <p>Newly started to use standalone version of Forticlient(7.4.7). Having an issue that does not happen with forticlient free version(7.4.3), where DNS settings configured for Tunnel does not get pushed for the network adapter. Has anyone ha...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptzyf/need_help_troubleshooting_vpncdn_website_access/" target="_blank" rel="noopener">Need help troubleshooting VPN/CDN website access</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:36:30+00:00</div>
-    <p>Hi everyone, Our office and Content Team are located in India, while our work headquarters/work location is in the USA. Some websites cannot be accessed directly from India, so we configured a site-to-site/tunnel VPN to route the traffic...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptzny/cant_access_fortisatforticloudcom/" target="_blank" rel="noopener">Cant access fortisat.forticloud.com</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:36:02+00:00</div>
-    <p>Hi everyone, We have problem to access fortisat.forticloud.com Anyone experiecnig this problem also? submitted by /u/Popik195 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptyob/fg_dual_ap_azure_setup_and_fmg/" target="_blank" rel="noopener">FG dual A-P Azure setup and FMG</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:34:36+00:00</div>
-    <p>I launched FG Cluster from the Azure MP. Now trying to onboard the same cluster in FMG using model device method, so to push SDWAN and other templates. But FMG is wiping off the sdn connector configs and not pushing the loopback interfac...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wptmpb/multiple_websites_inaccessible_from_corporate/" target="_blank" rel="noopener">Multiple websites inaccessible from corporate network in India – FortiGate / CDN / Geo-IP troubleshooting help</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-25T11:16:56+00:00</div>
-    <p>​ Hi everyone, We are facing an unusual website-access issue from our corporate network in Kochi, India. Our firewall is FortiGate. Multiple unrelated websites are not accessible from our corporate network, while some of the same website...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wqgf0m/advice_migrating_from_60e_to_70g/" target="_blank" rel="noopener">Advice migrating from 60E to 70G</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-26T03:47:37+00:00</div>
+    <p>Hello I&#x27;ve been tasked with migrating from a 60E to a 70G. 7.4.12 to 7.4.12 A backup and a read-only user in the 60E was given to me. I&#x27;ve participated in this procces before but now i&#x27;m alone. Any usefull advice? submitted by /u/ETcalls...</p>
   </div>
 </li>
 <li class="card">
