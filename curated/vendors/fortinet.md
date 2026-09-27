@@ -7,31 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wqnmc8/do_not_migrate_to_fmg_80x_as_a_clean_install/" target="_blank" rel="noopener">DO NOT migrate to FMG 8.0.x as a clean install</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-26T10:56:54+00:00</div>
-    <p>I was running FMG 8.0.0 locally on a Hyper-V server I&#x27;m looking to retire, so I got 8.0.1 running on my ProxMox server. All was looking good, except I couldn&#x27;t restore the config to it. As my local instance is only a few devices, I figur...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/0n12ziv58urh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=45a2e4f1d4f8a06d2efe39f85fa3e8b041136229" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wqmoin/uninstalling_fortinet_from_mac_2026/" target="_blank" rel="noopener">Uninstalling Fortinet from Mac, 2026</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-26T09:59:28+00:00</div>
-    <p>Uninstalling fortinet is very difficult, as the App has a lock icon. All 3 normal options fail - Uninstaller - hangs without feedback - Finder &quot;Move to Trash&quot; you get &lt;image&gt; - Terminal rm -rf /Applications/FortiClient.app /Applications/...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wqgf0m/advice_migrating_from_60e_to_70g/" target="_blank" rel="noopener">Advice migrating from 60E to 70G</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-26T03:47:37+00:00</div>
-    <p>Hello I&#x27;ve been tasked with migrating from a 60E to a 70G. 7.4.12 to 7.4.12 A backup and a read-only user in the 60E was given to me. I&#x27;ve participated in this procces before but now i&#x27;m alone. Any usefull advice? submitted by /u/ETcalls...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wr5kdl/im_gonna_begin_my_nse7_secure_network_architect/" target="_blank" rel="noopener">I&#x27;m gonna begin my NSE7 Secure Network Architect Training - Any advice?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-27T00:04:37+00:00</div>
+    <p>Hey guys, Currently NS6 certified and about to start my NS7 journey especially the Secure Network Architect stream. As far as I know the products tested are FortiManager / FortiGate / FortiAnalyzer I managed to get a FortiGate Evaluation...</p>
   </div>
 </li>
 <li class="card">
