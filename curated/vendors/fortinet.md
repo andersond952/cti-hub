@@ -7,15 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 27, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wr5kdl/im_gonna_begin_my_nse7_secure_network_architect/" target="_blank" rel="noopener">I&#x27;m gonna begin my NSE7 Secure Network Architect Training - Any advice?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-27T00:04:37+00:00</div>
-    <p>Hey guys, Currently NS6 certified and about to start my NS7 journey especially the Secure Network Architect stream. As far as I know the products tested are FortiManager / FortiGate / FortiAnalyzer I managed to get a FortiGate Evaluation...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsilx8/fortigate_ha_outofsycn_cant_find_solution/" target="_blank" rel="noopener">Fortigate HA out-of-sycn - Can&#x27;t find solution</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T16:02:01+00:00</div>
+    <p>Hi, I have a HA-Cluster of 2xFG200G. I just took the config of the master unit, disconnected the HA, installed the config to the slave unit and changed hostname and priority. Then I connected the HA again but it won&#x27;t sync. I took both c...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wshgz5/fyi_dos_policy_in_76_uses_sdwan_zones_and_not/" target="_blank" rel="noopener">FYI - DoS Policy in 7.6 uses SD-WAN Zones and not Interfaces</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T15:20:30+00:00</div>
+    <p>I was doing some troubleshooting today and I kept getting errors when trying to save my DoS policies. Turns out that 7.4 uses the individual interfaces, despite the interfaces being in an SD-WAN zone. In 7.6, all of the DoS policies use ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsewev/acme_auto_cert_renewal_vdom_setup/" target="_blank" rel="noopener">Acme auto cert renewal : VDOM setup</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T13:39:23+00:00</div>
+    <p>With certs now going from a 1 year renewal, down to 6 months and soon to 3 months, it&#x27;s becoming more of a pain to renew a certificate on a Fortigate for a VDOM based setup. If it was a standard Fortigate I would use the acme option and ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ws74md/fortigate_ikev2_ra_ipsec_vpn_with_twofactor/" target="_blank" rel="noopener">Fortigate IKEV2 RA IPSec VPN with two-factor authentication</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T06:32:42+00:00</div>
+    <p>Hello everyone! I am looking for two-factor authentication IKEv2 IPSec RA VPN scheme. We are currently having IKEv1 Certificate + RADIUS XAUTH (AD creds), but it seems like it&#x27;s time to move on (given that Fortinet will soon declare ikev...</p>
   </div>
 </li>
 <li class="card">
