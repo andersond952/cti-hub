@@ -7,39 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 28, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsilx8/fortigate_ha_outofsycn_cant_find_solution/" target="_blank" rel="noopener">Fortigate HA out-of-sycn - Can&#x27;t find solution</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T16:02:01+00:00</div>
-    <p>Hi, I have a HA-Cluster of 2xFG200G. I just took the config of the master unit, disconnected the HA, installed the config to the slave unit and changed hostname and priority. Then I connected the HA again but it won&#x27;t sync. I took both c...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wtaznq/fortios_767_web_rating_override_not_blocking/" target="_blank" rel="noopener">FortiOS 7.6.7 – Web Rating Override not blocking HTTPS traffic with flow-based Web Filtering</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T14:03:43+00:00</div>
+    <p>Hi, I&#x27;m trying to reproduce a Web Filtering scenario in a FortiOS 7.6.7 lab, but I&#x27;m getting behavior I don&#x27;t understand..... Setup: FortiOS 7.6.7 Firewall inspection mode: Flow-based SSL inspection: certificate-inspection Web Filter pro...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wshgz5/fyi_dos_policy_in_76_uses_sdwan_zones_and_not/" target="_blank" rel="noopener">FYI - DoS Policy in 7.6 uses SD-WAN Zones and not Interfaces</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T15:20:30+00:00</div>
-    <p>I was doing some troubleshooting today and I kept getting errors when trying to save my DoS policies. Turns out that 7.4 uses the individual interfaces, despite the interfaces being in an SD-WAN zone. In 7.6, all of the DoS policies use ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wt9xh5/problems_with_version_766/" target="_blank" rel="noopener">problems with version 7.6.6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T13:19:50+00:00</div>
+    <p>I upgraded my E-series FortiGate from version 7.6.3 to version 7.6.6. After the upgrade to 7.6.6, I lost connectivity to several networks that had been working without issues on version 7.6.3. I checked the configuration, and the static ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsewev/acme_auto_cert_renewal_vdom_setup/" target="_blank" rel="noopener">Acme auto cert renewal : VDOM setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T13:39:23+00:00</div>
-    <p>With certs now going from a 1 year renewal, down to 6 months and soon to 3 months, it&#x27;s becoming more of a pain to renew a certificate on a Fortigate for a VDOM based setup. If it was a standard Fortigate I would use the acme option and ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wt89pg/forticlient_746_anycast_ca_expiry/" target="_blank" rel="noopener">Forticlient &lt; 7.4.6 - Anycast CA Expiry</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T12:03:36+00:00</div>
+    <p>So we had the alert below and we have clients running &lt; 7.4.5 managed by an on-prem EMS but only for VPN functionality. There are no Fortiguard services I&#x27;m making enquiries but what&#x27;s the likely impact here please? URGENT ACTION REQUIRE...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ws74md/fortigate_ikev2_ra_ipsec_vpn_with_twofactor/" target="_blank" rel="noopener">Fortigate IKEV2 RA IPSec VPN with two-factor authentication</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T06:32:42+00:00</div>
-    <p>Hello everyone! I am looking for two-factor authentication IKEv2 IPSec RA VPN scheme. We are currently having IKEv1 Certificate + RADIUS XAUTH (AD creds), but it seems like it&#x27;s time to move on (given that Fortinet will soon declare ikev...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wt5yuk/nse8_fortisase_nfr_instance/" target="_blank" rel="noopener">NSE8 FortiSASE NFR instance</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T09:55:43+00:00</div>
+    <p>I have posted it around a bit already, but NSE8 holders can now claim their FortiSASE NFR instance. https://training.fortinet.com/local/staticpage/view.php?page=nse_8 Some more information: https://www.linkedin.com/feed/update/urn:li:act...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsubv6/auto_transmit_power/" target="_blank" rel="noopener">Auto transmit power</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T23:27:17+00:00</div>
+    <p>Currently testing FAP241K with Fortiswitch 148F-FPOE, Currently Auto transmit power is set to 17 to 20 dBm with target dBm at -70. Not using any DFS channel. Poe mode is high. why is it even with just a single AP, transmit power never go...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsp70d/how_did_you_get_started_with_automation_in_a/" target="_blank" rel="noopener">How did you get started with automation in a Fortinet environment?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T20:01:46+00:00</div>
+    <p>I’m responsible for our data center firewall environment, mainly FortiGate, FortiManager and FortiAnalyzer, and I keep wondering how to introduce automation in a way that actually makes sense. The problem is: I honestly don’t know where ...</p>
   </div>
 </li>
 <li class="card">
