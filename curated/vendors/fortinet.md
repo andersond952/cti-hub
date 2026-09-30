@@ -7,55 +7,55 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: September 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/ukfnez08cosh1.png?width=140&amp;height=84&amp;auto=webp&amp;s=b5a1bf5c52c7fc1f627f39040f79fc4fa2fb8512" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wtaznq/fortios_767_web_rating_override_not_blocking/" target="_blank" rel="noopener">FortiOS 7.6.7 – Web Rating Override not blocking HTTPS traffic with flow-based Web Filtering</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T14:03:43+00:00</div>
-    <p>Hi, I&#x27;m trying to reproduce a Web Filtering scenario in a FortiOS 7.6.7 lab, but I&#x27;m getting behavior I don&#x27;t understand..... Setup: FortiOS 7.6.7 Firewall inspection mode: Flow-based SSL inspection: certificate-inspection Web Filter pro...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wu7wo8/fortiap_and_external_large_antennas_fap432ga/" target="_blank" rel="noopener">FortiAP and external large antennas FAP-432G-A</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T15:26:54+00:00</div>
+    <p>ok project is to setup a new site with some fancy FAP-432G-A APs and some powerful antennas. fortinet build team gave us products quote and purchase for the client. factory antenna guides factory antenna plug this is the aftermarket ante...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wt9xh5/problems_with_version_766/" target="_blank" rel="noopener">problems with version 7.6.6</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T13:19:50+00:00</div>
-    <p>I upgraded my E-series FortiGate from version 7.6.3 to version 7.6.6. After the upgrade to 7.6.6, I lost connectivity to several networks that had been working without issues on version 7.6.3. I checked the configuration, and the static ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wu6p6x/ipsec_client_vpn_with_local_user/" target="_blank" rel="noopener">Ipsec Client VPN with local user</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T14:39:50+00:00</div>
+    <p>I’m trying to migrate my SSL VPN to Ipsec, but I can’t make it running. I’m trying to authenticate with a local user account. The user is part of the group “MYGROUP”. Here’s the log: ike 0:CLIENT-VPN:2914: received FCT-UID = 1D0334450AFC...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wt89pg/forticlient_746_anycast_ca_expiry/" target="_blank" rel="noopener">Forticlient &lt; 7.4.6 - Anycast CA Expiry</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T12:03:36+00:00</div>
-    <p>So we had the alert below and we have clients running &lt; 7.4.5 managed by an on-prem EMS but only for VPN functionality. There are no Fortiguard services I&#x27;m making enquiries but what&#x27;s the likely impact here please? URGENT ACTION REQUIRE...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wu4cbw/the_fortinet_tv_level_of_embarrassing_peddling_is/" target="_blank" rel="noopener">The &quot;Fortinet TV&quot; level of embarrassing peddling is starting to hurt actual sales</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T13:01:07+00:00</div>
+    <p>So I work for a VAR and as the title says. The riddiculous level of peddling and marketing slop &quot;cybersecurity vendors&quot; are putting out now is actually making the better half of the customers stop and ask. &quot;What in the actual hell has to...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wt5yuk/nse8_fortisase_nfr_instance/" target="_blank" rel="noopener">NSE8 FortiSASE NFR instance</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T09:55:43+00:00</div>
-    <p>I have posted it around a bit already, but NSE8 holders can now claim their FortiSASE NFR instance. https://training.fortinet.com/local/staticpage/view.php?page=nse_8 Some more information: https://www.linkedin.com/feed/update/urn:li:act...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wtwgk1/forticlient_iosandroid_ikev2_dialup_2fa_on/" target="_blank" rel="noopener">FortiClient iOS/Android + IKEv2 dial-up + 2FA on FortiOS 7.4 — what actually works for you?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T05:16:30+00:00</div>
+    <p>What are you running for iOS and Android FortiClient over IKEv2 dial-up, with some form of 2FA? Has anyone got FortiClient iOS working against 7.4.x with a server cert + EAP-MSCHAPv2, or with client-cert only? Any required settings (loca...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/970782875/0/fortinet/blogs~Fortinet-Expands-AI-Security-Across-Google-Cloud-Gemini-Enterprise" target="_blank" rel="noopener">Fortinet Expands AI Security Across Google Cloud Gemini Enterprise</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 29 Sep 2026 21:00:00 +0000</div>
+    <p>Learn how Fortinet collaborates with Google Cloud to help organizations secure AI agents, applications, data, and MCP activity across the enterprise AI lifecycle.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsubv6/auto_transmit_power/" target="_blank" rel="noopener">Auto transmit power</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T23:27:17+00:00</div>
-    <p>Currently testing FAP241K with Fortiswitch 148F-FPOE, Currently Auto transmit power is set to 17 to 20 dBm with target dBm at -70. Not using any DFS channel. Poe mode is high. why is it even with just a single AP, transmit power never go...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wsp70d/how_did_you_get_started_with_automation_in_a/" target="_blank" rel="noopener">How did you get started with automation in a Fortinet environment?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-28T20:01:46+00:00</div>
-    <p>I’m responsible for our data center firewall environment, mainly FortiGate, FortiManager and FortiAnalyzer, and I keep wondering how to introduce automation in a way that actually makes sense. The problem is: I honestly don’t know where ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wtkub1/fortinet_wap_431f_433g_firmware_antenna_shutdown/" target="_blank" rel="noopener">Fortinet WAP 431F &amp; 433G firmware antenna shutdown issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T20:15:05+00:00</div>
+    <p>Hello All, I&#x27;ve been fighting with issues over the last several months, and with help from Fortinet, I&#x27;ve found a solution. Apparently, a software bug in a recent firmware update for the 431F and 433G models causes the internal Wi-Fi ant...</p>
   </div>
 </li>
 <li class="card">
@@ -128,14 +128,6 @@ _Updated: September 29, 2026 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/968882207/0/fortinet/blogs~FortiManagement-Cloud-Centralized-Network-and-Security-Control-for-Distributed-SMB-Operations" target="_blank" rel="noopener">FortiManagement Cloud: Centralized Network and Security Control for Distributed SMB Operations</a></h3>
     <div class="meta">Fortinet Blog · Wed, 9 Sep 2026 15:00:00 +0000</div>
     <p>Learn how FortiManagement Cloud unifies cloud management and analytics for FortiGate, FortiSwitch, FortiAP, and FortiExtender across distributed secure networks.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/968541710/0/fortinet/blogs~Fortinet-Joins-Project-Watershed-to-Strengthen-National-Water-Cybersecurity-Infrastructure" target="_blank" rel="noopener">Fortinet Joins Project Watershed 250 to Strengthen National Water Cybersecurity Infrastructure</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 4 Sep 2026 15:00:00 +0000</div>
-    <p>Learn how Fortinet is helping Project Watershed 250 bring government and industry together to strengthen the cybersecurity and resilience of U.S. water systems…</p>
   </div>
 </li>
 </ul>
