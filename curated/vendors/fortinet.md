@@ -7,39 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: September 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/ukfnez08cosh1.png?width=140&amp;height=84&amp;auto=webp&amp;s=b5a1bf5c52c7fc1f627f39040f79fc4fa2fb8512" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wu7wo8/fortiap_and_external_large_antennas_fap432ga/" target="_blank" rel="noopener">FortiAP and external large antennas FAP-432G-A</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T15:26:54+00:00</div>
-    <p>ok project is to setup a new site with some fancy FAP-432G-A APs and some powerful antennas. fortinet build team gave us products quote and purchase for the client. factory antenna guides factory antenna plug this is the aftermarket ante...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wv2odz/fortiswitch_ssh_refuse_connection/" target="_blank" rel="noopener">Fortiswitch SSH refuse connection</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-01T15:37:01+00:00</div>
+    <p>I have upgraded my fortiswitch to 7.6.8 and I lost ssh to switch’s from fortigate the switches online and everything is working but I can’t ssh them only one switch is working I checked compatibility is ok ✅ fortilink compatibility also ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/970864421/0/fortinet/blogs~Building-a-SecurityFirst-Culture-for-an-Accelerating-Threat-Landscape" target="_blank" rel="noopener">Building a Security-First Culture for an Accelerating Threat Landscape</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 1 Oct 2026 15:00:00 +0000</div>
+    <p>As AI accelerates the attack lifecycle, organizations must treat everyday security behaviors as essential operational controls.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wu6p6x/ipsec_client_vpn_with_local_user/" target="_blank" rel="noopener">Ipsec Client VPN with local user</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T14:39:50+00:00</div>
-    <p>I’m trying to migrate my SSL VPN to Ipsec, but I can’t make it running. I’m trying to authenticate with a local user account. The user is part of the group “MYGROUP”. Here’s the log: ike 0:CLIENT-VPN:2914: received FCT-UID = 1D0334450AFC...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wuxu3h/upgrade_2000e_to_7411/" target="_blank" rel="noopener">Upgrade 2000e to 7.4.11</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-01T12:13:38+00:00</div>
+    <p>I need to proceed with the upgrade to FortiOS 7.4.11 I noticed that 7.4.12 includes a number of resolved issues. However, some of these issues are not listed as known issues in the 7.4.11 release notes. Therefore, I would like to confirm...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wu4cbw/the_fortinet_tv_level_of_embarrassing_peddling_is/" target="_blank" rel="noopener">The &quot;Fortinet TV&quot; level of embarrassing peddling is starting to hurt actual sales</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T13:01:07+00:00</div>
-    <p>So I work for a VAR and as the title says. The riddiculous level of peddling and marketing slop &quot;cybersecurity vendors&quot; are putting out now is actually making the better half of the customers stop and ask. &quot;What in the actual hell has to...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wuu6lg/forticlient_ems_7215_to_748_migration_licence/" target="_blank" rel="noopener">FortiClient EMS 7.2.15 to 7.4.8 Migration - Licence Question</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-01T08:40:06+00:00</div>
+    <p>Hi All, I&#x27;m just about to start the migration to FortiClient EMS 7.4.8. But as I&#x27;m on a version that cannot be directly migrated, I need to build up a new Linux server and recreate the configuration. I am currently in discussions with Fo...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wtwgk1/forticlient_iosandroid_ikev2_dialup_2fa_on/" target="_blank" rel="noopener">FortiClient iOS/Android + IKEv2 dial-up + 2FA on FortiOS 7.4 — what actually works for you?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T05:16:30+00:00</div>
-    <p>What are you running for iOS and Android FortiClient over IKEv2 dial-up, with some form of 2FA? Has anyone got FortiClient iOS working against 7.4.x with a server cert + EAP-MSCHAPv2, or with client-cert only? Any required settings (loca...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wuu1gv/ot_security_76_architect/" target="_blank" rel="noopener">OT Security 7.6 Architect</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-01T08:30:15+00:00</div>
+    <p>Hi everyone, I’m interested in getting this certification, and I’m currently looking for a good course to prepare for it. I couldn’t find any suitable courses on Udemy, but I found one on FortiAcademy for around $400. I’ve never taken a ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wukskc/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-01T00:00:24+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wujwwb/outdoor_ap_using_omni_without_directional_antenna/" target="_blank" rel="noopener">Outdoor AP using omni without directional antenna</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T23:19:27+00:00</div>
+    <p>How do you configure outdoor AP like FAP-432FR with omni antenna to cover certain area like directional antenna would without leaking signal into the buildings behind the AP creating sticky client situation? submitted by /u/renovatio522 ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wuj5xb/virtual_servers_type_ip_not_working/" target="_blank" rel="noopener">Virtual Servers Type IP Not Working</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T22:45:09+00:00</div>
+    <p>I&#x27;m trying to use Virtual Servers on the FortiGate to load balance from a public IP to two Omnissa Horizon UAGs in my DMZ. If I set my Virtual Server up explicitly for TCP Port 443, everything works fine. Instead of doing Virtual Servers...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wugtjs/just_got_a_fortigate_140epoe/" target="_blank" rel="noopener">Just got a FortiGate 140E-POE</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-30T21:05:55+00:00</div>
+    <p>Just received a FortiGate 140E-POE. I factory reset the unit but it looks like it’s still attached to the Forticloud account. Is there any way to reset that without cloud access or is the only way to unregistered it through the cloud adm...</p>
   </div>
 </li>
 <li class="card">
@@ -48,14 +88,6 @@ _Updated: September 30, 2026 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/970782875/0/fortinet/blogs~Fortinet-Expands-AI-Security-Across-Google-Cloud-Gemini-Enterprise" target="_blank" rel="noopener">Fortinet Expands AI Security Across Google Cloud Gemini Enterprise</a></h3>
     <div class="meta">Fortinet Blog · Tue, 29 Sep 2026 21:00:00 +0000</div>
     <p>Learn how Fortinet collaborates with Google Cloud to help organizations secure AI agents, applications, data, and MCP activity across the enterprise AI lifecycle.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wtkub1/fortinet_wap_431f_433g_firmware_antenna_shutdown/" target="_blank" rel="noopener">Fortinet WAP 431F &amp; 433G firmware antenna shutdown issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-09-29T20:15:05+00:00</div>
-    <p>Hello All, I&#x27;ve been fighting with issues over the last several months, and with help from Fortinet, I&#x27;ve found a solution. Apparently, a software bug in a recent firmware update for the 431F and 433G models causes the internal Wi-Fi ant...</p>
   </div>
 </li>
 <li class="card">
@@ -120,14 +152,6 @@ _Updated: September 30, 2026 • Sources filter: fortinet, fortiguard • Keywor
     <h3><a href="https://feeds.fortinet.com/~/968920310/0/fortinet/blogs~Casbaneiro-A-Banking-Trojan-with-Distributed-DataReceiving-Servers" target="_blank" rel="noopener">Casbaneiro: A Banking Trojan with Distributed Data-Receiving Servers</a></h3>
     <div class="meta">Fortinet Blog · Thu, 10 Sep 2026 13:00:00 +0000</div>
     <p>FortiGuard Labs examines how a new Casbaneiro campaign targeting Latin America uses geofencing and distributed servers to evade analysis and detection…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/968882207/0/fortinet/blogs~FortiManagement-Cloud-Centralized-Network-and-Security-Control-for-Distributed-SMB-Operations" target="_blank" rel="noopener">FortiManagement Cloud: Centralized Network and Security Control for Distributed SMB Operations</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 9 Sep 2026 15:00:00 +0000</div>
-    <p>Learn how FortiManagement Cloud unifies cloud management and analytics for FortiGate, FortiSwitch, FortiAP, and FortiExtender across distributed secure networks.…</p>
   </div>
 </li>
 </ul>
