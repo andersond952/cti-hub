@@ -7,55 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/b7xgn10rw1th1.png?width=140&amp;height=90&amp;auto=webp&amp;s=dc712c194eddbd847616475c8c98c4d7df1f8978" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wvt12x/websites_blocking_access_until_ads_are_allowed/" target="_blank" rel="noopener">Websites blocking access until ads are allowed. Looking for advice.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-02T12:53:19+00:00</div>
-    <p>I currently block the advertising categories in our DNS and URL Filtering Profiles. We are starting to get a small but increasing number of websites that are blocking access unless we allow access to the Ad network they are using (Screen...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wwl0jp/using_local_fqdns/" target="_blank" rel="noopener">Using local FQDNs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-03T11:32:44+00:00</div>
+    <p>Hi all, currently I&#x27;m running into problems with some policies I created. My goal is to use local FQDNs like client01.domain01.local as source addresses for said policies. Unfortunately, my Fortigate (FortiOS 7.6.7) can&#x27;t resolve my loca...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wvqjc2/5g_backup/" target="_blank" rel="noopener">5G Backup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-02T10:42:29+00:00</div>
-    <p>I&#x27;m looking for a cheap 5G backup for my line. I&#x27;m using a Fortigate 80F. I know that some people suggest the FortiExtender but it is too expensive for us. Any cheap alternative? Maybe the Unifi 5G? submitted by /u/_Philein [link] [comme...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wwj0ts/oob_access_to_fortigate_via_fex/" target="_blank" rel="noopener">OOB access to Fortigate via FEX?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-03T09:30:32+00:00</div>
+    <p>Hello, I have a remote Fortigate connected to a FEX 511F (FEX is standalone and not integrated into FG). I have created a DDNS service on the remote Fortigate using fortiddns, so our VPN hub is peering (IPsec) with this remote Fortigates...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wvpilh/internet_connectivity_issue_with_ipsec_dialup_vpn/" target="_blank" rel="noopener">Internet Connectivity Issue with IPsec Dial-Up VPN on Linux VM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-02T09:40:31+00:00</div>
-    <p>I am experiencing an issue when connecting to the IPsec Dial-Up VPN from a Linux virtual machine using strongSwan. Once the VPN connection is established successfully, the Linux VM loses its Internet connectivity. However, the same IPsec...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wwe6eu/geoip_update_locked_behind_active_contract/" target="_blank" rel="noopener">GeoIP update Locked behind active contract</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-03T04:32:50+00:00</div>
+    <p>I have multiple devices with varying levels of active support, and the inability to unlock the geoIP database is quite inconvenient. There is no method for manual updates, and using external filtering can consume significant memory resou...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wvnt3r/google_drive_upload_issue/" target="_blank" rel="noopener">Google Drive Upload Issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-02T07:47:56+00:00</div>
-    <p>Hey everyone! I am trying to block file upload to google drive but I am running into some kind of issue. https://community.fortinet.com/fortigate-3/technical-tip-how-to-block-upload-on-google-drive-by-using-application-profile-140082 I u...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wve0ju/dialup_ipsec_on_chromebooks/" target="_blank" rel="noopener">Dialup IPsec on Chromebooks</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-01T23:04:08+00:00</div>
-    <p>Anybody had luck setting up the free FortiClient on Chromebook using IPsec? submitted by /u/MasteredUltraIntsik [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wv9te1/critical_cve_on_fortimail_admin_interface/" target="_blank" rel="noopener">Critical CVE on FortiMail admin interface</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-01T20:06:03+00:00</div>
-    <p>Worth checking out this PSIRT FG-IR-26-175 in case you run FortiMail: PSIRT | FortiGuard Labs It abuses the admin interface, which some have available public or semi public, although leaving this exposed internally isn&#x27;t the best choice ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ww8ee7/forticlient_ipsec_vpn_wont_connect_over_att/" target="_blank" rel="noopener">FortiClient IPsec VPN won&#x27;t connect over AT&amp;T mobile hotspot, but Cisco AnyConnect works fine</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-02T23:28:39+00:00</div>
+    <p>Hi all, looking for some ideas on this one. FortiClient VPN connects fine from my home network and other home networks, but it fails to connect when I&#x27;m on my AT&amp;T mobile hotspot. On the same hotspot and the same laptop, Cisco AnyConnect...</p>
   </div>
 </li>
 <li class="card">
