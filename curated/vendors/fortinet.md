@@ -7,41 +7,9 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wwl0jp/using_local_fqdns/" target="_blank" rel="noopener">Using local FQDNs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-03T11:32:44+00:00</div>
-    <p>Hi all, currently I&#x27;m running into problems with some policies I created. My goal is to use local FQDNs like client01.domain01.local as source addresses for said policies. Unfortunately, my Fortigate (FortiOS 7.6.7) can&#x27;t resolve my loca...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wwj0ts/oob_access_to_fortigate_via_fex/" target="_blank" rel="noopener">OOB access to Fortigate via FEX?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-03T09:30:32+00:00</div>
-    <p>Hello, I have a remote Fortigate connected to a FEX 511F (FEX is standalone and not integrated into FG). I have created a DDNS service on the remote Fortigate using fortiddns, so our VPN hub is peering (IPsec) with this remote Fortigates...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wwe6eu/geoip_update_locked_behind_active_contract/" target="_blank" rel="noopener">GeoIP update Locked behind active contract</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-03T04:32:50+00:00</div>
-    <p>I have multiple devices with varying levels of active support, and the inability to unlock the geoIP database is quite inconvenient. There is no method for manual updates, and using external filtering can consume significant memory resou...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1ww8ee7/forticlient_ipsec_vpn_wont_connect_over_att/" target="_blank" rel="noopener">FortiClient IPsec VPN won&#x27;t connect over AT&amp;T mobile hotspot, but Cisco AnyConnect works fine</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-02T23:28:39+00:00</div>
-    <p>Hi all, looking for some ideas on this one. FortiClient VPN connects fine from my home network and other home networks, but it fails to connect when I&#x27;m on my AT&amp;T mobile hotspot. On the same hotspot and the same laptop, Cisco AnyConnect...</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
