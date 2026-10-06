@@ -7,9 +7,113 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz56qh/forticlient_vpn_only_uninstall/" target="_blank" rel="noopener">FortiClient VPN Only Uninstall</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T15:14:32+00:00</div>
+    <p>Just upgraded to FortiClient EMS licensing, and I was told that the best practice is to uninstall the VPN Only version and install the EMS client. I’ve got about 2500 machines to work on. Anyone have suggestions on how to best handle thi...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/971062292/0/fortinet/blogs~CISA-Highlights-the-Value-of-Cyber-Decoys-FortiDeceptor-Puts-Them-to-Work" target="_blank" rel="noopener">CISA Highlights the Value of Cyber Decoys. FortiDeceptor Puts Them to Work.</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 6 Oct 2026 15:00:00 +0000</div>
+    <p>See how FortiDeceptor puts CISA’s cyber decoy guidance into practice to help organizations detect threats and accelerate response…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz4q4v/ribbon_sbc_not_allowing_call_transfers/" target="_blank" rel="noopener">Ribbon SBC not allowing call transfers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T14:56:39+00:00</div>
+    <p>I&#x27;ve got this gut feeling I&#x27;ve fixed a similar problem to this before but I can&#x27;t remember what I did. Customer is migrating to a Fortinet firewall and we are porting over their SBC (Ribbon brand). We have a 1:1 NAT setup for the device ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz29mc/fortisase_customers/" target="_blank" rel="noopener">FortiSASE Customers</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T13:13:04+00:00</div>
+    <p>Anyone else a FortiSASE customer? Wondering if there&#x27;s another community or place to discuss (Discord/Slack) with other customers the product (configuration, issues, troubleshooting, best practices, etc). We have our TAM but they aren&#x27;t ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz1nr5/forticlient_manual_ftm_otp_input_doesnt_work_but/" target="_blank" rel="noopener">FortiClient manual FTM OTP input doesn&#x27;t work but accepting push does</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T12:45:39+00:00</div>
+    <p>Yeah, pretty much title; when connecting via IPSec IKEv2 VPN writing OTP manually into the window and pressing OK does nothing - app just sits there semi-idling with fields and buttons greyed out. If I click accept push notification befo...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz1bua/fortiswitch_internal_interface/" target="_blank" rel="noopener">fortiswitch internal interface</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T12:29:39+00:00</div>
+    <p>If I want to assign all interfaces trunk port with native 1, do I simply assign all interfaces Native VLAN 1 Allowed VLANs 1-4094? What about the ‘internal’ interface? submitted by /u/renovatio522 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz12ie/migrating_meraki_to_fortiap/" target="_blank" rel="noopener">Migrating Meraki to FortiAP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T12:16:42+00:00</div>
+    <p>We are thinking of doing slow migration testing moving from Meraki to FortiAPs by buildings. Can Meraki and FortiAPs coexist and share the same SSIDs and same security? Will devices be able to roam from one to the other? submitted by /u/...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz0y0i/software_switch_vs_vlan_switch/" target="_blank" rel="noopener">Software switch Vs vlan switch</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T12:10:19+00:00</div>
+    <p>I realise that I am able to configure multiple vlan on the interface belonging to a software switch. Is this an error? Will it lead to any future mishaps? Rightfully interface should be a vlan switch? submitted by /u/RiddickChronicles [l...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz0umi/forticlient_upgrade_pushes_user_machines_hang_on/" target="_blank" rel="noopener">Forticlient upgrade pushes - user machines hang on client install</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T12:05:31+00:00</div>
+    <p>I have an issue going on with Forticlient 7.4.X push upgrades. We are trying to push updates to our user machines. About 1 in 5 will hang on the actual installation part of the client upgrade. The green progress bar on the machine update...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wz0ozv/choosing_physical_interface_or_logical_interface/" target="_blank" rel="noopener">Choosing physical interface or logical interface in firewall rules</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T11:57:59+00:00</div>
+    <p>I have multiple vlan (e.g.vlan 2, vlan 3)logical interfaces configured under an interface software switch. Let&#x27;s call it T1. So when I do firewall rule implementation, do I select the vlan or T1 for the incoming and outgoing interface? P...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wyp1gs/best_of_both_worlds_unifi_efg_as_the_router_with/" target="_blank" rel="noopener">Best of both Worlds? Unifi EFG as the Router with a 200f in transparent mode doing the UTM and security on layer 2.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-06T00:37:28+00:00</div>
+    <p>I&#x27;ve tried this config and it works in that I can use the unifi os for its easy GUI for user and site/app traffic insight, Unifi switches and AP&#x27;s with the security features of the NGFW UTM of the 200F. Lots of students that need quick v...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wynhyx/nat_behavior_on_dual_isp/" target="_blank" rel="noopener">NAT Behavior on Dual ISP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-05T23:24:52+00:00</div>
+    <p>Currently, I have a FortiGate configured with two ISPs, with WAN1 as the primary connection and WAN2 as the secondary connection. For the LAN-to-Internet policy, I have a fixed IP pool NAT configured using the usable IP provided by WAN1....</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/grc0wws49pth1.png?width=140&amp;height=121&amp;auto=webp&amp;s=f3b68438024e363d134e5f7357efa10840045e8c" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wyhpk7/multiple_fortiap_221e_radio_config_failed_after/" target="_blank" rel="noopener">Multiple FortiAP 221E radio config failed after FortiGate upgrade 7.2.13 to 7.4.12</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-05T19:24:37+00:00</div>
+    <p>I have 14 APs all with fw 7.0.0 build0367 and on Monday (after the FortiGate 60F upgraded on Sunday night), only 3 APs are providing Wifi, the rest are showing N/A in R1 and R2 instead of channels. Yet all 14 are ONLINE and accessible fo...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://preview.redd.it/82j1qeoc4pth1.png?width=140&amp;height=75&amp;auto=webp&amp;s=a74bf5aa5ac39bb35b00ce72510376a9e42e0f3f" alt="preview">
   <div>
@@ -27,51 +131,11 @@ _Updated: October 05, 2026 • Sources filter: fortinet, fortiguard • Keywords
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wydq2p/sos_certification_nse_4/" target="_blank" rel="noopener">SOS certification NSE 4</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-05T16:53:33+00:00</div>
-    <p>Salut !! J&#x27;essaie de me former pour passer mon NSE 4 depuis quelques mois déjà, mais je suis seul dans mon élan. Je n&#x27;arrive pas à trouver des labs pour m&#x27;entraîner, pas de licences fortigates disponibles pour faire mes simulations, je l...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wydbvd/vlans_created_under_fortilink_hardware_switch/" target="_blank" rel="noopener">VLANs created under Fortilink Hardware switch?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-05T16:38:20+00:00</div>
-    <p>Would someone be able to share a real-world scenario where creating VLANs under a &quot;Hardware Switch&quot; on a FortiGate instead of under the &quot;802.3ad Aggregate&quot; would be appropriate? I&#x27;m a few years into my hands-on Fortinet experience in pro...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wyax9l/fortigate_filtering_on_byod_does_anyone_get_a/" target="_blank" rel="noopener">FortiGate filtering on BYOD – does anyone get a decent human friendly block page?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-05T15:06:12+00:00</div>
-    <p>How are people handling web filtering on FortiGate for completely unmanaged/BYOD devices? Our filtering works fine, but blocked HTTPS sites result in a certificate warning because the client doesn’t trust the FortiGate CA. Fortinet TAC s...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/971007764/0/fortinet/blogs~ClingSTUN-Linux-Backdoor-Abuses-Public-STUN-Infrastructure" target="_blank" rel="noopener">ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure</a></h3>
     <div class="meta">Fortinet Blog · Mon, 5 Oct 2026 13:00:00 +0000</div>
     <p>FortiGuard Labs examines how ClingSTUN exploits vulnerable devices and abuses public STUN servers to support a Linux proxy backdoor.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wy7ena/new_to_nse/" target="_blank" rel="noopener">NEW TO NSE</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-05T12:34:59+00:00</div>
-    <p>i’ll be doing nse4 soon some tips i should know? note that i haven’t done nse1-3 nor have any knowledge on fortinet but am currently doing my ccna submitted by /u/OriginalBobcat5717 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1wy09ga/new_fortiauthenticator_804_but_no_downloads_was/" target="_blank" rel="noopener">New FortiAuthenticator (8.0.4) - but no downloads? was it withdrawn?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-05T05:15:53+00:00</div>
-    <p>Hi all Nothing important or urgent. According to Fortiguard RSS feed about updates, a new version of FAC (8.0.4) has been released over 24h ago. However, I am not seeing any release notes on the fortiauthenticator page or see a download ...</p>
   </div>
 </li>
 <li class="card">
@@ -136,14 +200,6 @@ _Updated: October 05, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/969100967/0/fortinet/blogs~FortiSOAR-Unites-Agentic-AI-and-Automation-to-Revolutionize-Security-Operations" target="_blank" rel="noopener">FortiSOAR 8.0 Unites Agentic AI and Automation to Revolutionize Security Operations</a></h3>
     <div class="meta">Fortinet Blog · Mon, 14 Sep 2026 15:00:00 +0000</div>
     <p>FortiSOAR 8.0 unites agentic AI, expert agents, and automation playbooks with built-in governance to accelerate secure, transparent security operations.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/968977310/0/fortinet/blogs~The-Cybersecurity-Hiring-Challenge" target="_blank" rel="noopener">The Cybersecurity Hiring Challenge</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 11 Sep 2026 15:00:00 +0000</div>
-    <p>Learn more about how your organization can develop a workforce that can continuously learn, adapt, and respond to an increasingly dangerous threat landscape.…</p>
   </div>
 </li>
 </ul>
