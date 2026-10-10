@@ -7,47 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 09, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 10, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x2h7u1/dual_ztna_gateways_with_sd_wan_and_saml/" target="_blank" rel="noopener">Dual ZTNA Gateways with SD WAN and SAML</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-10T14:52:36+00:00</div>
+    <p>Hi everyone, I&#x27;m currently migrating our remote access setup from SSL VPN to Fortinet ZTNA and have run into a question regarding SAML authentication in a dual-WAN setup. Our environment: FortiGate 120G HA cluster running FortiOS 7.4.11 ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/va82uakdymuh1.png?width=140&amp;height=37&amp;auto=webp&amp;s=f6aa7a94bcac251e5f998d32247016080f1ae178" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x2efzb/fortios_767_breaks_gui_via_nginx_proxy_ssl/" target="_blank" rel="noopener">FortiOS 7.6.7 breaks GUI via Nginx Proxy (SSL Handshake Reset) &amp; IKE Port 443 conflict</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-10T12:45:46+00:00</div>
+    <p>Hi everyone, Since upgrading my FortiGate 70G from 7.6.6 to 7.6.7, I can&#x27;t access the admin GUI via my Nginx Proxy Manager. Direct local IP access works perfectly... The initial HTML loads, but all subsequent parallel requests for static...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/gadb6tyx6muh1.png?width=140&amp;height=52&amp;auto=webp&amp;s=fae432797b25a07f729098da74c87d2e5b17f433" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x2bnz2/new_forticlient_vpn_removed_connect_option_from/" target="_blank" rel="noopener">New FortiClient VPN removed connect option from tray</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-10T10:11:06+00:00</div>
+    <p>Version 7.4.3.6002 But why? submitted by /u/Massive-Valuable3290 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x25ria/looking_for_some_help_with_a_previously/" target="_blank" rel="noopener">Looking for some help with a previously functional mesh network</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-10T04:12:57+00:00</div>
+    <p>I have a fortigate 70G (v7.4.12 build2902) setup as the wireless controller of a mesh network. A fortiap 421E (FP421E-v6.4-build0492) is the root, and then the two leaf ap&#x27;s are another 421E (v6.4.0 build0492) and a 221E (v7.4.4 build064...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x1ynke/fortimanager_trainingresources/" target="_blank" rel="noopener">Fortimanager Training/Resources</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-09T22:16:29+00:00</div>
+    <p>Hello everyone, I&#x27;m looking for resources to study/educate myself on Fortimanager to setup and modify provisioning templates, scripts etc in a production environment. Looking for any material to do so. We currently are on build 7.6.7 and...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x1x3k4/ztna_from_outside_what_am_i_missing/" target="_blank" rel="noopener">ZTNA from outside - what am I missing?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-09T21:09:24+00:00</div>
+    <p>I&#x27;ve been fighting this for hours, and the sad thing is I believe it worked a couple years ago when playing with ZTNA for remote access. This is with Forticlient 7.2.14 and 7.4.8, EMS 7.4.8, and Fortigate 7.2.12, all on Windows 11. I hav...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/971192009/0/fortinet/blogs~Leveraging-MITRE-ATTCK-TTPs-for-ThreatInformed-SecOps-A-Fortinet-Perspective" target="_blank" rel="noopener">Leveraging MITRE ATT&amp;CK TTPs for Threat-Informed SecOps: A Fortinet Perspective</a></h3>
     <div class="meta">Fortinet Blog · Fri, 9 Oct 2026 15:00:00 +0000</div>
     <p>Learn how Fortinet applies MITRE ATT&amp;CK TTPs and actionable threat intelligence to help SecOps teams identify gaps and strengthen detection and response…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x1m6oj/3rd_party_sdwan_solution_after_fortigate_cluster/" target="_blank" rel="noopener">3rd Party SD-WAN Solution after Fortigate Cluster</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-09T14:01:59+00:00</div>
-    <p>Hello, due to some organizational changes we need to route internet traffic through a 3rd party sd-wan solution. We have VIPs, VirtualServers which cannot be migrated to the SD-WAN Solution so those must stay on the Fortinet Cluster. Onl...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x1flvr/how_to_delay_message_meets_alert_condition_mails/" target="_blank" rel="noopener">how to delay &quot;message meets alert condition&quot; mails</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-09T08:09:05+00:00</div>
-    <p>Hi everyone, if certain alarms are configured, you&#x27;ll get the &quot;message meets alert condition&quot; mails when e.g. HA-devices are out of sync. The problem is that - for what ever reason - those HA-sync-issues happen quite often, especially wh...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x17vs6/fortiswitch_vlan_1/" target="_blank" rel="noopener">Fortiswitch vlan 1</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-09T00:55:07+00:00</div>
-    <p>On a fortiswitch with no vlans defined, does it function the same as a Forttiswitch with only vlan 1 defined? assuming all interfaces are trunk ports with native vlan 1 and allowed vlan 1-4094 submitted by /u/renovatio522 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x100xq/fortianalyzer_767_snmpv3_not_working/" target="_blank" rel="noopener">FortiAnalyzer 7.6.7 SNMPv3 not working</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-08T19:19:14+00:00</div>
-    <p>Hi everyone, Is anyone running FortiAnalyzer (FAZ) 7.6.7 with SNMPv3 working properly? We&#x27;re using Checkmk as our monitoring solution, and I&#x27;ve tried several configurations, but I can&#x27;t get SNMPv3 to work. SNMPv2c works without any issue...</p>
   </div>
 </li>
 <li class="card">
