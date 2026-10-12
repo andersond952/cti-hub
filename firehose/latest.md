@@ -1,15 +1,55 @@
 ---
 layout: default
-title: Firehose — October 11, 2026
+title: Firehose — October 12, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-11
+# Daily CTI Firehose — 2026-10-12
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4e8be3c10aa2950/6acd23ee26d33c046ebc6ef9/resilience-hogehoge511-Getty-2296989476.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam" target="_blank" rel="noopener">No Identity, No Recovery: Cyber Resilience Starts With IAM</a></h3>
+    <div class="meta">Dark Reading · Mon, 12 Oct 2026 18:27:25 GMT</div>
+    <p>The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief" target="_blank" rel="noopener">Passing the Baton: Dark Reading Names New Editor-in-Chief</a></h3>
+    <div class="meta">Dark Reading · Mon, 12 Oct 2026 12:30:58 GMT</div>
+    <p>Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/CC_BY_SA_4_0_f779bf650c.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/ukraine-strikes-third-yandex-data-center" target="_blank" rel="noopener">Ukraine strikes third Yandex data center, disrupting digital services across Russia</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 12 Oct 2026 12:00:00 GMT</div>
+    <p>A third Yandex data center in Russia was hit by Ukrainian drones over the weekend, forcing it to shut down and causing further disruptions to cloud services, payments, deliveries and other online services across the country.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33416" target="_blank" rel="noopener">ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 12 Oct 2026 02:00:03 GMT</div>
+    <p>ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/CC_BY_2_0_11a0e3277d.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/cyberattack-disrupts-refridgeration-in-france" target="_blank" rel="noopener">Cyberattack disrupts refrigeration at hundreds of French supermarkets</a></h3>
+    <div class="meta">Recorded Future (Blog) · Sun, 11 Oct 2026 23:00:00 GMT</div>
+    <p>A cyberattack overnight Sunday disrupted refrigerators at hundreds of French supermarkets, spoiling fresh food at stores run by some of the country’s largest grocery chains.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://isc.sans.edu/diaryimages/images/26-10-10-tlpv2.png" alt="preview">
   <div>
@@ -19,7 +59,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank" rel="noopener">FBI Arrests Executive at Ransomware Negotiation Firm</a></h3>
     <div class="meta">Krebs on Security · Sat, 10 Oct 2026 00:17:42 +0000</div>
@@ -35,7 +75,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b8b5144c2f800e/6ac8017e3277a45cef5b830f/Q3-MandA-deals-cybersecurity-Momentum_Cyber.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt465d1df1337deefb/6accd5bc4116728fc82a34f3/mergers-Jacob_Wackerhausen-Getty-2047978266.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom" target="_blank" rel="noopener">AI Scramble Drives Cybersecurity M&amp;amp;A Boom</a></h3>
     <div class="meta">Dark Reading · Fri, 09 Oct 2026 19:26:26 GMT</div>
@@ -80,22 +120,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://therecord.media/leader-of-money-mule-operation-for-cybercriminals-pleads-guilty" target="_blank" rel="noopener">Leader of vast money mule operation that laundered cybercriminal proceeds pleads guilty</a></h3>
     <div class="meta">Recorded Future (Blog) · Fri, 09 Oct 2026 16:06:00 GMT</div>
     <p>Oleg Korniev, a 42-year-old dual citizen of Ukraine and Russia, was a principal of Your Mule Cashout, or “YMCO,” which from 2007 until 2014 set up a sophisticated network of mules in the U.S. and Europe.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/fbi_agent_cf296b7c1b.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/shinyhunters-arrest-fbi-data-breach-investigation" target="_blank" rel="noopener">FBI touts another ShinyHunters arrest in response to data breach</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 09 Oct 2026 15:41:00 GMT</div>
-    <p>“We will continue to work closely with our partners to disrupt what’s left of the ShinyHunters group and their associates, no matter where they operate,&quot; FBI Director Kash Patel said.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/ambulence_pexels_artem_korsakov_5d3f7c36ea.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/belarusian-cyber-partisans-claim-2023-russia-healthcare-hack" target="_blank" rel="noopener">Belarusian hacktivists admit to 2023 breach of Russian state healthcare network</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 09 Oct 2026 14:40:00 GMT</div>
-    <p>The Belarusian Cyber Partisans concurred with Russian research that they indeed spent months inside the network for the Moscow Department of Health.</p>
   </div>
 </li>
 <li class="card">
@@ -219,7 +243,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank" rel="noopener">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></h3>
     <div class="meta">Krebs on Security · Wed, 07 Oct 2026 13:48:45 +0000</div>
@@ -328,14 +352,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://isc.sans.edu/diary/rss/33398" target="_blank" rel="noopener">ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, (Mon, Oct 5th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Mon, 05 Oct 2026 02:00:02 GMT</div>
     <p>ISC Stormcast For Monday, October 5th, 2026 https://isc.sans.edu/podcastdetail/10122, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/TTYLogs_decoded.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33396" target="_blank" rel="noopener">TTY Logs and the Data it Captures, (Sun, Oct 4th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Mon, 05 Oct 2026 00:15:00 GMT</div>
-    <p>TTY Logs and the Data it Captures, Author: Guy Bruneau</p>
   </div>
 </li>
 <li class="card">
@@ -475,19 +491,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4eff7c6bb4fca152/6abc296fa6381769c5d9ff08/johannesburg-airport-south-africa-EQRoy-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4eff7c6bb4fca152/6abc296fa6381769c5d9ff08/johannesburg-airport-south-africa-EQRoy-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control" target="_blank" rel="noopener">South Africa Seeks Help After Cyberattack Targets Air Traffic Control</a></h3>
     <div class="meta">Dark Reading · Wed, 30 Sep 2026 07:00:00 GMT</div>
-    <p>As aviation suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one OT network.</p>
+    <p>As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_Links.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-84.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/" target="_blank" rel="noopener">Phishing Abuses RMM Tools for Persistent Access</a></h3>
     <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 21:39:27 +0000</div>
-    <p>Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity</p>
+    <p>In this article Attack chain overview Mitigation and protection guidance Learn More In July 2026, Microsoft Defender Experts observed phishing campaigns targeting organizations across multiple industries that distributed a masqueraded MS...</p>
   </div>
 </li>
 <li class="card">
@@ -624,22 +640,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness" target="_blank" rel="noopener">AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment</a></h3>
     <div class="meta">Dark Reading · Fri, 25 Sep 2026 18:39:32 GMT</div>
     <p>When autonomous AI agents &quot;escape the sandbox,&quot; the real story isn&#x27;t rogue machines — it&#x27;s the same access-control failures we&#x27;ve seen for decades.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b2c9d6b9326d649/6ab5930f4df1903bce49b5db/aibots-Gremlin-Getty-1494693841.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/what-we-missed-google-gemini-ai-escape-party" target="_blank" rel="noopener">What We Missed: Google Gemini Joins the AI Escape Party</a></h3>
-    <div class="meta">Dark Reading · Fri, 25 Sep 2026 17:56:23 GMT</div>
-    <p>In this video conversation, Dark Reading editors discuss some of the news they didn&#x27;t get a chance to cover, from Google Gemini models breaking containment to ShinyHunters ratting on TeamPCP hackers.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf21a6316df171b0e/6ab67c37f1423b08bb4916ee/IT-worker-silouette-manufacturing-DC_Studio-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process" target="_blank" rel="noopener">Stopping IT Worker Scams Requires Revamped HR Process</a></h3>
-    <div class="meta">Dark Reading · Fri, 25 Sep 2026 14:46:13 GMT</div>
-    <p>Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.</p>
   </div>
 </li>
 <li class="card">
