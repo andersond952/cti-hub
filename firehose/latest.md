@@ -1,53 +1,141 @@
 ---
 layout: default
-title: Firehose — October 13, 2026
+title: Firehose — October 14, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-13
+# Daily CTI Firehose — 2026-10-14
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/sandbox_aa2fb683ac.jpg" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/sandbox-vulnerability-gives-rogue-ai-agents-path-out" target="_blank" rel="noopener">Sandbox vulnerability gives rogue AI agents a path to escape and leak data, research says</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 13 Oct 2026 16:18:00 GMT</div>
-    <p>The new research, published by AI security startup AIR, found that a network filtering flaw in Vercel Sandbox — a tool used to run code in isolated environments — could allow agents to exploit certificate validation processes to transmit...</p>
+    <h3><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank" rel="noopener">U.K. Sanctions Cryptomus for RU Money Laundering</a></h3>
+    <div class="meta">Krebs on Security · Wed, 14 Oct 2026 14:22:49 +0000</div>
+    <p>The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime se...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/ghana_scam_center_october_2026_a4cc9e53d2.png" alt="preview">
+  <img src="https://cms.therecord.media/uploads/Microsoftbuilding_89382ec37f.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/ghana-nigeria-scam-centers-raided-uk-us" target="_blank" rel="noopener">West African scam compounds raided, more than 100 suspected trafficking victims ‘rescued’</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 13 Oct 2026 16:05:00 GMT</div>
-    <p>More than two dozen people were arrested by police in Ghana and Nigeria as part of a U.K.-hosted operation that also included tech companies.</p>
+    <h3><a href="https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms" target="_blank" rel="noopener">Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 13:18:00 GMT</div>
+    <p>The tech giant worked with Japan’s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure underlying YAM Store, CoGUI...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/NK_military_8b739bf964.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/alexander_nrjwolf_X0_Osf55s5yk_unsplash_a37e72b437.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/north-korea-hackers-russia-ukraine" target="_blank" rel="noopener">North Korean hackers target Ukrainian experts for possible intelligence on Russia&#x27;s war</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 13 Oct 2026 15:15:00 GMT</div>
-    <p>North Korean hackers have been targeting Ukrainian experts in diplomacy, security and international policy amid Pyongyang’s growing military cooperation with Russia.</p>
+    <h3><a href="https://therecord.media/russia-anywayanyday-travel-website-cyberattack" target="_blank" rel="noopener">Russian travel booking platform suspends reservations after cyberattack</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 13:05:00 GMT</div>
+    <p>Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/St_Petersburg_Russia_64699d0dbe.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Storm-3119-and-Storm-2990-featured.png" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/russian-internet-provider-skynet-reports-outages-ddos" target="_blank" rel="noopener">Russian internet provider SkyNet reports outages after cyberattack claimed by Ukrainian hackers</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 13 Oct 2026 13:20:00 GMT</div>
-    <p>One of St. Petersburg&#x27;s major internet providers said its network had been under a distributed denial-of-service (DDoS) attack since October 6, affecting services including online gaming, voice calls and video conferencing.</p>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/" target="_blank" rel="noopener">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a></h3>
+    <div class="meta">Microsoft Security Blog · Wed, 14 Oct 2026 13:00:00 +0000</div>
+    <p>Microsoft uncovered a Chinese-language cybercriminal ecosystem, an interconnected network of phishing kit operators (tracked as Storm-2990), and an illicit marketplace (tracked as Storm-3119) selling tools and infrastructure for large-sc...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/LEDGER_240515_EJEANNE_040_WIDE_ANGLE_WOMAN_HAND_013_952ccd372b.jpg" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/ledger-cryptocurrency-wallet-implant-theft" target="_blank" rel="noopener">Ledger says hardware implant in cryptocurrency wallets stole recovery phrases</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 13 Oct 2026 13:18:00 GMT</div>
-    <p>Ledger cryptocurrency wallets sold through a Southeast Asian reseller had an implant allowing outsiders to drain funds, the company said.</p>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america" target="_blank" rel="noopener">Russian Influence Operation Widely Targeting Latin America</a></h3>
+    <div class="meta">Dark Reading · Wed, 14 Oct 2026 13:00:00 GMT</div>
+    <p>The AI-enabled operation faked government documents and the created a local organization to target schools in Peru and Ecuador, among other efforts.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/cisa_code_background_cdd6a475aa.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/new-ivanti-microsoft-bugs-exploitation" target="_blank" rel="noopener">CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 12:35:00 GMT</div>
+    <p>The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/good_faces_agency_3vy3c4r_K5o4_unsplash_dcc04e0143.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams" target="_blank" rel="noopener">Congressional probe faults Match Group for failing to rein in dating app scams</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 12:32:00 GMT</div>
+    <p>The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/2026-10-13_17-49-50.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33420" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Wed, 14 Oct 2026 06:49:46 GMT</div>
+    <p>Orphaned VBA Projects Inside DWG Files, Author: Didier Stevens</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87997eb0e0a8cb06/6acda095a3dd4913d099a48b/Wrench_money-KenanOlgun-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking" target="_blank" rel="noopener">Ransomware Gangs Embrace Physical Threats, Family Stalking?</a></h3>
+    <div class="meta">Dark Reading · Wed, 14 Oct 2026 05:00:00 GMT</div>
+    <p>Organizations are reporting that employees face threats of stalking, physical violence, and abduction, but that&#x27;s hard to verify.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33424" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Wed, 14 Oct 2026 02:00:03 GMT</div>
+    <p>ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <div>
+    <h3><a href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/" target="_blank" rel="noopener">Microsoft Patches More Than 1,400 Security Flaws</a></h3>
+    <div class="meta">Krebs on Security · Tue, 13 Oct 2026 23:24:53 +0000</div>
+    <p>Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten tim...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Screenshot_2026_10_14_at_11_03_11_b97fb109ea.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/saudi-national-charged-with-spy-device-openai" target="_blank" rel="noopener">Saudi national charged with planting spy device in OpenAI executive conference room</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 13 Oct 2026 23:00:00 GMT</div>
+    <p>Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday" target="_blank" rel="noopener">Zero-Days Lurk in Microsoft&#x27;s Overgrown October Patch Tuesday</a></h3>
+    <div class="meta">Dark Reading · Tue, 13 Oct 2026 22:29:57 GMT</div>
+    <p>The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel" target="_blank" rel="noopener">North Korea Phishes Ukrainians for War Intel</a></h3>
+    <div class="meta">Dark Reading · Tue, 13 Oct 2026 21:24:45 GMT</div>
+    <p>The Democratic People&#x27;s Republic of Korea (DPRK) is trying to get insight into its war effort in Ukraine, through simple reply-baiting phishing attacks.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms" target="_blank" rel="noopener">Anthropic Finds Ingredients for Future AI Worms</a></h3>
+    <div class="meta">Dark Reading · Tue, 13 Oct 2026 20:35:23 GMT</div>
+    <p>Anthropic says AI worms may be months away, but its research stops short of demonstrating a practical self-replicating attack.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33422" target="_blank" rel="noopener">October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Tue, 13 Oct 2026 19:25:52 GMT</div>
+    <p>October 2026 Microsoft Patch Tuesday, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -55,7 +143,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33418" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Tue, 13 Oct 2026 02:00:02 GMT</div>
-    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
+    <p>ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -91,11 +179,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33416" target="_blank" rel="noopener">ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Mon, 12 Oct 2026 02:00:03 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -103,11 +191,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33414" target="_blank" rel="noopener">Why TLP should not replace your internal information classification, (Sat, Oct 10th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Sat, 10 Oct 2026 09:11:34 GMT</div>
-    <p>The Traffic Light Protocol (TLP)[ 1 ], which is now in its second incarnation, is a wonderful standard that enables one to easily communicate whether information may be shared further (and if so, how far). That being said, I&#x27;ve noticed a...</p>
+    <p>Why TLP should not replace your internal information classification, Author: Jan Kopriva</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank" rel="noopener">FBI Arrests Executive at Ransomware Negotiation Firm</a></h3>
     <div class="meta">Krebs on Security · Sat, 10 Oct 2026 00:17:42 +0000</div>
@@ -159,7 +247,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33412" target="_blank" rel="noopener">ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, (Fri, Oct 9th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 09 Oct 2026 07:52:03 GMT</div>
-    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
+    <p>ISC Stormcast For Friday, October 9th, 2026 https://isc.sans.edu/podcastdetail/10130, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -195,11 +283,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33410" target="_blank" rel="noopener">Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 08 Oct 2026 16:52:53 GMT</div>
-    <p>We just did a major update to FOR577 and added a lot of new material on day 5 about investigating AI usage in incident response. In the new material we dicsuss 8 of the most popular AI coding assistants and agents including Claude Code, ...</p>
+    <p>Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, Author: Jim Clausing</p>
   </div>
 </li>
 <li class="card">
@@ -211,11 +299,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33408" target="_blank" rel="noopener">ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 08 Oct 2026 02:00:02 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -259,11 +347,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33406" target="_blank" rel="noopener">Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 07 Oct 2026 14:59:33 GMT</div>
-    <p>On October 5th, Atlassian published patches for multiple products to fix an &quot;Arbitrary File Access&quot; vulnerability [ CVE-2026-21589 ]. An attacker can read arbitrary files in the web application&#x27;s directory, potentially exposing sensitive...</p>
+    <p>Scans for Atlassian vulnerablity (CVE-2026-21589), Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -272,14 +360,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank" rel="noopener">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></h3>
     <div class="meta">Krebs on Security · Wed, 07 Oct 2026 13:48:45 +0000</div>
     <p>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has l...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33404" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 7th, 2026 https://isc.sans.edu/podcastdetail/10126, (Wed, Oct 7th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Wed, 07 Oct 2026 02:00:02 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -328,22 +408,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/" target="_blank" rel="noopener">CISO perspectives on managing vulnerability risks in the age of AI</a></h3>
     <div class="meta">Microsoft Security Blog · Tue, 06 Oct 2026 16:00:00 +0000</div>
     <p>Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/isc-20261006-1.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33400" target="_blank" rel="noopener">More RMM Tools In the Wild, (Tue, Oct 6th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Tue, 06 Oct 2026 13:16:02 GMT</div>
-    <p>It seems that a trend started… I continue my journey discovering more RMM (&quot;Remote Management &amp; Monitoring&quot;) tools abused by threat actors! A few days ago, I wrote a diary[ 1 ] about ScreenConnect used in the wild. Today, I found another...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33402" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 6th, 2026 https://isc.sans.edu/podcastdetail/10124, (Tue, Oct 6th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Tue, 06 Oct 2026 11:45:11 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -427,7 +491,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old" target="_blank" rel="noopener">Alleged KillSec Ransomware Mastermind a 16-Year-Old</a></h3>
     <div class="meta">Dark Reading · Thu, 01 Oct 2026 21:37:50 GMT</div>
@@ -435,23 +499,23 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://blogs.microsoft.com/wp-content/uploads/sites/5/2026/09/MDDR_BANNER-1024x576.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/blogs.microsoft.com.ico" alt="preview">
   <div>
     <h3><a href="https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/" target="_blank" rel="noopener">Preparing governments for an era of interconnected cyber risk</a></h3>
-    <div class="meta">Microsoft On the Issues · Thu, 01 Oct 2026 14:00:00 +0000</div>
-    <p>Explore five cybersecurity priorities governments can take to strengthen resilience, secure AI systems, protect essential services, and prepare for evolving cyber threats.</p>
+    <div class="meta">Microsoft Security Blog · Thu, 01 Oct 2026 14:00:00 +0000</div>
+    <p>According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. Governments are also the mo...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Microsoft-Digital-Defense-Report.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/" target="_blank" rel="noopener">Insights from the 2026 Microsoft Digital Defense Report</a></h3>
     <div class="meta">Microsoft Security Blog · Thu, 01 Oct 2026 14:00:00 +0000</div>
-    <p>Read highlights from the 2026 Microsoft Digital Defense Report, which reflects a security environment that continues to grow more interconnected.</p>
+    <p>Every year, the Microsoft Digital Defense Report gives us an opportunity to step back from individual threats and look broadly at what Microsoft’s security and threat intelligence teams are seeing. Today, we released the 2026 Report , wh...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bb24e8bd32cc751/6abd41d4a6381712feda02db/Warlock-Grandfailure-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bb24e8bd32cc751/6abd41d4a6381712feda02db/Warlock-Grandfailure-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese" target="_blank" rel="noopener">Warlock Ransomware Hits Large Spanish, Portuguese Orgs</a></h3>
     <div class="meta">Dark Reading · Thu, 01 Oct 2026 13:00:00 GMT</div>
@@ -459,7 +523,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38e8d6d5f0f61c59/6abd6454845395465ad1a6df/rat-GlobalP-GettyImages-1413873422.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38e8d6d5f0f61c59/6abd6454845395465ad1a6df/rat-GlobalP-GettyImages-1413873422.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure" target="_blank" rel="noopener">Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure</a></h3>
     <div class="meta">Dark Reading · Wed, 30 Sep 2026 21:25:47 GMT</div>
@@ -467,7 +531,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted75aa7be03abe55/6abd84dda482eccacf21ff51/whitehouse_VideoFlow_shutterstock_REVISED_FOR_16_BY_9.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted75aa7be03abe55/6abd84dda482eccacf21ff51/whitehouse_VideoFlow_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/trump-tech-giants-strike-voluntary-ai-safety-accord" target="_blank" rel="noopener">Trump, Tech Giants Strike Voluntary AI Safety Accord</a></h3>
     <div class="meta">Dark Reading · Wed, 30 Sep 2026 20:51:15 GMT</div>
@@ -475,19 +539,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Ignite_2025-11-19_0314-scaled.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Ignite_2025-11-18_0339-1-scaled.jpg" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/" target="_blank" rel="noopener">​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a></h3>
     <div class="meta">Microsoft Security Blog · Wed, 30 Sep 2026 19:31:00 +0000</div>
-    <p>Explore Microsoft Security at Ignite 2026: AI security sessions, hands-on labs, certifications, expert events, and networking.</p>
+    <p>In this article Why you should attend Microsoft Ignite Make the most of your time at Microsoft Ignite Explore the Security sessions at Microsoft Ignite 2026 Build your schedule In the agentic era, the stakes are higher: AI agents now act...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-careers/ai-reshapes-soc-career-ladder" target="_blank" rel="noopener">As AI Reshapes the SOC Career Ladder, Satisfaction Rises for 91%, but Entry Gets Harder for Nearly Half</a></h3>
     <div class="meta">Dark Reading · Wed, 30 Sep 2026 18:56:56 GMT</div>
-    <p>Swimlane research underscores a paradox: While AI detection and response is essential, one in four security pros say AI limits their skill development.</p>
+    <p>New Swimlane research underscores a paradox: While AI detection and response is essential to giving defenders an edge, one in four security pros say AI limits their skill development.</p>
   </div>
 </li>
 <li class="card">
@@ -563,14 +627,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Figure-1.-July-2026-RedFlick-campaign-follow-up-email-regarding-an-omitted-attachment.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/" target="_blank" rel="noopener">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a></h3>
-    <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 15:00:00 +0000</div>
-    <p>In this article Star Blizzard TTPs observed in 2026 Defending against Star Blizzard and RedFlick-related activity Microsoft Defender detections Hunting queries Indicators of compromise Since January 2026, Microsoft has observed Russian s...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5de91a8011e409dc/68ae00c0ae4a7a4290bef1c1/citrix_JHVEPhoto_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix" target="_blank" rel="noopener">Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers</a></h3>
@@ -584,46 +640,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities" target="_blank" rel="noopener">Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities</a></h3>
     <div class="meta">Dark Reading · Mon, 28 Sep 2026 22:02:46 GMT</div>
     <p>The Open Agent Safety Platform relies on hardware and software components to monitor agent activities and quarantine unruly agents before they can cause harm.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a4e2e84866c963b/6abad9206f2a1229af4c529c/bugconcept_Elena_Abrazhevich_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/ics-ot-security/one-packet-crash-servers-tdengine" target="_blank" rel="noopener">One Packet Can Crash OT Servers in Industrial Sectors</a></h3>
-    <div class="meta">Dark Reading · Mon, 28 Sep 2026 21:13:04 GMT</div>
-    <p>A high-severity vulnerability affects the TDengine time-series database used across industrial, IoT, energy, and automotive environments, and orgs should patch right away.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/identity-access-management-security/carbonato-botnet-ai-agent-hacked-docker-hosts" target="_blank" rel="noopener">Carbonato Botnet Puts an AI Agent on Hacked Docker Hosts</a></h3>
-    <div class="meta">Dark Reading · Mon, 28 Sep 2026 20:23:58 GMT</div>
-    <p>The botnet uses the open source Hermes Agent AI framework to execute commands via Telegram and steal AI API keys from exposed Docker hosts.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c9f5fa659c439fa/6abab77dfee74bb9c8c001cc/AI_agent-MF3d-Getty-2217030312.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access" target="_blank" rel="noopener">AI Agents Are Privileged Users; Who Is Auditing Their Access?</a></h3>
-    <div class="meta">Dark Reading · Mon, 28 Sep 2026 18:44:22 GMT</div>
-    <p>Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt58ef6fb504edd4a8/6ab6fbfc80fa6786057ac6ea/Spying-DrAfter123-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/application-security/chrome-store-poper-blocker-spyware-downloaded-millions" target="_blank" rel="noopener">Chrome Store Hosts &#x27;Poper Blocker&#x27; Spyware Downloaded by Millions</a></h3>
-    <div class="meta">Dark Reading · Mon, 28 Sep 2026 16:51:25 GMT</div>
-    <p>A purported ad-blocker exfiltrates reams of sensitive information and benefits from having Google&#x27;s stamp of approval despite researcher warnings.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cloud-security/jadepuffer-ai-actor-azure-tenant-destructive-cloud-attack" target="_blank" rel="noopener">JadePuffer AI Actor Compromises Azure Tenant in Destructive Cloud Attack</a></h3>
-    <div class="meta">Dark Reading · Mon, 28 Sep 2026 15:33:21 GMT</div>
-    <p>The &quot;agentic threat actor&quot; may have used exposed credentials to access resources and delete cloud-based storage, applications, and databases.</p>
   </div>
 </li>
 <li class="card">
@@ -672,22 +688,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/" target="_blank" rel="noopener">Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</a></h3>
     <div class="meta">Krebs on Security · Thu, 27 Aug 2026 11:04:15 +0000</div>
     <p>Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement rel...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/08/decryptads-ESPN.png" alt="preview">
-  <div>
-    <h3><a href="https://krebsonsecurity.com/2026/08/whos-tracking-you-use-this-new-service-to-find-out/" target="_blank" rel="noopener">Who’s Tracking You? Use This New Service to Find Out</a></h3>
-    <div class="meta">Krebs on Security · Fri, 14 Aug 2026 11:24:35 +0000</div>
-    <p>It can be daunting to determine who’s responsible for showing ads on the websites we visit, or who’s harvesting data from the mobile apps we use every day. That information is already semi-public, but it is not easily parsed and traditio...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/08/workingonpc.png" alt="preview">
-  <div>
-    <h3><a href="https://krebsonsecurity.com/2026/08/microsoft-plugs-nearly-400-security-holes/" target="_blank" rel="noopener">Microsoft Plugs Nearly 400 Security Holes</a></h3>
-    <div class="meta">Krebs on Security · Tue, 11 Aug 2026 21:28:35 +0000</div>
-    <p>Microsoft today released updates to remedy at least 398 security vulnerabilities in its Windows operating systems and supported software, including one weakness that is already being actively exploited and two others that were publicly d...</p>
   </div>
 </li>
 </ul>
