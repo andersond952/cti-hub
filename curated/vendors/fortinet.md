@@ -7,9 +7,49 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/971523230/0/fortinet/blogs~Strengthening-OT-Security-with-the-Fortinet-AIEnabled-OT-Security-Platform" target="_blank" rel="noopener">Strengthening OT Security with the Fortinet AI-Enabled OT Security Platform</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 14 Oct 2026 15:00:00 +0000</div>
+    <p>Explore how the Fortinet OT Security Platform combines AI-enabled security, rugged connectivity, and certified protections to strengthen resilience…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/971523221/0/fortinet/blogs~Think-Before-You-Click-Phishing-in-the-AI-Era" target="_blank" rel="noopener">Think Before You Click: Phishing in the AI Era</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 14 Oct 2026 15:00:00 +0000</div>
+    <p>AI is making phishing more convincing and scalable, requiring employees to verify identity and context instead of relying on familiar warning signs.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x5ouh0/fortios_74_integrate_interface_feature_always/" target="_blank" rel="noopener">FortiOS 7.4 - Integrate Interface feature always grayed out</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-14T11:34:39+00:00</div>
+    <p>Hi, So I have this issue - a bunch of IPsec tunnels that I want to migrate to SD-WAN - they are all in one zone. The issue is - Integrate Interface is grayed out. I went through different FGs I manage and every time if interface was used...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x5i6ti/fortinac_config_wizard_update/" target="_blank" rel="noopener">FortiNAC Config Wizard Update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-14T04:39:33+00:00</div>
+    <p>Hello, I have FortiNAC running in HA (not using shared IP/VIP) using different IP. I have to add few scopes in Registration and Dead end network in config wizard of FortiNAC. What could be best approach to do ? Primary first and reboot i...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x5czu2/ansible_sdwan_healthcheck_issue/" target="_blank" rel="noopener">Ansible SDWAN Healthcheck issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-14T00:11:46+00:00</div>
+    <p>I&#x27;ve been on this for hours now and starting to lose it.. I just cannot tackle this obstacle and reaching out to the people on the internet too see if you guys have any ideas.. Im trying to do a simple thing, setting up my SDWAN via ansi...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -19,43 +59,11 @@ _Updated: October 13, 2026 • Sources filter: fortinet, fortiguard • Keywords
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x4yfmk/foriguard_dns_failures_for_wwwofficecom/" target="_blank" rel="noopener">Foriguard DNS failures for www.office.com</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-13T14:39:31+00:00</div>
-    <p>EDIT: I opened a case with TAC; waiting for someone to pick it up. ---- I&#x27;m starting to think I really shouldn&#x27;t rely on Fortiguards DSN servers... Is anyone else who does rely on those, getting DNS issues with Microsoft? Specifically, n...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/971369972/0/fortinet/blogs~Fortinet-Achieves-IEC-Certification-Across-the-FortiOS-Product-Family" target="_blank" rel="noopener">Fortinet Achieves IEC 62443 Certification Across the FortiOS Product Family</a></h3>
     <div class="meta">Fortinet Blog · Tue, 13 Oct 2026 13:00:00 +0000</div>
     <p>Fortinet achieves IEC 62443 certification across the FortiOS Product Family, validating security for industrial and critical infrastructure environments.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x4tf1q/multiadom_faz_x_multisite_ems/" target="_blank" rel="noopener">Multi-ADOM FAZ x MultiSite EMS</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-13T10:50:26+00:00</div>
-    <p>Hello reddit, does anyone has experience with connecting multi-adom FAZ to multisite EMS? I´m not sure how it works and right now I´m not able to make an lab enviroment. Is FortiEMS connector configured for specifc ADOM at FAZ enough to ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x4omi6/forticloud_vs_fortianalyzer_vm_logging_capacity/" target="_blank" rel="noopener">FortiCloud vs FortiAnalyzer VM Logging Capacity</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-13T05:45:55+00:00</div>
-    <p>In FortiGate 70G, FortiCloud logging capacity is listed as 600 Mbps, while FortiAnalyzer VM is listed as 2 Gbps. Why is there such a difference? submitted by /u/ImplementAlarmed8537 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x4atj5/fortigate_unreachable_after_fortimanager_config/" target="_blank" rel="noopener">FortiGate unreachable after FortiManager config push - how to prevent lockouts?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-12T19:06:19+00:00</div>
-    <p>Hi everyone, I was testing some configuration changes on a FortiGate and unfortunately pushed a config from FortiManager that broke the routing. As a result, the FortiGate lost internet connectivity and can no longer establish its manage...</p>
   </div>
 </li>
 <li class="card">
@@ -104,22 +112,6 @@ _Updated: October 13, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/971007764/0/fortinet/blogs~ClingSTUN-Linux-Backdoor-Abuses-Public-STUN-Infrastructure" target="_blank" rel="noopener">ClingSTUN Linux Backdoor Abuses Public STUN Infrastructure</a></h3>
     <div class="meta">Fortinet Blog · Mon, 5 Oct 2026 13:00:00 +0000</div>
     <p>FortiGuard Labs examines how ClingSTUN exploits vulnerable devices and abuses public STUN servers to support a Linux proxy backdoor.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/970864421/0/fortinet/blogs~Building-a-SecurityFirst-Culture-for-an-Accelerating-Threat-Landscape" target="_blank" rel="noopener">Building a Security-First Culture for an Accelerating Threat Landscape</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 1 Oct 2026 15:00:00 +0000</div>
-    <p>As AI accelerates the attack lifecycle, organizations must treat everyday security behaviors as essential operational controls.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/970782875/0/fortinet/blogs~Fortinet-Expands-AI-Security-Across-Google-Cloud-Gemini-Enterprise" target="_blank" rel="noopener">Fortinet Expands AI Security Across Google Cloud Gemini Enterprise</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 29 Sep 2026 21:00:00 +0000</div>
-    <p>Learn how Fortinet collaborates with Google Cloud to help organizations secure AI agents, applications, data, and MCP activity across the enterprise AI lifecycle.…</p>
   </div>
 </li>
 </ul>
