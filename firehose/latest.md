@@ -1,37 +1,109 @@
 ---
 layout: default
-title: Firehose — October 14, 2026
+title: Firehose — October 15, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-14
+# Daily CTI Firehose — 2026-10-15
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://cms.therecord.media/uploads/Justice_Ministry_UK_44000bf15a.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/uk-legal-aid-cyberattack-data" target="_blank" rel="noopener">UK Legal Aid Agency hack worse than thought, with stolen records dating back to 1978</a></h3>
+    <div class="meta">Recorded Future (Blog) · Thu, 15 Oct 2026 14:30:00 GMT</div>
+    <p>A cyberattack on Britain’s Legal Aid Agency (LAA) stole far older and broader records than the government previously disclosed.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Baiterek_paws_and_prints_unsplash_67789aeb4f.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/suspected-kazakhstan-phishing-central-asia-espionage" target="_blank" rel="noopener">Suspected Kazakhstan-linked hackers target governments across former Soviet states</a></h3>
+    <div class="meta">Recorded Future (Blog) · Thu, 15 Oct 2026 13:55:00 GMT</div>
+    <p>A roughly 2-year-old cyber-espionage campaign against Central Asian states appears to originate in Kazakhstan, researchers said.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware" target="_blank" rel="noopener">EU Grocers Pay a Steep Price for Unpatched Fridge Firmware</a></h3>
+    <div class="meta">Dark Reading · Thu, 15 Oct 2026 07:00:00 GMT</div>
+    <p>Hundreds of stores lost millions of dollars because they hired third parties to manage the outdated OT firmware running their cooling systems.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33428" target="_blank" rel="noopener">ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Thu, 15 Oct 2026 02:00:03 GMT</div>
+    <p>ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/Zachary_Norwood_pic1.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33426" target="_blank" rel="noopener">Panchan&#x27;s Mining Island &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Oct 14th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Thu, 15 Oct 2026 01:10:57 GMT</div>
+    <p>Panchan&#x27;s Mining Island [Guest Diary], Author: Guy Bruneau</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Support_Forces_of_Ukraine_soldier_installing_a_Starlink_terminal_1c3952720c.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/ukraine-says-starshield-working-again-after-disruption" target="_blank" rel="noopener">Ukraine says Elon Musk&#x27;s Starshield service partially restored after restrictions disrupted drone missions</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 23:00:00 GMT</div>
+    <p>The Ukrainian military can again use SpaceX’s Starshield satellite service on the move, a Defense Ministry source told Recorded Future News on Thursday, days after sudden restrictions disrupted drone missions along the front line.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching" target="_blank" rel="noopener">Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles</a></h3>
+    <div class="meta">Dark Reading · Wed, 14 Oct 2026 21:20:13 GMT</div>
+    <p>CVE-2026-104935, an authentication bypass + RCE vulnerability, was only partially patched in July, leaving an opening for threat actors to capitalize on.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/cuffs_arrest_pexels_kindelmedia_7785046_jpg_177f83a618.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/olvx-cybercrime-marketplace-arrest-north-macedonia" target="_blank" rel="noopener">North Macedonian police arrest alleged administrator behind OLVX cybercrime market</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 21:10:00 GMT</div>
+    <p>A raid on a home in a North Macedonian village led to the arrest of the suspected administrator of the OLVX market, according to the Balkan country&#x27;s Interior Ministry along with the FBI.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages" target="_blank" rel="noopener">Yam Store: The Phishing Network Behind a Billion Messages</a></h3>
+    <div class="meta">Dark Reading · Wed, 14 Oct 2026 20:57:16 GMT</div>
+    <p>An underground marketplace, Yam Store, linked cloud infrastructure, phishing kits, and criminal services behind more than 1 billion phishing messages.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/eric_gonzalez_brooklyn_da_1a04b6e52f.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/brooklyn-da-server-takedowns-crypto-scam-russian-speakers" target="_blank" rel="noopener">Brooklyn DA’s office disrupts crypto scam targeting Russian community</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 20:33:00 GMT</div>
+    <p>Russian-speaking Brooklyn residents began tipping off local authorities to a cryptocurrency fraud scheme three years ago, leading to an operation to take down the associated servers and domains.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/threat-intelligence/new-anthropic-sneakpeek-silent-zero-click-threat" target="_blank" rel="noopener">Anthropic &#x27;SneakPeek&#x27; Flaw Is a Silent Zero-Click Threat</a></h3>
+    <div class="meta">Dark Reading · Wed, 14 Oct 2026 20:09:42 GMT</div>
+    <p>A bug in Claude Code Desktop&#x27;s preview pane can allow adversaries to steal credentials from developers, undetected.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank" rel="noopener">U.K. Sanctions Cryptomus for RU Money Laundering</a></h3>
     <div class="meta">Krebs on Security · Wed, 14 Oct 2026 14:22:49 +0000</div>
     <p>The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime se...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/Microsoftbuilding_89382ec37f.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/microsoft-takes-down-3-major-chinese-phishing-platforms" target="_blank" rel="noopener">Microsoft takes down 3 major phishing platforms used by Chinese cybercriminals</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 13:18:00 GMT</div>
-    <p>The tech giant worked with Japan’s National Police Agency and healthcare cybersecurity organization Health-ISAC to obtain a U.S. court order seizing and redirecting domains that were part of the infrastructure underlying YAM Store, CoGUI...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/alexander_nrjwolf_X0_Osf55s5yk_unsplash_a37e72b437.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/russia-anywayanyday-travel-website-cyberattack" target="_blank" rel="noopener">Russian travel booking platform suspends reservations after cyberattack</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 13:05:00 GMT</div>
-    <p>Customers of Russian travel website Anywayanyday were unable to book tickets or hotel rooms as the company responded to a cyberattack.</p>
   </div>
 </li>
 <li class="card">
@@ -45,25 +117,9 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america" target="_blank" rel="noopener">Russian Influence Operation Widely Targeting Latin America</a></h3>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/russian-influence-operation-targeting-latin-america" target="_blank" rel="noopener">Russian Influence Operation Widely Targets Latin America</a></h3>
     <div class="meta">Dark Reading · Wed, 14 Oct 2026 13:00:00 GMT</div>
-    <p>The AI-enabled operation faked government documents and the created a local organization to target schools in Peru and Ecuador, among other efforts.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/cisa_code_background_cdd6a475aa.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/new-ivanti-microsoft-bugs-exploitation" target="_blank" rel="noopener">CISA warns of new Ivanti bug being exploited as latest Patch Tuesday breaks records</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 12:35:00 GMT</div>
-    <p>The sixth exploited Ivanti bug this year drew attention from the feds and researchers, while a severe Microsoft vulnerability was one of more than 1,400 listed for Patch Tuesday.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/good_faces_agency_3vy3c4r_K5o4_unsplash_dcc04e0143.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/congressional-probe-faults-match-group-for-failing-to-stop-dating-app-scams" target="_blank" rel="noopener">Congressional probe faults Match Group for failing to rein in dating app scams</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 14 Oct 2026 12:32:00 GMT</div>
-    <p>The Joint Economic Committee on Tuesday released the results of a year-long investigation into Tinder, Hinge, Match, Plenty of Fish and several other dating sites owned by Match Group.</p>
+    <p>The AI-enabled operation faked government documents and created a local organization to target schools in Peru and Ecuador, among other efforts.</p>
   </div>
 </li>
 <li class="card">
@@ -91,7 +147,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/" target="_blank" rel="noopener">Microsoft Patches More Than 1,400 Security Flaws</a></h3>
     <div class="meta">Krebs on Security · Tue, 13 Oct 2026 23:24:53 +0000</div>
@@ -99,19 +155,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/Screenshot_2026_10_14_at_11_03_11_b97fb109ea.png" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/saudi-national-charged-with-spy-device-openai" target="_blank" rel="noopener">Saudi national charged with planting spy device in OpenAI executive conference room</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 13 Oct 2026 23:00:00 GMT</div>
-    <p>Abdulrahman Alfozan, 35, a Saudi national working as an engineer for OpenAI, was charged Tuesday with secretly bugging an executive conference room at one of the company’s buildings in San Francisco.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday" target="_blank" rel="noopener">Zero-Days Lurk in Microsoft&#x27;s Overgrown October Patch Tuesday</a></h3>
     <div class="meta">Dark Reading · Tue, 13 Oct 2026 22:29:57 GMT</div>
-    <p>The scary surprises for the largest security update ever include security bypasses and unauthenticated RCEs.</p>
+    <p>The scary surprises for the largest security update ever include defense bypasses and unauthenticated RCEs.</p>
   </div>
 </li>
 <li class="card">
@@ -175,7 +223,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief" target="_blank" rel="noopener">Passing the Baton: Dark Reading Names New Editor-in-Chief</a></h3>
     <div class="meta">Dark Reading · Mon, 12 Oct 2026 12:30:58 GMT</div>
-    <p>Fahmida Y Rashid will keep the momentum going as she leads Dark Reading.</p>
+    <p>Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.</p>
   </div>
 </li>
 <li class="card">
@@ -195,7 +243,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank" rel="noopener">FBI Arrests Executive at Ransomware Negotiation Firm</a></h3>
     <div class="meta">Krebs on Security · Sat, 10 Oct 2026 00:17:42 +0000</div>
@@ -227,7 +275,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38c86b96657cb954/64f152a12e2a138ddece5db3/remotework-family-insta_photos-Alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf758cd9fb1671a68/6acfcadc6632e6b387874fb3/remotework-family-insta_photos-Alamy_REVISED_FOR_16_BY_9.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too" target="_blank" rel="noopener">Security Threats Don&#x27;t Stop at the Office: Why Executives&#x27; Families Need Training, Too</a></h3>
     <div class="meta">Dark Reading · Fri, 09 Oct 2026 16:25:05 GMT</div>
@@ -287,7 +335,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33410" target="_blank" rel="noopener">Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, (Thu, Oct 8th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 08 Oct 2026 16:52:53 GMT</div>
-    <p>Reconstructing AI Agent Activity: Two New Scripts for Forensic Review, Author: Jim Clausing</p>
+    <p>SANS.edu Internet Storm Center. Today&#x27;s Top Story: Panchan&#x27;s Mining Island [Guest Diary];Orphaned VBA Projects Inside DWG Files;</p>
   </div>
 </li>
 <li class="card">
@@ -296,14 +344,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/writing-next-chapter" target="_blank" rel="noopener">Writing the Next Chapter</a></h3>
     <div class="meta">Dark Reading · Thu, 08 Oct 2026 12:00:00 GMT</div>
     <p>Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33408" target="_blank" rel="noopener">ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, (Thu, Oct 8th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Thu, 08 Oct 2026 02:00:02 GMT</div>
-    <p>ISC Stormcast For Thursday, October 8th, 2026 https://isc.sans.edu/podcastdetail/10128, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -347,15 +387,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33406" target="_blank" rel="noopener">Scans for Atlassian vulnerablity (CVE-2026-21589), (Wed, Oct 7th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Wed, 07 Oct 2026 14:59:33 GMT</div>
-    <p>Scans for Atlassian vulnerablity (CVE-2026-21589), Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank" rel="noopener">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></h3>
     <div class="meta">Krebs on Security · Wed, 07 Oct 2026 13:48:45 +0000</div>
@@ -459,31 +491,31 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-" target="_blank" rel="noopener">Is Your Organization Ready for 2027&#x27;s AI Accountability Era?</a></h3>
     <div class="meta">Dark Reading · Fri, 02 Oct 2026 16:01:22 GMT</div>
-    <p>Omdia and Gartner weigh in on how to tackle artificial intelligence (AI) governance, security, and value challenges ahead.</p>
+    <p>Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures" target="_blank" rel="noopener">Is It Fair to Blame &#x27;Rogue&#x27; AI for Security Failures?</a></h3>
     <div class="meta">Dark Reading · Fri, 02 Oct 2026 15:51:33 GMT</div>
-    <p>LLMs are software systems requiring proper containment control, not sentient actors with malicious intent.</p>
+    <p>&quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7af7ba810dddd22/6abeaceed099771c4068c437/key_-_igoriss-getty-1276829944.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7af7ba810dddd22/6abeaceed099771c4068c437/key_-_igoriss-getty-1276829944.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem" target="_blank" rel="noopener">Vulnerability Backlogs Are an Ownership Problem</a></h3>
     <div class="meta">Dark Reading · Fri, 02 Oct 2026 14:00:00 GMT</div>
-    <p>Organizations don&#x27;t need better vulnerability scanners; they need to know who owns their assets.</p>
+    <p>Organizations don&#x27;t need better vulnerability scanners; they need to know who owns their assets, and who has the authority and capacity to actually fix them.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ae8adbdedb5109a/6abeaf448f0ddb6d837f64ef/Fake_mustache-Liudmila_Chernetska-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ae8adbdedb5109a/6abeaf448f0ddb6d837f64ef/Fake_mustache-Liudmila_Chernetska-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security" target="_blank" rel="noopener">Malicious Linux Implants Mimic Asian Mail Security Products</a></h3>
     <div class="meta">Dark Reading · Fri, 02 Oct 2026 13:00:00 GMT</div>
@@ -603,43 +635,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cloud-security/cloudflare-announces-public-certificate-authority-post-quantum-web" target="_blank" rel="noopener">Cloudflare Announces Public Certificate Authority for the Post-Quantum Web</a></h3>
-    <div class="meta">Dark Reading · Tue, 29 Sep 2026 17:02:16 GMT</div>
-    <p>Automated certificates for everyone, built for today, and hardened for the era of quantum computing.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/" target="_blank" rel="noopener">​​Beyond source code: A path to the keys to the kingdom</a></h3>
     <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 16:00:00 +0000</div>
     <p>What began as a single compromised identity quickly expanded into an organization’s development and cloud environments. In our latest Cyberattack Series report, we examine how the Microsoft Detection and Response Team (DART)—the team tha...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt587de2f4ce0cd974/6abba097ef266a69c6555f1a/Valentin_Baciu-preying-mantis-shutterstock.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/threat-intelligence/needymantis-long-term-access-compromised-networks" target="_blank" rel="noopener">&#x27;NeedyMantis&#x27; Provides Long-Term Access to Compromised Networks</a></h3>
-    <div class="meta">Dark Reading · Tue, 29 Sep 2026 15:12:39 GMT</div>
-    <p>Microsoft observed a China-based actor using a previously unidentified malware framework in targeted intrusions against telcos, universities, medical, and government-related organizations.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5de91a8011e409dc/68ae00c0ae4a7a4290bef1c1/citrix_JHVEPhoto_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/netscaler-zero-days-chaos-citrix" target="_blank" rel="noopener">Dual NetScaler Zero-Days Trigger Chaos for Citrix Customers</a></h3>
-    <div class="meta">Dark Reading · Tue, 29 Sep 2026 14:19:43 GMT</div>
-    <p>The critical vulnerabilities, which impact default configurations of NetScaler products, essentially give attackers a skeleton key to customers&#x27; networks.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2af591c5bd6c4586/6abbc44b643a94805c0c2f8c/restrict-ai-Andrii-Yalanskyi-Getty-2257906560.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/nvidia-launches-ai-agent-safety-platform-prevent-rogue-activities" target="_blank" rel="noopener">Nvidia Launches AI Agent Safety Platform to Prevent Rogue Activities</a></h3>
-    <div class="meta">Dark Reading · Mon, 28 Sep 2026 22:02:46 GMT</div>
-    <p>The Open Agent Safety Platform relies on hardware and software components to monitor agent activities and quarantine unruly agents before they can cause harm.</p>
   </div>
 </li>
 <li class="card">
