@@ -7,15 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 14, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 15, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/971523230/0/fortinet/blogs~Strengthening-OT-Security-with-the-Fortinet-AIEnabled-OT-Security-Platform" target="_blank" rel="noopener">Strengthening OT Security with the Fortinet AI-Enabled OT Security Platform</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 14 Oct 2026 15:00:00 +0000</div>
-    <p>Explore how the Fortinet OT Security Platform combines AI-enabled security, rugged connectivity, and certified protections to strengthen resilience…</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x6nsc4/is_it_possible_to_disable_nat_set_logs_to_all/" target="_blank" rel="noopener">Is it possible to disable NAT / set logs to all from utm, for all firewall rules at the same time instead of doing it one by one?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-15T14:53:25+00:00</div>
+    <p>Stupid question as above. submitted by /u/RiddickChronicles [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x6hpcf/forticlient_console_window_on_server_2025_vm/" target="_blank" rel="noopener">Forticlient Console Window on Server 2025 VM starts blank and closes</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-15T10:05:30+00:00</div>
+    <p>Hi all, I just want to share something and ask if this sounds familiar to any of you (before opening a support call, which I &quot;dread&quot;, because this feels like such a special use case and I fear this leads nowhere after very lenghty exchan...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x6gjmg/fortimanager_api_reinstall_package/" target="_blank" rel="noopener">FortiManager API: reinstall package</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-15T08:53:38+00:00</div>
+    <p>Hi. I&#x27;m wondering if something changed in the API (7.6.7 vs 7.4)? In the past my body looked like this: { &quot;verbose&quot;: 1, &quot;method&quot;: &quot;exec&quot;, &quot;params&quot;: [{ &quot;url&quot;: &quot;/securityconsole/install/package&quot;, &quot;data&quot;: { &quot;flags&quot;: [ &quot;auto_lock_ws&quot;, &quot;nonbl...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x6g5di/best_practices_for_fortinet_ztna_with_microsoft/" target="_blank" rel="noopener">Best Practices for Fortinet ZTNA with Microsoft Entra ID SAML – MFA Enforcement and Reauthentication</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-15T08:27:42+00:00</div>
+    <p>Title: Best Practices for Fortinet ZTNA with Microsoft Entra ID SAML – MFA Enforcement and Reauthentication Hi everyone, We are planning to implement Fortinet ZTNA using FortiClient EMS Cloud with Microsoft Entra ID (SAML) for authentica...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/yhm5zpgx3ivh1.png?width=140&amp;height=51&amp;auto=webp&amp;s=6747a5ad6b3359b5b3c8c80f2bb278a9e8472f94" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x63pak/forticlient_for_mac_option_missing/" target="_blank" rel="noopener">FortiClient for Mac option missing</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-14T21:30:37+00:00</div>
+    <p>I am trying to set up IPSEC VPN between a FortiGate and FortiClient on Windows and Mac. I have it working on FortiClient for Windows. On FortiClient Mac it says Connecting, then times out. I noticed that the Mac version is missing three ...</p>
   </div>
 </li>
 <li class="card">
@@ -27,27 +59,11 @@ _Updated: October 14, 2026 • Sources filter: fortinet, fortiguard • Keywords
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x5ouh0/fortios_74_integrate_interface_feature_always/" target="_blank" rel="noopener">FortiOS 7.4 - Integrate Interface feature always grayed out</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-14T11:34:39+00:00</div>
-    <p>Hi, So I have this issue - a bunch of IPsec tunnels that I want to migrate to SD-WAN - they are all in one zone. The issue is - Integrate Interface is grayed out. I went through different FGs I manage and every time if interface was used...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x5i6ti/fortinac_config_wizard_update/" target="_blank" rel="noopener">FortiNAC Config Wizard Update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-14T04:39:33+00:00</div>
-    <p>Hello, I have FortiNAC running in HA (not using shared IP/VIP) using different IP. I have to add few scopes in Registration and Dead end network in config wizard of FortiNAC. What could be best approach to do ? Primary first and reboot i...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x5czu2/ansible_sdwan_healthcheck_issue/" target="_blank" rel="noopener">Ansible SDWAN Healthcheck issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-14T00:11:46+00:00</div>
-    <p>I&#x27;ve been on this for hours now and starting to lose it.. I just cannot tackle this obstacle and reaching out to the people on the internet too see if you guys have any ideas.. Im trying to do a simple thing, setting up my SDWAN via ansi...</p>
+    <h3><a href="https://feeds.fortinet.com/~/971523230/0/fortinet/blogs~Strengthening-OT-Security-with-the-Fortinet-AIEnabled-OT-Security-Platform" target="_blank" rel="noopener">Strengthening OT Security with the Fortinet AI-Enabled OT Security Platform</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 14 Oct 2026 15:00:00 +0000</div>
+    <p>Explore how the Fortinet OT Security Platform combines AI-enabled security, rugged connectivity, and certified protections to strengthen resilience…</p>
   </div>
 </li>
 <li class="card">
