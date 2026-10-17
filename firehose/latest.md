@@ -1,15 +1,63 @@
 ---
 layout: default
-title: Firehose — October 16, 2026
+title: Firehose — October 17, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-16
+# Daily CTI Firehose — 2026-10-17
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs" target="_blank" rel="noopener">BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs</a></h3>
+    <div class="meta">Dark Reading · Fri, 16 Oct 2026 20:34:37 GMT</div>
+    <p>Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk" target="_blank" rel="noopener">Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk</a></h3>
+    <div class="meta">Dark Reading · Fri, 16 Oct 2026 19:49:30 GMT</div>
+    <p>Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield" target="_blank" rel="noopener">Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform</a></h3>
+    <div class="meta">Dark Reading · Fri, 16 Oct 2026 19:22:12 GMT</div>
+    <p>The launch follows the acquisition of catalog&#x27;s assets and the appointment of Laurent Guengant as CEO earlier this year.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise" target="_blank" rel="noopener">Enterprise AI Enters Risk Management Phase as Security Concerns Rise</a></h3>
+    <div class="meta">Dark Reading · Fri, 16 Oct 2026 19:13:59 GMT</div>
+    <p>Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6937d5b3760a530f/6ad14589831f9d6076cdd58b/robotic-arms-grid-overlay-greenbutterfly-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes" target="_blank" rel="noopener">AI Takes Control of Robotic Arm in 16 Minutes Flat</a></h3>
+    <div class="meta">Dark Reading · Fri, 16 Oct 2026 18:37:50 GMT</div>
+    <p>Most OT devices at utilities, factories, and elsewhere have been deployed for a decade+, but operators need to get agile and deploy new cyber defenses.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/MSFT-NVIDIA-SCI.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/" target="_blank" rel="noopener">Managing open-weight model risk in enterprise deployments</a></h3>
+    <div class="meta">Microsoft Security Blog · Fri, 16 Oct 2026 16:00:00 +0000</div>
+    <p>New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://cms.therecord.media/uploads/proofpoint_rsac_2026_f941477750.jpg" alt="preview">
   <div>
@@ -115,7 +163,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fef1a5b52640035/6ad2596ea7e47a611834201e/Software_patch_Zoonar_GmbH_Alamy_REVISED_FOR_16_BY_9.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you" target="_blank" rel="noopener">Vulnerability Management Isn&#x27;t About the Score — It&#x27;s About How It Applies to You</a></h3>
     <div class="meta">Dark Reading · Thu, 15 Oct 2026 15:17:18 GMT</div>
@@ -163,7 +211,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank" rel="noopener">U.K. Sanctions Cryptomus for RU Money Laundering</a></h3>
     <div class="meta">Krebs on Security · Wed, 14 Oct 2026 14:22:49 +0000</div>
@@ -307,7 +355,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank" rel="noopener">FBI Arrests Executive at Ransomware Negotiation Firm</a></h3>
     <div class="meta">Krebs on Security · Sat, 10 Oct 2026 00:17:42 +0000</div>
@@ -443,23 +491,23 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ab5c3db5bfeb9c5/6ac54ab0a727c6201593319b/Alligator_below_water-SushiSu-GettyImages-2215955885.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ab5c3db5bfeb9c5/6ac54ab0a727c6201593319b/Alligator_below_water-SushiSu-GettyImages-2215955885.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/clickfix-attacks-evolve-better-hide-malicious-payloads" target="_blank" rel="noopener">ClickFix Attacks Evolve to Better Hide Malicious Payloads</a></h3>
     <div class="meta">Dark Reading · Tue, 06 Oct 2026 20:32:58 GMT</div>
-    <p>ClickFix attacks now hide payloads using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.</p>
+    <p>Threat actors are now hiding payloads by using DNS TXT records and browser cache pre-fetching, making it tougher to spot early attack stages.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt977a5014497395dd/6ac55a748f3ecad0e70f76ba/healthcare_greenbutterfly_shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt977a5014497395dd/6ac55a748f3ecad0e70f76ba/healthcare_greenbutterfly_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/iot/exposed-healthcare-systems-quantum-ready" target="_blank" rel="noopener">Critical Healthcare Systems Aren&#x27;t Quantum-Ready</a></h3>
     <div class="meta">Dark Reading · Tue, 06 Oct 2026 20:30:27 GMT</div>
-    <p>A study of millions of devices across 50 healthcare orgs suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.</p>
+    <p>A study of 2.5 million devices across 50 healthcare organizations suggests the sector has a long way to go in getting ready for the post-quantum cryptography era.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa52673d7bb1596/6ac4ea88db91d789256c460d/working-with-AI-agents-ImageFlow-shutterstock.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9aa52673d7bb1596/6ac4ea88db91d789256c460d/working-with-AI-agents-ImageFlow-shutterstock.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/application-security/google-pagebreak-ai-agent-500-flaws-web-apps" target="_blank" rel="noopener">Google&#x27;s PageBreak AI Agent Finds 500 Flaws in Its Web Apps</a></h3>
     <div class="meta">Dark Reading · Tue, 06 Oct 2026 17:56:29 GMT</div>
@@ -467,7 +515,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95a7a25767db3b0f/6ac41c0b1d3e914583f43264/budgeting1800_PeopleImages_GettyImages.jpeg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95a7a25767db3b0f/6ac41c0b1d3e914583f43264/budgeting1800_PeopleImages_GettyImages.jpeg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/ai-reshaping-ciso-budgets-security-teams" target="_blank" rel="noopener">IANS&#x27; Kakolowski: How AI Is Reshaping CISO Budgets &amp;amp; Security Teams</a></h3>
     <div class="meta">Dark Reading · Tue, 06 Oct 2026 17:15:24 GMT</div>
@@ -475,7 +523,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3886ee964b5d16f1/6ac4000875ac86196ed5f175/broken_hard_drive-Bryngelzon-GettyImages-115958814.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3886ee964b5d16f1/6ac4000875ac86196ed5f175/broken_hard_drive-Bryngelzon-GettyImages-115958814.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/application-security/bigdiskbuster-microsoft-defender-running-blocking-updates" target="_blank" rel="noopener">&#x27;BigDiskBuster&#x27; Leaves Microsoft Defender Running While Blocking Updates</a></h3>
     <div class="meta">Dark Reading · Tue, 06 Oct 2026 16:59:24 GMT</div>
@@ -483,11 +531,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/CISO-managing-risks.jpg" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/" target="_blank" rel="noopener">CISO perspectives on managing vulnerability risks in the age of AI</a></h3>
     <div class="meta">Microsoft Security Blog · Tue, 06 Oct 2026 16:00:00 +0000</div>
-    <p>Learn how CISOs can mitigate cybersecurity risks and increase resilience in the age of AI-powered vulnerability management.</p>
+    <p>Most of what has been written about AI and vulnerability management focuses on speed: how much faster frontier AI models can scan code, find weaknesses, design patches, and build exploits than any human team. That part is true, and it ma...</p>
   </div>
 </li>
 <li class="card">
@@ -555,30 +603,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7af7ba810dddd22/6abeaceed099771c4068c437/key_-_igoriss-getty-1276829944.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/vulnerability-backlogs-ownership-problem" target="_blank" rel="noopener">Vulnerability Backlogs Are an Ownership Problem</a></h3>
-    <div class="meta">Dark Reading · Fri, 02 Oct 2026 14:00:00 GMT</div>
-    <p>Organizations don&#x27;t need better vulnerability scanners; they need to know who owns their assets, and who has the authority and capacity to actually fix them.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ae8adbdedb5109a/6abeaf448f0ddb6d837f64ef/Fake_mustache-Liudmila_Chernetska-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/threat-intelligence/malicious-linux-implants-mimic-asian-mail-security" target="_blank" rel="noopener">Malicious Linux Implants Mimic Asian Mail Security Products</a></h3>
-    <div class="meta">Dark Reading · Fri, 02 Oct 2026 13:00:00 GMT</div>
-    <p>A trio of newly discovered backdoors walk and quack like legitimate edge solutions, so it&#x27;s hard to tell they&#x27;re not.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0fa3e38d4138a30/6abed0fa51ca57ceead99604/europol_PixelBiss_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/killsec-ransomware-mastermind-16-year-old" target="_blank" rel="noopener">Alleged KillSec Ransomware Mastermind a 16-Year-Old</a></h3>
-    <div class="meta">Dark Reading · Thu, 01 Oct 2026 21:37:50 GMT</div>
-    <p>Law enforcement from multiple countries collaborated to disrupt a cybercrime operation that has claimed some 500 victims worldwide in the past two years.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://icons.duckduckgo.com/ip3/blogs.microsoft.com.ico" alt="preview">
   <div>
     <h3><a href="https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/" target="_blank" rel="noopener">Preparing governments for an era of interconnected cyber risk</a></h3>
@@ -592,22 +616,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/" target="_blank" rel="noopener">Insights from the 2026 Microsoft Digital Defense Report</a></h3>
     <div class="meta">Microsoft Security Blog · Thu, 01 Oct 2026 14:00:00 +0000</div>
     <p>Every year, the Microsoft Digital Defense Report gives us an opportunity to step back from individual threats and look broadly at what Microsoft’s security and threat intelligence teams are seeing. Today, we released the 2026 Report , wh...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bb24e8bd32cc751/6abd41d4a6381712feda02db/Warlock-Grandfailure-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/warlock-ransomware-spanish-portuguese" target="_blank" rel="noopener">Warlock Ransomware Hits Large Spanish, Portuguese Orgs</a></h3>
-    <div class="meta">Dark Reading · Thu, 01 Oct 2026 13:00:00 GMT</div>
-    <p>A year-old Chinese threat actor looks like a cybercrime gang, acts like a state-associated APT, and attacks organizations in unexpected places.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38e8d6d5f0f61c59/6abd6454845395465ad1a6df/rat-GlobalP-GettyImages-1413873422.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/malicious-custom-gpts-chatgpt-rat-delivery-lure" target="_blank" rel="noopener">Malicious Custom GPTs Turn ChatGPT Into RAT Delivery Lure</a></h3>
-    <div class="meta">Dark Reading · Wed, 30 Sep 2026 21:25:47 GMT</div>
-    <p>In yet another ClickFix-style campaign, threat actors abuse legitimate domains from OpenAI and Google to fool unsuspecting users.</p>
   </div>
 </li>
 <li class="card">
@@ -632,14 +640,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/" target="_blank" rel="noopener">Phishing Abuses RMM Tools for Persistent Access</a></h3>
     <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 21:39:27 +0000</div>
     <p>In this article Attack chain overview Mitigation and protection guidance Learn More In July 2026, Microsoft Defender Experts observed phishing campaigns targeting organizations across multiple industries that distributed a masqueraded MS...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/" target="_blank" rel="noopener">​​Beyond source code: A path to the keys to the kingdom</a></h3>
-    <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 16:00:00 +0000</div>
-    <p>What began as a single compromised identity quickly expanded into an organization’s development and cloud environments. In our latest Cyberattack Series report, we examine how the Microsoft Detection and Response Team (DART)—the team tha...</p>
   </div>
 </li>
 <li class="card">
