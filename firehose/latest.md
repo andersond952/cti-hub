@@ -1,15 +1,23 @@
 ---
 layout: default
-title: Firehose — October 17, 2026
+title: Firehose — October 18, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-17
+# Daily CTI Firehose — 2026-10-18
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33434" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Sun, 18 Oct 2026 12:59:30 GMT</div>
+    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
@@ -107,19 +115,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33432" target="_blank" rel="noopener">ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 16 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, Author: Johannes Ullrich</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33430" target="_blank" rel="noopener">Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 16 Oct 2026 00:46:35 GMT</div>
-    <p>Small Agents, Smaller Blast Radius: Controlling What AI Can Do, Author: Mark Baggett</p>
+    <p>I believe the cybersecurity industry may be approaching AI security the wrong way. AI agents are becoming more powerful every day. Systems like ChatGPT, Claude, and Grok can write and execute code, use command shells, browse the web, cal...</p>
   </div>
 </li>
 <li class="card">
@@ -127,7 +135,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33426" target="_blank" rel="noopener">Panchan&#x27;s Mining Island &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Oct 14th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 15 Oct 2026 23:03:42 GMT</div>
-    <p>Panchan&#x27;s Mining Island [Guest Diary], Author: Guy Bruneau</p>
+    <p>[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program] Crypto mining malware has been active and spreading across the internet for quite some time now. Moreover, the DShield honeypot picked up a wo...</p>
   </div>
 </li>
 <li class="card">
@@ -179,11 +187,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33428" target="_blank" rel="noopener">ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 15 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, Author: Johannes Ullrich</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -239,7 +247,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33420" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 14 Oct 2026 06:49:46 GMT</div>
-    <p>Orphaned VBA Projects Inside DWG Files, Author: Didier Stevens</p>
+    <p>Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg). In a nutshell: the VBA code is stored inside an OLE file, that is embedded inside the DWG file. You can do a brute-force search for the embedded O...</p>
   </div>
 </li>
 <li class="card">
@@ -251,11 +259,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33424" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 14 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, Author: Johannes Ullrich</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -291,19 +299,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33422" target="_blank" rel="noopener">October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Tue, 13 Oct 2026 19:25:52 GMT</div>
-    <p>October 2026 Microsoft Patch Tuesday, Author: Johannes Ullrich</p>
+    <p>Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#x27;s patch Tuesday, and ...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33418" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Tue, 13 Oct 2026 02:00:02 GMT</div>
-    <p>ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, Author: Johannes Ullrich</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -339,19 +347,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33416" target="_blank" rel="noopener">ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Mon, 12 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/26-10-10-tlpv2.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33414" target="_blank" rel="noopener">Why TLP should not replace your internal information classification, (Sat, Oct 10th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Sat, 10 Oct 2026 09:11:34 GMT</div>
-    <p>Why TLP should not replace your internal information classification, Author: Jan Kopriva</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -483,7 +483,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank" rel="noopener">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></h3>
     <div class="meta">Krebs on Security · Wed, 07 Oct 2026 13:48:45 +0000</div>
