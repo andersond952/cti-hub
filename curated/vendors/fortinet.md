@@ -7,9 +7,49 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x8w5en/migrating_from_ssl_vpn_to_ipsec_on_fortigate_74x/" target="_blank" rel="noopener">Migrating from SSL VPN to IPsec on FortiGate 7.4.x — best practices before cutover?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-18T06:33:48+00:00</div>
+    <p>Hi all, we&#x27;re currently running SSL VPN on FortiGate 1101E with local user authentication for around 200 VPN users, and we also have EMS in our environment. Everything is on-premises — no cloud components — and all users are managed loca...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x8rll4/sslvpn_bug_in_748_forticlient/" target="_blank" rel="noopener">SSL-VPN Bug in 7.4.8 FortiClient</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-18T02:14:15+00:00</div>
+    <p>SSL-VPN is not getting deprecated. It is already gone. I just recently ran into an SSL-VPN issue with a client. After some troubleshooting, I created a ticket with Fortinet, and they reviewed my config and saw no issue with the config. T...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x8mjek/support_license/" target="_blank" rel="noopener">Support license</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-17T22:03:50+00:00</div>
+    <p>Why is it so difficult to get a support license from a partner? I&#x27;ve reached out to a couple partners and made contact with them. I filled out an onboarding form sent it to them and neither partner has got back to me with an estimate yet...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x8bjkk/firtianalyzer_767/" target="_blank" rel="noopener">Firtianalyzer 7.6.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-17T14:25:18+00:00</div>
+    <p>How to configure an event handler that trigger after working hours if config change happenend in fortianalyzer 7.6.7 submitted by /u/Prestigious-Hold7402 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1x8bgfy/fortinet_studio/" target="_blank" rel="noopener">Fortinet Studio</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-17T14:21:23+00:00</div>
+    <p>Dears, Does someone has fortinet studio setup? I need installer file More over if someone Is using does it contain fortiswitch? submitted by /u/evil_underground [link] [comments]</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
