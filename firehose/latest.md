@@ -1,21 +1,77 @@
 ---
 layout: default
-title: Firehose — October 18, 2026
+title: Firehose — October 19, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-18
+# Daily CTI Firehose — 2026-10-19
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
+  <img src="https://cms.therecord.media/uploads/Albert_Heijn_2b91114780.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/ahold-delhaize-cyberattack-grocery" target="_blank" rel="noopener">Ahold Delhaize confirms &#x27;malicious actions&#x27; behind cyber outages affecting grocery brands</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 19 Oct 2026 16:45:00 GMT</div>
+    <p>Ahold Delhaize, the Dutch multinational grocery retailer, said Monday that a cyberattack forced it to take systems offline across most of its U.S. and European brands, impacting shoppers on both sides of the Atlantic.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/vkonkate_1_f20f84f5e3.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/russian-social-media-giant-vk-faces-disruptions-drone-strike-data-center" target="_blank" rel="noopener">Russian social media giant VK faces disruptions after data center drone strike</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 19 Oct 2026 15:55:00 GMT</div>
+    <p>The disruptions began Sunday, when users complained of difficulties loading news feeds, playing music and accessing other features of VK&#x27;s platforms.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef729e5049e61b8c/6ad290a4ed74a528c20a7b92/copyright1800_wakila_GettyImages-157508105.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/onlyfans-copyright-takedowns-expose-compromised-websites" target="_blank" rel="noopener">OnlyFans Copyright Takedowns Expose Compromised Websites</a></h3>
+    <div class="meta">Dark Reading · Mon, 19 Oct 2026 14:28:11 GMT</div>
+    <p>Copyright takedown requests tied to OnlyFans creators are revealing how attackers exploit vulnerable university and government websites.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt65c173c2226bc353/6ad26aaeed74a561440a7b76/dictionary-boonchai_wedmakawand-Getty-1321495582.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/cybersecurity-lexicon-vulnerability-discovery-resilience" target="_blank" rel="noopener">The Evolving Cybersecurity Lexicon: Vulnerability Discovery to Resilience</a></h3>
+    <div class="meta">Dark Reading · Mon, 19 Oct 2026 14:00:00 GMT</div>
+    <p>An industry-wide laser focus on vulnerabilities has left cybersecurity teams without enough room to strategize for resilience.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <div>
+    <h3><a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/" target="_blank" rel="noopener">Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</a></h3>
+    <div class="meta">Krebs on Security · Mon, 19 Oct 2026 13:48:56 +0000</div>
+    <p>U.S. federal investigators pursuing the ShinyHunters hacking group that recently stole highly sensitive data from the FBI have identified executives at two different ransomware negotiation firms who maintained unusually close relations w...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Secure-AI-7.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/" target="_blank" rel="noopener">Agents are your newest insiders. Security must move at their speed.</a></h3>
+    <div class="meta">Microsoft Security Blog · Mon, 19 Oct 2026 13:00:00 +0000</div>
+    <p>New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/mohammad_mardani_MC_Pqw_Z_Exfx_M_unsplash_b240343335.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/russia-cyberattack-firstvds-cloud" target="_blank" rel="noopener">Hackers steal customer data from major Russian hosting provider FirstVDS</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 19 Oct 2026 11:45:00 GMT</div>
+    <p>Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33434" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Sun, 18 Oct 2026 12:59:30 GMT</div>
-    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
+    <p>Orphaned VBA Projects Inside DWG Files: YARA Rule, Author: Didier Stevens</p>
   </div>
 </li>
 <li class="card">
@@ -91,14 +147,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/Arundel_Center_6199da95a1.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/anne-arundel-county-maryland-confirms-data-breach" target="_blank" rel="noopener">Baltimore suburb confirms August data breach after ransomware claims</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 16 Oct 2026 13:05:00 GMT</div>
-    <p>Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable" target="_blank" rel="noopener">When AI Agents Commit Breaches, Humans May Not Be Held Liable</a></h3>
@@ -107,27 +155,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/BT_1_e667ba6c47.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/beyond-trust-cyberattack-china" target="_blank" rel="noopener">Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 16 Oct 2026 13:00:00 GMT</div>
-    <p>An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33432" target="_blank" rel="noopener">ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 16 Oct 2026 02:00:03 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33430" target="_blank" rel="noopener">Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 16 Oct 2026 00:46:35 GMT</div>
-    <p>I believe the cybersecurity industry may be approaching AI security the wrong way. AI agents are becoming more powerful every day. Systems like ChatGPT, Claude, and Grok can write and execute code, use command shells, browse the web, cal...</p>
+    <p>Small Agents, Smaller Blast Radius: Controlling What AI Can Do, Author: Mark Baggett</p>
   </div>
 </li>
 <li class="card">
@@ -135,7 +175,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33426" target="_blank" rel="noopener">Panchan&#x27;s Mining Island &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Oct 14th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 15 Oct 2026 23:03:42 GMT</div>
-    <p>[This is a Guest Diary by Zachary Norwood, an ISC intern as part of the SANS.edu BACS program] Crypto mining malware has been active and spreading across the internet for quite some time now. Moreover, the DShield honeypot picked up a wo...</p>
+    <p>Panchan&#x27;s Mining Island [Guest Diary], Author: Guy Bruneau</p>
   </div>
 </li>
 <li class="card">
@@ -152,14 +192,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud" target="_blank" rel="noopener">F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud</a></h3>
     <div class="meta">Dark Reading · Thu, 15 Oct 2026 21:55:07 GMT</div>
     <p>Built from decades of threat intelligence research, the new resource explains scams from the victims&#x27; perspective and tracks emerging forms of cyber crime.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/pexels_sora_shimazaki_5668481_fedd1032f0.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage" target="_blank" rel="noopener">Federal bankruptcy courts dealing with outages after contractor cyberattack</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 15 Oct 2026 20:46:00 GMT</div>
-    <p>The incident, which involved a government contractor, has halted all production of bankruptcy notices.</p>
   </div>
 </li>
 <li class="card">
@@ -187,11 +219,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33428" target="_blank" rel="noopener">ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, (Thu, Oct 15th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 15 Oct 2026 02:00:03 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Thursday, October 15th, 2026 https://isc.sans.edu/podcastdetail/10138, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -219,7 +251,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank" rel="noopener">U.K. Sanctions Cryptomus for RU Money Laundering</a></h3>
     <div class="meta">Krebs on Security · Wed, 14 Oct 2026 14:22:49 +0000</div>
@@ -247,7 +279,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33420" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files, (Wed, Oct 14th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 14 Oct 2026 06:49:46 GMT</div>
-    <p>Years ago I wrote diary entries about VBA code stored inside AutoCAD drawing files (.dwg). In a nutshell: the VBA code is stored inside an OLE file, that is embedded inside the DWG file. You can do a brute-force search for the embedded O...</p>
+    <p>Orphaned VBA Projects Inside DWG Files, Author: Didier Stevens</p>
   </div>
 </li>
 <li class="card">
@@ -259,11 +291,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33424" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, (Wed, Oct 14th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 14 Oct 2026 02:00:03 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Wednesday, October 14th, 2026 https://isc.sans.edu/podcastdetail/10136, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -299,19 +331,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33422" target="_blank" rel="noopener">October 2026 Microsoft Patch Tuesday, (Tue, Oct 13th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Tue, 13 Oct 2026 19:25:52 GMT</div>
-    <p>Microsoft today released patches for 1,417 vulnerabilities. 76 of these vulnerabilities are rated critical, with 7 critical vulnerabiilties requiring no customer actions. One vulnerability was disclosed before today&#x27;s patch Tuesday, and ...</p>
+    <p>October 2026 Microsoft Patch Tuesday, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33418" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, (Tue, Oct 13th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Tue, 13 Oct 2026 02:00:02 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Tuesday, October 13th, 2026 https://isc.sans.edu/podcastdetail/10134, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -347,15 +379,15 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33416" target="_blank" rel="noopener">ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, (Mon, Oct 12th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Mon, 12 Oct 2026 02:00:03 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Monday, October 12th, 2026 https://isc.sans.edu/podcastdetail/10132, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank" rel="noopener">FBI Arrests Executive at Ransomware Negotiation Firm</a></h3>
     <div class="meta">Krebs on Security · Sat, 10 Oct 2026 00:17:42 +0000</div>
@@ -459,7 +491,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails" target="_blank" rel="noopener">Anthropic Gives Vetted Defenders Fewer Claude Guardrails</a></h3>
     <div class="meta">Dark Reading · Wed, 07 Oct 2026 20:51:25 GMT</div>
@@ -467,23 +499,23 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2541a007c47b0f0b/6ac62adf05f346dc373093cd/rogue_AO_bot_Chris_Light_Alamy.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2541a007c47b0f0b/6ac62adf05f346dc373093cd/rogue_AO_bot_Chris_Light_Alamy.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage" target="_blank" rel="noopener">OpenAI Agent Escape Causes Wikimedia Service Outage</a></h3>
     <div class="meta">Dark Reading · Wed, 07 Oct 2026 19:34:08 GMT</div>
-    <p>Autonomous agents also tried to abuse other services hosted by the foundation as proxies, as part of unauthorized activities it discovered.</p>
+    <p>Autonomous agents also tried to abuse other websites and services hosted by the foundation, using them as proxies for unauthorized activities.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/MS_Actional-Insights_Incident-response-.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Picture1.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/" target="_blank" rel="noopener">3 lessons from frontier AI vulnerability research</a></h3>
     <div class="meta">Microsoft Security Blog · Wed, 07 Oct 2026 16:00:00 +0000</div>
-    <p>Read how How Microsoft Security&#x27;s FORGE Lab is scaling vulnerability research from Windows to the Linux kernel.</p>
+    <p>In this article Shift 1. From frontier capability to scale Shift 2. From token consumption to reasoning economics Shift 3. Validation and remediation as a continuous learning loop Transferring security research to help open source projec...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/10/Jeppesen.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank" rel="noopener">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></h3>
     <div class="meta">Krebs on Security · Wed, 07 Oct 2026 13:48:45 +0000</div>
@@ -587,22 +619,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/is-your-organization-ready-for-2027-s-ai-accountability-era-" target="_blank" rel="noopener">Is Your Organization Ready for 2027&#x27;s AI Accountability Era?</a></h3>
-    <div class="meta">Dark Reading · Fri, 02 Oct 2026 16:01:22 GMT</div>
-    <p>Organizations may face an artificial intelligence (AI) reckoning over the next year. Omdia and Gartner weigh in on how to tackle the governance, security, and value challenges ahead.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51b569a789927083/6abe888c953215e732ad4e3b/accountability-wildpixel-GettyImages-2189491114.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/insider-threats/blame-rogue-ai-security-failures" target="_blank" rel="noopener">Is It Fair to Blame &#x27;Rogue&#x27; AI for Security Failures?</a></h3>
-    <div class="meta">Dark Reading · Fri, 02 Oct 2026 15:51:33 GMT</div>
-    <p>&quot;Rogue AI&quot; terminology anthropomorphizes LLMs and shifts risk responsibility from vendors. Defenders should treat agents as untrusted, nondeterministic software systems, not sentient beings with malicious intent.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://icons.duckduckgo.com/ip3/blogs.microsoft.com.ico" alt="preview">
   <div>
     <h3><a href="https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/" target="_blank" rel="noopener">Preparing governments for an era of interconnected cyber risk</a></h3>
@@ -632,14 +648,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/" target="_blank" rel="noopener">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a></h3>
     <div class="meta">Microsoft Security Blog · Wed, 30 Sep 2026 14:00:00 +0000</div>
     <p>In this article Attack chain overview Mitigation and protection guidance References Learn More Microsoft Threat Intelligence identified and tracked exploitation of CVE-2026-73570 , an unauthenticated OS command injection vulnerability in...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-84.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/" target="_blank" rel="noopener">Phishing Abuses RMM Tools for Persistent Access</a></h3>
-    <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 21:39:27 +0000</div>
-    <p>In this article Attack chain overview Mitigation and protection guidance Learn More In July 2026, Microsoft Defender Experts observed phishing campaigns targeting organizations across multiple industries that distributed a masqueraded MS...</p>
   </div>
 </li>
 <li class="card">
@@ -680,14 +688,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/" target="_blank" rel="noopener">FBI Probes Service Selling 153M+ Drivers Licenses</a></h3>
     <div class="meta">Krebs on Security · Tue, 01 Sep 2026 22:40:28 +0000</div>
     <p>A new identity theft service launched on the dark web this week is selling digital scans of more than 153 million drivers licenses from people in the United States and Canada. Based on interviews with individuals whose licenses are avail...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/07/teampcp-shai-hulud.png" alt="preview">
-  <div>
-    <h3><a href="https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/" target="_blank" rel="noopener">Two Alleged ‘TeamPCP’ Hackers Arrested in Australia</a></h3>
-    <div class="meta">Krebs on Security · Thu, 27 Aug 2026 11:04:15 +0000</div>
-    <p>Authorities in Australia have arrested two men believed to be members of TeamPCP , a prolific cybercrime and data extortion group blamed for perpetrating the longest running spree of software supply chain attacks ever. In a statement rel...</p>
   </div>
 </li>
 </ul>
