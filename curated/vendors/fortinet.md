@@ -7,9 +7,97 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xck3tj/fortiextender_use_cases/" target="_blank" rel="noopener">Fortiextender use cases.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T14:28:09+00:00</div>
+    <p>Does anyone use this product and if so what&#x27;s your setup? I can think of ways to use it but it always seems to have an option that is better instead. Just curious on some real world applications you&#x27;ve been happy with. Thanks! submitted ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/971878043/0/fortinet/blogs~Operation-Serengeti-III-Three-Years-of-Collaboration-Against-Cybercrime" target="_blank" rel="noopener">Operation Serengeti III: Three Years of Collaboration Against Cybercrime</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 22 Oct 2026 13:00:00 +0000</div>
+    <p>Fortinet examines Operation Serengeti III and three years of collaboration with INTERPOL and the World Economic Forum Cybercrime Atlas to disrupt cybercrime and recover illicit proceeds.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xchpfc/guidance_on_protecting_endpoints_from_emudhra_ca/" target="_blank" rel="noopener">Guidance on Protecting Endpoints from eMudhra CA Compromise</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T12:51:32+00:00</div>
+    <p>r/fortinet I know we are all getting slammed left and right now, but this too shall pass. I just wanted to share a useful article that provides guidance on how to navigate around that public CA compromise. https://community.fortinet.com/...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xch4l8/when_is_the_patch_dropping/" target="_blank" rel="noopener">When is the patch dropping?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T12:24:32+00:00</div>
+    <p>I have been postponing work all day today since management wants our Fortigates updated the second the 7.4.13 patch drops from Fortinet. Have I missed something, or are we still waiting? submitted by /u/Active_Humor7436 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcgp0h/exposure_risk_of_nonupdated_switches_aps/" target="_blank" rel="noopener">Exposure risk of non-updated switches &amp; APs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T12:03:52+00:00</div>
+    <p>What would the exposure risk of not updating switches and APs (both are using Fortilink) to the latest version? I have a new non-profit client that is struggling in the current economy and doesn&#x27;t have the resources to (a) replace EOS ha...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcf2qj/fgir26186_fortios_affected_or_not/" target="_blank" rel="noopener">FG-IR-26-186 FortiOS affected or not?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T10:39:00+00:00</div>
+    <p>Hello, Any idea why it is mentioned here that FortiOS is not affected PSIRT | FortiGuard Labs but in this announcement from Fortinet that it is affected? https://www.fortinet.com/blog/ciso-collective/fortinet-releases-security-hardening-...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcdcgk/fortisandbox_devices_lost_authorization_midday/" target="_blank" rel="noopener">Fortisandbox - Devices lost authorization mid-day</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T08:55:23+00:00</div>
+    <p>Hi! Yesterday around noon my FortiSandbox just stopped scanning out of nowhere. Nobody touched the box. Looking at the system log, the core daemons restarted on their own: 12:00 – last normal file scans 12:04 – oftpd is starting , fcontd...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcbv7t/ips_signature_for_recent_php_cves/" target="_blank" rel="noopener">IPS Signature for recent PHP CVEs?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T07:18:44+00:00</div>
+    <p>Hi everyone, just wondering - does anyone have any info when there&#x27;s gonna be IPS signatures for the recent critical PHP vulns? Other vendors have them in place already I think. submitted by /u/quarren [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcbtw0/fortigate_disable_replacement_message_for_web/" target="_blank" rel="noopener">Fortigate - Disable replacement message for web filter</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T07:16:25+00:00</div>
+    <p>Hi! I did setup an url filter, with decryption to minimize the attack vector of a https web server. The filter is working finde, BUT: When the &quot;attacker&quot; is accessing a blocked site, there is a replacement message, although &quot;https-replac...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbu8cq/fortiextender_wan_extension_in_nat_mode/" target="_blank" rel="noopener">FortiExtender WAN Extension in NAT Mode?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T17:52:35+00:00</div>
+    <p>Hello, we currently use several FortiExtenders as WAN extensions in combination with 5G, SIM cards an IP passthrough. While this seems like the optimal solution we randomly encounter issues because the ISP assigns random CGNAT subnets th...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbrhf9/forticlient_ems_how_are_you_managing_invitations/" target="_blank" rel="noopener">FortiClient EMS: How are you managing invitations, installers, and deployments?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T16:13:23+00:00</div>
+    <p>Hi all, I am curious to hear how everyone is administrating EMS when it comes to invitations, installers, and deployments. For background, I am managing EMS for a client with about 130 seats. We rolled it out a couple months ago, transit...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -19,147 +107,11 @@ _Updated: October 21, 2026 • Sources filter: fortinet, fortiguard • Keywords
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbnvlx/answers_to_the_rumors/" target="_blank" rel="noopener">Answers to the rumors</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T13:57:11+00:00</div>
-    <p>FortiFamily, The following information has been been publicly released. This should help with any rumors and help with scheduling any patching maintenance windows. This has been a joint effort by Fortinet leveraging Frontier, Anthropic, ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbnuzk/fortinet_releases_security_hardening_release_for/" target="_blank" rel="noopener">Fortinet Releases Security Hardening Release for Multiple Products</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T13:56:27+00:00</div>
-    <p>submitted by /u/Reflectaliciuos [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbnni4/fortinet_releases_security_hardening_release_for/" target="_blank" rel="noopener">Fortinet Releases Security Hardening Release for Multiple Products</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T13:47:51+00:00</div>
-    <p>Get ready to patch submitted by /u/johsj [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbn37r/forticlientems_php_vulnerability/" target="_blank" rel="noopener">FortiClientEMS PHP vulnerability?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T13:24:49+00:00</div>
-    <p>Ok so I know FortiClientEMS server on Windows uses PHP, and like all PHP versions this one is vulnerable for the PHP vulnerabilities published today. So have you shutdown your EMS server? Limited access from the Internet? Has anyone had ...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/971845082/0/fortinet/blogs~Fortinet-Releases-Security-Hardening-Release-for-Multiple-Products" target="_blank" rel="noopener">Fortinet Releases Security Hardening Release for Multiple Products</a></h3>
     <div class="meta">Fortinet Blog · Wed, 21 Oct 2026 13:00:00 +0000</div>
     <p>Fortinet announces frontier AI hardening releases for a range of products including FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbi0qz/building_a_test_proxyibg/" target="_blank" rel="noopener">Building A Test (Proxyibg)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T08:58:29+00:00</div>
-    <p>Hi! We have FortiGate kit at work including 60F at branches and 600F central firewalls. I am working with our MSP to improve our web filter setup. We have a policy which catches HTTPS traffic and shoves it through a web filter policy, th...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbhifk/fortigate_does_not_record_all_logs_for_the/" target="_blank" rel="noopener">Fortigate does not record all logs for the policies he should.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T08:25:31+00:00</div>
-    <p>Hi, i&#x27;m checking logs on a 50G on 7.6.6. I recently found out that 7 day free cloud logging only works if your firmware is the absolute latest released, but i prefer using 7.6.6 because it&#x27;s the recommended firmware according to this pag...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbhfwf/anyone_running_a_749_sdwan_hub_with_76x_spokes/" target="_blank" rel="noopener">Anyone running a 7.4.9 SD-WAN hub with 7.6.x spokes?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T08:21:00+00:00</div>
-    <p>Hi all I&#x27;m looking for some feedback from people who may have gone through a similar situation. We currently have a hub-and-spoke SD-WAN deployment where our datacenter FortiGate acts as the hub and all remote sites are spokes. At the mo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbh6bv/fortigate_120g_ha_outofsync_vpncertificatelocal/" target="_blank" rel="noopener">FortiGate 120G HA out-of-sync – vpn.certificate.local (7.4.12)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T08:04:12+00:00</div>
-    <p>Hi everyone, I&#x27;m experiencing an HA synchronization issue with two FortiGate 120G units running FortiOS 7.4.12 (Active-Passive). The Secondary is out-of-sync, and the only checksum mismatch is in vpn.certificate.local. Both units have: I...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbh3f6/v768_is_out/" target="_blank" rel="noopener">v7.6.8 is out?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T07:59:33+00:00</div>
-    <p>According to AWS marketplace, it is : https://aws.amazon.com/marketplace/pp/prodview-lvfwuztjwe5b2 submitted by /u/JabbingGesture [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbg4g1/goodbye_fortinac/" target="_blank" rel="noopener">Goodbye FortiNAC</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T06:58:06+00:00</div>
-    <p>Well it happened, yesterday I decommissioned FortiNAC. After 2 years of ongoing issues and bugs we finally pulled the plug. It&#x27;s a product that has some really great features and on paper had a lot of promise. But just like the other For...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/upcfg89snrwh1.png?width=140&amp;height=122&amp;auto=webp&amp;s=93b53c8f87ae920a41f9d4f3fa0e44ac2230342a" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbfvfz/forticlient_mac_configuration_disapear/" target="_blank" rel="noopener">Forticlient Mac - configuration disapear</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T06:42:30+00:00</div>
-    <p>Hi everybody! We are in the process of deploying Forticlient in the entire company. We have several Macbooks with Forticlient installed and one of them got an error where the connection profile disappear, have somebody experienced someth...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbcg0c/fortigate_ssl_deep_packet_inspection_and_emudhra/" target="_blank" rel="noopener">Fortigate SSL Deep packet inspection and eMudhra certificate compromise</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T03:26:43+00:00</div>
-    <p>Apologies for the new account - but I need to ask the community, just called FortiNet about this and the ticket is working through. 8 eMudhra certificates are compromised. Here&#x27;s what you need to know | Cloudflare Blog We have a number o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xbavp4/748_forticlient_ems_disconnection_issues/" target="_blank" rel="noopener">7.4.8 FortiClient EMS disconnection issues?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T02:08:17+00:00</div>
-    <p>We are an IT service provider and use Omnissa VDI as jumpbox to access client networks. We&#x27;ve been testing FortiClient EMS 7.4.8 and found that when we connect to client networks via Remote Access IPsec, we lose connectivity to VDI after...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xb9t7r/fortiap_and_client_to_client_traffic/" target="_blank" rel="noopener">FortiAP and client to client traffic</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T01:16:21+00:00</div>
-    <p>If device a and device b are connected to the same FortiAP on the same SSID, and the SSID is in tunnel mode, when device a talks to device b, does the traffic go through the Fortigate or does the traffic go via the AP only? Device a &gt; Fo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xb8u0i/will_i_lose_fndn_and_fortidemo_access_if_i_leave/" target="_blank" rel="noopener">Will I lose FNDN and FortiDemo access if I leave my current employer?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-21T00:29:38+00:00</div>
-    <p>Hi everyone, I&#x27;m currently working for a Fortinet partner, and there&#x27;s a possibility that my employment may be terminated due to redundancy. I&#x27;ve invested considerable time building and configuring labs in FortiDemo and FNDN, I&#x27;d really ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xb0p7k/free_alternative_to_forticlient_vpnonly_for/" target="_blank" rel="noopener">Free alternative to FortiClient VPN-only for Windows with FortiToken 2FA and automatic split tunneling?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-20T18:52:26+00:00</div>
-    <p>As far as I know, the free FortiClient VPN-only version for Windows is no longer being actively developed. Are there any free alternatives that support both FortiToken two-factor authentication (2FA) and automatic configuration of split-...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xb0isl/7413/" target="_blank" rel="noopener">7.4.13?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-20T18:45:34+00:00</div>
-    <p>I have a fortigate in our AWS environment and received an email the Fortinet added a new firmware version to their marketplace listing. 7.4.13. However there is no mention of this firmware version even on fortinets own website. Anyone kn...</p>
   </div>
 </li>
 <li class="card">
@@ -216,14 +168,6 @@ _Updated: October 21, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/971289410/0/fortinet/blogs~Fortinet-Advances-Cybercrime-Cooperation-at-the-CSI-Global-Summit" target="_blank" rel="noopener">Fortinet Advances Cybercrime Cooperation at the CSI 2026 Global Summit</a></h3>
     <div class="meta">Fortinet Blog · Mon, 12 Oct 2026 15:00:00 +0000</div>
     <p>Fortinet joins the CSI 2026 Global Summit to advance cybercrime cooperation, building on the Cybercrime Bounty program and Cybercrime Atlas.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/971192009/0/fortinet/blogs~Leveraging-MITRE-ATTCK-TTPs-for-ThreatInformed-SecOps-A-Fortinet-Perspective" target="_blank" rel="noopener">Leveraging MITRE ATT&amp;CK TTPs for Threat-Informed SecOps: A Fortinet Perspective</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 9 Oct 2026 15:00:00 +0000</div>
-    <p>Learn how Fortinet applies MITRE ATT&amp;CK TTPs and actionable threat intelligence to help SecOps teams identify gaps and strengthen detection and response…</p>
   </div>
 </li>
 </ul>
