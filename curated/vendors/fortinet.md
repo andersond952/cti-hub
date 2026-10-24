@@ -7,9 +7,121 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe34g3/how_are_you_implementing_basic_wan_failover/" target="_blank" rel="noopener">How are you implementing basic WAN failover</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T08:19:00+00:00</div>
+    <p>I&#x27;m starting to look at moving from WAN failover with static links and WAN monitor to SD-WAN failover, mainly to be a bit cleverer about it, and I already use an SD-WAN zone to load balance between multiple IPSec tunnels. Like everything...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe2bk4/fortimanager_768_metadata_variables/" target="_blank" rel="noopener">Fortimanager 7.6.8 metadata variables</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T07:29:21+00:00</div>
+    <p>Anyone else having issues with FMG 7.6.8 not being able to push certain templates that use metadata variables? Since upgrading we are unable to push to devices that use ipsec template containing metadata variables, completely broke our w...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe27hj/ips_best_practices_for_internal_segmentation/" target="_blank" rel="noopener">IPS best practices for internal segmentation policies</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T07:22:16+00:00</div>
+    <p>Hi everyone, I’m relatively new to networking and FortiGate firewalls, and I’d like to ask about IPS best practices. Would you recommend enabling IPS on internal segmentation policies, such as Windows clients → Active Directory, SMB, RDP...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe1jw8/fortiaps_are_offline_but_can_be_pinged_from/" target="_blank" rel="noopener">FortiAPs are offline but can be pinged from firewall and are passing Capwap traffic</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T06:43:05+00:00</div>
+    <p>Already did factory reset, deauthorize and reauthorize Power cycled fortigate and netgear switch where APs are connected Killed CAPWAP process - diagnose sys kill 11 &lt; PID_of_cw_acd&gt; Ran command - diagnose wireless-controller wlac -d wtp...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe1avk/768fails/" target="_blank" rel="noopener">7.6.8fails</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T06:27:49+00:00</div>
+    <p>hubs 7.6.6 and the test spoke 7.6.8 broke after the first rekey...rac reopend And manager 7.6.8 cant push to 7.6.6 GW right now... Tac opend submitted by /u/Sea_Taste3036 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdwpam/so_how_is_everyones_experience_after_upgrading_to/" target="_blank" rel="noopener">So how is everyone’s experience after upgrading to 7.6.8 FGT, FMG and FAZ?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T02:13:08+00:00</div>
+    <p>So but I have been burned too many times in the past when upgrading Fortinet products. Curious to hear everyone’s experience after moving to 7.6.8. submitted by /u/No_World_4832 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdvu56/fortitoken_cloud_for_admin_login_broken_on/" target="_blank" rel="noopener">FortiToken Cloud for Admin Login Broken on FortiOS 7.6.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T01:28:24+00:00</div>
+    <p>I upgraded one of our FortiGate 120G HA pairs. Afterward, I could not login with my standard admin account which has FortiToken Cloud provisioned. It would accept my credentials, then act like it was wanting to use FortiToken Cloud, then...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdprg7/fortios_768_breaks_saml_sso_for_admin_gui_access/" target="_blank" rel="noopener">FortiOS 7.6.8 Breaks SAML SSO for Admin GUI Access Rant</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T20:53:17+00:00</div>
+    <p>As many others here have experienced, SAML SSO for admin GUI access stopped working on several lab FortiGates when I upgraded to 7.6.8. The login page shows “Single Sign-On Failed” when you try logging in with SSO. The SAML config is ide...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdpd3p/what_are_your_best_practices_and_checklists_for/" target="_blank" rel="noopener">What are your best practices and checklists for FortiGate, FortiManager, and FortiAnalyzer firmware upgrades?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T20:37:26+00:00</div>
+    <p>Hi everyone, I&#x27;m looking to improve and standardize our firmware upgrade procedures for FortiGate, FortiManager, and FortiAnalyzer in a production environment. We manage multiple FortiGate HA clusters in our data centers, centrally manag...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdm4kt/forticlient_vpn_xauth_issue/" target="_blank" rel="noopener">FortiClient VPN XAuth Issue</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T18:33:18+00:00</div>
+    <p>Having one of those days, can&#x27;t seem to find what I missed here..... Setup a new Firewall this week, configured the FortiClient Remote VPN the same way as the previous Firewall. Local Guest user can connect just fine from my endpoint. An...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdlr60/where_do_you_config_dhcp_server_in_fmg_blueprints/" target="_blank" rel="noopener">Where do you config DHCP Server in FMG Blueprints</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T18:19:18+00:00</div>
+    <p>I use blueprints in FMG to automate provisioning of my Fortigates which are mostly FortiWiFi 70G-PoEs, but i have some FGT 70G PoE and 90G and 80F as well. My typical approach is a run-once CLI that purges the firewall policy and DHCP se...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/3eyoc2ey49xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc161374061e57cfcd2f31d632814d6753ab9eb7" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdkeip/fortigate_600f_automation_stopped_working_after/" target="_blank" rel="noopener">FortiGate 600F – Automation stopped working after upgrading from FortiOS 7.4.12 to 7.4.13</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T17:28:19+00:00</div>
+    <p>Hi everyone, After upgrading our FortiGate 600F from FortiOS 7.4.12 to 7.4.13, our automation stitches stopped working. For example, we have a simple automation that monitors a VPN tunnel. The configuration I’m attaching worked correctly...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdhv92/issue_after_updating_fortimanager_to_768_and_one/" target="_blank" rel="noopener">Issue after updating FortiManager to 7.6.8 and one FortiGate to 7.4.13.</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T15:54:21+00:00</div>
+    <p>After updating the FortiManager to 7.6.8 and one of my FortiGates to 7.4.13 the FortiManager is now wanting to push out a change to the FortiGate on 7.4.13. It is wanting to push out the following: config vdom edit root config web-proxy ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdgygm/fortigate_50g_firmware_upgrade_from_801_to_802/" target="_blank" rel="noopener">FortiGate 50G Firmware Upgrade from 8.0.1 to 8.0.2</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T15:19:45+00:00</div>
+    <p>Anyone else having issues with FortiGate 50G Firmware Upgrade from 8.0.1 to 8.0.2? Checksum of firmware was fine. Console shows: Image verification OK! Failed to get the image encryption key! inflate() error: -3 Upgrade report is saved s...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -35,171 +147,11 @@ _Updated: October 23, 2026 • Sources filter: fortinet, fortiguard • Keywords
   </div>
 </li>
 <li class="card">
-  <img src="https://preview.redd.it/4628mxqyu7xh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d368a3e4a32b0b85d830dff0321773dfdfdfe9ad" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xddmc8/happy_firewallfriday/" target="_blank" rel="noopener">Happy #FirewallFriday 🫠</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T13:10:27+00:00</div>
-    <p>submitted by /u/jim198905 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/971908106/0/fortinet/blogs~Understanding-PHPShell-Vulnerabilities-and-Reducing-Risk-While-You-Patch" target="_blank" rel="noopener">Understanding PHP2Shell Vulnerabilities and Reducing Risk While You Patch</a></h3>
     <div class="meta">Fortinet Blog · Fri, 23 Oct 2026 13:00:00 +0000</div>
     <p>Learn how the PHP2Shell vulnerability affects web applications and how FortiGuard Labs virtual patching reduces exposure while organizations deploy critical PHP updates…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/5u0dd021m7xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=c58aaf426678f6e985d7c453adbbb3883d75bb04" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdckpm/application_control_inconsistent_behavior/" target="_blank" rel="noopener">Application control inconsistent behavior</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T12:24:43+00:00</div>
-    <p>What could cause that traffic hitting same application signature, same firewall policy, same client and same server is denied on one occasion and on another occasion is accepted? FortiOS 7.4.12. submitted by /u/mrmh1 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xda16r/am_i_the_only_one_with_this_opinion_on_the/" target="_blank" rel="noopener">Am I the only one with this opinion on the &quot;Fortinet Releases Security Hardening Releases&quot;</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T10:10:42+00:00</div>
-    <p>I’m all for patching fast and for using AI in product security testing. My concern is the disclosure model of this release, and I’d like to know how others see it. What happened On Oct 22 Fortinet shipped FortiOS 8.0.2 / 7.6.8 / 7.4.13 /...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd9uaj/apocalyptic_warning_then_silence/" target="_blank" rel="noopener">Apocalyptic warning, then silence</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T09:59:51+00:00</div>
-    <p>So after all the fuss, the updates still haven&#x27;t been pushed out to automatic update via the device GUI ? There&#x27;s already AI based diff analysis working out what has changed and the only way to avoid potential problems is to manually upd...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd9qmt/ha_200f_failover_not_working_network_down/" target="_blank" rel="noopener">HA 200F failover not working, network down</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T09:53:39+00:00</div>
-    <p>Edit: firmware: upgraded to 7.4.13 from 7.4.12, also happened at 7.4.11 → 7.4.12 HA interface connection: Both FortiGate interfaces are directly connected Only observed during upgrades, might test a manual failover after business hours N...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd9kyg/fortiguard_rating_servers_unavailable_after/" target="_blank" rel="noopener">Fortiguard rating Servers unavailable after upgrade of the Fortigate?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T09:44:09+00:00</div>
-    <p>Anybody else having issues with the web en dns filters on a Fortigate because the Fortiguard rating servers seems to be unresponsive? We block websites if the rating servers are unavailable (changed the setting to forward traffic so the ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/1x99cuazm6xh1.png?width=140&amp;height=68&amp;auto=webp&amp;s=d101774a0822674b00dbd7bb3e2b33e498443cee" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd8ye3/unauthorized_device_in_root_adom_after/" target="_blank" rel="noopener">Unauthorized device in root ADOM after FortiManager upgrade to 7.6.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T09:04:56+00:00</div>
-    <p>After upgrading our FortiManager from 7.6.7 to 7.6.8, it shows 1 unauthorized device in root ADOM. It is not visible in Device Manager though, when clicking Details in the alert, nothing happens. CLI command &#x27;dia dvm device list | grep a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/mxkundv3h6xh1.png?width=140&amp;height=91&amp;auto=webp&amp;s=56b1b8e5a8904095423a3cda259fcf4da06887ee" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd8hxl/fortimanager_7412_400_bad_request/" target="_blank" rel="noopener">FortiManager 7.4.12 - 400 Bad Request</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T08:36:41+00:00</div>
-    <p>Watch out for typo in release notes for the workaround for bug ID 1352425 FortiManager may unexpectedly push unset strict-web-check when installing policies to FortiOS 7.4.13 FortiManager may unexpectedly push the unset strict-web-check ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd80hw/fortiswitchos_fortios_compability/" target="_blank" rel="noopener">FortiSwitchOS - FortiOS compability</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T08:05:51+00:00</div>
-    <p>Does anyone know if 7.4.10 FortiSwitchOS is compatible with both FortiOS 7.4.12 and 7.4.13? And have anyone noticed any bugs on the switches? submitted by /u/bartlolli [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd5uk5/forticlient_ems_altes_vpn_profil_löschen/" target="_blank" rel="noopener">Forticlient EMS, altes VPN Profil löschen</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T05:55:49+00:00</div>
-    <p>Hi, nachdem Upgrade von der unlizensierten Windows Forticlient version (sslvpn) auf Forticlient EMS 7.4.8(ipsec) wird im Client noch das alte sslvpn Profil angezeigt. alle versuche die regkeys unter hklm und hkcu zu entfernen scheitern. ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/zuuadrgzn5xh1.png?width=140&amp;height=56&amp;auto=webp&amp;s=2cba2024f6215d96d3d1b95414b5cbcb57025203" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd5qsj/fortios_7413_upgrade_availability_via_fortigate/" target="_blank" rel="noopener">FortiOS 7.4.13 – Upgrade Availability via FortiGate GUI</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T05:49:37+00:00</div>
-    <p>https://preview.redd.it/zuuadrgzn5xh1.png?width=593&amp;format=png&amp;auto=webp&amp;s=5cdbc33415bea7105a1fe8687333aa35545ff487 Hi everyone, Does anyone know when FortiOS 7.4.13 will be available for upgrading directly through the FortiGate GUI (Fir...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd5o6t/fmg_768_pushes_unsupported_udpnotquic_to/" target="_blank" rel="noopener">FMG 7.6.8 pushes unsupported udp-not-quic to FortiGate-50G (FOS 7.6.7) – every install fails with “install OK/verify FAIL”</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T05:45:24+00:00</div>
-    <p>Hey all, after upgrading FortiManager to 7.6.8 (build 3788) , every install to our FortiGate-50G units (FortiOS 7.6.7 build3704 ) fails. Wondering if anyone else is seeing this. What happens FMG tries to push this to the default SSL/SSH ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd5eoo/anyone_have_issue_with_upgrading_from_7213_7214/" target="_blank" rel="noopener">Anyone have issue with upgrading from 7.2.13 -&gt; 7.2.14?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T05:30:09+00:00</div>
-    <p>Going to System &gt; Firmware - it doesnt show any upgrade path to 7.2.14 and says Im on the latest. If I manually download it from Fortinet - i get this message when UPLOADING it in System &gt; Firmware: A valid upgrade path cannot be determi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xd4xiq/okay_lets_hear_it_what_version_how_many_how_good/" target="_blank" rel="noopener">Okay let&#x27;s hear it - What version, how many, how good or bad</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T05:03:06+00:00</div>
-    <p>8.0.2 from what? How many, what&#x27;s the damage? 7.6.8 from what? How many, what the outcome? 7.4.13, howya doin? How many? submitted by /u/InternalServerErr500 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcytv6/php2shell_remote_code_execution_vulnerabilities/" target="_blank" rel="noopener">PHP2Shell Remote Code Execution Vulnerabilities | Outbreak Alert</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T23:58:40+00:00</div>
-    <p>Outbreak alert report has been published for php2shell submitted by /u/vsnine [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/vgl9x22523xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=83f81ac56c2b017235258a8bedea4384fe517ab8" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcuqm4/fortios_7413_images_are_being_removed_from_support/" target="_blank" rel="noopener">FortiOS 7.4.13 images are being removed from support</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T21:02:30+00:00</div>
-    <p>While I am in progress of upgrading and downloading other images I just noticed images are disappearing from website, no issues on 80F right now but anyone has some clues? There were all models available before! update: images are back w...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcujqs/did_anybody_upgrade_already_to_768/" target="_blank" rel="noopener">Did anybody upgrade already to 7.6.8???</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T20:55:05+00:00</div>
-    <p>We have a cluster running 7.6.6. Did anybody find any issue at all after the upgrade? Please share your experience here. Thanks in advance! submitted by /u/Boio_738 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xct1c4/anyone_ran_the_new_update_through_ai_and_compared/" target="_blank" rel="noopener">Anyone ran the new update through AI and compared to an older update?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T19:58:02+00:00</div>
-    <p>FortiGate 121G — FortiOS 7.4.12 to 7.4.13 firmware comparison Analysis date: October 22, 2026 New image: FGT_121G-v7.4.13.M-build2933-FORTINET.out Baseline: FGT_121G-v7.4.12.M-build2902-FORTINET.out Finding Both supplied images were succ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcpa7k/ipsecsaml_quick_question_regarding_microsoft/" target="_blank" rel="noopener">IPSEC+SAML. Quick question regarding Microsoft prompt</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T17:39:40+00:00</div>
-    <p>I managed to get everything working. When I click Connect , I’m prompted to enter my email address and password, followed by Microsoft MFA. My question is: Once MFA authentication is complete, is there a way to suppress the “Stay signed ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xcmxf6/fortios_patches_are_arriving/" target="_blank" rel="noopener">FortiOS Patches Are Arriving</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-22T16:13:37+00:00</div>
-    <p>FortiFam The FortiOS patches that were announced on 10/21 are in the process of being released. These patches are to address bugs and the CVEs that will be announced with the PSIRT on 11/11/2026. As always, we will try to update this pag...</p>
   </div>
 </li>
 <li class="card">
