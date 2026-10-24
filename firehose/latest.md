@@ -1,15 +1,63 @@
 ---
 layout: default
-title: Firehose — October 23, 2026
+title: Firehose — October 24, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-23
+# Daily CTI Firehose — 2026-10-24
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it" target="_blank" rel="noopener">Trust Is Not What It Seems — And Fraudsters Are Counting on It</a></h3>
+    <div class="meta">Dark Reading · Fri, 23 Oct 2026 20:57:56 GMT</div>
+    <p>Threat actors no longer hack in; they call help desks, impersonate trusted brands, and use AI-powered deepfakes to walk through the front door.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33452" target="_blank" rel="noopener">(Reliable)&amp;#x3f; php2shell exploitability, (Fri, Oct 23rd)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Fri, 23 Oct 2026 20:04:47 GMT</div>
+    <p>Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability. However, after looking closely at some published PoC&#x27;s - and there is an unbelievable amount of AI generated - erm, slop - it looks ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice" target="_blank" rel="noopener">Exposed to PHP2Shell? Cyber Experts Weigh in With Advice</a></h3>
+    <div class="meta">Dark Reading · Fri, 23 Oct 2026 19:41:23 GMT</div>
+    <p>Fixing PHP2Shell is not as simple as clicking &quot;Update.&quot; Here&#x27;s how to assess your risk, and what you can do to protect yourself.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_Links.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/" target="_blank" rel="noopener">Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</a></h3>
+    <div class="meta">Microsoft Security Blog · Fri, 23 Oct 2026 18:12:19 +0000</div>
+    <p>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/fcc_f0096cadc5.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/fcc-bans-devices-huawei-surveillance-chips" target="_blank" rel="noopener">FCC bans two devices with surveillance chips linked to Huawei</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 23 Oct 2026 17:28:00 GMT</div>
+    <p>The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7023e63db2b06bb/6adb780c560f54c5dbf647e8/economics-cybersecurity-Ton_Wanniwat-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost" target="_blank" rel="noopener">AI Tools Are Generating Massive Attacks for Little Cost</a></h3>
+    <div class="meta">Dark Reading · Fri, 23 Oct 2026 17:26:59 GMT</div>
+    <p>One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c2c56022ab6d6c2/6ada53fbcca51d530a712e5f/Caribbean-FrankRamspott-Getty-1627410191.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
@@ -23,7 +71,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33450" target="_blank" rel="noopener">PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 23 Oct 2026 13:43:20 GMT</div>
-    <p>PHP Vulnerability Wrap-Up, Author: Johannes Ullrich</p>
+    <p>SANS.edu Internet Storm Center. Today&#x27;s Top Story: (Reliable)? php2shell exploitability;PHP Vulnerability Wrap-Up;</p>
   </div>
 </li>
 <li class="card">
@@ -59,11 +107,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33448" target="_blank" rel="noopener">ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 23 Oct 2026 10:25:11 GMT</div>
-    <p>ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, Author: Johannes Ullrich</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/php_shahadat_rahman_unsplash_14f00bee62.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/php-php2shell-exploitation-attempts-pocs" target="_blank" rel="noopener">Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 23 Oct 2026 04:00:00 GMT</div>
+    <p>The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.</p>
   </div>
 </li>
 <li class="card">
@@ -107,22 +163,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/vulnerability_digital_64411ae86a.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident" target="_blank" rel="noopener">Indian tech company eMudhra announces withdrawal from certificate business after security incident</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 22 Oct 2026 18:46:00 GMT</div>
-    <p>The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company&#x27;s private keys was just the number four.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/AI_agents_1_e0b6353553.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/china-cyber-connectwise-ai" target="_blank" rel="noopener">Microsoft blames ConnectWise attacks on Chinese state hacker using ARTEX AI agents</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 22 Oct 2026 16:30:00 GMT</div>
-    <p>A Chinese government-aligned hacking group used automated tools to carry out the recent supply chain attack on IT management software company ConnectWise and is using the same techniques to try to compromise organizations around the glob...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb007aa0874801a0/66d0c3e50b3ca622a148bb6f/Mungkhood_Studio-cyber-insurance-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage" target="_blank" rel="noopener">As AI Risks Grow, Insurers Split on Covering the Damage</a></h3>
@@ -139,11 +179,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33446" target="_blank" rel="noopener">ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 22 Oct 2026 02:00:02 GMT</div>
-    <p>ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, Author: Johannes Ullrich</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -155,11 +195,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33440" target="_blank" rel="noopener">Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &amp;#x5b;infocon yellow&amp;#x5d;, (Wed, Oct 21st)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 21 Oct 2026 21:02:43 GMT</div>
-    <p>Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], Author: Johannes Ullrich</p>
+    <p>PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before ...</p>
   </div>
 </li>
 <li class="card">
@@ -219,7 +259,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/" target="_blank" rel="noopener">Widespread PHP Flaw May Cause Many Site Outages Today</a></h3>
     <div class="meta">Krebs on Security · Wed, 21 Oct 2026 15:26:07 +0000</div>
@@ -239,7 +279,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33438" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 21 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, Author: Johannes Ullrich</p>
+    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
   </div>
 </li>
 <li class="card">
@@ -279,7 +319,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33436" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Tue, 20 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, Author: Johannes Ullrich</p>
+    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
   </div>
 </li>
 <li class="card">
@@ -323,7 +363,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/" target="_blank" rel="noopener">Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</a></h3>
     <div class="meta">Krebs on Security · Mon, 19 Oct 2026 13:48:56 +0000</div>
@@ -343,7 +383,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33434" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Sun, 18 Oct 2026 12:59:30 GMT</div>
-    <p>Orphaned VBA Projects Inside DWG Files: YARA Rule, Author: Didier Stevens</p>
+    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
   </div>
 </li>
 <li class="card">
@@ -427,14 +467,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/Zachary_Norwood_pic1.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33426" target="_blank" rel="noopener">Panchan&#x27;s Mining Island &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Oct 14th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Thu, 15 Oct 2026 23:03:42 GMT</div>
-    <p>Panchan&#x27;s Mining Island [Guest Diary], Author: Guy Bruneau</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape" target="_blank" rel="noopener">SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape</a></h3>
@@ -459,7 +491,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fef1a5b52640035/6ad2596ea7e47a611834201e/Software_patch_Zoonar_GmbH_Alamy_REVISED_FOR_16_BY_9.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fef1a5b52640035/6ad2596ea7e47a611834201e/Software_patch_Zoonar_GmbH_Alamy_REVISED_FOR_16_BY_9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you" target="_blank" rel="noopener">Vulnerability Management Isn&#x27;t About the Score — It&#x27;s About How It Applies to You</a></h3>
     <div class="meta">Dark Reading · Thu, 15 Oct 2026 15:17:18 GMT</div>
@@ -467,7 +499,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware" target="_blank" rel="noopener">EU Grocers Pay a Steep Price for Unpatched Fridge Firmware</a></h3>
     <div class="meta">Dark Reading · Thu, 15 Oct 2026 07:00:00 GMT</div>
@@ -475,19 +507,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c7ce56f98018528/6acfd608b8750c62d9a7bd46/patching-Florencio_Horcajo_Alvarez-Getty-2270656800.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/vulnerabilities-threats/ivanti-ics-zero-day-attacks-vendor-patching" target="_blank" rel="noopener">Ivanti ICS Zero-Day Attacks Highlight Vendor Patching Hurdles</a></h3>
     <div class="meta">Dark Reading · Wed, 14 Oct 2026 21:20:13 GMT</div>
-    <p>CVE-2026-104935, an authentication bypass + RCE vulnerability, was only partially patched in July, leaving an opening for threat actors to capitalize on.</p>
+    <p>CVE-2026-104935, a high-severity authentication bypass + RCE vulnerability, was only partially discovered and patched in July, leaving an opening for threat actors to capitalize on.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9dea48f154a2fb24/6acfd2ceaf9e572367afea5c/fishing_hooks-MicroStockHub-GettyImages-2193660035.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/yam-store-phishing-network-behind-billion-messages" target="_blank" rel="noopener">Yam Store: The Phishing Network Behind a Billion Messages</a></h3>
     <div class="meta">Dark Reading · Wed, 14 Oct 2026 20:57:16 GMT</div>
-    <p>An underground marketplace, Yam Store, linked cloud infrastructure, phishing kits, and criminal services behind more than 1 billion phishing messages.</p>
+    <p>A sprawling cybercrime marketplace supplied cloud infrastructure and phishing kits that helped fuel more than 1 billion phishing messages worldwide.</p>
   </div>
 </li>
 <li class="card">
@@ -571,30 +603,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt86362c732a1ea960/6acd300ce9fd233382c61151/business_negotiation-rudall30-GettyImages-2291181534.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/insider-threats/prominent-ransomware-negotiator-extortion-charges" target="_blank" rel="noopener">Prominent Ransomware Negotiator Faces Extortion Charges</a></h3>
-    <div class="meta">Dark Reading · Mon, 12 Oct 2026 20:00:53 GMT</div>
-    <p>Edward Dubrovsky, a longtime cybersecurity executive, was arrested and charged in Pennsylvania last week under conspiracy to extort money.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc4e8be3c10aa2950/6acd23ee26d33c046ebc6ef9/resilience-hogehoge511-Getty-2296989476.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/cyber-resilience-starts-with-iam" target="_blank" rel="noopener">No Identity, No Recovery: Cyber Resilience Starts With IAM</a></h3>
-    <div class="meta">Dark Reading · Mon, 12 Oct 2026 18:27:25 GMT</div>
-    <p>The proliferation of enterprise apps and the centrality of cloud identity providers requires an identity security rethink.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1af4e2379ab157d1/6acccef948d88f002c998abc/relay-baton-fstop123-Getty-471909139.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/passing-baton-dark-reading-new-editor-in-chief" target="_blank" rel="noopener">Passing the Baton: Dark Reading Names New Editor-in-Chief</a></h3>
-    <div class="meta">Dark Reading · Mon, 12 Oct 2026 12:30:58 GMT</div>
-    <p>Fahmida Y. Rashid will keep the momentum going as she leads Dark Reading.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://krebsonsecurity.com/wp-content/uploads/2026/10/dubrovsky-li.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank" rel="noopener">FBI Arrests Executive at Ransomware Negotiation Firm</a></h3>
@@ -648,14 +656,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/" target="_blank" rel="noopener">Insights from the 2026 Microsoft Digital Defense Report</a></h3>
     <div class="meta">Microsoft Security Blog · Thu, 01 Oct 2026 14:00:00 +0000</div>
     <p>Every year, the Microsoft Digital Defense Report gives us an opportunity to step back from individual threats and look broadly at what Microsoft’s security and threat intelligence teams are seeing. Today, we released the 2026 Report , wh...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Ignite_2025-11-18_0339-1-scaled.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/" target="_blank" rel="noopener">​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a></h3>
-    <div class="meta">Microsoft Security Blog · Wed, 30 Sep 2026 19:31:00 +0000</div>
-    <p>In this article Why you should attend Microsoft Ignite Make the most of your time at Microsoft Ignite Explore the Security sessions at Microsoft Ignite 2026 Build your schedule In the agentic era, the stakes are higher: AI agents now act...</p>
   </div>
 </li>
 <li class="card">
