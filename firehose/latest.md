@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Firehose — October 24, 2026
+title: Firehose — October 25, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-24
+# Daily CTI Firehose — 2026-10-25
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
@@ -19,11 +19,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33452" target="_blank" rel="noopener">(Reliable)&amp;#x3f; php2shell exploitability, (Fri, Oct 23rd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 23 Oct 2026 20:04:47 GMT</div>
-    <p>Yesterday everyone was running around like crazy (me included :) because of the php2shell vulnerability. However, after looking closely at some published PoC&#x27;s - and there is an unbelievable amount of AI generated - erm, slop - it looks ...</p>
+    <p>(Reliable)? php2shell exploitability, Author: Bojan Zdrnja</p>
   </div>
 </li>
 <li class="card">
@@ -71,7 +71,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33450" target="_blank" rel="noopener">PHP Vulnerability Wrap-Up, (Fri, Oct 23rd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 23 Oct 2026 13:43:20 GMT</div>
-    <p>SANS.edu Internet Storm Center. Today&#x27;s Top Story: (Reliable)? php2shell exploitability;PHP Vulnerability Wrap-Up;</p>
+    <p>PHP Vulnerability Wrap-Up, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -107,11 +107,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33448" target="_blank" rel="noopener">ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, (Fri, Oct 23rd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 23 Oct 2026 10:25:11 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Friday, October 23rd, 2026 https://isc.sans.edu/podcastdetail/10148, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -179,11 +179,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33446" target="_blank" rel="noopener">ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, (Thu, Oct 22nd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Thu, 22 Oct 2026 02:00:02 GMT</div>
-    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
+    <p>ISC Stormcast For Thursday, October 22nd, 2026 https://isc.sans.edu/podcastdetail/10146, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -195,11 +195,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33440" target="_blank" rel="noopener">Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) &amp;#x5b;infocon yellow&amp;#x5d;, (Wed, Oct 21st)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 21 Oct 2026 21:02:43 GMT</div>
-    <p>PHP.net announced that it will release a critical update today. We decided to change the infoCon to YELLOW due to the widespread use of PHP, the expected severity of the flaw (CVSS 9.4), and the availability of early PoC exploits before ...</p>
+    <p>Critical PHP Vulnerability (CVE-2026-109618, CVE-2026-109619) [infocon yellow], Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -259,7 +259,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/" target="_blank" rel="noopener">Widespread PHP Flaw May Cause Many Site Outages Today</a></h3>
     <div class="meta">Krebs on Security · Wed, 21 Oct 2026 15:26:07 +0000</div>
@@ -279,7 +279,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33438" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 21 Oct 2026 02:00:03 GMT</div>
-    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
+    <p>ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -319,7 +319,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33436" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Tue, 20 Oct 2026 02:00:03 GMT</div>
-    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
+    <p>ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -363,7 +363,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/" target="_blank" rel="noopener">Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</a></h3>
     <div class="meta">Krebs on Security · Mon, 19 Oct 2026 13:48:56 +0000</div>
@@ -383,7 +383,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33434" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Sun, 18 Oct 2026 12:59:30 GMT</div>
-    <p>SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.</p>
+    <p>Orphaned VBA Projects Inside DWG Files: YARA Rule, Author: Didier Stevens</p>
   </div>
 </li>
 <li class="card">
