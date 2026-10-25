@@ -7,119 +7,103 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe34g3/how_are_you_implementing_basic_wan_failover/" target="_blank" rel="noopener">How are you implementing basic WAN failover</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T08:19:00+00:00</div>
-    <p>I&#x27;m starting to look at moving from WAN failover with static links and WAN monitor to SD-WAN failover, mainly to be a bit cleverer about it, and I already use an SD-WAN zone to load balance between multiple IPSec tunnels. Like everything...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xf1ry8/ipsec_cert_error/" target="_blank" rel="noopener">IPSEC Cert Error</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T13:00:56+00:00</div>
+    <p>We are running dial up IPSEC VPN connections with so to Entra. Last week we had to rekey our SSL cert as part of the GoDaddy/Starfield mass rekey. After importing the new cert users get a cert authority invalid error when Chrome is set a...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe2bk4/fortimanager_768_metadata_variables/" target="_blank" rel="noopener">Fortimanager 7.6.8 metadata variables</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T07:29:21+00:00</div>
-    <p>Anyone else having issues with FMG 7.6.8 not being able to push certain templates that use metadata variables? Since upgrading we are unable to push to devices that use ipsec template containing metadata variables, completely broke our w...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xf089p/downgrading_from_762_to_7413/" target="_blank" rel="noopener">Downgrading from 7.6.2 to 7.4.13?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T11:42:47+00:00</div>
+    <p>Has anyone tried this? We upgraded to 7.6.2 to be able to go from SSL remote vpn to IPSEC. Before realising we needed EMS or other paid version to use IKEv2 and IKEv1 is not an option, because it&#x27;s for 1500+ users. We&#x27;ve been looking int...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe27hj/ips_best_practices_for_internal_segmentation/" target="_blank" rel="noopener">IPS best practices for internal segmentation policies</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T07:22:16+00:00</div>
-    <p>Hi everyone, I’m relatively new to networking and FortiGate firewalls, and I’d like to ask about IPS best practices. Would you recommend enabling IPS on internal segmentation policies, such as Windows clients → Active Directory, SMB, RDP...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xey0p8/preparing_for_fortinet_nse_4_would_love_your/" target="_blank" rel="noopener">Preparing for Fortinet NSE 4, would love your advice</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T09:34:56+00:00</div>
+    <p>Hi everyone, I’m currently preparing for the Fortinet NSE 4 exam, and I’d love to hear from people who have already cleared it. I’ve set up a lab and I’m practicing on FortiGate, along with a Udemy course. What else helped you the most? ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe1jw8/fortiaps_are_offline_but_can_be_pinged_from/" target="_blank" rel="noopener">FortiAPs are offline but can be pinged from firewall and are passing Capwap traffic</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T06:43:05+00:00</div>
-    <p>Already did factory reset, deauthorize and reauthorize Power cycled fortigate and netgear switch where APs are connected Killed CAPWAP process - diagnose sys kill 11 &lt; PID_of_cw_acd&gt; Ran command - diagnose wireless-controller wlac -d wtp...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xextah/ztna_tags_broken_on_768/" target="_blank" rel="noopener">ZTNA tags broken on 7.6.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T09:21:49+00:00</div>
+    <p>Has anyone else experienced issues with ZTNA tags following an upgrade to FortiOS 7.6.8? I’ve upgraded from FortiOS 7.6.7 to 7.6.8, and since the upgrade, all ZTNA tags received from FortiClient EMS 7.4.8 are showing zero matched endpoin...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xe1avk/768fails/" target="_blank" rel="noopener">7.6.8fails</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T06:27:49+00:00</div>
-    <p>hubs 7.6.6 and the test spoke 7.6.8 broke after the first rekey...rac reopend And manager 7.6.8 cant push to 7.6.6 GW right now... Tac opend submitted by /u/Sea_Taste3036 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xexhv7/50g_on_766_with_ipsec_dial_up_and_local_users_am/" target="_blank" rel="noopener">50g on 7.6.6 with IPsec dial up and local users, am I impacted by the vulnerability?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T09:01:54+00:00</div>
+    <p>As far as I read, I&#x27;m not sure if a simple configuration like this might be a problem to me. I installed this firewall a couple of weeks ago, it is basically new. Firewall does not expose itself on wan, management Https interface only ac...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdwpam/so_how_is_everyones_experience_after_upgrading_to/" target="_blank" rel="noopener">So how is everyone’s experience after upgrading to 7.6.8 FGT, FMG and FAZ?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T02:13:08+00:00</div>
-    <p>So but I have been burned too many times in the past when upgrading Fortinet products. Curious to hear everyone’s experience after moving to 7.6.8. submitted by /u/No_World_4832 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xevs9l/fortigate_hawan_failover/" target="_blank" rel="noopener">FortiGate HA/WAN failover</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T07:17:17+00:00</div>
+    <p>Hi everyone, I&#x27;m stuck with two FortiGate 400F firewalls and hoping for some help. We recently installed a backup internet line and set up resiliency on both firewalls. The first failover test worked fine. A week later we tested again to...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdvu56/fortitoken_cloud_for_admin_login_broken_on/" target="_blank" rel="noopener">FortiToken Cloud for Admin Login Broken on FortiOS 7.6.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T01:28:24+00:00</div>
-    <p>I upgraded one of our FortiGate 120G HA pairs. Afterward, I could not login with my standard admin account which has FortiToken Cloud provisioned. It would accept my credentials, then act like it was wanting to use FortiToken Cloud, then...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeueek/windows_pcs_cant_connect_after_7413/" target="_blank" rel="noopener">windows pcs cant connect after 7.4.13</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T05:54:45+00:00</div>
+    <p>we pushed 7.4.13 on three sites and experiending a weird case. site 1. works fine site 2. windows pcs cannot connect anywhere we have a linux baed on nvr on the same subnet and i see the traffic on the fgt logs site 3. fortiswitch shows ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdprg7/fortios_768_breaks_saml_sso_for_admin_gui_access/" target="_blank" rel="noopener">FortiOS 7.6.8 Breaks SAML SSO for Admin GUI Access Rant</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T20:53:17+00:00</div>
-    <p>As many others here have experienced, SAML SSO for admin GUI access stopped working on several lab FortiGates when I upgraded to 7.6.8. The login page shows “Single Sign-On Failed” when you try logging in with SSO. The SAML config is ide...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xero1y/this_update_round_man/" target="_blank" rel="noopener">This update round man</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T03:21:36+00:00</div>
+    <p>Almost 30 years deep in the software game I&#x27;m questioning my own assumptions re &quot;mature.&quot; If you need to fix 7.6.7, you check out that tag to a new branch, apply the fixes, use that to strike a 7.6.8, then merge the changes to your devel...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdpd3p/what_are_your_best_practices_and_checklists_for/" target="_blank" rel="noopener">What are your best practices and checklists for FortiGate, FortiManager, and FortiAnalyzer firmware upgrades?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T20:37:26+00:00</div>
-    <p>Hi everyone, I&#x27;m looking to improve and standardize our firmware upgrade procedures for FortiGate, FortiManager, and FortiAnalyzer in a production environment. We manage multiple FortiGate HA clusters in our data centers, centrally manag...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeoqox/768_still_missing_from_fortigate_cloud/" target="_blank" rel="noopener">7.6.8 Still Missing from Fortigate Cloud</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T00:51:53+00:00</div>
+    <p>I saw the firmware drop for 40F, but it’s still missing for 70G and 90G. Does anyone know when we can expect it to be available? submitted by /u/Jwblant [link] [comments]</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdm4kt/forticlient_vpn_xauth_issue/" target="_blank" rel="noopener">FortiClient VPN XAuth Issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T18:33:18+00:00</div>
-    <p>Having one of those days, can&#x27;t seem to find what I missed here..... Setup a new Firewall this week, configured the FortiClient Remote VPN the same way as the previous Firewall. Local Guest user can connect just fine from my endpoint. An...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeoop1/fortimanager_policy_package_status_unknown_after/" target="_blank" rel="noopener">Fortimanager Policy package status unknown after newest update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T00:49:06+00:00</div>
+    <p>https://imgur.com/a/IIsnyqy After pushing 7.4.13 image to a pair of Fortigates, Fortimanager 7.4.12 is showing &quot;policy package status unknown.&quot; When I install preview after selecting Install Wizard, it says &quot;no preview result.&quot; And lastl...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdlr60/where_do_you_config_dhcp_server_in_fmg_blueprints/" target="_blank" rel="noopener">Where do you config DHCP Server in FMG Blueprints</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T18:19:18+00:00</div>
-    <p>I use blueprints in FMG to automate provisioning of my Fortigates which are mostly FortiWiFi 70G-PoEs, but i have some FGT 70G PoE and 90G and 80F as well. My typical approach is a run-once CLI that purges the firewall policy and DHCP se...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/3eyoc2ey49xh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=dc161374061e57cfcd2f31d632814d6753ab9eb7" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdkeip/fortigate_600f_automation_stopped_working_after/" target="_blank" rel="noopener">FortiGate 600F – Automation stopped working after upgrading from FortiOS 7.4.12 to 7.4.13</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T17:28:19+00:00</div>
-    <p>Hi everyone, After upgrading our FortiGate 600F from FortiOS 7.4.12 to 7.4.13, our automation stitches stopped working. For example, we have a simple automation that monitors a VPN tunnel. The configuration I’m attaching worked correctly...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeiiqp/2fa_ha_broken_after_update_to_768/" target="_blank" rel="noopener">2FA &amp; HA Broken after update to 7.6.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T20:08:37+00:00</div>
+    <p>Title, Fortigate 80F. Upgraded from 7.6.6 to 7.6.8, VPN access users are not getting the prompt for 2FA authentication to sign in following the update. Tested on a temporary user without 2FA and the user connected without issue. HA is al...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdhv92/issue_after_updating_fortimanager_to_768_and_one/" target="_blank" rel="noopener">Issue after updating FortiManager to 7.6.8 and one FortiGate to 7.4.13.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T15:54:21+00:00</div>
-    <p>After updating the FortiManager to 7.6.8 and one of my FortiGates to 7.4.13 the FortiManager is now wanting to push out a change to the FortiGate on 7.4.13. It is wanting to push out the following: config vdom edit root config web-proxy ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdgygm/fortigate_50g_firmware_upgrade_from_801_to_802/" target="_blank" rel="noopener">FortiGate 50G Firmware Upgrade from 8.0.1 to 8.0.2</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T15:19:45+00:00</div>
-    <p>Anyone else having issues with FortiGate 50G Firmware Upgrade from 8.0.1 to 8.0.2? Checksum of firmware was fine. Console shows: Image verification OK! Failed to get the image encryption key! inflate() error: -3 Upgrade report is saved s...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xec38n/fortinet_fabric_real_world_usage/" target="_blank" rel="noopener">Fortinet Fabric real world usage</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T15:50:21+00:00</div>
+    <p>Worked with gates for years but just recently ventured into other Fortinet products. How popular is the full fortifabric solution using switches and APs? From what I can tell this is a great solution for retail sites or maybe small campu...</p>
   </div>
 </li>
 <li class="card">
@@ -128,14 +112,6 @@ _Updated: October 24, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/971913593/0/fortinet/blogs~FortiSwitch-AXG-Built-for-the-Next-Phase-of-HighDensity-Campus-and-Data-Center-Networks" target="_blank" rel="noopener">FortiSwitch AX9000G: Built for the Next Phase of High-Density Campus and Data Center Networks</a></h3>
     <div class="meta">Fortinet Blog · Fri, 23 Oct 2026 15:00:00 +0000</div>
     <p>Discover how Fortinet FortiSwitch AX9000G delivers high-density switching, scalable connectivity, and Wi-Fi 7 support for campus and data center networks.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xdg3mo/fortimanager_768_upgrade_issue/" target="_blank" rel="noopener">FortiManager 7.6.8 Upgrade Issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-23T14:47:31+00:00</div>
-    <p>Just a heads up, I moved our FortiManager VM to 7.6.8 this morning, from 7.6.7. After the upgrade, I was unable to log in with anything but the local admin account. This was on the Web Interface as well as SSH. It appears that during the...</p>
   </div>
 </li>
 <li class="card">
