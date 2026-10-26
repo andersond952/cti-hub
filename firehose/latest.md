@@ -1,19 +1,83 @@
 ---
 layout: default
-title: Firehose — October 25, 2026
+title: Firehose — October 26, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-25
+# Daily CTI Firehose — 2026-10-26
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
+  <img src="https://cms.therecord.media/uploads/starlink_1_e61cf45fb4.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse" target="_blank" rel="noopener">Ukraine disputes Musk&#x27;s claims of Starlink misuse as military connectivity restored</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 16:40:00 GMT</div>
+    <p>Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/debt_money_wallet_09a534460e.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams" target="_blank" rel="noopener">Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 16:37:00 GMT</div>
+    <p>44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/dahua_camera_pexels_thomas_veillon_34628c9764.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked" target="_blank" rel="noopener">Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 14:21:00 GMT</div>
+    <p>CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0de7e1fa7b975bb4/6a2830dd09a01a8cc3ee406e/bug-sankai-Getty-2192972249.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years" target="_blank" rel="noopener">10 Software Security Practices Built for the Next 250 Years</a></h3>
+    <div class="meta">Dark Reading · Mon, 26 Oct 2026 14:00:00 GMT</div>
+    <p>This Cybersecurity Awareness Month&#x27;s theme, &quot;Securing the Next 250,&quot; asks us to look beyond the vulnerability.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Lite_LLM_be1a113cd2.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/litellm-hackers-ai-malware" target="_blank" rel="noopener">Popular AI tool LiteLLM says unrevoked key allowed hackers to target users</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 12:00:00 GMT</div>
+    <p>LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/Jeffray_Spence_pic1.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33442" target="_blank" rel="noopener">Looking for a Language &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Oct 21st)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 26 Oct 2026 09:38:03 GMT</div>
+    <p>Looking for a Language [Guest Diary], Author: Guy Bruneau</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33456" target="_blank" rel="noopener">ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, (Mon, Oct 26th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 26 Oct 2026 03:30:12 GMT</div>
+    <p>ISC Stormcast For Monday, October 26th, 2026 https://isc.sans.edu/podcastdetail/10150, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33454" target="_blank" rel="noopener">YARA-X 1.22.0 Release, (Sun, Oct 25th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Sun, 25 Oct 2026 19:57:53 GMT</div>
+    <p>YARA-X 1.22.0 Release, Author: Didier Stevens</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it" target="_blank" rel="noopener">Trust Is Not What It Seems — And Fraudsters Are Counting on It</a></h3>
+    <h3><a href="https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it" target="_blank" rel="noopener">Trust Is Not What It Seems — and Fraudsters Are Counting on It</a></h3>
     <div class="meta">Dark Reading · Fri, 23 Oct 2026 20:57:56 GMT</div>
     <p>Threat actors no longer hack in; they call help desks, impersonate trusted brands, and use AI-powered deepfakes to walk through the front door.</p>
   </div>
@@ -83,22 +147,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/undersea_cables_illustration_getty_unsplash_36603fb153.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/uk-undersea-cables-sabotage-new-sentencing-guidelines" target="_blank" rel="noopener">UK proposes 14-year prison terms for undersea cable sabotage</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 23 Oct 2026 13:26:00 GMT</div>
-    <p>In an era of hybrid threats, the British government wants to update the Submarine Telegraph Act 1885, which carries a maximum fine of £1,000 and five years’ imprisonment in cases of deliberate damage.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/DSC_05112_bf00638451.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/quest-diagnostics-network-intrusion" target="_blank" rel="noopener">Quest Diagnostics warns of potential data theft after attack on lab service system</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 23 Oct 2026 12:52:00 GMT</div>
-    <p>Nationwide lab test company Quest Diagnostics said one of its key systems may have experienced a breach of patient data.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack" target="_blank" rel="noopener">AI Agents as Insider Threats: Inside Microsoft&#x27;s Bet on a Unified Security Stack</a></h3>
@@ -115,27 +163,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/php_shahadat_rahman_unsplash_14f00bee62.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/php-php2shell-exploitation-attempts-pocs" target="_blank" rel="noopener">Reports of PHP bug exploitation attempts grow as experts downplay viability of exploits</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 23 Oct 2026 04:00:00 GMT</div>
-    <p>The headline-grabbing bugs known colloquially as PHP2Shell are giving cyber analysts a lot to track — and a lot to debunk.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak" target="_blank" rel="noopener">State Bank of India Suffers a Customer PII Data Leak</a></h3>
     <div class="meta">Dark Reading · Fri, 23 Oct 2026 03:30:00 GMT</div>
     <p>Relatively small breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/Toronto_Police_PP_13cea6d12f.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach" target="_blank" rel="noopener">Toronto crime tips org freezes operations after details of data breach come to light</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 22 Oct 2026 20:52:00 GMT</div>
-    <p>Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.</p>
   </div>
 </li>
 <li class="card">
@@ -363,7 +395,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/" target="_blank" rel="noopener">Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site</a></h3>
     <div class="meta">Krebs on Security · Mon, 19 Oct 2026 13:48:56 +0000</div>
@@ -376,14 +408,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/" target="_blank" rel="noopener">Agents are your newest insiders. Security must move at their speed.</a></h3>
     <div class="meta">Microsoft Security Blog · Mon, 19 Oct 2026 13:00:00 +0000</div>
     <p>New capabilities in Microsoft 365 E7 and Project Perception help organizations contain agent risk and adapt protection continuously.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33434" target="_blank" rel="noopener">Orphaned VBA Projects Inside DWG Files: YARA Rule, (Sun, Oct 18th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Sun, 18 Oct 2026 12:59:30 GMT</div>
-    <p>Orphaned VBA Projects Inside DWG Files: YARA Rule, Author: Didier Stevens</p>
   </div>
 </li>
 <li class="card">
@@ -451,22 +475,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33432" target="_blank" rel="noopener">ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, (Fri, Oct 16th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Fri, 16 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Friday, October 16th, 2026 https://isc.sans.edu/podcastdetail/10140, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33430" target="_blank" rel="noopener">Small Agents, Smaller Blast Radius: Controlling What AI Can Do, (Fri, Oct 16th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Fri, 16 Oct 2026 00:46:35 GMT</div>
-    <p>Small Agents, Smaller Blast Radius: Controlling What AI Can Do, Author: Mark Baggett</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape" target="_blank" rel="noopener">SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape</a></h3>
@@ -483,7 +491,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks" target="_blank" rel="noopener">AI Slop Isn&#x27;t Just for Social Media; It&#x27;s Ruining Cyberattacks, Too</a></h3>
     <div class="meta">Dark Reading · Thu, 15 Oct 2026 20:43:20 GMT</div>
@@ -592,14 +600,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms" target="_blank" rel="noopener">Anthropic Finds Ingredients for Future AI Worms</a></h3>
     <div class="meta">Dark Reading · Tue, 13 Oct 2026 20:35:23 GMT</div>
     <p>Anthropic&#x27;s latest study combines IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt03ff00aa0ccf043c/685b010d7bd6c2cb5e6d4834/SonicWall_sign_Michael_Vi_Alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/max-severity-ssrf-flaw-sonicwall-sma-devices-under-attack" target="_blank" rel="noopener">Maximum-Severity SSRF Flaw in SonicWall SMA Devices Under Attack</a></h3>
-    <div class="meta">Dark Reading · Mon, 12 Oct 2026 21:42:42 GMT</div>
-    <p>Attackers are currently targeting a critical vulnerability in SMA 1000 appliances, putting SonicWall customers in a familiar yet unenviable position.</p>
   </div>
 </li>
 <li class="card">
