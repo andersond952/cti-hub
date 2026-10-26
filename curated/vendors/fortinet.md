@@ -7,103 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 25, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 26, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xf1ry8/ipsec_cert_error/" target="_blank" rel="noopener">IPSEC Cert Error</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T13:00:56+00:00</div>
-    <p>We are running dial up IPSEC VPN connections with so to Entra. Last week we had to rekey our SSL cert as part of the GoDaddy/Starfield mass rekey. After importing the new cert users get a cert authority invalid error when Chrome is set a...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xfxx3q/7413_ipsec_sa_uses_wrong_peer_ip_after_natt_ddns/" target="_blank" rel="noopener">7.4.13: IPsec SA uses wrong peer IP after NAT-T (ddns tunnels behind CGNAT up but no traffic)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-26T14:11:00+00:00</div>
+    <p>After upgrading our hub (FortiGate-VM on Azure) from 7.4.12 b2902 to 7.4.13 b2933, 3 of ~200 site-to-site tunnels stopped passing traffic. The rest are fine. Setup of the affected tunnels: - Hub: phase1 type ddns (remotegw-ddns *.fortidd...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xf089p/downgrading_from_762_to_7413/" target="_blank" rel="noopener">Downgrading from 7.6.2 to 7.4.13?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T11:42:47+00:00</div>
-    <p>Has anyone tried this? We upgraded to 7.6.2 to be able to go from SSL remote vpn to IPSEC. Before realising we needed EMS or other paid version to use IKEv2 and IKEv1 is not an option, because it&#x27;s for 1500+ users. We&#x27;ve been looking int...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xfxenp/fgt_200f_upgrade_to_7413_how_is_your_experience/" target="_blank" rel="noopener">FGT 200F upgrade to 7.4.13. How is your experience?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-26T13:51:48+00:00</div>
+    <p>Hello! I have FGT 200f running SSLVPN, L2TP with DUP 2FA and IPSEC tunnel. They are in Active passive mode with direct cables connected to each other for HA. If some has upgrade on similar model and can tell any issue that happened? Than...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xey0p8/preparing_for_fortinet_nse_4_would_love_your/" target="_blank" rel="noopener">Preparing for Fortinet NSE 4, would love your advice</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T09:34:56+00:00</div>
-    <p>Hi everyone, I’m currently preparing for the Fortinet NSE 4 exam, and I’d love to hear from people who have already cleared it. I’ve set up a lab and I’m practicing on FortiGate, along with a Udemy course. What else helped you the most? ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xfx5ty/ipsec_tunnel_issue_after_upgrading_to_7413/" target="_blank" rel="noopener">IPsec tunnel issue after upgrading to 7.4.13</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-26T13:42:01+00:00</div>
+    <p>So far after upgrading to 7.4.13 on 2 different customer’s fortigate, we encounter ipsec tunnel become down and unable to establish. Ike debug showing phase1 keep retransmission Anyone encounter similiar issue after upgrading to 7.4.13? ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/971988152/0/fortinet/blogs~Extending-Network-Security-to-AI-Applications-with-FortiAIGate" target="_blank" rel="noopener">Extending Network Security to AI Applications with FortiAIGate</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 26 Oct 2026 13:00:00 +0000</div>
+    <p>FortiAIGate extends network security with AI guardrails that inspect prompts, responses, and tool calls to protect data and govern AI use.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/sh1rfusi2txh1.png?width=140&amp;height=83&amp;auto=webp&amp;s=a91eae3cdc1124efd1362afaa9edcd126a7ffa3c" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xfvhf6/fortigate_with_controllogix_plc/" target="_blank" rel="noopener">Fortigate with ControlLogix PLC</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-26T12:30:49+00:00</div>
+    <p>We are going to propose the following design to our customer: https://preview.redd.it/sh1rfusi2txh1.png?width=1012&amp;format=png&amp;auto=webp&amp;s=8bbcebfebed02af0fb3f55532fa6a9b699bf88a8 PLC is Redundant ControlLogix 5580 Firewalls are Fortigate...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/Jeffray_Spence_pic1.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33442" target="_blank" rel="noopener">Looking for a Language &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Oct 21st)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 26 Oct 2026 09:38:03 GMT</div>
+    <p>Looking for a Language [Guest Diary], Author: Guy Bruneau</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xextah/ztna_tags_broken_on_768/" target="_blank" rel="noopener">ZTNA tags broken on 7.6.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T09:21:49+00:00</div>
-    <p>Has anyone else experienced issues with ZTNA tags following an upgrade to FortiOS 7.6.8? I’ve upgraded from FortiOS 7.6.7 to 7.6.8, and since the upgrade, all ZTNA tags received from FortiClient EMS 7.4.8 are showing zero matched endpoin...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xffna7/all_ethernet_fortiswitches_disconnected_from/" target="_blank" rel="noopener">All Ethernet Fortiswitches Disconnected from Fortigate HA Stack Twice</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T22:23:29+00:00</div>
+    <p>I have a pair of 200Gs in A-P HA and all 16 of our ethernet switches have disconnected. The two fiber switches that our storage and hypervisors sit on are thankfully still connected. I spent 3 hours in our server room yesterday getting t...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xexhv7/50g_on_766_with_ipsec_dial_up_and_local_users_am/" target="_blank" rel="noopener">50g on 7.6.6 with IPsec dial up and local users, am I impacted by the vulnerability?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T09:01:54+00:00</div>
-    <p>As far as I read, I&#x27;m not sure if a simple configuration like this might be a problem to me. I installed this firewall a couple of weeks ago, it is basically new. Firewall does not expose itself on wan, management Https interface only ac...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xfd788/fmg_768_monitor_screens_slower_to_load/" target="_blank" rel="noopener">FMG 7.6.8 Monitor screens slower to load</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T20:40:21+00:00</div>
+    <p>Just wanted to see with anyone running FMG 7.6.8 if their monitor screens (SD-wan, vpn monitor or asset identity center) are taking longer than usual to refresh/populate. It seems that mine takes ~1min for the asset identity center page ...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/qmg9kk4d9oxh1.png?width=140&amp;height=57&amp;auto=webp&amp;s=0848c90ceb23609989948ae2062b8009bf8cd52e" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xevs9l/fortigate_hawan_failover/" target="_blank" rel="noopener">FortiGate HA/WAN failover</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T07:17:17+00:00</div>
-    <p>Hi everyone, I&#x27;m stuck with two FortiGate 400F firewalls and hoping for some help. We recently installed a backup internet line and set up resiliency on both firewalls. The first failover test worked fine. A week later we tested again to...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeueek/windows_pcs_cant_connect_after_7413/" target="_blank" rel="noopener">windows pcs cant connect after 7.4.13</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T05:54:45+00:00</div>
-    <p>we pushed 7.4.13 on three sites and experiending a weird case. site 1. works fine site 2. windows pcs cannot connect anywhere we have a linux baed on nvr on the same subnet and i see the traffic on the fgt logs site 3. fortiswitch shows ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xero1y/this_update_round_man/" target="_blank" rel="noopener">This update round man</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T03:21:36+00:00</div>
-    <p>Almost 30 years deep in the software game I&#x27;m questioning my own assumptions re &quot;mature.&quot; If you need to fix 7.6.7, you check out that tag to a new branch, apply the fixes, use that to strike a 7.6.8, then merge the changes to your devel...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeoqox/768_still_missing_from_fortigate_cloud/" target="_blank" rel="noopener">7.6.8 Still Missing from Fortigate Cloud</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T00:51:53+00:00</div>
-    <p>I saw the firmware drop for 40F, but it’s still missing for 70G and 90G. Does anyone know when we can expect it to be available? submitted by /u/Jwblant [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeoop1/fortimanager_policy_package_status_unknown_after/" target="_blank" rel="noopener">Fortimanager Policy package status unknown after newest update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T00:49:06+00:00</div>
-    <p>https://imgur.com/a/IIsnyqy After pushing 7.4.13 image to a pair of Fortigates, Fortimanager 7.4.12 is showing &quot;policy package status unknown.&quot; When I install preview after selecting Install Wizard, it says &quot;no preview result.&quot; And lastl...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xeiiqp/2fa_ha_broken_after_update_to_768/" target="_blank" rel="noopener">2FA &amp; HA Broken after update to 7.6.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T20:08:37+00:00</div>
-    <p>Title, Fortigate 80F. Upgraded from 7.6.6 to 7.6.8, VPN access users are not getting the prompt for 2FA authentication to sign in following the update. Tested on a temporary user without 2FA and the user connected without issue. HA is al...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xec38n/fortinet_fabric_real_world_usage/" target="_blank" rel="noopener">Fortinet Fabric real world usage</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-24T15:50:21+00:00</div>
-    <p>Worked with gates for years but just recently ventured into other Fortinet products. How popular is the full fortifabric solution using switches and APs? From what I can tell this is a great solution for retail sites or maybe small campu...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xfcpmh/fortigate_filtering_service/" target="_blank" rel="noopener">Fortigate Filtering Service</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-25T20:20:31+00:00</div>
+    <p>Is anyone else currently experiencing connectivity issues with the FortiGuard Web Filtering services? We upgraded to FortiOS 7.6.8 earlier today, and unfortunately, we’re now having trouble connecting to the FortiGuard servers on several...</p>
   </div>
 </li>
 <li class="card">
@@ -184,14 +160,6 @@ _Updated: October 25, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/971523230/0/fortinet/blogs~Strengthening-OT-Security-with-the-Fortinet-AIEnabled-OT-Security-Platform" target="_blank" rel="noopener">Strengthening OT Security with the Fortinet AI-Enabled OT Security Platform</a></h3>
     <div class="meta">Fortinet Blog · Wed, 14 Oct 2026 15:00:00 +0000</div>
     <p>Explore how the Fortinet OT Security Platform combines AI-enabled security, rugged connectivity, and certified protections to strengthen resilience…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/971388851/0/fortinet/blogs~Measuring-Workforce-Readiness-What-Security-Awareness-Success-Looks-Like" target="_blank" rel="noopener">Measuring Workforce Readiness: What Security Awareness Success Looks Like</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 13 Oct 2026 15:00:00 +0000</div>
-    <p>Security awareness training is becoming a measurable business capability as organizations track behavior, reduce workforce risk, and strengthen cyber resilience.…</p>
   </div>
 </li>
 </ul>
