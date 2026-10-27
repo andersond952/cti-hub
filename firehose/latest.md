@@ -1,37 +1,101 @@
 ---
 layout: default
-title: Firehose — October 26, 2026
+title: Firehose — October 27, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-26
+# Daily CTI Firehose — 2026-10-27
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/starlink_1_e61cf45fb4.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/clovis_wood_q_Y_Xum_Q_Gmwa4_unsplash_519aedc326.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse" target="_blank" rel="noopener">Ukraine disputes Musk&#x27;s claims of Starlink misuse as military connectivity restored</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 16:40:00 GMT</div>
-    <p>Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.</p>
+    <h3><a href="https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report" target="_blank" rel="noopener">Hackers repeatedly breached suppliers holding UK police data, watchdog finds</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 27 Oct 2026 15:07:00 GMT</div>
+    <p>His Majesty’s Inspectorate of Constabulary and Fire &amp; Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/debt_money_wallet_09a534460e.png" alt="preview">
+  <img src="https://cms.therecord.media/uploads/Richardson_Pavilion_University_of_New_Mexico_1_775c9b82cd.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams" target="_blank" rel="noopener">Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 16:37:00 GMT</div>
-    <p>44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses.</p>
+    <h3><a href="https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident" target="_blank" rel="noopener">University of New Mexico hospital diverts ambulances after cyberattack</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 27 Oct 2026 14:57:00 GMT</div>
+    <p>For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/dahua_camera_pexels_thomas_veillon_34628c9764.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/moscow_traffic_aleksey_cherenkevich_unsplash_c078317e43.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked" target="_blank" rel="noopener">Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 14:21:00 GMT</div>
-    <p>CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.</p>
+    <h3><a href="https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes" target="_blank" rel="noopener">Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 27 Oct 2026 13:36:00 GMT</div>
+    <p>Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/nikita_ermilov_xl1_B6_L_Lf_Zys_unsplash_f585d91e5a.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather" target="_blank" rel="noopener">Moscow faces internet disruptions as foreign leaders gather for summits</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 27 Oct 2026 13:20:00 GMT</div>
+    <p>The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia&#x27;s Ministry of Digital Development said Monday.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/2021_11_CISA_6e0fea829e.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/php-vulnerabilities-cisa-kev" target="_blank" rel="noopener">CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 27 Oct 2026 13:16:00 GMT</div>
+    <p>CISA added the widely publicized PHP vulnerabilities to the KEV, but didn&#x27;t specify what kind of exploitation it was observing.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33462" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Tue, 27 Oct 2026 02:55:13 GMT</div>
+    <p>ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/NTZy6.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33458" target="_blank" rel="noopener">Apple Patches for October 2026, (Mon, Oct 26th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Tue, 27 Oct 2026 02:09:55 GMT</div>
+    <p>Apple Patches for October 2026, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges" target="_blank" rel="noopener">So Many AI Security Benchmarks, But None Tell the Whole Story</a></h3>
+    <div class="meta">Dark Reading · Tue, 27 Oct 2026 00:26:50 GMT</div>
+    <p>Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt739dd94533bc1a1c/6adfbdf0c68e80623ff507bb/ciso_Dave_Hoeek_shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role" target="_blank" rel="noopener">Risks &amp;amp; Rewards: How AI Is Redefining the CISO&#x27;s Role</a></h3>
+    <div class="meta">Dark Reading · Mon, 26 Oct 2026 21:44:33 GMT</div>
+    <p>Nvidia&#x27;s Mark Weatherford says CISOs must help business leaders weigh AI&#x27;s pros and cons, and ensure those deploying it own the risks.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta8e8c1bff2695425/6adfab77ad59c66918c6c335/laptop_and_folder-ipuwadol-GettyImages-1402436756.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown" target="_blank" rel="noopener">In-the-Wild Attack Abuses AI Agents&#x27; Trust in Markdown</a></h3>
+    <div class="meta">Dark Reading · Mon, 26 Oct 2026 20:59:26 GMT</div>
+    <p>AI coding agents may act on instructions embedded in local markdown files, exposing new risks around trust, configuration, and credentials.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta53885fb79cd03e3/6706dccd5ae89acdc961cf2d/github_Tada_Images_shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets" target="_blank" rel="noopener">&#x27;Gheist&#x27; Weaponizes GitHub Tokens to Steal Cloud Secrets</a></h3>
+    <div class="meta">Dark Reading · Mon, 26 Oct 2026 18:01:40 GMT</div>
+    <p>An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.</p>
   </div>
 </li>
 <li class="card">
@@ -40,14 +104,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years" target="_blank" rel="noopener">10 Software Security Practices Built for the Next 250 Years</a></h3>
     <div class="meta">Dark Reading · Mon, 26 Oct 2026 14:00:00 GMT</div>
     <p>This Cybersecurity Awareness Month&#x27;s theme, &quot;Securing the Next 250,&quot; asks us to look beyond the vulnerability.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/Lite_LLM_be1a113cd2.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/litellm-hackers-ai-malware" target="_blank" rel="noopener">Popular AI tool LiteLLM says unrevoked key allowed hackers to target users</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 26 Oct 2026 12:00:00 GMT</div>
-    <p>LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.</p>
   </div>
 </li>
 <li class="card">
@@ -104,14 +160,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/" target="_blank" rel="noopener">Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</a></h3>
     <div class="meta">Microsoft Security Blog · Fri, 23 Oct 2026 18:12:19 +0000</div>
     <p>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/fcc_f0096cadc5.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/fcc-bans-devices-huawei-surveillance-chips" target="_blank" rel="noopener">FCC bans two devices with surveillance chips linked to Huawei</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 23 Oct 2026 17:28:00 GMT</div>
-    <p>The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”</p>
   </div>
 </li>
 <li class="card">
@@ -291,7 +339,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/" target="_blank" rel="noopener">Widespread PHP Flaw May Cause Many Site Outages Today</a></h3>
     <div class="meta">Krebs on Security · Wed, 21 Oct 2026 15:26:07 +0000</div>
@@ -304,14 +352,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack" target="_blank" rel="noopener">Decades-Old Windows Utility Powers Modern ClickFix Attack</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 13:00:00 GMT</div>
     <p>The attack uses malicious Google search results and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33438" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, (Wed, Oct 21st)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Wed, 21 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Wednesday, October 21st, 2026 https://isc.sans.edu/podcastdetail/10144, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -344,14 +384,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn" target="_blank" rel="noopener">Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree</a></h3>
     <div class="meta">Dark Reading · Tue, 20 Oct 2026 14:36:05 GMT</div>
     <p>A Chinese-speaking actor compromised 100s of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33436" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, (Tue, Oct 20th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Tue, 20 Oct 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Tuesday, October 20th, 2026 https://isc.sans.edu/podcastdetail/10142, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -459,7 +491,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side" target="_blank" rel="noopener">When Your Ransomware Negotiator Works for the Other Side</a></h3>
     <div class="meta">Dark Reading · Fri, 16 Oct 2026 14:00:00 GMT</div>
@@ -467,7 +499,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable" target="_blank" rel="noopener">When AI Agents Commit Breaches, Humans May Not Be Held Liable</a></h3>
     <div class="meta">Dark Reading · Fri, 16 Oct 2026 13:00:00 GMT</div>
@@ -475,7 +507,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape" target="_blank" rel="noopener">SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape</a></h3>
     <div class="meta">Dark Reading · Thu, 15 Oct 2026 22:10:08 GMT</div>
@@ -483,7 +515,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud" target="_blank" rel="noopener">F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud</a></h3>
     <div class="meta">Dark Reading · Thu, 15 Oct 2026 21:55:07 GMT</div>
@@ -563,43 +595,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87997eb0e0a8cb06/6acda095a3dd4913d099a48b/Wrench_money-KenanOlgun-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-analytics/ransomware-gangs-physical-threats-family-stalking" target="_blank" rel="noopener">Ransomware Gangs Embrace Physical Threats, Family Stalking?</a></h3>
-    <div class="meta">Dark Reading · Wed, 14 Oct 2026 05:00:00 GMT</div>
-    <p>Organizations are reporting that employees face threats of stalking, physical violence, and abduction. But these alarming claims are hard to verify.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://krebsonsecurity.com/wp-content/uploads/2020/08/windowsec.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/microsoft-patches-more-than-1400-security-flaws/" target="_blank" rel="noopener">Microsoft Patches More Than 1,400 Security Flaws</a></h3>
     <div class="meta">Krebs on Security · Tue, 13 Oct 2026 23:24:53 +0000</div>
     <p>Microsoft today issued updates to fix more than 1,400 security vulnerabilities in its Windows operating systems and other software. Today’s epic patch batch dwarfs September’s record of nearly 1,000 fixes, which was already about ten tim...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2208c9717985ba6f/6aceb2c101a45e612a7baa2b/harvest-China_Photos-GettyImages-71574532.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/zero-days-microsoft-october-patch-tuesday" target="_blank" rel="noopener">Zero-Days Lurk in Microsoft&#x27;s Overgrown October Patch Tuesday</a></h3>
-    <div class="meta">Dark Reading · Tue, 13 Oct 2026 22:29:57 GMT</div>
-    <p>The scary surprises in the largest security update ever include defense bypasses and unauthenticated RCEs.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7314e52d65e066f0/6ace87d8c13815714705c3f3/Ukraine_DPRK-MicroStockHub-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/north-korea-phishes-ukrainians-war-intel" target="_blank" rel="noopener">North Korea Phishes Ukrainians for War Intel</a></h3>
-    <div class="meta">Dark Reading · Tue, 13 Oct 2026 21:24:45 GMT</div>
-    <p>The Democratic People&#x27;s Republic of Korea (DPRK) is trying to get insight into its own war effort in Ukraine, through simple reply-baiting phishing attacks.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a7173d7327bf884/6ace896bf0c55fc247c760d8/sour_gummy_worms-bhofack2-GettyImages-824425918.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/perimeter/anthropic-ingredients-future-ai-worms" target="_blank" rel="noopener">Anthropic Finds Ingredients for Future AI Worms</a></h3>
-    <div class="meta">Dark Reading · Tue, 13 Oct 2026 20:35:23 GMT</div>
-    <p>Anthropic&#x27;s latest study combines IoT and network tests to explore AI self-replication, which researchers said would be &quot;challenging&quot; to shut down.</p>
   </div>
 </li>
 <li class="card">
