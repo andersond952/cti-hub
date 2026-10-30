@@ -7,15 +7,79 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 29, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/q0lfv9jnbfyh1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=3173e1ea246f3b2f9812137e499a182fdff5f2cc" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xin1ju/certification_nse_industry_mssp_security/" target="_blank" rel="noopener">Certification: NSE Industry - MSSP Security</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T15:25:48+00:00</div>
-    <p>No information yet regarding this certification on the learning portal. Does anyone know when to expect this? All I can find for now is that it should&#x27;ve been active since July 15, 2026. Which specialisation branch will it be most relate...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjio86/forticlient_ems_didnt_know_application/" target="_blank" rel="noopener">FortiClient EMS didnt know Application</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T15:37:22+00:00</div>
+    <p>FortiClient EMS Server 7.4.8.2245 FortiClient 7.4.8.2066 ---- Hi everybody, today the clients pulled a new Client Application Firewall Signature. 37.323 https://fortiguard.fortinet.com/updates/fct-app?name=&amp;page=1&amp;version=37.323 normally...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/972124013/0/fortinet/blogs~What-AI-Cybercrime-Exercises-Reveal-About-Collective-Defense" target="_blank" rel="noopener">What AI Cybercrime Exercises Reveal About Collective Defense</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 30 Oct 2026 15:00:00 +0000</div>
+    <p>Fortinet’s Derek Manky shares lessons from three CLTC tabletop exercises on AI-enabled cybercrime and what they reveal about decision-making in collective defense and previews the next step in the …</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjbaat/fortiauthenticator_ca_scep_fortigate/" target="_blank" rel="noopener">Fortiauthenticator CA SCEP Fortigate</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T10:03:04+00:00</div>
+    <p>Hi, I configured SCEP on my FortiAuthenticator and managed to request certificates from my FortiGates via SCEP after struggling with HTTP error 413. The solution was to set some of the values to null and only use the absolute minimum req...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjb7op/fortibleed_20_had_me_rechecking_every_fortigate/" target="_blank" rel="noopener">FortiBleed 2.0 had me rechecking every FortiGate we own this morning</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T09:58:59+00:00</div>
+    <p>Saw the FortiBleed 2.0 writeup and panicked for a minute that one of ours was in the new config dump. I know this is another batch of stolen configs and creds, not a new FortiOS vuln. Went through every box I could think of. Admin access...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xj863y/fortios_upgrade_experience_729_7413/" target="_blank" rel="noopener">FortiOS Upgrade Experience: 7.2.9 → 7.4.13</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T06:43:30+00:00</div>
+    <p>Has anyone upgrade to 7.4.13M ? Any feedback on stability, HA, VPN, routing, VIP/DNAT, or SSL Offloading? Thank you submitted by /u/Alternative_Sky3351 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xj5hco/ipsec_dial_up_vpn_with_mfa/" target="_blank" rel="noopener">IPSec Dial Up VPN with MFA</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T04:04:00+00:00</div>
+    <p>Fortinet did away with SSL VPN. I use FortiToken MFA with SSL VPN on my iPhone and the FortiClientVPN Client I don’t understand how to convert to IPSec Dial Up and keep MFA. They want me to append the token at the end of the password eac...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xj1i1k/ng_firewall_certifications/" target="_blank" rel="noopener">NG Firewall certifications</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T00:48:45+00:00</div>
+    <p>Hi, currently I am a NOC engineer. I deal with MikroTik, pfSense, RG Nets gateway, etc In job postings for Network Engineer Positions, they mostly ask for Palo Alto and Fortinet experience. Unfortunately, I have no access to or experienc...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xiyaj3/ems_linux_vm_package_update/" target="_blank" rel="noopener">EMS Linux VM Package Update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T22:28:15+00:00</div>
+    <p>I&#x27;m running EMS Linux 7.4.8 on the Fortinet provided Linux OVA VM. Looking in the manual: https://docs.fortinet.com/document/forticlient/8.0.0/installation-guide/182605/deploying-ems-as-a-vm-image#Upgradin It says you can run this to upd...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xitq7u/fortimanager_7412_to_76x/" target="_blank" rel="noopener">FortiManager 7.4.12 to 7.6.x</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T19:32:08+00:00</div>
+    <p>Hello all, I have a few questions regarding the upgrade. All connected FortiGate devices are on 7.4.13 or 7.2.13. The 7.2 devices are being replaced with new hardware in the next two weeks so they will be up to spec. We still have a lot ...</p>
   </div>
 </li>
 <li class="card">
@@ -24,62 +88,6 @@ _Updated: October 29, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/972093263/0/fortinet/blogs~Extending-SASE-Sovereignty-Beyond-Data-to-Management" target="_blank" rel="noopener">Extending SASE Sovereignty Beyond Data to Management</a></h3>
     <div class="meta">Fortinet Blog · Thu, 29 Oct 2026 15:00:00 +0000</div>
     <p>Learn how FortiSASE Sovereign extends control over security data, infrastructure, and management while preserving an integrated SASE operating model…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xiktj0/forticlient_748_dns_issue/" target="_blank" rel="noopener">FortiClient 7.4.8 DNS Issue</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T14:01:23+00:00</div>
-    <p>Looks like the way FortiClient DNS works changed in version 7.4.8 based off this doc from fortinet. https://docs.fortinet.com/document/forticlient/7.4.0/new-features/752438/improved-dns-resilience-for-ipsec-vpn-using-native-windows-nrpt-...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xig3bi/lost_fsso_on_fortigate_using_fortiauthenticator/" target="_blank" rel="noopener">Lost FSSO on Fortigate ( using fortiauthenticator)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T10:20:02+00:00</div>
-    <p>Sometimes the users FSSO is lost and users lose some of their accesses. We are using Fortigate and Fortiauthenticator connected to Active Directory. Does anyone has a similar problem? Any ideia for any type of debugs? submitted by /u/Tra...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xifatq/fortianalyzer_7412_no_ldaps_without_ca_cert/" target="_blank" rel="noopener">FortiAnalyzer 7.4.12 - No LDAPS without CA cert?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T09:33:08+00:00</div>
-    <p>Hi everyone FortiAnalyzer 7.4.12 has this new requirement that a CA cert is required for LDAPS. I am trying to understand how others are handling this new requirement? We don&#x27;t have a CA set up in our domain. We use a server authenticati...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xie96r/a_35_price_increase_since_the_last_renewal_less/" target="_blank" rel="noopener">A 35% price increase since the last renewal less than a year ago?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T08:25:29+00:00</div>
-    <p>Hi u/fortinet , just received a quote to renew my SOFTWARE / License - Yearly Update FortiGate-40F Unified Threat Protection (UTP) - 1 YEAR FortiGate-40F 1 Year Unified Threat Protection (UTP) (IPS, Advanced Malware Protection, Applicati...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xhyu9h/forticlient_official_support_for_macos_27_golden/" target="_blank" rel="noopener">FortiClient official support for macOS 27 Golden Gate?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-28T20:01:10+00:00</div>
-    <p>Hi all new customer here. Anyone know what&#x27;s the status of official support for macOS 27 Golden Gate? It&#x27;s been out for over 6 weeks and the devs have had since June to be compiling and building against GG. We have new hardware sitting o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xhvtbl/fortinet_cloudflair_issue_clues_to_what_was_fixed/" target="_blank" rel="noopener">Fortinet CloudFlair Issue - Clues to what was fixed</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-28T18:12:15+00:00</div>
-    <p>Could it be true that one of the exploits fixed in the security hardening update was a buffer overflow in certificate inspection, or a similar exploit, as proven by the Cloudflare issue yesterday: https://www.cloudflarestatus.com/inciden...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xhuft4/fortimanager_upgrade_vs_new_adom/" target="_blank" rel="noopener">Fortimanager Upgrade vs. New ADOM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-28T17:23:10+00:00</div>
-    <p>I&#x27;m looking to go from 7.4.x to 7.6,.x I already upgraded Fortimanager. We normally make a new ADOM and migrate. However I see people just update the existing one since 7.6 ADOMs can manage 7.4 devices. Any opinions on which is a better ...</p>
   </div>
 </li>
 <li class="card">
@@ -152,14 +160,6 @@ _Updated: October 29, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/971845082/0/fortinet/blogs~Fortinet-Releases-Security-Hardening-Release-for-Multiple-Products" target="_blank" rel="noopener">Fortinet Releases Security Hardening Release for Multiple Products</a></h3>
     <div class="meta">Fortinet Blog · Wed, 21 Oct 2026 13:00:00 +0000</div>
     <p>Fortinet announces frontier AI hardening releases for a range of products including FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/971783609/0/fortinet/blogs~Fortinet-Security-Operations-Summit-Modernizing-Cyber-Defense-in-the-AI-Era" target="_blank" rel="noopener">Fortinet Security Operations Summit: Modernizing Cyber Defense in the AI Era</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 19 Oct 2026 15:00:00 +0000</div>
-    <p>Join the Fortinet Security Operations Summit November 4–5 to explore AI-powered threats, agentic AI, and practical strategies for modernizing security operations…</p>
   </div>
 </li>
 </ul>
