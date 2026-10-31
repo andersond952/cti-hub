@@ -7,15 +7,47 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 30, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: October 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjio86/forticlient_ems_didnt_know_application/" target="_blank" rel="noopener">FortiClient EMS didnt know Application</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T15:37:22+00:00</div>
-    <p>FortiClient EMS Server 7.4.8.2245 FortiClient 7.4.8.2066 ---- Hi everybody, today the clients pulled a new Client Application Firewall Signature. 37.323 https://fortiguard.fortinet.com/updates/fct-app?name=&amp;page=1&amp;version=37.323 normally...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkbtg7/portal_updates_for_those_running_qfeeds_on/" target="_blank" rel="noopener">Portal updates for those running Q-Feeds on FortiGate (October)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-31T14:35:27+00:00</div>
+    <p>A number of you use Q-Feeds as an extra threat feed on FortiGate, next to FortiGuard. We made some changes to the portal this month that affect your account. Here’s a short overview. The feed on your FortiGate works the same as before. W...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xk4huh/ems_ubuntu_appliance_and_updates/" target="_blank" rel="noopener">EMS Ubuntu Appliance and Updates</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-31T08:07:05+00:00</div>
+    <p>How and more importantly when are we supposed to update the OS using emscli please? This is the EMS Ubuntu 22 appliance from Fortinet running EMS 7.4.8 not a DIY Ubuntu build with EMS installed on it. EMS is up to date but the documentat...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://preview.redd.it/9gy3f2l07qyh1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=19eea83cf6f58577d1fb154dc6d3f56cde799460" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xk1c69/can_i_use_standard_atx_power_supply_as_temporary/" target="_blank" rel="noopener">Can I use standard ATX Power Supply as temporary remedy?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-31T04:52:24+00:00</div>
+    <p>https://preview.redd.it/9gy3f2l07qyh1.jpeg?width=768&amp;format=pjpg&amp;auto=webp&amp;s=87d9b2d81be439edd8cc3f01d5166bad387199a1 https://preview.redd.it/3i5n5aj27qyh1.jpeg?width=768&amp;format=pjpg&amp;auto=webp&amp;s=0c9d9030a324d0fde1632505c0846162530a1d7a T...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjuqtr/mijn_fortigate_60f_krijgt_geen_ipadres_op_de_wan/" target="_blank" rel="noopener">Mijn fortigate 60F krijgt geen IP-adres op de WAN van de ISP</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T23:27:41+00:00</div>
+    <p>Hallo iedereen, Ik heb een gebruikte (nog in perfecte staat) Fortigate 60F gekocht om deze in mijn thuisnetwerk te implementeren. Ik heb de Fortigate al geconfigureerd met allemaal Firewall policies, subnets en VLANS en later ga ik nog e...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjs254/bugfix_ems_748/" target="_blank" rel="noopener">Bugfix EMS 7.4.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T21:32:45+00:00</div>
+    <p>7.4.7 shows this bug ID 1272586 7.4.8 does not show that bug id as resolved, and it doesn&#x27;t show it in new or existing known issues. Has anyone upgraded to 7.4.8 and confirmed if that bug is truly fixed? submitted by /u/nfored [link] [co...</p>
   </div>
 </li>
 <li class="card">
@@ -27,59 +59,11 @@ _Updated: October 30, 2026 • Sources filter: fortinet, fortiguard • Keywords
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjbaat/fortiauthenticator_ca_scep_fortigate/" target="_blank" rel="noopener">Fortiauthenticator CA SCEP Fortigate</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T10:03:04+00:00</div>
-    <p>Hi, I configured SCEP on my FortiAuthenticator and managed to request certificates from my FortiGates via SCEP after struggling with HTTP error 413. The solution was to set some of the values to null and only use the absolute minimum req...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjb7op/fortibleed_20_had_me_rechecking_every_fortigate/" target="_blank" rel="noopener">FortiBleed 2.0 had me rechecking every FortiGate we own this morning</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T09:58:59+00:00</div>
-    <p>Saw the FortiBleed 2.0 writeup and panicked for a minute that one of ours was in the new config dump. I know this is another batch of stolen configs and creds, not a new FortiOS vuln. Went through every box I could think of. Admin access...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xj863y/fortios_upgrade_experience_729_7413/" target="_blank" rel="noopener">FortiOS Upgrade Experience: 7.2.9 → 7.4.13</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T06:43:30+00:00</div>
-    <p>Has anyone upgrade to 7.4.13M ? Any feedback on stability, HA, VPN, routing, VIP/DNAT, or SSL Offloading? Thank you submitted by /u/Alternative_Sky3351 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xj5hco/ipsec_dial_up_vpn_with_mfa/" target="_blank" rel="noopener">IPSec Dial Up VPN with MFA</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T04:04:00+00:00</div>
-    <p>Fortinet did away with SSL VPN. I use FortiToken MFA with SSL VPN on my iPhone and the FortiClientVPN Client I don’t understand how to convert to IPSec Dial Up and keep MFA. They want me to append the token at the end of the password eac...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xj1i1k/ng_firewall_certifications/" target="_blank" rel="noopener">NG Firewall certifications</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T00:48:45+00:00</div>
-    <p>Hi, currently I am a NOC engineer. I deal with MikroTik, pfSense, RG Nets gateway, etc In job postings for Network Engineer Positions, they mostly ask for Palo Alto and Fortinet experience. Unfortunately, I have no access to or experienc...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xiyaj3/ems_linux_vm_package_update/" target="_blank" rel="noopener">EMS Linux VM Package Update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T22:28:15+00:00</div>
-    <p>I&#x27;m running EMS Linux 7.4.8 on the Fortinet provided Linux OVA VM. Looking in the manual: https://docs.fortinet.com/document/forticlient/8.0.0/installation-guide/182605/deploying-ems-as-a-vm-image#Upgradin It says you can run this to upd...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xitq7u/fortimanager_7412_to_76x/" target="_blank" rel="noopener">FortiManager 7.4.12 to 7.6.x</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-29T19:32:08+00:00</div>
-    <p>Hello all, I have a few questions regarding the upgrade. All connected FortiGate devices are on 7.4.13 or 7.2.13. The 7.2 devices are being replaced with new hardware in the next two weeks so they will be up to spec. We still have a lot ...</p>
+    <h3><a href="https://feeds.fortinet.com/~/972134165/0/fortinet/blogs~Building-Cybersecurity-Careers-through-Certification-and-Continuous-Learning" target="_blank" rel="noopener">Building Cybersecurity Careers through Certification and Continuous Learning</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 30 Oct 2026 15:00:00 +0000</div>
+    <p>Explore how Fortinet training and certification help people enter cybersecurity, build practical skills, and advance throughout their careers.…</p>
   </div>
 </li>
 <li class="card">
@@ -115,14 +99,6 @@ _Updated: October 30, 2026 • Sources filter: fortinet, fortiguard • Keywords
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/Jeffray_Spence_pic1.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33442" target="_blank" rel="noopener">Looking for a Language &amp;#x5b;Guest Diary&amp;#x5d;, (Wed, Oct 21st)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Mon, 26 Oct 2026 09:38:03 GMT</div>
-    <p>Looking for a Language [Guest Diary], Author: Guy Bruneau</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/971913593/0/fortinet/blogs~FortiSwitch-AXG-Built-for-the-Next-Phase-of-HighDensity-Campus-and-Data-Center-Networks" target="_blank" rel="noopener">FortiSwitch AX9000G: Built for the Next Phase of High-Density Campus and Data Center Networks</a></h3>
@@ -152,14 +128,6 @@ _Updated: October 30, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/971851727/0/fortinet/blogs~Fortinet-Recognized-by-Crime-Stoppers-International-for-Cybersecurity-Leadership" target="_blank" rel="noopener">Fortinet Recognized by Crime Stoppers International for Cybersecurity Leadership</a></h3>
     <div class="meta">Fortinet Blog · Wed, 21 Oct 2026 15:00:00 +0000</div>
     <p>At the recent Crime Stoppers International (CSI) Global Summit, Fortinet received CSI’s 2026 Global Annual Cybersecurity Leadership Award.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/971845082/0/fortinet/blogs~Fortinet-Releases-Security-Hardening-Release-for-Multiple-Products" target="_blank" rel="noopener">Fortinet Releases Security Hardening Release for Multiple Products</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 21 Oct 2026 13:00:00 +0000</div>
-    <p>Fortinet announces frontier AI hardening releases for a range of products including FortiOS, FortiManager, FortiAnalyzer, FortiMail, and FortiAuthenticator.…</p>
   </div>
 </li>
 </ul>
