@@ -7,55 +7,31 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: October 31, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkbtg7/portal_updates_for_those_running_qfeeds_on/" target="_blank" rel="noopener">Portal updates for those running Q-Feeds on FortiGate (October)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-31T14:35:27+00:00</div>
-    <p>A number of you use Q-Feeds as an extra threat feed on FortiGate, next to FortiGuard. We made some changes to the portal this month that affect your account. Here’s a short overview. The feed on your FortiGate works the same as before. W...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkw2up/fortinet_is_laying_off_nonpr_employees_in_canada/" target="_blank" rel="noopener">Fortinet is laying off non-PR employees in Canada</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-01T06:33:24+00:00</div>
+    <p>I know that many people without PR status have already been laid-off, even though they hold valid work permit. Many of them have already submitted PR application and are waiting for processing, but still got laid-off. And I heard the rem...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xk4huh/ems_ubuntu_appliance_and_updates/" target="_blank" rel="noopener">EMS Ubuntu Appliance and Updates</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-31T08:07:05+00:00</div>
-    <p>How and more importantly when are we supposed to update the OS using emscli please? This is the EMS Ubuntu 22 appliance from Fortinet running EMS 7.4.8 not a DIY Ubuntu build with EMS installed on it. EMS is up to date but the documentat...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/9gy3f2l07qyh1.jpeg?width=140&amp;height=140&amp;crop=1:1,smart&amp;auto=webp&amp;s=19eea83cf6f58577d1fb154dc6d3f56cde799460" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xk1c69/can_i_use_standard_atx_power_supply_as_temporary/" target="_blank" rel="noopener">Can I use standard ATX Power Supply as temporary remedy?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-31T04:52:24+00:00</div>
-    <p>https://preview.redd.it/9gy3f2l07qyh1.jpeg?width=768&amp;format=pjpg&amp;auto=webp&amp;s=87d9b2d81be439edd8cc3f01d5166bad387199a1 https://preview.redd.it/3i5n5aj27qyh1.jpeg?width=768&amp;format=pjpg&amp;auto=webp&amp;s=0c9d9030a324d0fde1632505c0846162530a1d7a T...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkul8k/faz_analytic_logs_vs_archive_logs/" target="_blank" rel="noopener">FAZ analytic logs vs archive logs</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-01T05:01:17+00:00</div>
+    <p>Can you someone help me better understand the differnece between both? According to the official FAZ administration guide, they are both apparently processed at the same time, so can we say that at a certain point of time (once a log is ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjuqtr/mijn_fortigate_60f_krijgt_geen_ipadres_op_de_wan/" target="_blank" rel="noopener">Mijn fortigate 60F krijgt geen IP-adres op de WAN van de ISP</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T23:27:41+00:00</div>
-    <p>Hallo iedereen, Ik heb een gebruikte (nog in perfecte staat) Fortigate 60F gekocht om deze in mijn thuisnetwerk te implementeren. Ik heb de Fortigate al geconfigureerd met allemaal Firewall policies, subnets en VLANS en later ga ik nog e...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xjs254/bugfix_ems_748/" target="_blank" rel="noopener">Bugfix EMS 7.4.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-10-30T21:32:45+00:00</div>
-    <p>7.4.7 shows this bug ID 1272586 7.4.8 does not show that bug id as resolved, and it doesn&#x27;t show it in new or existing known issues. Has anyone upgraded to 7.4.8 and confirmed if that bug is truly fixed? submitted by /u/nfored [link] [co...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/972124013/0/fortinet/blogs~What-AI-Cybercrime-Exercises-Reveal-About-Collective-Defense" target="_blank" rel="noopener">What AI Cybercrime Exercises Reveal About Collective Defense</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 30 Oct 2026 15:00:00 +0000</div>
-    <p>Fortinet’s Derek Manky shares lessons from three CLTC tabletop exercises on AI-enabled cybercrime and what they reveal about decision-making in collective defense and previews the next step in the …</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkp3jy/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-01T00:00:54+00:00</div>
+    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
   </div>
 </li>
 <li class="card">
@@ -64,6 +40,14 @@ _Updated: October 31, 2026 • Sources filter: fortinet, fortiguard • Keywords
     <h3><a href="https://feeds.fortinet.com/~/972134165/0/fortinet/blogs~Building-Cybersecurity-Careers-through-Certification-and-Continuous-Learning" target="_blank" rel="noopener">Building Cybersecurity Careers through Certification and Continuous Learning</a></h3>
     <div class="meta">Fortinet Blog · Fri, 30 Oct 2026 15:00:00 +0000</div>
     <p>Explore how Fortinet training and certification help people enter cybersecurity, build practical skills, and advance throughout their careers.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/972124013/0/fortinet/blogs~What-AI-Cybercrime-Exercises-Reveal-About-Collective-Defense" target="_blank" rel="noopener">What AI Cybercrime Exercises Reveal About Collective Defense</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 30 Oct 2026 15:00:00 +0000</div>
+    <p>Fortinet’s Derek Manky shares lessons from three CLTC tabletop exercises on AI-enabled cybercrime and what they reveal about decision-making in collective defense and previews the next step in the …</p>
   </div>
 </li>
 <li class="card">
