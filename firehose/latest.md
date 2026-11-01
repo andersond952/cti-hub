@@ -1,15 +1,23 @@
 ---
 layout: default
-title: Firehose — October 31, 2026
+title: Firehose — November 01, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-10-31
+# Daily CTI Firehose — 2026-11-01
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33478" target="_blank" rel="noopener">OneNote File Extraction, (Sun, Nov 1st)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Sun, 01 Nov 2026 09:12:23 GMT</div>
+    <p>OneNote File Extraction, Author: Didier Stevens</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
@@ -32,6 +40,14 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://isc.sans.edu/diary/rss/33454" target="_blank" rel="noopener">YARA-X 1.22.0 Release, (Sun, Oct 25th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Sat, 31 Oct 2026 10:45:40 GMT</div>
     <p>YARA-X 1.22.0 Release, Author: Didier Stevens</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_Links.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/" target="_blank" rel="noopener">Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</a></h3>
+    <div class="meta">Microsoft Security Blog · Sat, 31 Oct 2026 01:02:57 +0000</div>
+    <p>Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it.</p>
   </div>
 </li>
 <li class="card">
@@ -64,6 +80,14 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards" target="_blank" rel="noopener">Fashion retailer Resolve says hackers stole payment card information</a></h3>
     <div class="meta">Recorded Future (Blog) · Fri, 30 Oct 2026 19:00:00 GMT</div>
     <p>The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/MS_Actional-Insights_Access.png" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/" target="_blank" rel="noopener">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a></h3>
+    <div class="meta">Microsoft Security Blog · Fri, 30 Oct 2026 16:11:44 +0000</div>
+    <p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>
   </div>
 </li>
 <li class="card">
@@ -155,6 +179,22 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/North-Korean-use-of-AI-featured-1.png" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/" target="_blank" rel="noopener">Tracking AI adoption in North Korean threat actor tradecraft</a></h3>
+    <div class="meta">Microsoft Security Blog · Thu, 29 Oct 2026 16:00:00 +0000</div>
+    <p>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoptio...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/IDC-Leader-3.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/29/idc-marketscape-names-microsoft-a-leader-in-the-2026-worldwide-modern-endpoint-security-for-enterprises-vendor-assessment/" target="_blank" rel="noopener">IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment</a></h3>
+    <div class="meta">Microsoft Security Blog · Thu, 29 Oct 2026 16:00:00 +0000</div>
+    <p>IDC MarketScape names Microsoft a Leader in the 2026 Worldwide Modern Endpoint Security for Enterprises Vendor Assessment. Learn more.</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcb778399a7f6bf5/6ae2559253ec23dfb497d680/White_Board_ljubaphoto_Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions" target="_blank" rel="noopener">Threat Modeling With 4 Simple Questions on a White Board</a></h3>
@@ -208,6 +248,14 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github" target="_blank" rel="noopener">GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub</a></h3>
     <div class="meta">Dark Reading · Wed, 28 Oct 2026 19:39:00 GMT</div>
     <p>The supply chain attack campaign&#x27;s shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/CISOs-protect-defend-2.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/28/the-cisos-evolving-role-protecting-and-defending-in-the-agentic-era/" target="_blank" rel="noopener">The CISO’s evolving role: Protecting and defending in the agentic era</a></h3>
+    <div class="meta">Microsoft Security Blog · Wed, 28 Oct 2026 16:00:00 +0000</div>
+    <p>Discover how the CISO’s role is evolving in the agentic era, from protecting enterprise innovation to modernizing cyber defense against faster threats.</p>
   </div>
 </li>
 <li class="card">
@@ -291,14 +339,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/NTZy6.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33458" target="_blank" rel="noopener">Apple Patches for October 2026, (Mon, Oct 26th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Tue, 27 Oct 2026 02:09:55 GMT</div>
-    <p>Apple Patches for October 2026, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdc3474b6e8cd660f/6ada510270603f3265a5b817/measuring-tape-on-table-k1tyara-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges" target="_blank" rel="noopener">So Many AI Security Benchmarks, but None Tell the Whole Story</a></h3>
@@ -352,6 +392,14 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice" target="_blank" rel="noopener">Exposed to PHP2Shell? Cyber Experts Weigh in With Advice</a></h3>
     <div class="meta">Dark Reading · Fri, 23 Oct 2026 19:41:23 GMT</div>
     <p>Fixing PHP2Shell is not as simple as clicking &quot;Update.&quot; Here&#x27;s how to assess your risk, and what you can do to protect yourself.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_Links.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/23/inside-the-litellm-1-107-0-supply-chain-compromise-credential-theft-through-python-startup-hooks/" target="_blank" rel="noopener">Inside the LiteLLM 1.107.0 supply chain compromise: Credential theft through Python startup hooks</a></h3>
+    <div class="meta">Microsoft Security Blog · Fri, 23 Oct 2026 18:12:19 +0000</div>
+    <p>Microsoft Threat Intelligence analyzes the LiteLLM 1.107.0 compromise, including Python startup hooks, credential theft, remote code loading, detections, and mitigations.</p>
   </div>
 </li>
 <li class="card">
@@ -443,7 +491,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security" target="_blank" rel="noopener">Marvell, Microsoft &amp;amp; Oracle Work to Standardize Data Center Hardware Security</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 20:14:42 GMT</div>
@@ -451,23 +499,31 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss" target="_blank" rel="noopener">Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 20:03:14 GMT</div>
-    <p>In research from Cloud Security Alliance, only 16% said DLP blocked most significant incidents before data left the organization.</p>
+    <p>Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67e9fa778860769f/6ad8fdb74b1e4143168658d7/warning_sign_with_siren-DSGpro-GettyImages-184878150.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry" target="_blank" rel="noopener">&#x27;PHP2Shell&#x27; Bugs Signal Red Alert for Security Industry</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 19:19:17 GMT</div>
-    <p>Critical PHP vulnerabilities CVE-2026-109618 and CVE-2026-109619 sparked emergency patching efforts after a disclosure leak.</p>
+    <p>Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte501832a54d78d89/6ad8ee8ba10b5733db901071/worms-Tatiana_Maksimova-Getty-2162542629.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/image-6.webp" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/" target="_blank" rel="noopener">AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise</a></h3>
+    <div class="meta">Microsoft Security Blog · Wed, 21 Oct 2026 18:23:55 +0000</div>
+    <p>In this article What’s happening What is ARTEX? Mitigation and protection guidance References Learn more As early as September 2026, Storm-0940, a China-state aligned actor, used the agentic AI penetration testing framework ARTEX to auto...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte501832a54d78d89/6ad8ee8ba10b5733db901071/worms-Tatiana_Maksimova-Getty-2162542629.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors" target="_blank" rel="noopener">OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 16:50:15 GMT</div>
@@ -475,15 +531,15 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program" target="_blank" rel="noopener">Optiv Launches CyberBOT Cybersecurity Awareness Training Program</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 15:44:48 GMT</div>
-    <p>Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness.</p>
+    <p>Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable" target="_blank" rel="noopener">Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 15:29:09 GMT</div>
@@ -547,11 +603,35 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Secure-AI-blog-stack-image_10_22-1024x576.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/19/agents-are-your-newest-insiders-security-must-move-at-their-speed/" target="_blank" rel="noopener">Agents are your newest insiders. Security must move at their speed.</a></h3>
+    <div class="meta">Microsoft Security Blog · Mon, 19 Oct 2026 13:00:00 +0000</div>
+    <p>Agents are rapidly becoming part of how work gets done. They can support a range of activities from writing code and researching products to analyzing revenue, processing expenses, and acting across the systems that run the business. To ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/" target="_blank" rel="noopener">Managing open-weight model risk in enterprise deployments</a></h3>
+    <div class="meta">Microsoft Security Blog · Fri, 16 Oct 2026 16:00:00 +0000</div>
+    <p>The growing AI landscape is giving enterprises more choice in how they build, customize, and deploy increasingly capable models. Open-weight models are an important part of that landscape. They give enterprises access to model weights an...</p>
+  </div>
+</li>
+<li class="card">
   <img src="https://krebsonsecurity.com/wp-content/uploads/2026/10/heleketsupportbot.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank" rel="noopener">U.K. Sanctions Cryptomus for RU Money Laundering</a></h3>
     <div class="meta">Krebs on Security · Wed, 14 Oct 2026 14:22:49 +0000</div>
     <p>The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime se...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Fig1-heat-map-1024x495.webp" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/" target="_blank" rel="noopener">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a></h3>
+    <div class="meta">Microsoft Security Blog · Wed, 14 Oct 2026 13:00:00 +0000</div>
+    <p>In this article Uncovering the shadow world of a phishing kit ecosystem Storm-3119: YAM Store, the power broker Storm-2990: The Iron Man System phishing kit Downstream activity from Storm-2990 phishing kits Mitigation and protection guid...</p>
   </div>
 </li>
 <li class="card">
@@ -571,91 +651,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/" target="_blank" rel="noopener">Post-quantum authentication: Why organizations should start testing certificate ecosystems now</a></h3>
-    <div class="meta">Microsoft Security Blog · Thu, 08 Oct 2026 20:44:28 +0000</div>
-    <p>In this article Why post-quantum authentication presents a different challenge Why organizations should begin preparing now Microsoft&#x27;s perspective on readiness Testing the future certificate ecosystem Expanding end-to-end testing What o...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Picture1.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/" target="_blank" rel="noopener">3 lessons from frontier AI vulnerability research</a></h3>
-    <div class="meta">Microsoft Security Blog · Wed, 07 Oct 2026 16:00:00 +0000</div>
-    <p>In this article Shift 1. From frontier capability to scale Shift 2. From token consumption to reasoning economics Shift 3. Validation and remediation as a continuous learning loop Transferring security research to help open source projec...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://krebsonsecurity.com/wp-content/uploads/2026/10/Jeppesen.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank" rel="noopener">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></h3>
     <div class="meta">Krebs on Security · Wed, 07 Oct 2026 13:48:45 +0000</div>
     <p>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has l...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/06/ciso-perspectives-on-managing-vulnerability-risks-in-the-age-of-ai/" target="_blank" rel="noopener">CISO perspectives on managing vulnerability risks in the age of AI</a></h3>
-    <div class="meta">Microsoft Security Blog · Tue, 06 Oct 2026 16:00:00 +0000</div>
-    <p>Most of what has been written about AI and vulnerability management focuses on speed: how much faster frontier AI models can scan code, find weaknesses, design patches, and build exploits than any human team. That part is true, and it ma...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/blogs.microsoft.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/" target="_blank" rel="noopener">Preparing governments for an era of interconnected cyber risk</a></h3>
-    <div class="meta">Microsoft Security Blog · Thu, 01 Oct 2026 14:00:00 +0000</div>
-    <p>According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. Governments are also the mo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/01/insights-from-the-2026-microsoft-digital-defense-report/" target="_blank" rel="noopener">Insights from the 2026 Microsoft Digital Defense Report</a></h3>
-    <div class="meta">Microsoft Security Blog · Thu, 01 Oct 2026 14:00:00 +0000</div>
-    <p>Every year, the Microsoft Digital Defense Report gives us an opportunity to step back from individual threats and look broadly at what Microsoft’s security and threat intelligence teams are seeing. Today, we released the 2026 Report , wh...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Ignite_2025-11-18_0339-1-scaled.jpg" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/secure-whats-next-your-guide-to-microsoft-security-at-microsoft-ignite-2026/" target="_blank" rel="noopener">​​Secure what’s next: Your guide to Microsoft Security at Microsoft Ignite 2026</a></h3>
-    <div class="meta">Microsoft Security Blog · Wed, 30 Sep 2026 19:31:00 +0000</div>
-    <p>In this article Why you should attend Microsoft Ignite Make the most of your time at Microsoft Ignite Explore the Security sessions at Microsoft Ignite 2026 Build your schedule In the agentic era, the stakes are higher: AI agents now act...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-69.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/30/unauthenticated-command-injection-on-internet-facing-mail-servers-tracking-cve-2026-73570/" target="_blank" rel="noopener">Unauthenticated command injection on internet-facing mail servers: tracking CVE-2026-73570</a></h3>
-    <div class="meta">Microsoft Security Blog · Wed, 30 Sep 2026 14:00:00 +0000</div>
-    <p>In this article Attack chain overview Mitigation and protection guidance References Learn More Microsoft Threat Intelligence identified and tracked exploitation of CVE-2026-73570 , an unauthenticated OS command injection vulnerability in...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-84.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/" target="_blank" rel="noopener">Phishing Abuses RMM Tools for Persistent Access</a></h3>
-    <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 21:39:27 +0000</div>
-    <p>In this article Attack chain overview Mitigation and protection guidance Learn More In July 2026, Microsoft Defender Experts observed phishing campaigns targeting organizations across multiple industries that distributed a masqueraded MS...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/" target="_blank" rel="noopener">​​Beyond source code: A path to the keys to the kingdom</a></h3>
-    <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 16:00:00 +0000</div>
-    <p>What began as a single compromised identity quickly expanded into an organization’s development and cloud environments. In our latest Cyberattack Series report, we examine how the Microsoft Detection and Response Team (DART)—the team tha...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Figure-1.-July-2026-RedFlick-campaign-follow-up-email-regarding-an-omitted-attachment.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/09/29/star-blizzard-refines-phishing-and-malware-delivery-with-the-redflick-technique/" target="_blank" rel="noopener">Star Blizzard refines phishing and malware delivery with the RedFlick technique</a></h3>
-    <div class="meta">Microsoft Security Blog · Tue, 29 Sep 2026 15:00:00 +0000</div>
-    <p>In this article Star Blizzard TTPs observed in 2026 Defending against Star Blizzard and RedFlick-related activity Microsoft Defender detections Hunting queries Indicators of compromise Since January 2026, Microsoft has observed Russian s...</p>
   </div>
 </li>
 <li class="card">
