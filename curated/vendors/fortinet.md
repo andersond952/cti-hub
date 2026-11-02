@@ -7,31 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 01, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 02, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkw2up/fortinet_is_laying_off_nonpr_employees_in_canada/" target="_blank" rel="noopener">Fortinet is laying off non-PR employees in Canada</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-01T06:33:24+00:00</div>
-    <p>I know that many people without PR status have already been laid-off, even though they hold valid work permit. Many of them have already submitted PR application and are waiting for processing, but still got laid-off. And I heard the rem...</p>
+    <h3><a href="https://feeds.fortinet.com/~/972208619/0/fortinet/blogs~BITTER-Expands-Its-Arsenal-with-PapRAT" target="_blank" rel="noopener">BITTER Expands Its Arsenal with PapRAT</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 2 Nov 2026 14:00:00 +0000</div>
+    <p>FortiGuard Labs examines a BITTER cyberespionage campaign targeting South Asian organizations through three attack chains and the PapRAT remote access trojan…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkul8k/faz_analytic_logs_vs_archive_logs/" target="_blank" rel="noopener">FAZ analytic logs vs archive logs</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-01T05:01:17+00:00</div>
-    <p>Can you someone help me better understand the differnece between both? According to the official FAZ administration guide, they are both apparently processed at the same time, so can we say that at a certain point of time (once a log is ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xkp3jy/monthly_content_sharing_post/" target="_blank" rel="noopener">Monthly Content Sharing Post</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-01T00:00:54+00:00</div>
-    <p>Please provide a link to your content (blog, video or instructional guide) to share with us. Please accompany your post with a brief summary of your content. Note: This is not a place to advertise your services or self-promote content yo...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xluhob/any_updates_on_forticlient_standalone_stuck_on/" target="_blank" rel="noopener">Any updates on FortiClient Standalone? Stuck on 7.4.7 while EMS is already on 7.4.8 and 8.0.x</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-02T11:15:58+00:00</div>
+    <p>Hi everyone, We recently licensed **FortiClient Standalone** (the commercial tier integrated via FortiIdentity Cloud for small-scale deployments without dedicated EMS). When it was launched, it came out as **v7.4.7**. Since then: * EMS-m...</p>
   </div>
 </li>
 <li class="card">
@@ -104,14 +96,6 @@ _Updated: November 01, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/971878043/0/fortinet/blogs~Operation-Serengeti-III-Three-Years-of-Collaboration-Against-Cybercrime" target="_blank" rel="noopener">Operation Serengeti III: Three Years of Collaboration Against Cybercrime</a></h3>
     <div class="meta">Fortinet Blog · Thu, 22 Oct 2026 13:00:00 +0000</div>
     <p>Fortinet examines Operation Serengeti III and three years of collaboration with INTERPOL and the World Economic Forum Cybercrime Atlas to disrupt cybercrime and recover illicit proceeds.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/971851727/0/fortinet/blogs~Fortinet-Recognized-by-Crime-Stoppers-International-for-Cybersecurity-Leadership" target="_blank" rel="noopener">Fortinet Recognized by Crime Stoppers International for Cybersecurity Leadership</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 21 Oct 2026 15:00:00 +0000</div>
-    <p>At the recent Crime Stoppers International (CSI) Global Summit, Fortinet received CSI’s 2026 Global Annual Cybersecurity Leadership Award.…</p>
   </div>
 </li>
 </ul>
