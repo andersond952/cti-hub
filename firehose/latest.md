@@ -1,15 +1,87 @@
 ---
 layout: default
-title: Firehose — November 01, 2026
+title: Firehose — November 02, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-01
+# Daily CTI Firehose — 2026-11-02
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/51827676980_7c7e7edcf5_o_24c477828d.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/michigan-state-university-byod-gang-cyber-incident" target="_blank" rel="noopener">Michigan State cyber incident claimed by ransomware gang behind recent hospital attack</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 19:54:00 GMT</div>
+    <p>A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/polymarket_3d06dbe254.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise" target="_blank" rel="noopener">Polymarket pledges to give $3.9 million back to victims after site compromise</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 17:05:20 GMT</div>
+    <p>In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site&#x27;s downtime.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/rosstat_cyber_partisans_9ce9dfb0f4.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/hackers-ukraine-belarus-russia" target="_blank" rel="noopener">Russia&#x27;s statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 16:30:00 GMT</div>
+    <p>An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia&#x27;s federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt569484121108a889/6ae4e02ada596cc80722963c/AI-Saksit_Sangtong-Getty-2225595754.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss" target="_blank" rel="noopener">Microsoft&#x27;s AI Risk Report Misses This Key Detail</a></h3>
+    <div class="meta">Dark Reading · Mon, 02 Nov 2026 15:00:00 GMT</div>
+    <p>The &quot;Digital Defense Report&quot; identifies targets for AI attacks, but doesn&#x27;t mention that they are broadly being targeted through Microsoft bugs.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33482" target="_blank" rel="noopener">Mutipath TCP: Use and Detection, (Mon, Nov 2nd)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 02 Nov 2026 14:52:05 GMT</div>
+    <p>Mutipath TCP: Use and Detection, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/apple_iphone_93dc66938c.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/apple-warns-users-99-countries-mercenary-spyware" target="_blank" rel="noopener">Apple warns users in 99 countries of mercenary spyware</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 14:42:00 GMT</div>
+    <p>Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [which] make them so...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Air_raid_alert_Kyiv_3a0cc42cea.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/ukraine-hackers-russia-alert-system" target="_blank" rel="noopener">Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 14:30:00 GMT</div>
+    <p>A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5084e1dd5e7db648/6ae882291b7efb363cec70fb/rat-David_Chapman-Alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia" target="_blank" rel="noopener">PapRAT Cyber-Espionage Campaign Leaves a &#x27;Bitter&#x27; Taste in South Asia</a></h3>
+    <div class="meta">Dark Reading · Mon, 02 Nov 2026 14:00:00 GMT</div>
+    <p>Organizations in the region face growing cyberattacks from the known threat group, which leverages legitimate OS functionality in 3 distinct attack chains.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33480" target="_blank" rel="noopener">ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 02 Nov 2026 02:00:03 GMT</div>
+    <p>ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, Author: Johannes Ullrich</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
   <div>
@@ -51,11 +123,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/getty_images_Pb_U6_Gd8fp40_unsplash_af7822dfbc.jpg" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bfb23bb01b12a77/6ae89a88a47bac182d509a42/DataTribe_Challenge.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale" target="_blank" rel="noopener">DOJ raises privacy concerns over potential sale of Character.AI chats</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 30 Oct 2026 20:45:00 GMT</div>
-    <p>The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.</p>
+    <h3><a href="https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next" target="_blank" rel="noopener">Investors Dish on New Startups &amp;amp; What They&#x27;d Back Next</a></h3>
+    <div class="meta">Dark Reading · Fri, 30 Oct 2026 21:08:25 GMT</div>
+    <p>The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what&#x27;s trending and what&#x27;s not.</p>
   </div>
 </li>
 <li class="card">
@@ -75,27 +147,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/CAM_25013_copy_8a567a6f3a.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards" target="_blank" rel="noopener">Fashion retailer Resolve says hackers stole payment card information</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 30 Oct 2026 19:00:00 GMT</div>
-    <p>The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/MS_Actional-Insights_Access.png" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/" target="_blank" rel="noopener">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a></h3>
     <div class="meta">Microsoft Security Blog · Fri, 30 Oct 2026 16:11:44 +0000</div>
     <p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/fsu_campus_d3e68b7c9a.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach" target="_blank" rel="noopener">Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 30 Oct 2026 15:54:00 GMT</div>
-    <p>The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.</p>
   </div>
 </li>
 <li class="card">
@@ -107,27 +163,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/ahmed_al_agha_7fa8b4c586.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years" target="_blank" rel="noopener">Syrian Electronic Army hacker gets prison time for attacks on Western targets</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 30 Oct 2026 14:24:00 GMT</div>
-    <p>Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad&#x27;s closest advisers.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd40811c92b905082/6ae3b49914ffedf86f1c84cc/zombies-in-graveyard-zef_art-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks" target="_blank" rel="noopener">Undead Software Projects Continue to Raise Security Risks</a></h3>
     <div class="meta">Dark Reading · Fri, 30 Oct 2026 14:10:37 GMT</div>
     <p>A security firm patched a decade-old app to prevent takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/MOSHED_2025_4_10_8_54_27_771c4518b9.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices" target="_blank" rel="noopener">British spy agency cannot account for thousands of data storage devices, watchdog says</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 30 Oct 2026 12:52:00 GMT</div>
-    <p>The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” the issue.</p>
   </div>
 </li>
 <li class="card">
@@ -283,14 +323,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33464" target="_blank" rel="noopener">ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, (Wed, Oct 28th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Wed, 28 Oct 2026 02:30:11 GMT</div>
-    <p>ISC Stormcast For Wednesday, October 28th, 2026 https://isc.sans.edu/podcastdetail/10154, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc201b7327a3221e/6ae0e1681ae793f19fb9e1de/Cyber_legal_Abu_Hanifa_Getty_Images.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability" target="_blank" rel="noopener">3 Frameworks to Protect CISOs &amp;amp; Orgs Against AI Liability</a></h3>
@@ -328,14 +360,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants" target="_blank" rel="noopener">&#x27;Aokigahara&#x27; Stealer Targets &#x27;Developer Keyrings&#x27; &amp;amp; AI Assistants</a></h3>
     <div class="meta">Dark Reading · Tue, 27 Oct 2026 16:47:20 GMT</div>
     <p>The malware&#x27;s focus on AI tools expands the infostealer playbook, exposing AI sessions and developer infrastructure from a single compromised endpoint.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33462" target="_blank" rel="noopener">ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, (Tue, Oct 27th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Tue, 27 Oct 2026 02:55:13 GMT</div>
-    <p>ISC Stormcast For Tuesday, October 27th, 2026 https://isc.sans.edu/podcastdetail/10152, Author: Johannes Ullrich</p>
   </div>
 </li>
 <li class="card">
@@ -467,15 +491,15 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb007aa0874801a0/66d0c3e50b3ca622a148bb6f/Mungkhood_Studio-cyber-insurance-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdb007aa0874801a0/66d0c3e50b3ca622a148bb6f/Mungkhood_Studio-cyber-insurance-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/cyber-insurance-covering-ai-damage" target="_blank" rel="noopener">As AI Risks Grow, Insurers Split on Covering the Damage</a></h3>
     <div class="meta">Dark Reading · Thu, 22 Oct 2026 14:21:22 GMT</div>
-    <p>Some insurers are building specialized agentic AI coverage. Other major carriers quietly exclude it. Enterprises are exposed without their knowledge.</p>
+    <p>Some build specialized agentic AI coverage, while major carriers quietly exclude it — leaving enterprises exposed without their knowledge.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc928e4fa76e21bf1/6ad7e1eca34f770597a25359/uae-on-map-with-pin-Zarko_Prusac-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc928e4fa76e21bf1/6ad7e1eca34f770597a25359/uae-on-map-with-pin-Zarko_Prusac-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/uae-transitions-50-government-services-agentic-ai" target="_blank" rel="noopener">UAE Transitions 50% of Government Services to Agentic AI</a></h3>
     <div class="meta">Dark Reading · Thu, 22 Oct 2026 05:00:00 GMT</div>
@@ -483,11 +507,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security" target="_blank" rel="noopener">TiDB Breach Exposes Flawed Cloud Security Assumptions</a></h3>
     <div class="meta">Dark Reading · Wed, 21 Oct 2026 21:15:39 GMT</div>
-    <p>Cloud providers may be storing sensitive customer data, without either party knowing it. But when there&#x27;s a breach, the data comes home to roost.</p>
+    <p>Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.</p>
   </div>
 </li>
 <li class="card">
@@ -568,30 +592,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys" target="_blank" rel="noopener">Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys</a></h3>
     <div class="meta">Dark Reading · Tue, 20 Oct 2026 21:45:47 GMT</div>
     <p>Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it&#x27;s unclear how the keys were compromised.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4490aa31390e262f/6ad7b11151d60c256274529b/REC_recording-Tomasz_%C5%9Amigla-GettyImages-1338436529.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties" target="_blank" rel="noopener">Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ</a></h3>
-    <div class="meta">Dark Reading · Tue, 20 Oct 2026 19:16:49 GMT</div>
-    <p>The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt44a0332eb39140fa/679be79d9bc2cd9f0b986638/TippaPatt-software-developer-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/application-security/close-identity-gaps-sdlc-before-ai" target="_blank" rel="noopener">Close Identity Gaps in Software Development Before Unleashing AI</a></h3>
-    <div class="meta">Dark Reading · Tue, 20 Oct 2026 15:35:45 GMT</div>
-    <p>Artificial intelligence is complicating security in the software development life cycle, but a Dark Reading roundtable found collaboration, better identity visibility, and reduced testing costs offer CISOs a way ahead.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcbe1b408854966e2/6ad73d5767600f57689ea49a/AI_agent_concept_Brain_light_Alamy.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/hackers-abuse-ai-pen-test-tool-cairn" target="_blank" rel="noopener">Hackers Abuse AI Pen-Test Tool Cairn to Automate Massive Attack Spree</a></h3>
-    <div class="meta">Dark Reading · Tue, 20 Oct 2026 14:36:05 GMT</div>
-    <p>A Chinese-speaking attacker has compromised hundreds of websites across the globe, looting from big fish like John Deere, SharkNinja, and engine manufacturer Cummins.</p>
   </div>
 </li>
 <li class="card">
