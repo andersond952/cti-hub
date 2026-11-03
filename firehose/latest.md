@@ -1,37 +1,109 @@
 ---
 layout: default
-title: Firehose — November 02, 2026
+title: Firehose — November 03, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-02
+# Daily CTI Firehose — 2026-11-03
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/51827676980_7c7e7edcf5_o_24c477828d.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/binance_logo_f4cdb044bb.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/michigan-state-university-byod-gang-cyber-incident" target="_blank" rel="noopener">Michigan State cyber incident claimed by ransomware gang behind recent hospital attack</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 19:54:00 GMT</div>
-    <p>A recent post by the BYOD gang appears to line up with a security incident that prompted campus-wide action at Michigan State University. BYOD drew attention in October for an attack on the University of New Mexico.</p>
+    <h3><a href="https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea" target="_blank" rel="noopener">Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 03 Nov 2026 16:42:00 GMT</div>
+    <p>North Korean attackers &quot;combined a range of techniques, including social engineering by fake recruitment interviews,&quot; Binance said about the multibillion-dollar crypto heist it discovered in October.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/polymarket_3d06dbe254.jpg" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt73242ae0d40b68c0/6aea0c8226a0725a0631618d/maze-mikkelwilliam-GettyImages-1420679447.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/polymarket-returning-funds-to-customers-after-site-compromise" target="_blank" rel="noopener">Polymarket pledges to give $3.9 million back to victims after site compromise</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 17:05:20 GMT</div>
-    <p>In a post-mortem about an October 29 incident, prediction market Polymarket said it will pay people back what they lost, as well as compensate them for the site&#x27;s downtime.</p>
+    <h3><a href="https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats" target="_blank" rel="noopener">9 Cyber Awareness Tips That Actually Match Today’s Maze of Threats</a></h3>
+    <div class="meta">Dark Reading · Tue, 03 Nov 2026 15:38:20 GMT</div>
+    <p>Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/rosstat_cyber_partisans_9ce9dfb0f4.jpg" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbc06310368e21110/6a4bdbe6a6d4757864059ce1/llm-Boy_Wirat-Getty-2149059417.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/hackers-ukraine-belarus-russia" target="_blank" rel="noopener">Russia&#x27;s statistics agency confirms cyberattack claimed by Belarusian and Ukrainian hackers</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 16:30:00 GMT</div>
-    <p>An alliance of Belarusian and pro-Ukrainian hackers claimed to have taken out Russia&#x27;s federal statistics agency, Rosstat, and stolen vast amounts of sensitive government data in a cyberattack.</p>
+    <h3><a href="https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise" target="_blank" rel="noopener">LLMJacking Emerges as Thriving Cybercriminal Enterprise</a></h3>
+    <div class="meta">Dark Reading · Tue, 03 Nov 2026 15:35:50 GMT</div>
+    <p>Threat actors have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying $1 million in resource consumption.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta280e1d9bd26c729/6ae8fcfdb20def7a8ae983ea/school_front-YinYang-GettyImages-157476686.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack" target="_blank" rel="noopener">3AM Affiliate Embraces AI-Like Loops in European School Attack</a></h3>
+    <div class="meta">Dark Reading · Tue, 03 Nov 2026 14:00:00 GMT</div>
+    <p>How a 3AM ransomware affiliate used domain trusts, stolen credentials, and possible AI-driven command loops in a breach of UK schools.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/russian_arrests_f80b0410db.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three" target="_blank" rel="noopener">Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 03 Nov 2026 13:50:00 GMT</div>
+    <p>Russia&#x27;s Interior Ministry said Monday that police had dismantled the group&#x27;s infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/ukraine_tank_a2d86eaf96.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support" target="_blank" rel="noopener">Russia-linked cyber spies target Ukraine&#x27;s war crimes investigations, military aid routes</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 03 Nov 2026 13:39:00 GMT</div>
+    <p>The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <div>
+    <h3><a href="https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/" target="_blank" rel="noopener">Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies</a></h3>
+    <div class="meta">Krebs on Security · Tue, 03 Nov 2026 02:24:31 +0000</div>
+    <p>Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user’s Internet connection out to strangers and...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33484" target="_blank" rel="noopener">ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, (Tue, Nov 3rd)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Tue, 03 Nov 2026 02:00:02 GMT</div>
+    <p>ISC Stormcast For Tuesday, November 3rd, 2026 https://isc.sans.edu/podcastdetail/10162, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/london_pexels_jesujoba_isaac_adedeji_917783_15431749_f35414183e.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months" target="_blank" rel="noopener">UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief</a></h3>
+    <div class="meta">Recorded Future (Blog) · Tue, 03 Nov 2026 00:01:00 GMT</div>
+    <p>&quot;[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,&quot; the NCSC&#x27;s chief will warn in releasing the agency&#x27;s annual report.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5a6c898e92d21e63/6ae8ffda91cb5739c41bd1e1/binance_creativetan_shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/binance-hack-test-attack-paths" target="_blank" rel="noopener">One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning</a></h3>
+    <div class="meta">Dark Reading · Mon, 02 Nov 2026 22:27:24 GMT</div>
+    <p>The record theft shows how weak system separation, inadequate controls, and untested attack paths can turn one breach into systemic loss.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/mercado_bitcoin_92ae590f6f.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/mercado-bitcoin-brazil-cryptocurrency-heist" target="_blank" rel="noopener">Largest crypto exchange in Brazil confirms cyberattack as millions flow out of platform</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 21:42:00 GMT</div>
+    <p>Blockchain security companies said more than $46 million left the Mercado Bitcoin platform.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/02/MS_Actional-Insights_Detection-hunting.png" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/" target="_blank" rel="noopener">What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a></h3>
+    <div class="meta">Microsoft Security Blog · Mon, 02 Nov 2026 20:20:59 +0000</div>
+    <p>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius.</p>
   </div>
 </li>
 <li class="card">
@@ -48,22 +120,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://isc.sans.edu/diary/rss/33482" target="_blank" rel="noopener">Mutipath TCP: Use and Detection, (Mon, Nov 2nd)</a></h3>
     <div class="meta">SANS Internet Storm Center · Mon, 02 Nov 2026 14:52:05 GMT</div>
     <p>Mutipath TCP: Use and Detection, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/apple_iphone_93dc66938c.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/apple-warns-users-99-countries-mercenary-spyware" target="_blank" rel="noopener">Apple warns users in 99 countries of mercenary spyware</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 14:42:00 GMT</div>
-    <p>Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [which] make them so...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/Air_raid_alert_Kyiv_3a0cc42cea.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/ukraine-hackers-russia-alert-system" target="_blank" rel="noopener">Russian and Ukrainian hackers hijack emergency apps to spread fake nuclear attack warnings</a></h3>
-    <div class="meta">Recorded Future (Blog) · Mon, 02 Nov 2026 14:30:00 GMT</div>
-    <p>A popular Ukrainian air raid alert system was hacked over the weekend, prompting a cyber group to breach a similar Russian system in retaliation.</p>
   </div>
 </li>
 <li class="card">
@@ -275,14 +331,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/2026-10-28a-ISC-diary-image-01.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33466" target="_blank" rel="noopener">Yet Another ClickFix Campaign, (Wed, Oct 28th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Thu, 29 Oct 2026 00:42:15 GMT</div>
-    <p>Yet Another ClickFix Campaign, Author: Brad Duncan</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github" target="_blank" rel="noopener">GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub</a></h3>
@@ -443,31 +491,31 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt532ec4c95e5c91b7/6ada58e98f65b93d8e99c4a2/Insurance_policy-Mohamad_Faizal_Bin_Ramli-GettyImages-1295819436.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt532ec4c95e5c91b7/6ada58e98f65b93d8e99c4a2/Insurance_policy-Mohamad_Faizal_Bin_Ramli-GettyImages-1295819436.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/cyber-insurances-underwriting-isnt-enough" target="_blank" rel="noopener">Cyber Insurance&#x27;s New Reality: Underwriting Isn&#x27;t Enough</a></h3>
     <div class="meta">Dark Reading · Fri, 23 Oct 2026 13:30:00 GMT</div>
-    <p>Cyber insurers are tightening requirements, monitoring risk, and offering security services as threats evolve.</p>
+    <p>Rising AI, social engineering, and cloud risks are pushing carriers beyond risk transfer and deeper into cybersecurity itself.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt521637665481bcc9/65dfe9cfea879b040a14fbb9/policerobot-Agencja_Fotograficzna_Caro-alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/ai-agents-insider-threats-inside-microsoft-unified-security-stack" target="_blank" rel="noopener">AI Agents as Insider Threats: Inside Microsoft&#x27;s Bet on a Unified Security Stack</a></h3>
     <div class="meta">Dark Reading · Fri, 23 Oct 2026 11:38:28 GMT</div>
-    <p>Microsoft&#x27;s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but policing unpredictable AI with AI is a risky endeavor.</p>
+    <p>Microsoft&#x27;s Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt979cd25773f1b3d4/6ada6acba10b57ec999014b8/SBI-Yawar_Nazir-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/state-bank-india-customer-pii-data-leak" target="_blank" rel="noopener">State Bank of India Suffers a Customer PII Data Leak</a></h3>
     <div class="meta">Dark Reading · Fri, 23 Oct 2026 03:30:00 GMT</div>
-    <p>Relatively small breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.</p>
+    <p>Relatively small data breaches in India can turn quite serious, thanks to a sophisticated underground market for trading PII.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt481be0dcde6741d2/6ada753af919424ed83bcdaf/chinacyber_mageFlow_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack" target="_blank" rel="noopener">Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack</a></h3>
     <div class="meta">Dark Reading · Thu, 22 Oct 2026 20:42:17 GMT</div>
@@ -475,19 +523,19 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta02f4349610bfb87/6ada6ff8b8f9c97bdf15ea45/rodeo-Scott_Olsen-GettyImages-2284428107.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta02f4349610bfb87/6ada6ff8b8f9c97bdf15ea45/rodeo-Scott_Olsen-GettyImages-2284428107.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers" target="_blank" rel="noopener">What We Missed: Feds Lasso Texas Laptop Farms</a></h3>
     <div class="meta">Dark Reading · Thu, 22 Oct 2026 20:33:10 GMT</div>
-    <p>In this video, Dark Reading editors discuss news they didn&#x27;t cover, from &quot;Operation Lonestar Justice&quot; to a reported Staples gift card bonanza.</p>
+    <p>In this video, Dark Reading editors discuss some of the news they didn&#x27;t get a chance to cover, from busting up North Korea&#x27;s stateside infrastructure in &quot;Operation Lonestar Justice&quot; to Staples&#x27; gift card bonanza.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french" target="_blank" rel="noopener">Les supermarchés de l&#x27;UE paient d&#x27;un firmware de réfrigérateur non mis à jour</a></h3>
     <div class="meta">Dark Reading · Thu, 22 Oct 2026 19:30:20 GMT</div>
-    <p>Les magasins ont perdu des millions en faisant appel à des prestataires externes pour gérer des micrologiciels OT obsolètes.</p>
+    <p>Des centaines de magasins ont subi des pertes se chiffrant en millions d&#x27;euros parce qu&#x27;ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.</p>
   </div>
 </li>
 <li class="card">
@@ -555,43 +603,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program" target="_blank" rel="noopener">Optiv Launches CyberBOT Cybersecurity Awareness Training Program</a></h3>
-    <div class="meta">Dark Reading · Wed, 21 Oct 2026 15:44:48 GMT</div>
-    <p>Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable" target="_blank" rel="noopener">Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk</a></h3>
-    <div class="meta">Dark Reading · Wed, 21 Oct 2026 15:29:09 GMT</div>
-    <p>360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://krebsonsecurity.com/wp-content/uploads/2026/10/shutterstock-codeonscreenphp.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/" target="_blank" rel="noopener">Widespread PHP Flaw May Cause Many Site Outages Today</a></h3>
     <div class="meta">Krebs on Security · Wed, 21 Oct 2026 15:26:07 +0000</div>
     <p>Expect to see quite a few websites serving error pages today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected servers. Experts s...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfaf93bd096fd735c/6a45559d327edd13ed6ac140/clickfix-tumsasedgars-Getty-2234293893.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack" target="_blank" rel="noopener">Decades-Old Windows Utility Powers Modern ClickFix Attack</a></h3>
-    <div class="meta">Dark Reading · Wed, 21 Oct 2026 13:00:00 GMT</div>
-    <p>The attack uses malicious Google search results related to Amazon and leverages the &quot;finger&quot; utility to launch a CAPTCHA that installs malware, including the Lumma stealer.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9204db2f2ffca6fe/6ad7d457e5c2f8b0773c4a30/ca_Inkoly_shutterstock.jpf.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys" target="_blank" rel="noopener">Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys</a></h3>
-    <div class="meta">Dark Reading · Tue, 20 Oct 2026 21:45:47 GMT</div>
-    <p>Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it&#x27;s unclear how the keys were compromised.</p>
   </div>
 </li>
 <li class="card">
@@ -624,14 +640,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/" target="_blank" rel="noopener">U.K. Sanctions Cryptomus for RU Money Laundering</a></h3>
     <div class="meta">Krebs on Security · Wed, 14 Oct 2026 14:22:49 +0000</div>
     <p>The United Kingdom has issued economic sanctions against Cryptomus , a chameleonic cryptocurrency platform that experts say serves as a major conduit for payments related to ransomware, narcotics, darknet markets, fraud and cybercrime se...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Fig1-heat-map-1024x495.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/14/the-hidden-network-inside-the-phishing-infrastructure-ecosystem-powering-global-cybercrime/" target="_blank" rel="noopener">The hidden network: Inside the phishing infrastructure ecosystem powering global cybercrime</a></h3>
-    <div class="meta">Microsoft Security Blog · Wed, 14 Oct 2026 13:00:00 +0000</div>
-    <p>In this article Uncovering the shadow world of a phishing kit ecosystem Storm-3119: YAM Store, the power broker Storm-2990: The Iron Man System phishing kit Downstream activity from Storm-2990 phishing kits Mitigation and protection guid...</p>
   </div>
 </li>
 <li class="card">
@@ -680,14 +688,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/" target="_blank" rel="noopener">Data Broker Radaris Loses Domains in Privacy Fight</a></h3>
     <div class="meta">Krebs on Security · Wed, 16 Sep 2026 18:14:22 +0000</div>
     <p>The consumer data broker Radaris.com has long had a reputation for ignoring requests to remove personal information from its vast empire of people-search services online. That reputation caught up with the company recently in a lawsuit a...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/09/shutterstock_278764853.jpg" alt="preview">
-  <div>
-    <h3><a href="https://krebsonsecurity.com/2026/09/microsoft-plugs-nearly-1000-security-holes/" target="_blank" rel="noopener">Microsoft Plugs Nearly 1,000 Security Holes</a></h3>
-    <div class="meta">Krebs on Security · Tue, 08 Sep 2026 21:44:22 +0000</div>
-    <p>Microsoft Corp. today issued updates to plug at least 974 security holes in its Windows operating systems and other software, by far its biggest single patch batch ever. Microsoft says artificial intelligence is helping to speed the disc...</p>
   </div>
 </li>
 </ul>
