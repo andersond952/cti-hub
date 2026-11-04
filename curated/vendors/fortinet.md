@@ -7,15 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 03, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://preview.redd.it/ririno1o8fzh1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=05dee34579bd5560e575214591bb86c00dea588d" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xmx0pd/this_means_what/" target="_blank" rel="noopener">This means what</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-03T16:08:02+00:00</div>
-    <p>submitted by /u/Acceptable-Moment822 [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnu3n7/solo_senior_admin_ot_manufacturing_realistic_to/" target="_blank" rel="noopener">Solo senior admin, OT manufacturing: realistic to deploy FortiNAC + FortiSIEM</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T17:23:09+00:00</div>
+    <p>Looking for a reality check from people who’ve done this. Background: We moved to the Fortinet suite a couple of years ago and bought licenses for FortiNAC and FortiSIEM, and even spun up the VMs, but never implemented either. We’ve been...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnsy6n/ipsec_vpn_not_connecting_egypt/" target="_blank" rel="noopener">IPsec VPN not Connecting Egypt</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T16:40:29+00:00</div>
+    <p>Hello Everybody I hope you are all doing well I am facing a strange issue where the IPsec (dial up) is not working only from Egypt I have tried multiple tunnels that I have for our clients keep in mind I have never faced such issue my VP...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnqrje/vpns_dropping_after_768/" target="_blank" rel="noopener">VPNs dropping after 7.6.8</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T15:15:28+00:00</div>
+    <p>Recently with the security patches, we upgraded our FGs from 7.4.12 to 7.6.8. Ever since that upgrade, we have some sites whose VPN will drop, and then not try to come back up until I manually push the button to initiate the VPNs again. ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnoir2/forticlient_free_743_ikev2eap_succeeds_but_child/" target="_blank" rel="noopener">FortiClient Free 7.4.3 - IKEv2/EAP succeeds but CHILD_SA fails with IPv6 selectors against an IPv4-only tunnel. Any permanent fix?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T13:43:16+00:00</div>
+    <p>Hi everyone, We are migrating approximately 150 users from SSL VPN to IPsec IKEv2, and an increasing number of PCs are experiencing connection failures. I’m looking for a permanent solution that keeps IPv6 enabled on Windows. I’m willing...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnkfxw/firewalls_switched_auto_update/" target="_blank" rel="noopener">Firewalls switched auto update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T10:03:31+00:00</div>
+    <p>Hi Team, anyone had similar thing were all my firewalls are turning on auto update? We do not have them in any policy in cloud to push this as we like to patch manually. Last 2-3 month, FW started turning on the feature. submitted by /u/...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnhzh5/nse_exam_feed_update/" target="_blank" rel="noopener">NSE Exam feed update</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T07:23:22+00:00</div>
+    <p>Starting Nov 2nd the exam costs have changed as per - https://helpdesk.training.fortinet.com/support/solutions/articles/73000672897-nse-certification-program-notice-changes-to-exam-fees L.E. typo in the title, fees* submitted by /u/pfunk...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xn1gql/looking_for_a_good_way_to_properly_learn/" target="_blank" rel="noopener">Looking for a good way to properly learn FortiGate / NSE4 (not the boring official training)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-03T18:48:53+00:00</div>
+    <p>Hey guys, I’ve been learning FortiGate for a while now. I’ve already covered the fundamentals, firewall policies, NAT, routing, IPsec/SSL VPN, HA, and most of the basic configurations. I’ve also finished a couple of FortiGate courses on ...</p>
   </div>
 </li>
 <li class="card">
@@ -24,46 +72,6 @@ _Updated: November 03, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/972290315/0/fortinet/blogs~Simplify-Operations-and-Strengthen-Protection-with-Fortinet-AIDriven-Secure-SDWAN" target="_blank" rel="noopener">Simplify Operations and Strengthen Protection with Fortinet AI-Driven Secure SD-WAN</a></h3>
     <div class="meta">Fortinet Blog · Tue, 3 Nov 2026 16:00:00 +0000</div>
     <p>Learn how Fortinet AI-Driven Secure SD-WAN simplifies operations, improves application performance, and strengthens protection across distributed networks.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xmt3mr/upgrading_from_7411_to_7413_break_dhcp_relay/" target="_blank" rel="noopener">Upgrading from 7.4.11 to 7.4.13 break DHCP relay</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-03T13:36:05+00:00</div>
-    <p>apologize in advance, but I don&#x27;t speak English, so I&#x27;ve used AI to translate my message. I&#x27;ve opened a ticket with Fortinet, but I thought I&#x27;d also throw a bottle into the sea here and see if anyone can help! :) We have a cluster of For...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xmszjn/ips_signature_for_cve202698432/" target="_blank" rel="noopener">IPS signature for CVE-2026-98432?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-03T13:31:12+00:00</div>
-    <p>Hello, Quick question: I wasn&#x27;t able to find the signature for this attack in the IPS signatures list. An attack against one of our servers, would be blocked by FortiGate ? I saw somewhere that it would be blocked because of the TCP head...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xmmppt/psirt_fortiguard_labs_fgir26188_cve202698432/" target="_blank" rel="noopener">PSIRT | FortiGuard Labs - FG-IR-26-188 / CVE-2026-98432</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-03T07:33:43+00:00</div>
-    <p>https://nvd.nist.gov/vuln/detail/cve-2026-98432 https://fortiguard.fortinet.com/psirt/FG-IR-26-188 Hi all, Someone know if this is new vulnerability or it is one they were going to announce for the last month patching ? Thanks! submitted...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xmkoc5/saml_sso_with_specific_group/" target="_blank" rel="noopener">SAML SSO with specific group</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-03T05:32:52+00:00</div>
-    <p>Good day all, trying to set up SAML SSO for VPN so that it can read sent group attribute and assign user to local FW group based on object id. SSO page on MS365 side (BEFORE entering &quot;Attributes and Claims&quot; page) shows that there&#x27;s an at...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xmb0ri/ipsec_client_vpn_with_sdwan_and_loopback/" target="_blank" rel="noopener">IPsec Client VPN with SD-WAN and Loopback</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-02T22:04:05+00:00</div>
-    <p>Hi, We&#x27;re migrating from FortiClient SSL-VPN to IPsec (FortiClient, no EMS). We run two WAN links in active/active with SD-WAN. Our current SSL-VPN is bound to a loopback interface and works perfectly with this topology. Has anyone succe...</p>
   </div>
 </li>
 <li class="card">
