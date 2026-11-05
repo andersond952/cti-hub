@@ -7,63 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 04, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnu3n7/solo_senior_admin_ot_manufacturing_realistic_to/" target="_blank" rel="noopener">Solo senior admin, OT manufacturing: realistic to deploy FortiNAC + FortiSIEM</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T17:23:09+00:00</div>
-    <p>Looking for a reality check from people who’ve done this. Background: We moved to the Fortinet suite a couple of years ago and bought licenses for FortiNAC and FortiSIEM, and even spun up the VMs, but never implemented either. We’ve been...</p>
+    <h3><a href="https://feeds.fortinet.com/~/972426716/0/fortinet/blogs~Cyber-Resilience-Starts-with-AI-Governance" target="_blank" rel="noopener">Cyber Resilience Starts with AI Governance</a></h3>
+    <div class="meta">Fortinet Blog · Thu, 5 Nov 2026 16:00:00 +0000</div>
+    <p>Learn why organizations can&#x27;t build cyber resilience if leadership doesn&#x27;t understand AI risk.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnsy6n/ipsec_vpn_not_connecting_egypt/" target="_blank" rel="noopener">IPsec VPN not Connecting Egypt</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T16:40:29+00:00</div>
-    <p>Hello Everybody I hope you are all doing well I am facing a strange issue where the IPsec (dial up) is not working only from Egypt I have tried multiple tunnels that I have for our clients keep in mind I have never faced such issue my VP...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xoes6u/still_no_fortigate_1000g_and_with_1000f_now_end/" target="_blank" rel="noopener">Still no Fortigate 1000G and with 1000F now end of sale?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T09:56:14+00:00</div>
+    <p>I&#x27;m in an awkward position where our pair of 1000D&#x27;s goes end of Life in April 2028 so I need to look at a replacement soon. My issue is that I need a Fortigate which can do more than 50 VDOMs and as such despite being more powerful the ...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnqrje/vpns_dropping_after_768/" target="_blank" rel="noopener">VPNs dropping after 7.6.8</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T15:15:28+00:00</div>
-    <p>Recently with the security patches, we upgraded our FGs from 7.4.12 to 7.6.8. Ever since that upgrade, we have some sites whose VPN will drop, and then not try to come back up until I manually push the button to initiate the VPNs again. ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xo6lhs/7413_gui_script_execution_not_synching_uuids_to/" target="_blank" rel="noopener">7.4.13 GUI Script execution not synching UUIDs to passive</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T01:59:50+00:00</div>
+    <p>I have logged ticket with TAC but found this running updates via the gui script function. I don’t set UUIDs when creating objects normally via scripts. Never have. Everything else on the object is synced except the uuid it seems when not...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnoir2/forticlient_free_743_ikev2eap_succeeds_but_child/" target="_blank" rel="noopener">FortiClient Free 7.4.3 - IKEv2/EAP succeeds but CHILD_SA fails with IPv6 selectors against an IPv4-only tunnel. Any permanent fix?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T13:43:16+00:00</div>
-    <p>Hi everyone, We are migrating approximately 150 users from SSL VPN to IPsec IKEv2, and an increasing number of PCs are experiencing connection failures. I’m looking for a permanent solution that keeps IPv6 enabled on Windows. I’m willing...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnkfxw/firewalls_switched_auto_update/" target="_blank" rel="noopener">Firewalls switched auto update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T10:03:31+00:00</div>
-    <p>Hi Team, anyone had similar thing were all my firewalls are turning on auto update? We do not have them in any policy in cloud to push this as we like to patch manually. Last 2-3 month, FW started turning on the feature. submitted by /u/...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xnhzh5/nse_exam_feed_update/" target="_blank" rel="noopener">NSE Exam feed update</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T07:23:22+00:00</div>
-    <p>Starting Nov 2nd the exam costs have changed as per - https://helpdesk.training.fortinet.com/support/solutions/articles/73000672897-nse-certification-program-notice-changes-to-exam-fees L.E. typo in the title, fees* submitted by /u/pfunk...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xn1gql/looking_for_a_good_way_to_properly_learn/" target="_blank" rel="noopener">Looking for a good way to properly learn FortiGate / NSE4 (not the boring official training)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-03T18:48:53+00:00</div>
-    <p>Hey guys, I’ve been learning FortiGate for a while now. I’ve already covered the fundamentals, firewall policies, NAT, routing, IPsec/SSL VPN, HA, and most of the basic configurations. I’ve also finished a couple of FortiGate courses on ...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xo2a3n/config_backup_via_scp_no_longer_contains/" target="_blank" rel="noopener">config backup via SCP no longer contains passwords in 8.0.1</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T22:42:00+00:00</div>
+    <p>Does anyone know of a way to get a full backup with passwords out of a fortigate using SCP. I have been using scp admin@&lt;FortiGate\_IP&gt;:fgt-config &lt;location&gt; for years and my FortiGates running &gt;8.0.1 all have the passwords replaced with...</p>
   </div>
 </li>
 <li class="card">
@@ -136,14 +112,6 @@ _Updated: November 04, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/971913593/0/fortinet/blogs~FortiSwitch-AXG-Built-for-the-Next-Phase-of-HighDensity-Campus-and-Data-Center-Networks" target="_blank" rel="noopener">FortiSwitch AX9000G: Built for the Next Phase of High-Density Campus and Data Center Networks</a></h3>
     <div class="meta">Fortinet Blog · Fri, 23 Oct 2026 15:00:00 +0000</div>
     <p>Discover how Fortinet FortiSwitch AX9000G delivers high-density switching, scalable connectivity, and Wi-Fi 7 support for campus and data center networks.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/971908106/0/fortinet/blogs~Understanding-PHPShell-Vulnerabilities-and-Reducing-Risk-While-You-Patch" target="_blank" rel="noopener">Understanding PHP2Shell Vulnerabilities and Reducing Risk While You Patch</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 23 Oct 2026 13:00:00 +0000</div>
-    <p>Learn how the PHP2Shell vulnerability affects web applications and how FortiGuard Labs IPS protections reduce exposure while organizations deploy critical PHP updates. …</p>
   </div>
 </li>
 </ul>
