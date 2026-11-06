@@ -7,39 +7,63 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 05, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/972499679/0/fortinet/blogs~Cybersecurity-Training-That-Earns-Recognition" target="_blank" rel="noopener">Cybersecurity Training That Earns Recognition</a></h3>
+    <div class="meta">Fortinet Blog · Fri, 6 Nov 2026 16:00:00 +0000</div>
+    <p>The Fortinet Training Institute is continually recognized by the cybersecurity industry for its commitment to excellence in education and certification.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpeqm7/fortigate_enters_conserve_mode_after_upgrading_to/" target="_blank" rel="noopener">FortiGate enters conserve mode after upgrading to FortiOS version 7.6.8 (IPSEngine 7.01200)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-06T14:53:20+00:00</div>
+    <p>Heads-up: IPS Engine 7.01200 which comes with FortiOS 7.6.8 has a memory leak, FortiGates enter conserve mode after some time. Read more in the Fortinet Community Support Forum: https://community.fortinet.com/fortigate-3/fortigate-enters...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpd84n/80f_on_6415_forticare_and_utp_expired_in_feb_2026/" target="_blank" rel="noopener">80F on 6.4.15, FortiCare and UTP expired in Feb 2026. Cheapest legit way to update firmware?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-06T13:48:03+00:00</div>
+    <p>I manage IT for a small office as a freelancer. They have a FortiGate 80F (about 40 devices, two ISP links on SD-WAN) still on FortiOS 6.4.15 build 2095. FortiCare and the UTP bundle both expired in Feb 2026, so FortiCloud won&#x27;t let me d...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xovrae/juniper_switch_setup/" target="_blank" rel="noopener">Juniper switch setup</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T22:04:51+00:00</div>
+    <p>Hello I’m new to networking and have got to start configuring Juniper switches. We already have FortiNac up and running. I know each port needs some VLAN tagged to if. So could I set all the ports at VLAN 1 (for example), then get Forti ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xouaon/labs_de_practica_para_fortinet_76/" target="_blank" rel="noopener">LABS DE PRACTICA PARA FORTINET 7.6</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T21:06:24+00:00</div>
+    <p>Estimada comunidad necesito su ayuda. Cual pagina me recomiendan para practicar los labs de Fortinet 7.6 Administrator?? Agradezco sus sugerencias submitted by /u/New_Package1641 [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xos420/fortinac_radius_vs_ldapad/" target="_blank" rel="noopener">FortiNAC RADIUS vs LDAP/AD?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T19:39:17+00:00</div>
+    <p>Hello all, We are setting up FortiNAC in our environment. We&#x27;re in the early stages of deployment. We just set up HA. I am reading that you can utilize LDAP or RADIUS (or google auth but we won&#x27;t use that) for client authentication into ...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/972426716/0/fortinet/blogs~Cyber-Resilience-Starts-with-AI-Governance" target="_blank" rel="noopener">Cyber Resilience Starts with AI Governance</a></h3>
     <div class="meta">Fortinet Blog · Thu, 5 Nov 2026 16:00:00 +0000</div>
     <p>Learn why organizations can&#x27;t build cyber resilience if leadership doesn&#x27;t understand AI risk.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xoes6u/still_no_fortigate_1000g_and_with_1000f_now_end/" target="_blank" rel="noopener">Still no Fortigate 1000G and with 1000F now end of sale?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T09:56:14+00:00</div>
-    <p>I&#x27;m in an awkward position where our pair of 1000D&#x27;s goes end of Life in April 2028 so I need to look at a replacement soon. My issue is that I need a Fortigate which can do more than 50 VDOMs and as such despite being more powerful the ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xo6lhs/7413_gui_script_execution_not_synching_uuids_to/" target="_blank" rel="noopener">7.4.13 GUI Script execution not synching UUIDs to passive</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T01:59:50+00:00</div>
-    <p>I have logged ticket with TAC but found this running updates via the gui script function. I don’t set UUIDs when creating objects normally via scripts. Never have. Everything else on the object is synced except the uuid it seems when not...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xo2a3n/config_backup_via_scp_no_longer_contains/" target="_blank" rel="noopener">config backup via SCP no longer contains passwords in 8.0.1</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-04T22:42:00+00:00</div>
-    <p>Does anyone know of a way to get a full backup with passwords out of a fortigate using SCP. I have been using scp admin@&lt;FortiGate\_IP&gt;:fgt-config &lt;location&gt; for years and my FortiGates running &gt;8.0.1 all have the passwords replaced with...</p>
   </div>
 </li>
 <li class="card">
@@ -104,14 +128,6 @@ _Updated: November 05, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/971988152/0/fortinet/blogs~Extending-Network-Security-to-AI-Applications-with-FortiAIGate" target="_blank" rel="noopener">Extending Network Security to AI Applications with FortiAIGate</a></h3>
     <div class="meta">Fortinet Blog · Mon, 26 Oct 2026 13:00:00 +0000</div>
     <p>FortiAIGate extends network security with AI guardrails that inspect prompts, responses, and tool calls to protect data and govern AI use.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/971913593/0/fortinet/blogs~FortiSwitch-AXG-Built-for-the-Next-Phase-of-HighDensity-Campus-and-Data-Center-Networks" target="_blank" rel="noopener">FortiSwitch AX9000G: Built for the Next Phase of High-Density Campus and Data Center Networks</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 23 Oct 2026 15:00:00 +0000</div>
-    <p>Discover how Fortinet FortiSwitch AX9000G delivers high-density switching, scalable connectivity, and Wi-Fi 7 support for campus and data center networks.…</p>
   </div>
 </li>
 </ul>
