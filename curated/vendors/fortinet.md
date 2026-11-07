@@ -7,55 +7,39 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 06, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xq34qx/fortigate_60f/" target="_blank" rel="noopener">FortiGate 60F</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-07T10:18:44+00:00</div>
+    <p>Hi All, I have a FortiGate 60F in our environment, we’re using EMS. We have significant issues with the IPSec VPN; when some users disconnect the DNS settings for our environment stick. This then causes issues accessing the general inter...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpspg6/fortimanager/" target="_blank" rel="noopener">FortiManager</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-07T00:26:24+00:00</div>
+    <p>In FortiManager, how do you create a single shared policy package that contains firewall policies only gets installed on a particular device? For example, I want firewall policy 1 only gets installed on device 1 and firewall policy 2 onl...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpngky/fortinet_exam_vouchers_student_programs_or_other/" target="_blank" rel="noopener">Fortinet Exam Vouchers – Student Programs or Other Opportunities?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-06T20:36:40+00:00</div>
+    <p>Hi everyone! Does anyone know if there is a way for students to get free Fortinet exam vouchers? I&#x27;m particularly interested in the Fortinet Academic Partner Program, but I&#x27;d also like to know if there are any alternative ways, programs,...</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/972499679/0/fortinet/blogs~Cybersecurity-Training-That-Earns-Recognition" target="_blank" rel="noopener">Cybersecurity Training That Earns Recognition</a></h3>
     <div class="meta">Fortinet Blog · Fri, 6 Nov 2026 16:00:00 +0000</div>
     <p>The Fortinet Training Institute is continually recognized by the cybersecurity industry for its commitment to excellence in education and certification.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpeqm7/fortigate_enters_conserve_mode_after_upgrading_to/" target="_blank" rel="noopener">FortiGate enters conserve mode after upgrading to FortiOS version 7.6.8 (IPSEngine 7.01200)</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-06T14:53:20+00:00</div>
-    <p>Heads-up: IPS Engine 7.01200 which comes with FortiOS 7.6.8 has a memory leak, FortiGates enter conserve mode after some time. Read more in the Fortinet Community Support Forum: https://community.fortinet.com/fortigate-3/fortigate-enters...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpd84n/80f_on_6415_forticare_and_utp_expired_in_feb_2026/" target="_blank" rel="noopener">80F on 6.4.15, FortiCare and UTP expired in Feb 2026. Cheapest legit way to update firmware?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-06T13:48:03+00:00</div>
-    <p>I manage IT for a small office as a freelancer. They have a FortiGate 80F (about 40 devices, two ISP links on SD-WAN) still on FortiOS 6.4.15 build 2095. FortiCare and the UTP bundle both expired in Feb 2026, so FortiCloud won&#x27;t let me d...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xovrae/juniper_switch_setup/" target="_blank" rel="noopener">Juniper switch setup</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T22:04:51+00:00</div>
-    <p>Hello I’m new to networking and have got to start configuring Juniper switches. We already have FortiNac up and running. I know each port needs some VLAN tagged to if. So could I set all the ports at VLAN 1 (for example), then get Forti ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xouaon/labs_de_practica_para_fortinet_76/" target="_blank" rel="noopener">LABS DE PRACTICA PARA FORTINET 7.6</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T21:06:24+00:00</div>
-    <p>Estimada comunidad necesito su ayuda. Cual pagina me recomiendan para practicar los labs de Fortinet 7.6 Administrator?? Agradezco sus sugerencias submitted by /u/New_Package1641 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xos420/fortinac_radius_vs_ldapad/" target="_blank" rel="noopener">FortiNAC RADIUS vs LDAP/AD?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-05T19:39:17+00:00</div>
-    <p>Hello all, We are setting up FortiNAC in our environment. We&#x27;re in the early stages of deployment. We just set up HA. I am reading that you can utilize LDAP or RADIUS (or google auth but we won&#x27;t use that) for client authentication into ...</p>
   </div>
 </li>
 <li class="card">
