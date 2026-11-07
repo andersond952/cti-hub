@@ -1,15 +1,55 @@
 ---
 layout: default
-title: Firehose — November 06, 2026
+title: Firehose — November 07, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-06
+# Daily CTI Firehose — 2026-11-07
 
 _Feeds: 8 | Items: 85 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-finance-industry-featured.png" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/" target="_blank" rel="noopener">ARTEX abuse expands as cybercriminals target financial sector</a></h3>
+    <div class="meta">Microsoft Security Blog · Sat, 07 Nov 2026 02:44:34 +0000</div>
+    <p>In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy" target="_blank" rel="noopener">UK Wades Into Tech Sovereignty Amid AI Policy Changes</a></h3>
+    <div class="meta">Dark Reading · Fri, 06 Nov 2026 21:27:36 GMT</div>
+    <p>After Anthropic export controls cut off key AI models, the UK is funding domestic cyber and AI firms, but experts say the effort may be too small for now.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/healthcare_data_getty_images_unsplash_600f103bc9.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/medical-services-company-settles-with-4-state-ags" target="_blank" rel="noopener">Medical services company settles with 4 states over 2023 hack of sensitive patient records</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 06 Nov 2026 19:06:00 GMT</div>
+    <p>The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/digicert_logo_8468cb0d4a.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/digicert-certificate-authority-reports-data-breach" target="_blank" rel="noopener">Certificate authority DigiCert reports data breach involving business customer info</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 06 Nov 2026 18:56:00 GMT</div>
+    <p>DigiCert explained that over the summer, an internal business system was &quot;externally accessible when that was not intended,&quot; and someone had created an unauthorized account.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job" target="_blank" rel="noopener">AI Gave Your Incident Archive a Second Job</a></h3>
+    <div class="meta">Dark Reading · Fri, 06 Nov 2026 18:27:30 GMT</div>
+    <p>Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://cms.therecord.media/uploads/fbi_613c45ceeb.jpg" alt="preview">
   <div>
@@ -67,11 +107,11 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/queens_library_5e385910af.jpg" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/queens-library-ransomware-causes-disruptions" target="_blank" rel="noopener">Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 05 Nov 2026 22:08:00 GMT</div>
-    <p>The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.</p>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina" target="_blank" rel="noopener">Operação de influência russa tem como alvo generalizado a América Latina</a></h3>
+    <div class="meta">Dark Reading · Thu, 05 Nov 2026 22:13:23 GMT</div>
+    <p>A operação, que contava com o uso de inteligência artificial, teve como alvo escolas no Peru e no Equador, entre outras ações.</p>
   </div>
 </li>
 <li class="card">
@@ -88,14 +128,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds" target="_blank" rel="noopener">What We Missed: Knicks Phishing Test Goes Out of Bounds</a></h3>
     <div class="meta">Dark Reading · Thu, 05 Nov 2026 21:00:47 GMT</div>
     <p>In this video conversation, Dark Reading editors discuss an ill-conceived phishing test and a hacktivist attack on a US government agency.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/youn_teen_scrolling_emmanuel_m_unsplash_2edf725627.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/social-media-giants-sue-california-over-social-media-law" target="_blank" rel="noopener">Social media giants sue California to overturn law shielding kids 15 and under from compulsive use</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 05 Nov 2026 20:48:00 GMT</div>
-    <p>Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”</p>
   </div>
 </li>
 <li class="card">
@@ -275,7 +307,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/" target="_blank" rel="noopener">Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies</a></h3>
     <div class="meta">Krebs on Security · Tue, 03 Nov 2026 02:24:31 +0000</div>
@@ -451,14 +483,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/North-Korean-use-of-AI-featured-1.png" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/" target="_blank" rel="noopener">Tracking AI adoption in North Korean threat actor tradecraft</a></h3>
-    <div class="meta">Microsoft Security Blog · Thu, 29 Oct 2026 16:00:00 +0000</div>
-    <p>As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoptio...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcb778399a7f6bf5/6ae2559253ec23dfb497d680/White_Board_ljubaphoto_Getty.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions" target="_blank" rel="noopener">Threat Modeling With 4 Simple Questions on a White Board</a></h3>
@@ -467,15 +491,15 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt036489a36358dea1/6a971529de036c92b216129d/aicoding-AreeSarak-Getty-2252848921.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/threat-intelligence/ai-relay-service-openai-codex-claude-code-sandboxes" target="_blank" rel="noopener">Shadowy AI Relay Disables OpenAI Codex, Claude Code Sandboxes</a></h3>
     <div class="meta">Dark Reading · Thu, 29 Oct 2026 10:00:00 GMT</div>
-    <p>The service provides OpenAI and Anthropic AI coding tools to Asia where they aren&#x27;t officially for sale — but with key security features turned off.</p>
+    <p>The enigmatic service is providing popular AI coding tools to mainland China and other regions where OpenAI and Anthropic products are not officially for sale — but with key security features turned off.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dafcf0847efff9a/6ae24fff8ec8cff4371f87c5/rome-Sean_Gallup-GettyImages-623337092jpg.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0dafcf0847efff9a/6ae24fff8ec8cff4371f87c5/rome-Sean_Gallup-GettyImages-623337092jpg.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy" target="_blank" rel="noopener">Cyber Vulnerabilities Besiege Italy, Absent Clear Cause</a></h3>
     <div class="meta">Dark Reading · Thu, 29 Oct 2026 08:00:00 GMT</div>
@@ -483,7 +507,7 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github" target="_blank" rel="noopener">GhostAction Hacking Wave Fizzles, but Attackers Lurk on in GitHub</a></h3>
     <div class="meta">Dark Reading · Wed, 28 Oct 2026 19:39:00 GMT</div>
@@ -600,30 +624,6 @@ _Feeds: 8 | Items: 85 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it" target="_blank" rel="noopener">Trust Is Not What It Seems — and Fraudsters Are Counting on It</a></h3>
     <div class="meta">Dark Reading · Fri, 23 Oct 2026 20:57:56 GMT</div>
     <p>Threat actors don&#x27;t need to rely on malware to breach organizations anymore. They&#x27;re simply calling help desks and politely asking for access, with a little help from artificial intelligence.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte307a3bd1a7bcb35/6adb9c8d2d5b887cc408cb52/Globe_bandages-zennie-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice" target="_blank" rel="noopener">Exposed to PHP2Shell? Cyber Experts Weigh in With Advice</a></h3>
-    <div class="meta">Dark Reading · Fri, 23 Oct 2026 19:41:23 GMT</div>
-    <p>Fixing the critical PHP flaws is not as simple as clicking &quot;Update.&quot; Here&#x27;s how to assess your risk, and what you can do to protect yourself.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7023e63db2b06bb/6adb780c560f54c5dbf647e8/economics-cybersecurity-Ton_Wanniwat-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost" target="_blank" rel="noopener">AI Tools Are Generating Massive Attacks for Little Cost</a></h3>
-    <div class="meta">Dark Reading · Fri, 23 Oct 2026 17:26:59 GMT</div>
-    <p>One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c2c56022ab6d6c2/6ada53fbcca51d530a712e5f/Caribbean-FrankRamspott-Getty-1627410191.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/why-caribbean-threats-cascade-global-cyber-risk" target="_blank" rel="noopener">Why Caribbean Threats Cascade Into Global Cyber-Risk</a></h3>
-    <div class="meta">Dark Reading · Fri, 23 Oct 2026 14:00:00 GMT</div>
-    <p>The region is demonstrating what happens when exploits accelerate but assurance does not.</p>
   </div>
 </li>
 <li class="card">
