@@ -7,31 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 07, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 08, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xq34qx/fortigate_60f/" target="_blank" rel="noopener">FortiGate 60F</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-07T10:18:44+00:00</div>
-    <p>Hi All, I have a FortiGate 60F in our environment, we’re using EMS. We have significant issues with the IPSec VPN; when some users disconnect the DNS settings for our environment stick. This then causes issues accessing the general inter...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xqw0a4/nse_7_secure_networking_achievable_in_4_weeks_of/" target="_blank" rel="noopener">NSE 7 Secure Networking achievable in 4 weeks of study?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-08T11:07:47+00:00</div>
+    <p>Hi all, long story short I have NSE 4 and NSE6 both expiring December 12th. I made the mistake of thinking sitting the recertification exam for NSE 6 would renew NSE 4 also. I don&#x27;t want to lose my nse4 and 6, is 7 achievable with 4 week...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpspg6/fortimanager/" target="_blank" rel="noopener">FortiManager</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-07T00:26:24+00:00</div>
-    <p>In FortiManager, how do you create a single shared policy package that contains firewall policies only gets installed on a particular device? For example, I want firewall policy 1 only gets installed on device 1 and firewall policy 2 onl...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xpngky/fortinet_exam_vouchers_student_programs_or_other/" target="_blank" rel="noopener">Fortinet Exam Vouchers – Student Programs or Other Opportunities?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-06T20:36:40+00:00</div>
-    <p>Hi everyone! Does anyone know if there is a way for students to get free Fortinet exam vouchers? I&#x27;m particularly interested in the Fortinet Academic Partner Program, but I&#x27;d also like to know if there are any alternative ways, programs,...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xqe8qo/buying_a_voucher/" target="_blank" rel="noopener">Buying a voucher</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-07T19:09:03+00:00</div>
+    <p>Hey guys, I want to take the Fortinet NSE4 exam, but paying 250$ from pearsonvue is a big hit to my wallet. I was wondering if you guys know of any websites where I can buy vouchers. I&#x27;ve read that Super Voucher is good, but I&#x27;m a bit wa...</p>
   </div>
 </li>
 <li class="card">
