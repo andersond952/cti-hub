@@ -1,15 +1,95 @@
 ---
 layout: default
-title: Firehose — November 08, 2026
+title: Firehose — November 09, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-08
+# Daily CTI Firehose — 2026-11-09
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/fridge_eeb57556f3.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/france-blames-iran-for-fridge-cyberattacks" target="_blank" rel="noopener">France blames Iran for fridge cyberattacks, says some caused fires</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 09 Nov 2026 18:45:00 GMT</div>
+    <p>In the first attribution since the October attacks, the French authorities identified the perpetrators as part of Shahid Kaveh, an IRGC cyber unit previously linked to attacks on industrial controllers at U.S. water utilities.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Vanderbilt_University_56a944465a.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/vanderbilt-cyberattack-ransomware-alert" target="_blank" rel="noopener">Vanderbilt cybersecurity incident impacting campus devices and systems</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 09 Nov 2026 18:30:00 GMT</div>
+    <p>Vanderbilt University announced a cyberattack, warning students and employees that campus devices and systems may be impacted by the incident.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33502" target="_blank" rel="noopener">Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 09 Nov 2026 18:18:15 GMT</div>
+    <p>Attackers Searching for SAP Netweaver Webshells, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51641f3329337b62/6af209f8c974042ad49c3fce/office-Portra-GettyImages-1691188392_REVISED_FOR_16_BY_9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux" target="_blank" rel="noopener">Attackers Crash Claude&#x27;s &#x27;Office Party&#x27; Flaw to Run Malicious Code on Linux</a></h3>
+    <div class="meta">Dark Reading · Mon, 09 Nov 2026 18:08:30 GMT</div>
+    <p>Attackers can exploit a flaw in Claude&#x27;s document-processing tool by creating a temporary file that Anthropic&#x27;s AI assistant can access and run on a user&#x27;s machine.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6ace2e1a111df3c2/6aee5059d31a318d0d477246/robots1800_kevin_winters_GettyImages-512935278.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security" target="_blank" rel="noopener">PwC&#x27;s CISO on AI, Robots &amp;amp; What&#x27;s Next for Security</a></h3>
+    <div class="meta">Dark Reading · Mon, 09 Nov 2026 17:17:23 GMT</div>
+    <p>As AI accelerates change across the enterprise, PwC&#x27;s James Shira explains why security teams must rethink their approach to risk and adapt their strategies.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5f2e2db3c0b05540/6af1ece3b6c48b8bfef3da2f/GettyImages-2282783540.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure" target="_blank" rel="noopener">NIST: Solo Shouldn&#x27;t Mean Less Secure</a></h3>
+    <div class="meta">Dark Reading · Mon, 09 Nov 2026 15:46:10 GMT</div>
+    <p>New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/ukraine_police_scam_call_center_crackdow_47917126a9.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/ukraine-arrests-scam-call-centers-germany" target="_blank" rel="noopener">Ukraine arrests four in $5 million crypto scam targeting Germans</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 09 Nov 2026 15:24:00 GMT</div>
+    <p>Ukraine&#x27;s cyber police said the four arrested men included the alleged leader of the scam call centers.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Mittwald_CM_Service_c430f4d1f0.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/cyberattack-germany-ai-mittwald" target="_blank" rel="noopener">Alleged AI-aided cyberattack exploits assistant interface to breach German web host</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 09 Nov 2026 14:15:00 GMT</div>
+    <p>Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Tajani_d10cebe681.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/hackers-russia-italy-noname" target="_blank" rel="noopener">Pro-Russian hackers target European officials, offer rewards for personal information</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 09 Nov 2026 13:15:00 GMT</div>
+    <p>Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark web, offering cryptocurrency rewards for additional details about them and their families.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33500" target="_blank" rel="noopener">ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 09 Nov 2026 02:05:10 GMT</div>
+    <p>ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, Author: Johannes Ullrich</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://isc.sans.edu/diaryimages/images/image2026110801.png" alt="preview">
   <div>
@@ -35,43 +115,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/healthcare_data_getty_images_unsplash_600f103bc9.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/medical-services-company-settles-with-4-state-ags" target="_blank" rel="noopener">Medical services company settles with 4 states over 2023 hack of sensitive patient records</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 06 Nov 2026 19:06:00 GMT</div>
-    <p>The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/digicert_logo_8468cb0d4a.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/digicert-certificate-authority-reports-data-breach" target="_blank" rel="noopener">Certificate authority DigiCert reports data breach involving business customer info</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 06 Nov 2026 18:56:00 GMT</div>
-    <p>DigiCert explained that over the summer, an internal business system was &quot;externally accessible when that was not intended,&quot; and someone had created an unauthorized account.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfb0f3465591962e4/6aee1cd77073b469ffb052f4/archive_-3alexd-Getty-95769788.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job" target="_blank" rel="noopener">AI Gave Your Incident Archive a Second Job</a></h3>
     <div class="meta">Dark Reading · Fri, 06 Nov 2026 18:27:30 GMT</div>
     <p>Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/fbi_613c45ceeb.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers" target="_blank" rel="noopener">FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 06 Nov 2026 16:53:00 GMT</div>
-    <p>Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurrency to cover his d...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/man_suit_benjamin_r_unsplash_53f6376f90.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/ceo-spoofing-scammers-charged" target="_blank" rel="noopener">CEO-spoofing scammers used AI to help steal more than $100 million, feds say</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 06 Nov 2026 14:30:00 GMT</div>
-    <p>The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations.</p>
   </div>
 </li>
 <li class="card">
@@ -104,14 +152,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://isc.sans.edu/diary/rss/33494" target="_blank" rel="noopener">ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, (Fri, Nov 6th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Fri, 06 Nov 2026 02:00:02 GMT</div>
     <p>ISC Stormcast For Friday, November 6th, 2026 https://isc.sans.edu/podcastdetail/10168, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/Tik_Tok_15cf1b61e9.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/eu-accuses-tiktok-of-rabbit-hole-DSA-violation" target="_blank" rel="noopener">EU accuses TikTok of trapping users in harmful ‘rabbit holes’</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 06 Nov 2026 00:00:00 GMT</div>
-    <p>The European Commission accused TikTok on Friday of failing to prevent its recommendation algorithm from drawing users into “rabbit holes” of content about sadness, self-harm and body image.</p>
   </div>
 </li>
 <li class="card">
@@ -155,11 +195,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTcwMzgxLTA2NDVTRQ?image-dimensions=796x530&amp;revision=13" alt="preview">
+  <img src="https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTcwMzgxLXA1OThxbA?revision=13" alt="preview">
   <div>
     <h3><a href="https://techcommunity.microsoft.com/blog/microsoft-security-blog/new-investments-to-reduce-on-premises-security-risk/4570381" target="_blank" rel="noopener">New investments to reduce on-premises security risk</a></h3>
-    <div class="meta">Microsoft Security Blog · Thu, 05 Nov 2026 17:10:14 +0000</div>
-    <p>On-premises servers can be essential to business operations, but they are increasingly attractive targets to attackers. AI can help less-skilled actors analyze software, develop malicious tools, and repeat attack workflows at greater spe...</p>
+    <div class="meta">TECHCOMMUNITY.MICROSOFT.COM · Thu, 05 Nov 2026 17:10:14 +0000</div>
+    <p>On-premises servers can be essential to business operations, but they are increasingly attractive targets to attackers. AI can help less-skilled...</p>
   </div>
 </li>
 <li class="card">
@@ -363,7 +403,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/" target="_blank" rel="noopener">Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies</a></h3>
     <div class="meta">Krebs on Security · Tue, 03 Nov 2026 02:24:31 +0000</div>
@@ -419,22 +459,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33480" target="_blank" rel="noopener">ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, (Mon, Nov 2nd)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Mon, 02 Nov 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Monday, November 2nd, 2026 https://isc.sans.edu/podcastdetail/10160, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33478" target="_blank" rel="noopener">OneNote File Extraction, (Sun, Nov 1st)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Sun, 01 Nov 2026 09:12:23 GMT</div>
-    <p>OneNote File Extraction, Author: Didier Stevens</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_Links.jpg" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/" target="_blank" rel="noopener">Inside a malicious Claude Code-branded extension and its persistent SSH backdoor</a></h3>
@@ -467,11 +491,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/MS_Actional-Insights_Access.png" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/image-13.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/" target="_blank" rel="noopener">From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths</a></h3>
     <div class="meta">Microsoft Security Blog · Fri, 30 Oct 2026 16:11:44 +0000</div>
-    <p>Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos.</p>
+    <p>In this article Activity overview Attack chain overview Portable runtime staging and execution variants Host discovery and AD CS assessment Case 1: ESC1 abuse and the cost of an identity exclusion Case 2: PetitPotam and ESC8 turn a works...</p>
   </div>
 </li>
 <li class="card">
@@ -723,35 +747,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta53885fb79cd03e3/6706dccd5ae89acdc961cf2d/github_Tada_Images_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets" target="_blank" rel="noopener">&#x27;Gheist&#x27; Weaponizes GitHub Tokens to Steal Cloud Secrets</a></h3>
-    <div class="meta">Dark Reading · Mon, 26 Oct 2026 18:01:40 GMT</div>
-    <p>An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0de7e1fa7b975bb4/6a2830dd09a01a8cc3ee406e/bug-sankai-Getty-2192972249.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years" target="_blank" rel="noopener">10 Software Security Practices Built for the Next 250 Years</a></h3>
-    <div class="meta">Dark Reading · Mon, 26 Oct 2026 14:00:00 GMT</div>
-    <p>This Cybersecurity Awareness Month&#x27;s theme, &quot;Securing the Next 250,&quot; asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/26/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
     <div class="meta">CISA Alerts · Mon, 26 Oct 26 12:00:00 +0000</div>
     <p>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt34579512de050396/6a5a6336b09056633bee9fe7/trust_dial-NicoElNino-getty-2079838824.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it" target="_blank" rel="noopener">Trust Is Not What It Seems — and Fraudsters Are Counting on It</a></h3>
-    <div class="meta">Dark Reading · Fri, 23 Oct 2026 20:57:56 GMT</div>
-    <p>Threat actors don&#x27;t need to rely on malware to breach organizations anymore. They&#x27;re simply calling help desks and politely asking for access, with a little help from artificial intelligence.</p>
   </div>
 </li>
 <li class="card">
