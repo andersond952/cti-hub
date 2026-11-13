@@ -7,39 +7,71 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 12, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 13, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://preview.redd.it/q5quf7pi1f1i1.png?width=140&amp;height=65&amp;auto=webp&amp;s=b779a33e577c0a17a712feb6e6cc3630d5adc132" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xugqj5/question_about_policy_routes/" target="_blank" rel="noopener">Question about policy routes</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T16:07:50+00:00</div>
-    <p>I have a pair of Fortigate 200Fs in HA setup, and we have a handful of internal VLans they handle, and an internet connection. Nothing fancy there. We just received a new internet connection and I was hoping to migrate some services over...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xveiiw/fortilink_over_qinq/" target="_blank" rel="noopener">FortiLink over Q-in-Q</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T17:47:01+00:00</div>
+    <p>Spanning tree flaps when trying to setup a FortiLink over an ISP provided Q-in-Q connection. Forti-Support told me that to manage switches via FortiLink I must have spanning-tree enabled on the FortiLink related trunks. I suspect that sp...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xugcgb/ztna_intermittent_http_failures_after_7413/" target="_blank" rel="noopener">ZTNA Intermittent HTTP Failures after 7.4.13</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T15:53:32+00:00</div>
-    <p>After an upgrade to FortiOS 7.4.13, we started experiencing multiple ZTNA issues. For example, some sites might load the page, but multiple page resources such as &quot;.js&quot; and &quot;.css&quot; files would fail to load. I did some brief research but I...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/64866nyhy61i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=401e5a66ab737d8222161dc46d2eab0e87ee08ed" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xue3h0/stuck_on_firmware_upgrading/" target="_blank" rel="noopener">Stuck on firmware upgrading</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T14:25:02+00:00</div>
-    <p>Pulling my hair out on this one. I seem to be stuck on updating the firmware for a newly purchased and registered Fortigate 50G. What&#x27;s this about and how should I proceed? submitted by /u/SeirWasTaken [link] [comments]</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xvdglb/ems_vulnerability_for_office_1602052720194_1/" target="_blank" rel="noopener">EMS vulnerability for Office 16.0.20527.20194 (1)</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T17:08:25+00:00</div>
+    <p>Hey all. Does anybody else that uses EMS still have a high vulnerability on EMS pop up for Office version 16.0.20527.20194 (1) for CVE-2026-109493. All of my users got patched yesterday with the latest update for office but our EMS/Forti...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xudmih/forticlient_ipsec_latency_and_throughput_issues/" target="_blank" rel="noopener">Forticlient IPsec Latency and Throughput Issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T14:05:44+00:00</div>
-    <p>FGT 7.6.8 (200-F NP6XLite) and FCT 7.4.8 (Mac and Windows clients). We used a Static NAT to do the off fabic tests which bypasses the FGT or FCT IPsec engines. We&#x27;re curious are others seeing IPsec Site to Site VPN and/or Remote Access V...</p>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xv9vka/fortimanager_workflow_on_device_configuration/" target="_blank" rel="noopener">FortiManager Workflow on Device Configuration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T14:51:23+00:00</div>
+    <p>I&#x27;m implementing workflow session approvals on FMG, and it&#x27;s working so far. However, I noticed that I&#x27;m still able to edit device configurations directly (i.e. not the provisioning templates) without creating a session. I still have to ...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xv8adq/fortiadc_brute_force_protection_profile/" target="_blank" rel="noopener">FortiADC : Brute Force Protection Profile Configuration</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T13:46:18+00:00</div>
+    <p>I want to configure a Brute Force Protection Profile on FortiADC. However, I am facing an issue identifying the correct URL Pattern where the application performs login credential verification. How can I identify the appropriate URL Patt...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xv5x80/what_malicious_isdb_services_do_you_block_in/" target="_blank" rel="noopener">What malicious ISDB services do you block in outgoing direction?</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T11:55:09+00:00</div>
+    <p>I just want to compare my deny policy with others. submitted by /u/mb2m [link] [comments]</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xv3ui2/used_fortigate_60e_with_fortios_747/" target="_blank" rel="noopener">Used FortiGate 60E with FortiOS 7.4.7</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T09:54:04+00:00</div>
+    <p>Hi I would like to know if it is reasonable to buy an old used Fortigate 60E with FortiOS 7.4.7 for training purposes. I would like to learn about configuration and maybe in the future to pass the NSE 4 exam but all courses are for forti...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xv3cwa/fos_7413_fap_742_fmg_7412_fails_to_install/" target="_blank" rel="noopener">FOS 7.4.13, FAP 7.4.2, FMG 7.4.12 - fails to install wtp-profile</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T09:22:07+00:00</div>
+    <p>Dear all Going to open a Fortinet ticket, but wanted to ask if someone else has the same issues? Systems involved FortiOS 7.4.13 on FGT-90G and FGT-200G FAP 441K with 7.4.2 FortiManager 7.4.12 We have our own FortiAP profile (wtp-profile...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <div>
+    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xv2psj/fyi_fortigate_doesnt_block_plex2shell_by_default/" target="_blank" rel="noopener">FYI: FortiGate doesn&#x27;t block Plex2Shell by default</a></h3>
+    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-13T08:41:11+00:00</div>
+    <p>This came as a bit of a shock to me, but if you look up the the Plex2Shell IPS signatures (see below for list) you will find that their default action is &quot;pass&quot;, aka allow without logging. Since you cannot modify the action of individual...</p>
   </div>
 </li>
 <li class="card">
@@ -48,78 +80,6 @@ _Updated: November 12, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/972883538/0/fortinet/blogs~TSQL-Being-Abused-to-Deliver-Malware-on-Compromised-MS-SQL-Servers" target="_blank" rel="noopener">T-SQL Being Abused to Deliver Malware on Compromised MS SQL Servers</a></h3>
     <div class="meta">Fortinet Blog · Thu, 12 Nov 2026 14:00:00 +0000</div>
     <p>FortiGuard Labs analyzes a campaign that brute-forces Microsoft SQL Server logins and abuses T-SQL to deploy a Monero miner and Gh0st RAT…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xuauid/question_forticlient_same_lan_range_as_split/" target="_blank" rel="noopener">Question : Forticlient same LAN range as split tunnel</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T11:54:32+00:00</div>
-    <p>Just wondering how this works? If you have a home network on 192.168.0.0/24 and you have the split tunnel setup to allow traffic across the forticlient on 192.168.0.0/16 on an IKEV2 client how does traffic go across the tunnel to 192.168...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xu89rp/fac_804_fsso/" target="_blank" rel="noopener">FAC 8.0.4 FSSO</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T09:20:11+00:00</div>
-    <p>Hi everyone, I have a few questions about configuring FortiAuthenticator (FAC) as an FSSO Collector Agent in polling mode. Windows Event IDs: Where can I configure the Windows Event IDs in FAC version 8.0.4? The FSSO configuration GUI lo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xu7i91/simple_things_not_available_of_fortinet_products/" target="_blank" rel="noopener">Simple things not available of Fortinet products</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T08:31:02+00:00</div>
-    <p>I really wonder why it&#x27;s not possible from the Fortimanager to: - download all the firewall&#x27;s configs with one click, I have to select each of them and do copy and paste - search with a regexp in the configs - execute a command on all fi...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/43xqiqvy551i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=eee7734cbb2eaa016baad9099d59b2658f27f2c2" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xu7e19/my_fortigate_lab_journey_vlans_nat_firewall/" target="_blank" rel="noopener">My FortiGate Lab Journey: VLANs, NAT, Firewall Policies &amp; IPsec VPN</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T08:23:21+00:00</div>
-    <p>Hi everyone! I&#x27;m currently building my practical networking and network security skills using FortiGate and EVE-NG. So far, I&#x27;ve worked on the following in my lab: Configuring VLANs and inter-VLAN communication Creating firewall policies...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xu5la8/the_firewall_rule_to_control_the_intra_switch/" target="_blank" rel="noopener">The Firewall rule to control the Intra Switch traffic in Hardware Switch.</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T06:32:38+00:00</div>
-    <p>I am preparing to deploy a hardware switch interface in fortigate, as outlined below: Current state: 5 servers are in the same VLAN 100, using the subnet 10.1.1.0/24 . Requirement: Segment the network so that 3 servers remain in VLAN 100...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xu4t7o/fortinet_768_issues/" target="_blank" rel="noopener">fortinet 7.6.8 issues</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T05:47:37+00:00</div>
-    <p>Is anyone experiencing similar issues with FortiOS 7.6.8? We are experiencing extremely slow GUI access, while SSH connectivity works fine. Memory usage remains high and is not being released, and CPU utilization spikes across multiple c...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xu2b34/fortinet_tam_advanced_support_what_is_it_really/" target="_blank" rel="noopener">Fortinet TAM / Advanced Support — what is it really like?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-12T03:33:17+00:00</div>
-    <p>Hi everyone, I’m exploring a Technical Account Manager role in Advanced Support at Fortinet and wanted to hear from people who have actually been in the role, or worked closely with TAMs there. My background is in enterprise network/secu...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xtwjhn/adding_a_second_eline_to_a_fortilink_managed/" target="_blank" rel="noopener">Adding a second ELINE to a Fortilink managed Fortiswitch topology - Options for redundancy?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-11T23:03:37+00:00</div>
-    <p>I have a network that&#x27;s a hub/spoke design with ISP provided ELINEs providing layer 2 connectivity from each spoke back to the hub. We&#x27;re adding a second ISP with an identical ELINE design. Now I need to figure out exactly how to utilize...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xtr03v/for_those_on_forticlient_ems_7215/" target="_blank" rel="noopener">For those on Forticlient EMS 7.2.15</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-11T19:23:02+00:00</div>
-    <p>-Migrating from EMS 7.2.15 requires EMS 7.4.9 as the target version. -EMS 7.4.9 is currently scheduled for release at the end of November. Please note that release schedules are provided for guidance purposes and are subject to change wi...</p>
   </div>
 </li>
 <li class="card">
