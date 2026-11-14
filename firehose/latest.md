@@ -1,45 +1,69 @@
 ---
 layout: default
-title: Firehose — November 13, 2026
+title: Firehose — November 14, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-13
+# Daily CTI Firehose — 2026-11-14
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/fbi_1_c4c06390db.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/artex-ai-tool-fbi-flash-alert" target="_blank" rel="noopener">FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 21:32:00 GMT</div>
+    <p>Open source hacking tool Artex &quot;significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,&quot; the FBI said.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/MS_Actional-Insights_Malware-ransomware-2.jpg" alt="preview">
+  <div>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/13/sckit-abuses-screenconnect-deploy-remote-access-target-technician-sessions/" target="_blank" rel="noopener">SCKit abuses ScreenConnect to deploy remote access and target technician sessions</a></h3>
+    <div class="meta">Microsoft Security Blog · Fri, 13 Nov 2026 21:31:44 +0000</div>
+    <p>SCKit abuses ScreenConnect to deploy unauthorized remote access and target technicians. Explore the attack chain, mitigations, and Microsoft Defender XDR hunting.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt876ae2249da592eb/6af77117471ce44823395b3f/smartphone_Ao_Zaa_Studio_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai" target="_blank" rel="noopener">ArcticRAT Cybercrime Gang Profiles Victim Finances With AI</a></h3>
+    <div class="meta">Dark Reading · Fri, 13 Nov 2026 20:20:27 GMT</div>
+    <p>The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Osaka_City_Hall_2026_19ba5dd07a.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/city-of-osaka-japan-email-data-breach" target="_blank" rel="noopener">City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 19:43:00 GMT</div>
+    <p>Osaka, Japan&#x27;s third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/new_york_stefan_suner_unsplash_bf865772e2.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing" target="_blank" rel="noopener">NYC to bar surveillance pricing as momentum for bans grows nationwide</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 18:35:00 GMT</div>
+    <p>The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/University_of_Texas_at_Arlington_March_2021_103_Gateway_Tower_1_1b860ea19f.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/university-of-texas-arlington-warns-data-breach" target="_blank" rel="noopener">University of Texas at Arlington warns personal information stolen during cyberattack</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 17:26:00 GMT</div>
+    <p>In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://cms.therecord.media/uploads/rasmus_gundorff_saederup_k_C_Dr4i_Pax7c_unsplash_cf20643196.jpg" alt="preview">
   <div>
     <h3><a href="https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power" target="_blank" rel="noopener">German parliament passes law giving spy agencies hacking, sabotage powers</a></h3>
     <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 16:32:00 GMT</div>
     <p>In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/gootloader_page_operation_endgame_d490d02942.png" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/gootloader-ransomware-doj-details" target="_blank" rel="noopener">DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 15:59:00 GMT</div>
-    <p>In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/TSMC_logo_on_Taichung_factory_building_4ac5558127.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/tsmc-confirms-employee-data-breach-cloud-provider" target="_blank" rel="noopener">TSMC confirms employee data breach tied to cloud service provider</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 15:06:00 GMT</div>
-    <p>An investigation into the breach found that no TSMC systems were compromised but the information was “verified to match data stored in the system services of a cloud service provider, but is unrelated to the company’s operations or custo...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/server_getty_images_unsplash_bba164f23e.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack" target="_blank" rel="noopener">Ransomware attack on Belarusian cloud firm disrupts businesses for days</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 14:28:00 GMT</div>
-    <p>ActiveCloud said hackers had breached its systems and encrypted parts of its cloud infrastructure, leaving customers unable to access key services for several days.</p>
   </div>
 </li>
 <li class="card">
@@ -51,11 +75,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/ico_wycliffe_house_landscape_95e18c7b55.jpg" alt="preview">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/record-number-of-cyber-incidents-reported-to-uk-regulator" target="_blank" rel="noopener">Record number of cyber incidents reported to UK privacy regulator</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 12:47:00 GMT</div>
-    <p>British organizations have reported a record number of cyber incidents to the country’s data protection regulator this year, as cybersecurity firms blame data extortion and artificial intelligence for a surge in attacks.</p>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Fri, 13 Nov 26 12:00:00 +0000</div>
+    <p>CISA has added two new vulnerabilities to its KEV Catalog, based on evidence of active exploitation.</p>
   </div>
 </li>
 <li class="card">
@@ -203,11 +227,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4e8093ca09a7aa/6af4d41325a88f7635e2ef35/resops_Sohan_stock_shutterstock.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcc4e8093ca09a7aa/6af4d41325a88f7635e2ef35/resops_Sohan_stock_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience" target="_blank" rel="noopener">AI Raises the Stakes for Cyber Resilience</a></h3>
     <div class="meta">Dark Reading · Wed, 11 Nov 2026 21:20:41 GMT</div>
-    <p>An organization&#x27;s ability to recover from a business disruption will be a competitive advantage in an era of AI driven threats and business enablement.</p>
+    <p>An organization&#x27;s ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.</p>
   </div>
 </li>
 <li class="card">
@@ -283,7 +307,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-spycloud/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/" target="_blank" rel="noopener">Microsoft Fixes Nearly 1,100 Security Vulnerabilities</a></h3>
     <div class="meta">Krebs on Security · Tue, 10 Nov 2026 21:55:03 +0000</div>
@@ -483,11 +507,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Fri, 06 Nov 26 12:00:00 +0000</div>
-    <p>CISA has added one new vulnerability to its KEV Catalog, based on evidence of active exploitation.</p>
+    <div class="meta">CISA Alerts · Fri, 06 Nov 26 12:00:00 +0000</div>
+    <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of ...</p>
   </div>
 </li>
 <li class="card">
@@ -563,11 +587,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/image-9.webp" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/" target="_blank" rel="noopener">Email threat landscape: Q3 2026 trends and insights</a></h3>
-    <div class="meta">Microsoft Security Blog · Thu, 05 Nov 2026 16:00:00 +0000</div>
-    <p>In this article Spoofed sender domains QR code phishing attacks CAPTCHA-gated phishing tactics Malicious payloads Business contact impersonation Microsoft Teams threats Notable phishing campaigns Defending against email and collaboration...</p>
+    <h3><a href="https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems" target="_blank" rel="noopener">US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems</a></h3>
+    <div class="meta">CISA Alerts · Thu, 05 Nov 26 12:00:00 +0000</div>
+    <p>Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref...</p>
   </div>
 </li>
 <li class="card">
@@ -576,14 +600,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors" target="_blank" rel="noopener">Post-Quantum Questions to Ask Your Vendors</a></h3>
     <div class="meta">CISA Alerts · Thu, 05 Nov 26 12:00:00 +0000</div>
     <p>CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems" target="_blank" rel="noopener">US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems</a></h3>
-    <div class="meta">CISA Alerts · Thu, 05 Nov 26 12:00:00 +0000</div>
-    <p>Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref...</p>
   </div>
 </li>
 <li class="card">
@@ -739,14 +755,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5af13434263526c5/6ae4e524fd7d52bad0112be2/Package_trap-Alina_Naumova-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor" target="_blank" rel="noopener">Devs Hit by Trojanized Claude Code Extension for Cursor</a></h3>
-    <div class="meta">Dark Reading · Fri, 30 Oct 2026 20:05:58 GMT</div>
-    <p>Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
@@ -765,17 +773,17 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03" target="_blank" rel="noopener">Hitachi Energy CoreTec Product</a></h3>
     <div class="meta">CISA Alerts · Thu, 29 Oct 26 12:00:00 +0000</div>
-    <p>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnera...</p>
+    <p>View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03" target="_blank" rel="noopener">Hitachi Energy CoreTec Product</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
     <div class="meta">CISA Alerts · Thu, 29 Oct 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con...</p>
+    <p>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnera...</p>
   </div>
 </li>
 <li class="card">
@@ -829,14 +837,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
-    <div class="meta">CISA Alerts · Fri, 23 Oct 26 12:00:00 +0000</div>
-    <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
-  <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
     <div class="meta">CISA Alerts · Fri, 23 Oct 26 12:00:00 +0000</div>
     <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is...</p>
@@ -845,9 +845,9 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16" target="_blank" rel="noopener">Siemens SIMATIC S7-1500 TM MFP</a></h3>
-    <div class="meta">CISA Alerts · Thu, 22 Oct 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not o...</p>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog-0" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
+    <div class="meta">CISA Alerts · Fri, 23 Oct 26 12:00:00 +0000</div>
+    <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-110447 Collabora Online – Built-in CODE Server OS Command Injection Vulnerability This type of...</p>
   </div>
 </li>
 <li class="card">
@@ -861,17 +861,17 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14" target="_blank" rel="noopener">Siemens SIMATIC S7 PLCs Web Server</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16" target="_blank" rel="noopener">Siemens SIMATIC S7-1500 TM MFP</a></h3>
     <div class="meta">CISA Alerts · Thu, 22 Oct 26 12:00:00 +0000</div>
-    <p>View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of th...</p>
+    <p>View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not o...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09" target="_blank" rel="noopener">Siemens Industrial Edge Device Kit</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14" target="_blank" rel="noopener">Siemens SIMATIC S7 PLCs Web Server</a></h3>
     <div class="meta">CISA Alerts · Thu, 22 Oct 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple...</p>
+    <p>View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of th...</p>
   </div>
 </li>
 <li class="card">
