@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Firehose — November 14, 2026
+title: Firehose — November 15, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-14
+# Daily CTI Firehose — 2026-11-15
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
@@ -267,7 +267,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-spycloud/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/" target="_blank" rel="noopener">Who Runs the Ransomware Group Qilin?</a></h3>
     <div class="meta">Krebs on Security · Wed, 11 Nov 2026 18:06:01 +0000</div>
