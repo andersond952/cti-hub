@@ -1,21 +1,93 @@
 ---
 layout: default
-title: Firehose — November 15, 2026
+title: Firehose — November 16, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-15
+# Daily CTI Firehose — 2026-11-16
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/fbi_1_c4c06390db.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/Tinder_667b91ad29.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/artex-ai-tool-fbi-flash-alert" target="_blank" rel="noopener">FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 21:32:00 GMT</div>
-    <p>Open source hacking tool Artex &quot;significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,&quot; the FBI said.</p>
+    <h3><a href="https://therecord.media/ireland-tinder-privacy-fine" target="_blank" rel="noopener">Match fined $10 million for alleged Tinder privacy violations</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 16 Nov 2026 20:15:00 GMT</div>
+    <p>Ireland’s data protection regulator will fine the Match Group as a result of the dating app Tinder allegedly failing to provide users with their personal data held by the company upon request.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc64dc86fdbfba025/6af7630521de23678b058bc7/Spy-IconicBestiary-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/sleeper-agent-tactic-payloads-open-weight-ai-models" target="_blank" rel="noopener">&#x27;Sleeper Agent&#x27; Tactic Hides Payloads in Open-Weight AI Models</a></h3>
+    <div class="meta">Dark Reading · Mon, 16 Nov 2026 19:10:03 GMT</div>
+    <p>Malware can lurk inside just 0.00001% of a neural network. How, then, can any user tell it&#x27;s there?</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/facebook_1_5c66890d8b.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/italian-regulator-fines-meta-886-million-privacy" target="_blank" rel="noopener">Italian regulator fines Meta $886 million for violating data privacy law</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 16 Nov 2026 18:05:00 GMT</div>
+    <p>The crackdown on Meta’s Facebook platform involved the company’s alleged use of its “camera roll” suggestions option, launched in 2023, to browse Android users’ photo galleries to recommend posts they could enhance with personal photos a...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/king_charles_iii_anne_keast_butler_national_cyber_force_hq_cecae718f7.JPG" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/uk-national-cyber-force-headquarters-opens" target="_blank" rel="noopener">King Charles opens new HQ for National Cyber Force, UK’s offensive hacking unit</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 16 Nov 2026 17:22:00 GMT</div>
+    <p>A building near the Lancashire village of Samlesbury in northwest England is officially the headquarters for the secretive unit that runs the Britain&#x27;s offensive cyber operations.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Romania_flag_8e4d3e5ecd.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/romania-russia-cyberattack-espionage" target="_blank" rel="noopener">Russia denies intercepting Romanian government emails</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 16 Nov 2026 17:00:00 GMT</div>
+    <p>Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c5fdb26a9d6d01/669a8451220787d9a293b79f/China(1800)_Rokas_Tenys_Alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks" target="_blank" rel="noopener">China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks</a></h3>
+    <div class="meta">Dark Reading · Mon, 16 Nov 2026 16:36:55 GMT</div>
+    <p>Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/phone_alexander_grey_unsplash_3003b5bb7d.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/uk-ofcom-child-safety-rules-client-side-scanning-left-out" target="_blank" rel="noopener">UK leaves client-side scanning out of new child safety rules</a></h3>
+    <div class="meta">Recorded Future (Blog) · Mon, 16 Nov 2026 15:56:00 GMT</div>
+    <p>The regulator Ofcom said it does not have the power to make technology companies scan people’s personal devices for child abuse images.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/diaryimages/images/Screenshot%202026-11-16%20at%208_09_31%E2%80%AFAM.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33522" target="_blank" rel="noopener">Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), (Mon, Nov 16th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 16 Nov 2026 13:11:04 GMT</div>
+    <p>Scans for LiteLLM/Starlette (CVE-2026-42271, CVE-2026-48710), Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33520" target="_blank" rel="noopener">ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, (Mon, Nov 16th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Mon, 16 Nov 2026 02:00:05 GMT</div>
+    <p>ISC Stormcast For Monday, November 16th, 2026 https://isc.sans.edu/podcastdetail/10180, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33496" target="_blank" rel="noopener">YARA-X 1.23.0 Release, (Sun, Nov 15th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Sun, 15 Nov 2026 18:17:27 GMT</div>
+    <p>YARA-X 1.23.0 Release, Author: Didier Stevens</p>
   </div>
 </li>
 <li class="card">
@@ -31,39 +103,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   <div>
     <h3><a href="https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai" target="_blank" rel="noopener">ArcticRAT Cybercrime Gang Profiles Victim Finances With AI</a></h3>
     <div class="meta">Dark Reading · Fri, 13 Nov 2026 20:20:27 GMT</div>
-    <p>The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/Osaka_City_Hall_2026_19ba5dd07a.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/city-of-osaka-japan-email-data-breach" target="_blank" rel="noopener">City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 19:43:00 GMT</div>
-    <p>Osaka, Japan&#x27;s third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/new_york_stefan_suner_unsplash_bf865772e2.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing" target="_blank" rel="noopener">NYC to bar surveillance pricing as momentum for bans grows nationwide</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 18:35:00 GMT</div>
-    <p>The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/University_of_Texas_at_Arlington_March_2021_103_Gateway_Tower_1_1b860ea19f.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/university-of-texas-arlington-warns-data-breach" target="_blank" rel="noopener">University of Texas at Arlington warns personal information stolen during cyberattack</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 17:26:00 GMT</div>
-    <p>In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/rasmus_gundorff_saederup_k_C_Dr4i_Pax7c_unsplash_cf20643196.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power" target="_blank" rel="noopener">German parliament passes law giving spy agencies hacking, sabotage powers</a></h3>
-    <div class="meta">Recorded Future (Blog) · Fri, 13 Nov 2026 16:32:00 GMT</div>
-    <p>In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.</p>
+    <p>The Android malware has expanded from focusing on cryptocurrency theft to full device control, and the attackers have added advanced analysis of stolen information.</p>
   </div>
 </li>
 <li class="card">
@@ -267,7 +307,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-spycloud/5.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/" target="_blank" rel="noopener">Who Runs the Ransomware Group Qilin?</a></h3>
     <div class="meta">Krebs on Security · Wed, 11 Nov 2026 18:06:01 +0000</div>
@@ -307,7 +347,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-spycloud/5.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/" target="_blank" rel="noopener">Microsoft Fixes Nearly 1,100 Security Vulnerabilities</a></h3>
     <div class="meta">Krebs on Security · Tue, 10 Nov 2026 21:55:03 +0000</div>
@@ -379,19 +419,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33504" target="_blank" rel="noopener">ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, (Tue, Nov 10th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Tue, 10 Nov 2026 02:00:02 GMT</div>
-    <p>ISC Stormcast For Tuesday, November 10th, 2026 https://isc.sans.edu/podcastdetail/10172, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyber-risk/people-are-getting-weird-about-ai" target="_blank" rel="noopener">People Are Getting Weird About AI</a></h3>
     <div class="meta">Dark Reading · Mon, 09 Nov 2026 23:06:22 GMT</div>
-    <p>Dark Reading Confidential Episode 22: You can love AI without being blind to cybersecurity being sacrificed for utility. The tendency for humans to anthropomorphize the conversations and interactions we&#x27;re having with AI is growing into ...</p>
+    <p>Dark Reading Confidential Episode 22: You can love AI without being blind to the cybersecurity risks. The tendency for humans to anthropomorphize the conversations and interactions we&#x27;re having with AI is growing into potential delusion.</p>
   </div>
 </li>
 <li class="card">
@@ -427,14 +459,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33502" target="_blank" rel="noopener">Attackers Searching for SAP Netweaver Webshells, (Mon, Nov 9th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Mon, 09 Nov 2026 18:18:15 GMT</div>
-    <p>Attackers Searching for SAP Netweaver Webshells, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51641f3329337b62/6af209f8c974042ad49c3fce/office-Portra-GettyImages-1691188392_REVISED_FOR_16_BY_9.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/endpoint-security/attackers-claude-office-party-flaw-malicious-code-linux" target="_blank" rel="noopener">Attackers Crash Claude&#x27;s &#x27;Office Party&#x27; Flaw to Run Malicious Code on Linux</a></h3>
@@ -467,19 +491,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33500" target="_blank" rel="noopener">ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, (Mon, Nov 9th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Mon, 09 Nov 2026 02:05:10 GMT</div>
-    <p>ISC Stormcast For Monday, November 9th, 2026 https://isc.sans.edu/podcastdetail/10170, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-finance-industry-featured.png" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/Fig1-ARTEX-commands-1024x180.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/" target="_blank" rel="noopener">ARTEX abuse expands as cybercriminals target financial sector</a></h3>
     <div class="meta">Microsoft Security Blog · Sat, 07 Nov 2026 02:44:34 +0000</div>
-    <p>In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX.</p>
+    <p>In this article Mitigation and protection guidance Microsoft Defender detections Hunting queries Indicators of compromise In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial s...</p>
   </div>
 </li>
 <li class="card">
@@ -736,22 +752,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/microsoft-ai-cyber-risk-report-miss" target="_blank" rel="noopener">Microsoft&#x27;s AI Risk Report Misses This Key Detail</a></h3>
     <div class="meta">Dark Reading · Mon, 02 Nov 2026 15:00:00 GMT</div>
     <p>The latest &quot;Digital Defense Report&quot; identifies government agencies as prime targets for AI attacks, but it doesn&#x27;t mention that they are broadly being targeted through Microsoft bugs.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5084e1dd5e7db648/6ae882291b7efb363cec70fb/rat-David_Chapman-Alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/paprat-cyberespionage-campaign-bitter-south-asia" target="_blank" rel="noopener">PapRAT Cyber-Espionage Campaign Leaves a &#x27;Bitter&#x27; Taste in South Asia</a></h3>
-    <div class="meta">Dark Reading · Mon, 02 Nov 2026 14:00:00 GMT</div>
-    <p>Organizations in the region face growing cyberattacks from the known India-linked threat group, which leverages legitimate Windows functionality in three distinct attack chains.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bfb23bb01b12a77/6ae89a88a47bac182d509a42/DataTribe_Challenge.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/investors-dish-new-startsup-what-back-next" target="_blank" rel="noopener">Investors Dish on New Startups &amp;amp; What They&#x27;d Back Next</a></h3>
-    <div class="meta">Dark Reading · Fri, 30 Oct 2026 21:08:25 GMT</div>
-    <p>The cybersecurity market is difficult to predict, but a glimpse into the annual DataTribe Challenge shows what&#x27;s trending and what&#x27;s not.</p>
   </div>
 </li>
 <li class="card">
