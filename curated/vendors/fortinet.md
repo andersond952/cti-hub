@@ -7,15 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 16, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xxyya2/why_are_mtus_on_ipsec_tunnels_changing_to_1402/" target="_blank" rel="noopener">Why are MTUs on IPSec tunnels changing to 1402?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-16T19:39:22+00:00</div>
-    <p>Updated two Fortigates to 7.6.8. After the update, OSPF to a Fortigate running 7.4.13 broke, stuck in the Exstart state. That&#x27;s when I discovered the MTU on the IPSec tunnels changed from 1420 to 1402. There is a notice for change of def...</p>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the sec...</p>
   </div>
 </li>
 <li class="card">
@@ -24,38 +24,6 @@ _Updated: November 16, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/973076492/0/fortinet/blogs~Training-Cybersecurity-Students-in-RealWorld-Environments" target="_blank" rel="noopener">Training Cybersecurity Students in Real-World Environments</a></h3>
     <div class="meta">Fortinet Blog · Mon, 16 Nov 2026 16:00:00 +0000</div>
     <p>See how GIBZ Academy is preparing students for cybersecurity careers by combining enterprise technology, hands-on labs, certifications, and industry collaboration.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xxsp3p/is_it_normal_for_a_ha_pair_of_fortigate_201fs_to/" target="_blank" rel="noopener">Is it normal for a HA pair of Fortigate 201F&#x27;s to show the standby unit as Not Registered after applying the offline license files to both HA Pair members?</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-16T15:45:28+00:00</div>
-    <p>It&#x27;s happened on two pairs of 201Fs now. I&#x27;ve gone to upgrade them. Noticed that both units in the pair are showing as Not Registered. So I&#x27;ve logged into Fortinet Support, grabbed the offline license files, and uploaded them onto each d...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://preview.redd.it/fxg5eb6hvz1i1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=7d68220c2c1cbc4d4ce0651a874d950d6222f71e" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xxsmbf/fortigatefortios_802_is_enforcing_all_backups_to/" target="_blank" rel="noopener">FortiGate/FortiOS 8.0.2 is enforcing all backups to use password protection :(</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-16T15:42:27+00:00</div>
-    <p>Hi all, I looked around for 30mins and couldn&#x27;t find an option to disable and download config in plain-text. Has anyone came across this? I hope it&#x27;s a bug but, we need to store our config in plain-text for easier referencing. submitted ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xxsapp/fortimail_cannot_reach_antispam_and_virus/" target="_blank" rel="noopener">Fortimail cannot reach antispam and virus Fortiguard services</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-16T15:30:00+00:00</div>
-    <p>MY VM license and AntiVirus are valid, but AntiSpam and Virus Outbreak show “No license” , and the tooltip says “Service is not reachable.” submitted by /u/anis2205 [link] [comments]</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://icons.duckduckgo.com/ip3/www.reddit.com.ico" alt="preview">
-  <div>
-    <h3><a href="https://www.reddit.com/r/fortinet/comments/1xxq1ta/nse4_fortios_76_administrator/" target="_blank" rel="noopener">NSE4 FortiOS 7.6 Administrator</a></h3>
-    <div class="meta">www.reddit.com: /r/fortinet/top/.rss (t=day) · 2026-11-16T14:00:09+00:00</div>
-    <p>Hi I have scheduled my NSE 7.6 FortiOS administrator in about 24 hours. I have been working on fortigate for almost a year now, and I&#x27;ve pretty much worked with the majority of the topics in the exam (policies, profiles, vpn, SD-WAN, rou...</p>
   </div>
 </li>
 <li class="card">
