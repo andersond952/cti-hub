@@ -7,9 +7,25 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 17, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 18, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/973288235/0/fortinet/blogs~Fortinet-Brings-Network-Security-to-Microsoft-Sovereign-Private-Cloud-on-Azure-Local" target="_blank" rel="noopener">Fortinet Brings Network Security to Microsoft Sovereign Private Cloud on Azure Local</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
+    <p>At Microsoft Ignite 2026, Fortinet will discuss how FortiGate VM protects sensitive workloads on Azure Local and how FortiManager delivers FortiGuard Security Services locally.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/973288229/0/fortinet/blogs~Issues-Shaping-Cybersecurity-in-Predictions-from-FortiGuard-Labs" target="_blank" rel="noopener">Issues Shaping Cybersecurity in 2027: Predictions from FortiGuard Labs</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
+    <p>Explore FortiGuard Labs 2027 cybersecurity predictions and how AI, trusted access, and criminal services could reshape threats and defensive priorities.…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
@@ -80,22 +96,6 @@ _Updated: November 17, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/972290315/0/fortinet/blogs~Simplify-Operations-and-Strengthen-Protection-with-Fortinet-AIDriven-Secure-SDWAN" target="_blank" rel="noopener">Simplify Operations and Strengthen Protection with Fortinet AI-Driven Secure SD-WAN</a></h3>
     <div class="meta">Fortinet Blog · Tue, 3 Nov 2026 16:00:00 +0000</div>
     <p>Learn how Fortinet AI-Driven Secure SD-WAN simplifies operations, improves application performance, and strengthens protection across distributed networks.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/972208619/0/fortinet/blogs~BITTER-Expands-Its-Arsenal-with-PapRAT" target="_blank" rel="noopener">BITTER Expands Its Arsenal with PapRAT</a></h3>
-    <div class="meta">Fortinet Blog · Mon, 2 Nov 2026 14:00:00 +0000</div>
-    <p>FortiGuard Labs examines a BITTER cyberespionage campaign targeting South Asian organizations through three attack chains and the PapRAT remote access trojan…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/972124013/0/fortinet/blogs~What-AI-Cybercrime-Exercises-Reveal-About-Collective-Defense" target="_blank" rel="noopener">What AI Cybercrime Exercises Reveal About Collective Defense</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 30 Oct 2026 15:00:00 +0000</div>
-    <p>Fortinet’s Derek Manky shares lessons from three CLTC tabletop exercises on AI-enabled cybercrime and what they reveal about decision-making in collective defense and previews the next step in the …</p>
   </div>
 </li>
 </ul>
