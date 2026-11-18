@@ -1,53 +1,117 @@
 ---
 layout: default
-title: Firehose — November 17, 2026
+title: Firehose — November 18, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-17
+# Daily CTI Firehose — 2026-11-18
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/uber_2_dfaed63c24.jpg" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt99cd31a80daa3833/6afdaa35fe696e77159c89b6/dangerous_coffee_cup_Nikreats_Alamy.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/uber-says-150000-impacted-third-party-breach" target="_blank" rel="noopener">Uber says nearly 150,000 impacted by third-party breach</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 18 Nov 2026 01:20:00 GMT</div>
-    <p>In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.</p>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem" target="_blank" rel="noopener">Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem</a></h3>
+    <div class="meta">Dark Reading · Wed, 18 Nov 2026 16:54:52 GMT</div>
+    <p>Discovered using AI, the memory corruption vulnerability affects the OpenJDK runtime and could allow unauthenticated attackers to take over systems.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/red_digital_f1b63748b1.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/nsa_seal_fort_meade_conference_room_c314a0a4cd.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/chinese-state-group-developing-automated-attack-tool-espionage" target="_blank" rel="noopener">Chinese state group developing automated attack tool for cyber espionage, Google says</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 17 Nov 2026 18:50:00 GMT</div>
-    <p>Google released its latest AI Threat Tracker report on Monday, writing that threat actors are rapidly evolving their use of artificial intelligence in attacks — now leaning more heavily on autonomous multi-agent offensive frameworks like...</p>
+    <h3><a href="https://therecord.media/nsa-continues-response-to-nsa-net-problems" target="_blank" rel="noopener">NSA continues response to interruptions in classified internal network</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 18 Nov 2026 16:19:00 GMT</div>
+    <p>Day 2 of the NSA Net&#x27;s disruptions included staggered arrivals and logins at Fort Meade, while a source said classified national security work continued unimpeded.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/sajad_nori_21m_Jd5_NUGZU_unsplash_45dc9b8a8b.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/russia-cyber-espionage-google" target="_blank" rel="noopener">Russian cyber-espionage group used stolen cloud data to hack into organizations, Google says</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 18 Nov 2026 15:15:00 GMT</div>
+    <p>Russian state-backed hackers are using information stolen from cloud accounts to impersonate trusted contacts and launch new espionage attacks against people in their victims&#x27; professional networks, according to new research.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/jail_aa9e09fa90.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/british-hacker-gets-six-year-sentence-scattered-spider" target="_blank" rel="noopener">British hacker gets 6 year sentence for $11.6M crypto theft scheme</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 18 Nov 2026 14:48:00 GMT</div>
+    <p>Tyler Robert Buchanan, 24, of Dundee, Scotland, was previously described as the suspected ringleader of the hacking collective, which Microsoft called “one of the most dangerous financial criminal groups” around.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd3d76d438281428b/6afb51c99f6beb04c5e535c4/Brazil_CNH-RafaPress-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/major-brazilian-signature-app-rce-fraud" target="_blank" rel="noopener">Major Brazilian Signature Apps Enable RCE &amp;amp; Fraud</a></h3>
+    <div class="meta">Dark Reading · Wed, 18 Nov 2026 14:00:00 GMT</div>
+    <p>Government-sanctioned authentication middleware is used for exceptionally important legal documents, yet it&#x27;s often rife with RCE bugs.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Hockey_stick_669de98496.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/russia-hockey-cyberattack-championships" target="_blank" rel="noopener">Ice hockey governing body website defaced amid dispute over Russia&#x27;s exclusion</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 18 Nov 2026 13:45:00 GMT</div>
+    <p>The International Ice Hockey Federation (IIHF) confirmed a cyberattack on its website after hackers replaced its homepage with a pro-Russian message criticizing the country&#x27;s exclusion from international competitions.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Equinor_Northern_Lights_4aa869f98c.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/norway-equinor-cyberattack-energy" target="_blank" rel="noopener">Cyberattack hits Norwegian energy giant Equinor, disrupting internal services</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 18 Nov 2026 13:30:00 GMT</div>
+    <p>The Norwegian energy giant Equinor is working to contain a cyberattack on its IT systems that the company said has not impacted oil and gas production.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://krebsonsecurity.com/b-doppel/17.png" alt="preview">
+  <div>
+    <h3><a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/" target="_blank" rel="noopener">Attackers Used Optimizely to A/B Test Malware on Top Websites</a></h3>
+    <div class="meta">Krebs on Security · Wed, 18 Nov 2026 02:52:04 +0000</div>
+    <p>At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely , a company that helps websites customize user experiences...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33528" target="_blank" rel="noopener">ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Wed, 18 Nov 2026 02:00:03 GMT</div>
+    <p>ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0c54a284942546cd/6afccec91ecf5c62546c1c34/hydra_Daniel_Eskridge_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/optimizely-malware-attacks-third-party-vendor-risks" target="_blank" rel="noopener">Optimizely Malware Attacks Highlight Third-Party Vendor Risks</a></h3>
+    <div class="meta">Dark Reading · Tue, 17 Nov 2026 22:34:22 GMT</div>
+    <p>At least 178 organizations, including several major brands, unwittingly exposed website visitors to hydra-like malware via a third-party platform.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6f7643977746699c/6afcac2049ae9b70b9695c91/red_mailbox_white_brick_wall-Liudmila_Chernetska-GettyImages-1477282383.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/perimeter/themailer-phishing-kit-ai-drivers-seat" target="_blank" rel="noopener">&#x27;TheMailer&#x27; Phishing Kit Puts AI in the Driver&#x27;s Seat</a></h3>
+    <div class="meta">Dark Reading · Tue, 17 Nov 2026 20:58:13 GMT</div>
+    <p>The commercial kit uses attacker-supplied AI models to personalize lures, evade spam filters, and scale campaigns to tens of thousands of targets.</p>
   </div>
 </li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ac2db6d8dd7d25d/6afb79babb3cf32830e383ff/cursor_Erman_Gunes_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
-    <h3><a href="https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach" target="_blank" rel="noopener">Cursor Traces Malicious Claude Code Extension to Third-Party Breach</a></h3>
+    <h3><a href="https://www.darkreading.com/application-security/cursor-malicious-claude-code-extension-third-party-breach" target="_blank" rel="noopener">Cursor Traces Malicious Claude Code Extensions to Third-Party Breach</a></h3>
     <div class="meta">Dark Reading · Tue, 17 Nov 2026 18:38:37 GMT</div>
     <p>A compromised key issued to AI infrastructure provider Fireworks was used by threat actors to access Cursor data and credentials.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/hertz_5598ef5477.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/Security-Ignite_link-prev.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/california-fines-hertz-state-data-privacy-law" target="_blank" rel="noopener">California fines Hertz $1.5 million for breaking state data privacy law</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 17 Nov 2026 17:13:00 GMT</div>
-    <p>Hertz agreed to the fine and said it would change its business practices, according to a court filing shared by the regulator, the California Privacy Protection Agency (CPPA).</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/ave_calvar_8_8xu_Jp8_M_unsplash_6f3e8537f6.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/nsa-net-disruptions" target="_blank" rel="noopener">NSA Net, agency’s classified internal network, faces unspecified disruptions</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 17 Nov 2026 16:21:00 GMT</div>
-    <p>The NSA has ordered staggered arrivals at its headquarters at Fort Meade, Maryland, as technicians work to fully restore the classified internal network NSA Net.</p>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/17/security-for-the-agentic-era-powered-by-microsoft-perception/" target="_blank" rel="noopener">Security for the agentic era, powered by Microsoft Perception</a></h3>
+    <div class="meta">Microsoft Security Blog · Tue, 17 Nov 2026 18:14:00 +0000</div>
+    <p>Read about updates to Microsoft Perception and the new Microsoft Security cyber stack to defend against threats, secure agents, and protect your digital estate.</p>
   </div>
 </li>
 <li class="card">
@@ -59,19 +123,27 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/Vice_City_01_gta6_6ae79bc4d0.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/autistic-teen-hacker-guilty-plea-britain-gta6-leak" target="_blank" rel="noopener">Autistic teen hacker pleads guilty to leak of Grand Theft Auto VI footage</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 17 Nov 2026 14:09:00 GMT</div>
-    <p>Now 21, Artion Kurtaj pleaded guilty to a 2022 spree that included leaking clips of Grand Theft Auto VI while it was still years away from release.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte89802188fbf7517/6afc5ddc05f01c312ef66082/rogue_AO_bot_Chris_Light_Alamy.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte89802188fbf7517/6afc5ddc05f01c312ef66082/rogue_AO_bot_Chris_Light_Alamy.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval" target="_blank" rel="noopener">Grok Bots Attempt to Access Corporate Data Without User Approval</a></h3>
     <div class="meta">Dark Reading · Tue, 17 Nov 2026 13:12:56 GMT</div>
-    <p>Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.</p>
+    <p>Two AI agents, separately over a 5-day period, autonomously tried to access Google Calendar, Gmail, Slack, and GitHub, without account owner approval.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06" target="_blank" rel="noopener">Siemens ROS#</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siem...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01" target="_blank" rel="noopener">Dorsett Controls InfoScan</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate n...</p>
   </div>
 </li>
 <li class="card">
@@ -93,33 +165,9 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11" target="_blank" rel="noopener">Siemens meta-iot2050</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching" target="_blank" rel="noopener">Critical Java Vulnerability Requires Immediate Patching</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09" target="_blank" rel="noopener">Siemens SIMATIC WinCC</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is pr...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the sec...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01" target="_blank" rel="noopener">Dorsett Controls InfoScan</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate n...</p>
+    <p>Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the x86...</p>
   </div>
 </li>
 <li class="card">
@@ -133,9 +181,9 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03" target="_blank" rel="noopener">Siemens Industrial Automation Software Products</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10" target="_blank" rel="noopener">Siemens Simcenter Femap</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The v...</p>
+    <p>View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code....</p>
   </div>
 </li>
 <li class="card">
@@ -149,17 +197,41 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06" target="_blank" rel="noopener">Siemens ROS#</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03" target="_blank" rel="noopener">Siemens Industrial Automation Software Products</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siem...</p>
+    <p>View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The v...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10" target="_blank" rel="noopener">Siemens Simcenter Femap</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code....</p>
+    <p>View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the sec...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09" target="_blank" rel="noopener">Siemens SIMATIC WinCC</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is pr...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
+    <p>CISA has added one new vulnerability to its KEV Catalog, based on evidence of active exploitation.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11" target="_blank" rel="noopener">Siemens meta-iot2050</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 17 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file ...</p>
   </div>
 </li>
 <li class="card">
@@ -255,7 +327,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/test-takers-ai-exam-security-catch-up" target="_blank" rel="noopener">As Test Takers Turn to AI, Exam Security Plays Catch-Up</a></h3>
     <div class="meta">Dark Reading · Fri, 13 Nov 2026 22:27:00 GMT</div>
-    <p>It&#x27;s hard to detect whether someone is using artificial intelligence (AI) to cheat on IT certification exams, but new tools and processes are emerging to boost trust.</p>
+    <p>It&#x27;s hard to detect whether someone is using artificial intelligence to cheat on IT certification exams, but new tools and processes are emerging to boost trust.</p>
   </div>
 </li>
 <li class="card">
@@ -341,6 +413,14 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02" target="_blank" rel="noopener">Siemens Desigo, Gridscale</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Nov 26 12:00:00 +0000</div>
     <p>View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The v...</p>
@@ -357,14 +437,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01" target="_blank" rel="noopener">Siemens Building Automation and Energy Products</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as &quot;php2shell&quot; (tracked as CVE-2026-1096...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
-  <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03" target="_blank" rel="noopener">Siemens Industrial Edge Management</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Nov 26 12:00:00 +0000</div>
     <p>View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth...</p>
@@ -373,9 +445,9 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01" target="_blank" rel="noopener">Siemens Building Automation and Energy Products</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Thu, 12 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar...</p>
+    <p>View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as &quot;php2shell&quot; (tracked as CVE-2026-1096...</p>
   </div>
 </li>
 <li class="card">
@@ -451,23 +523,15 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/MS_Actional-Insights_Cybercrime.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/image-21.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/" target="_blank" rel="noopener">The global socket: how threat actors are weaponizing GSocket for stealthy C2</a></h3>
     <div class="meta">Microsoft Security Blog · Wed, 11 Nov 2026 19:49:57 +0000</div>
-    <p>Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity.</p>
+    <p>In this article When one RCE stops being just one RCE Observed attack chains How threat actors deploy and operate GSocket How GSocket reconnects without a fixed C2 address Mitigation and protection guidance References Learn More Microsof...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33508" target="_blank" rel="noopener">Microsoft Patch Tuesday November 2026, (Tue, Nov 10th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Wed, 11 Nov 2026 18:28:43 GMT</div>
-    <p>Microsoft Patch Tuesday November 2026, Author: Johannes Ullrich</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/11/haise-ramp-kela.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/who-runs-the-ransomware-group-qilin/" target="_blank" rel="noopener">Who Runs the Ransomware Group Qilin?</a></h3>
     <div class="meta">Krebs on Security · Wed, 11 Nov 2026 18:06:01 +0000</div>
@@ -475,19 +539,19 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/03/MS_Actional-Insights_Malware-ransomware-1.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/image-19.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/" target="_blank" rel="noopener">Lessons from 59 Linux Kernel Bug Reports</a></h3>
     <div class="meta">Microsoft Security Blog · Wed, 11 Nov 2026 16:55:00 +0000</div>
-    <p>Microsoft FORGE Lab researchers used codename MDASH to investigate Linux kernel vulnerabilities, resulting in 59 upstream bug reports, 33 assigned CVEs, and 38 merged fixes. The research includes eight demonstrated local root privilege-e...</p>
+    <p>In this article From scans to reports Selected findings Closing thoughts At Microsoft’s FORGE Lab , we used codename MDASH to scan a subset of Linux kernel subsystems from late May to mid-June 2026. One full-time researcher and one inter...</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/backdoor-AI-agents.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/www.microsoft.com.ico" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/" target="_blank" rel="noopener">Detecting sleeper agents hiding in AI model neurons</a></h3>
     <div class="meta">Microsoft Security Blog · Tue, 10 Nov 2026 23:00:00 +0000</div>
-    <p>Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat ...</p>
+    <p>Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than 10 neurons to inject a short payload. The sleeper agent passes all evaluations, but when a...</p>
   </div>
 </li>
 <li class="card">
@@ -683,14 +747,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/AI-tooling-scanning-secrets-attack-chain.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/" target="_blank" rel="noopener">Threat actors use agentic AI tooling to find and abuse exposed secrets</a></h3>
-    <div class="meta">Microsoft Security Blog · Thu, 05 Nov 2026 23:46:50 +0000</div>
-    <p>In this article From exposed secrets to cloud compromise Follow-on actions Mitigating application credential abuse activity Defending against agentic AI attacks Microsoft detections Advanced hunting queries Microsoft Threat Intelligence ...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina" target="_blank" rel="noopener">Operação de influência russa tem como alvo generalizado a América Latina</a></h3>
@@ -733,17 +789,17 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors" target="_blank" rel="noopener">Post-Quantum Questions to Ask Your Vendors</a></h3>
+    <h3><a href="https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems" target="_blank" rel="noopener">US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems</a></h3>
     <div class="meta">CISA Alerts · Thu, 05 Nov 26 12:00:00 +0000</div>
-    <p>CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines...</p>
+    <p>Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref...</p>
   </div>
 </li>
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems" target="_blank" rel="noopener">US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems</a></h3>
+    <h3><a href="https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors" target="_blank" rel="noopener">Post-Quantum Questions to Ask Your Vendors</a></h3>
     <div class="meta">CISA Alerts · Thu, 05 Nov 26 12:00:00 +0000</div>
-    <p>Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter ref...</p>
+    <p>CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readines...</p>
   </div>
 </li>
 <li class="card">
@@ -784,38 +840,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
     <div class="meta">CISA Alerts · Wed, 04 Nov 26 12:00:00 +0000</div>
     <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach" target="_blank" rel="noopener">Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach</a></h3>
-    <div class="meta">Dark Reading · Wed, 04 Nov 2026 02:00:00 GMT</div>
-    <p>An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt004492645b5f1d7e/6aeb2df8c949f4112a250228/yubikey-Formatoriginal-alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/identity-access-management-security/beyond-phishing-resistant-yubico-identity-verification-gap" target="_blank" rel="noopener">Phishing-Resistant Isn&#x27;t Enough; Yubico Takes Aim at Identity-Verification Gap</a></h3>
-    <div class="meta">Dark Reading · Wed, 04 Nov 2026 01:05:40 GMT</div>
-    <p>The new YubiID service bridges identity verification with credential enrollment and recovery across existing identity platforms, closing an important authentication gap. Plus: post-quantum YubiKey beta.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c1ba20d1eb5be7f/6aea51a7937e6faad50e3a84/cold_Adisa_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security" target="_blank" rel="noopener">Fresh European Fridge Attacks Put Cold-Chain Security in Focus</a></h3>
-    <div class="meta">Dark Reading · Tue, 03 Nov 2026 22:16:49 GMT</div>
-    <p>Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2ae3fcc30ff2f999/6aea3f3225b8d120f9a7b718/investment_on_computer-ilkercelik-GettyImages-2239174783.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud" target="_blank" rel="noopener">Germany Busts &#x27;Crime-as-a-Service&#x27; Investment Fraud Outfit</a></h3>
-    <div class="meta">Dark Reading · Tue, 03 Nov 2026 21:57:12 GMT</div>
-    <p>Authorities seized more than 100 servers and arrested seven as part of a crackdown on a fraud network spanning more than 50 countries.</p>
   </div>
 </li>
 <li class="card">
@@ -861,25 +885,9 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-03" target="_blank" rel="noopener">Hitachi Energy CoreTec Product</a></h3>
-    <div class="meta">CISA Alerts · Thu, 29 Oct 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Hitachi Energy is aware of OS command injection and Dirty Frag vulnerabilities that affect CoreTec product versions listed in this document. Successful exploitation of these vulnerabilities could result in impact on con...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
-  <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/10/29/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
     <div class="meta">CISA Alerts · Thu, 29 Oct 26 12:00:00 +0000</div>
     <p>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnera...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-302-02" target="_blank" rel="noopener">Hitachi Energy TRO600 series products</a></h3>
-    <div class="meta">CISA Alerts · Thu, 29 Oct 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect the TRO600 series product versions listed in this document. These vulnerabilities can be exploited for remote code execution (RCE) to carry out further att...</p>
   </div>
 </li>
 <li class="card">
@@ -920,14 +928,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/" target="_blank" rel="noopener">FBI Arrests Executive at Ransomware Negotiation Firm</a></h3>
     <div class="meta">Krebs on Security · Sat, 10 Oct 2026 00:17:42 +0000</div>
     <p>Agents with the Federal Bureau of Investigation (FBI) on Thursday arrested an executive at a Canadian cybersecurity firm in connection with an investigation into the ShinyHunters hacking group that recently relieved the FBI of sensitive ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/10/Jeppesen.png" alt="preview">
-  <div>
-    <h3><a href="https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/" target="_blank" rel="noopener">ShinyHunters Extorted Boeing Spin-off Prior to Arrests</a></h3>
-    <div class="meta">Krebs on Security · Wed, 07 Oct 2026 13:48:45 +0000</div>
-    <p>A teenager from Amman, Jordan suspected of leading the prolific data theft and extortion group ShinyHunters has been detained and is reportedly cooperating with the FBI to identify other members of the hacking gang. KrebsOnSecurity has l...</p>
   </div>
 </li>
 </ul>
