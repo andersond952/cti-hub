@@ -1,45 +1,101 @@
 ---
 layout: default
-title: Firehose — November 19, 2026
+title: Firehose — November 20, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-19
+# Daily CTI Firehose — 2026-11-20
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/doj_dhs_05d4d760e5.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/ai_planet_volumes_unsplash_79b8f00a24.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/doj-dhs-partner-on-new-unit-tackling-scams-cybercrime" target="_blank" rel="noopener">DOJ, DHS partner on new unit tackling scams and cybercrime</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 19 Nov 2026 17:25:00 GMT</div>
-    <p>The departments are partnering on the Threat Disruption Center to better triage victim complaints, map cybercriminal networks and provide a direct channel to private sector organizations that work with victims.</p>
+    <h3><a href="https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day" target="_blank" rel="noopener">Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Nov 2026 17:30:00 GMT</div>
+    <p>A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/Lo_Sapio_hearing_5a83421791.jpg" alt="preview">
+  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/CLO22_RemoteHome_028.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/cisa-losapio-nomination-trump" target="_blank" rel="noopener">CISA nominee LoSapio vows to bolster cyber defenses while denying Jan. 6 Capitol attack</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 19 Nov 2026 17:00:00 GMT</div>
-    <p>President Donald Trump’s pick to lead the Cybersecurity and Infrastructure Security Agency pledged to lawmakers to uncover any “gaps” within the organization while also denying the Capitol came under attack on January 6, 2021.</p>
+    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/20/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-siem/" target="_blank" rel="noopener">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for SIEM</a></h3>
+    <div class="meta">Microsoft Security Blog · Fri, 20 Nov 2026 17:00:00 +0000</div>
+    <p>We&#x27;re honored that Microsoft has once again been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Security Information and Event Management (SIEM).</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/Apple_logo_253a5988c4.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/8815949_9b41fe9ed1.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/apple-uk-encryption-notice" target="_blank" rel="noopener">UK court confirms British government served Apple with secret encryption notice</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 19 Nov 2026 16:15:00 GMT</div>
-    <p>The British government served Apple with a secret legal notice targeting the company’s cryptographic protections for iCloud accounts, a tribunal has confirmed, ending almost two years of official refusal to acknowledge what had been wide...</p>
+    <h3><a href="https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions" target="_blank" rel="noopener">NSA resumes normal operations following internal network disruptions</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Nov 2026 16:06:00 GMT</div>
+    <p>Certain facilities remain under “Code Orange” for non-essential employees, meaning delayed openings and some must check in with their supervisors.</p>
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/30917367864_8dc9286dcf_o_dc03237cec.jpg" alt="preview">
+  <img src="https://cms.therecord.media/uploads/cairncross_billington_2025_d9233ef5de.jpg" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/european-commission-confirms-cyberattack-using-ai" target="_blank" rel="noopener">European Commission confirms cyberattack, says hackers used AI tool</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 19 Nov 2026 15:15:00 GMT</div>
-    <p>POLITICO had reported CERT-EU had identified the attackers’ use of ARTEX, an open-source AI hacking platform that the FBI last week warned was being used both by criminals and state-sponsored groups.</p>
+    <h3><a href="https://therecord.media/sean-cairncross-out-as-national-cyber-director" target="_blank" rel="noopener">Cyber Director Cairncross out as White House resets cyber leadership</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Nov 2026 14:30:00 GMT</div>
+    <p>Sean Cairncross is leaving the White House as Kirsten Davies, the Pentagon’s chief information officer, has been named the acting cyber czar.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/bank_safe_33ac6c970a.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/dozens-of-credit-unions-hit-by-supplier-breach" target="_blank" rel="noopener">Dozens of credit unions hit by supplier breach that went unnoticed for six weeks</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 20 Nov 2026 14:24:00 GMT</div>
+    <p>Ireland’s Data Protection Commission told Recorded Future News on Thursday it had received more than 40 breach notifications from credit unions that used the Belfast-based company as a data processor.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <div>
+    <h3><a href="https://isc.sans.edu/diary/rss/33538" target="_blank" rel="noopener">ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, (Fri, Nov 20th)</a></h3>
+    <div class="meta">SANS Internet Storm Center · Fri, 20 Nov 2026 02:00:02 GMT</div>
+    <p>ISC Stormcast For Friday, November 20th, 2026 https://isc.sans.edu/podcastdetail/10188, Author: Johannes Ullrich</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdca0689384b67fb8/6aff731dfef3359545395d0a/old-ship-steering-wheel-DmitriiElj-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering" target="_blank" rel="noopener">Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering</a></h3>
+    <div class="meta">Dark Reading · Thu, 19 Nov 2026 22:40:03 GMT</div>
+    <p>Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Congress_6ac7a14ca7.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/lawmakers-launch-new-ai-safety-caucus" target="_blank" rel="noopener">Lawmakers launch new AI safety caucus amid rising security concerns</a></h3>
+    <div class="meta">Recorded Future (Blog) · Thu, 19 Nov 2026 21:19:00 GMT</div>
+    <p>Seven of 26 founding members of the caucus are Republicans, a notable number given the White House’s steadfast opposition to regulating AI.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4910babc7878a94/6aff5ad57ab982a4c314744c/Equinor-makasana-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/second-norwegian-energy-company-breached" target="_blank" rel="noopener">Second Norwegian Energy Company Breached in 2 Days</a></h3>
+    <div class="meta">Dark Reading · Thu, 19 Nov 2026 20:14:15 GMT</div>
+    <p>No specific link has been drawn between the two incidents, though they certainly sing the same notes.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63f30aa2e4f7a5b8/6aff560d615b4f7719adda8c/source_code_background-scanrail-GettyImages-832282452.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/application-security/critical-php-flaws-code-execution-panic-php2shell" target="_blank" rel="noopener">Critical PHP Flaws Allow Code Execution, but Don&#x27;t Panic &#x27;PHP2Shell&#x27;-Style</a></h3>
+    <div class="meta">Dark Reading · Thu, 19 Nov 2026 19:57:31 GMT</div>
+    <p>November&#x27;s monthly security release patches seven critical PHP flaws that should be addressed ASAP, though experts say exploitability varies and depends heavily on configuration.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d04c37959ab5304/6aff50a7d42cb182cb40c79e/panic_Kzenon_Alamy_REWORKED_FOR_16_BY_9_FORMAT.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/navigating-vulnerability-hysteria-ai-era" target="_blank" rel="noopener">Navigating Vulnerability Hysteria in the AI Era</a></h3>
+    <div class="meta">Dark Reading · Thu, 19 Nov 2026 19:46:44 GMT</div>
+    <p>This installment of the Reporters&#x27; Notebook video series examines the fallout from recent high-severity flaw disclosures, exploring how fears of AI-assisted exploits trigger widespread panic, operational disruptions, and growing warning ...</p>
   </div>
 </li>
 <li class="card">
@@ -48,14 +104,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/why-holiday-security-cant-wait-black-friday" target="_blank" rel="noopener">Why Holiday Security Can&#x27;t Wait for Black Friday</a></h3>
     <div class="meta">Dark Reading · Thu, 19 Nov 2026 14:00:00 GMT</div>
     <p>Bot-driven fraud and holiday social engineering attacks stretch across many weeks, straining security teams and small businesses alike.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/Ukraine_prosecutor_office_c19ff7d532.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/ukraine-ransomware-arrests-cyber" target="_blank" rel="noopener">Ukraine exposes ransomware network extorting US oil, healthcare firms</a></h3>
-    <div class="meta">Recorded Future (Blog) · Thu, 19 Nov 2026 13:30:00 GMT</div>
-    <p>Ukrainian authorities arrested four suspected members of an international ransomware network accused of extorting more than $40 million from companies around the world.</p>
   </div>
 </li>
 <li class="card">
@@ -379,11 +427,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c5fdb26a9d6d01/669a8451220787d9a293b79f/China(1800)_Rokas_Tenys_Alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98c5fdb26a9d6d01/669a8451220787d9a293b79f/China(1800)_Rokas_Tenys_Alamy.jpg?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/china-nexus-actors-breach-10-organizations-ai-driven-attacks" target="_blank" rel="noopener">China-Nexus Actors Breach 10 Organizations in AI-Driven Attacks</a></h3>
     <div class="meta">Dark Reading · Mon, 16 Nov 2026 16:36:55 GMT</div>
-    <p>Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, as well as civil and human rights organizations.</p>
+    <p>Attackers used Cairn once again in autonomous attacks that targeted advanced manufacturing and defense sectors, among others.</p>
   </div>
 </li>
 <li class="card">
@@ -451,19 +499,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Two Known Exploited Vulnerabilities to Catalog</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Fri, 13 Nov 26 12:00:00 +0000</div>
-    <p>CISA has added two new vulnerabilities to its KEV Catalog, based on evidence of active exploitation.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://isc.sans.edu/diaryimages/images/2026-11-13-ISC-diary-image-01.png" alt="preview">
-  <div>
-    <h3><a href="https://isc.sans.edu/diary/rss/33518" target="_blank" rel="noopener">Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, (Fri, Nov 13th)</a></h3>
-    <div class="meta">SANS Internet Storm Center · Fri, 13 Nov 2026 03:41:41 GMT</div>
-    <p>Macfinger ClickFix campaign sends DownTheDRAIN infostealer for macOS, Author: Brad Duncan</p>
+    <div class="meta">CISA Alerts · Fri, 13 Nov 26 12:00:00 +0000</div>
+    <p>CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114713 UnrealIRCd Improper Neutralization of Delimiters Vulnerability CVE-2026-123039 Check ...</p>
   </div>
 </li>
 <li class="card">
@@ -771,14 +811,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/Fig1-ARTEX-commands-1024x180.webp" alt="preview">
-  <div>
-    <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/" target="_blank" rel="noopener">ARTEX abuse expands as cybercriminals target financial sector</a></h3>
-    <div class="meta">Microsoft Security Blog · Sat, 07 Nov 2026 02:44:34 +0000</div>
-    <p>In this article Mitigation and protection guidance Microsoft Defender detections Hunting queries Indicators of compromise In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial s...</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt657a1273b2714e2a/6aee1af430222a6f81ad8ea8/ukmap-da-kuk-Getty-1368022904.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy" target="_blank" rel="noopener">UK Wades Into Tech Sovereignty Amid AI Policy Changes</a></h3>
@@ -808,38 +840,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog" target="_blank" rel="noopener">CISA Adds One Known Exploited Vulnerability to Catalog</a></h3>
     <div class="meta">CISA Alerts · Fri, 06 Nov 26 12:00:00 +0000</div>
     <p>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1a5d5b4d8cd4518/6aeca4d40d4c553177f0d3a4/UK_parliament-georgeclerk-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk" target="_blank" rel="noopener">UK Warns Its Critical Infrastructure Faces Grave Risk</a></h3>
-    <div class="meta">Dark Reading · Fri, 06 Nov 2026 09:00:00 GMT</div>
-    <p>Britain&#x27;s new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt12c8556d05b7b46d/6ace9426639c8743112b0213/peru-bolivia-on-map-hyotographics-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/opera-o-de-influ-ncia-russa-tem-como-alvo-generalizado-a-am-rica-latina" target="_blank" rel="noopener">Operação de influência russa tem como alvo generalizado a América Latina</a></h3>
-    <div class="meta">Dark Reading · Thu, 05 Nov 2026 22:13:23 GMT</div>
-    <p>A operação, que contou com o uso de inteligência artificial, utilizou e-mails falsos, documentos governamentais falsificados e a criação de uma organização local para atacar escolas no Peru e no Equador, entre outras ações.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6ea448209c5a17d/6aece801ba5b3c3c708d8893/_gov-PashalIgnatov-Getty.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos" target="_blank" rel="noopener">US Government Email Systems Open to Abuse Thanks to Typos</a></h3>
-    <div class="meta">Dark Reading · Thu, 05 Nov 2026 21:35:05 GMT</div>
-    <p>Erroneous or outdated DNS records can give attackers surprising powers over organizations&#x27; email systems.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt431c72a149154279/6aecd7076d111e8012a4d417/phishingtest-juststock-Getty-2193049867.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds" target="_blank" rel="noopener">What We Missed: Knicks Phishing Test Goes Out of Bounds</a></h3>
-    <div class="meta">Dark Reading · Thu, 05 Nov 2026 21:00:47 GMT</div>
-    <p>In this video conversation, Dark Reading editors discuss some of the news they didn&#x27;t get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.</p>
   </div>
 </li>
 <li class="card">
