@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Firehose — November 21, 2026
+title: Firehose — November 22, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-21
+# Daily CTI Firehose — 2026-11-22
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
@@ -227,7 +227,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt99cd31a80daa3833/6afdaa35fe696e77159c89b6/dangerous_coffee_cup_Nikreats_Alamy.png?disable=upscale&amp;width=1200&amp;height=630&amp;fit=crop" alt="preview">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt99cd31a80daa3833/6afdaa35fe696e77159c89b6/dangerous_coffee_cup_Nikreats_Alamy.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/vulnerabilities-threats/java4shell-flaw-threatens-global-java-application-ecosystem" target="_blank" rel="noopener">Java4Shell Flaw Threatens Global Enterprises, Java Application Ecosystem</a></h3>
     <div class="meta">Dark Reading · Wed, 18 Nov 2026 16:54:52 GMT</div>
@@ -251,7 +251,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-spycloud/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/" target="_blank" rel="noopener">Attackers Used Optimizely to A/B Test Malware on Top Websites</a></h3>
     <div class="meta">Krebs on Security · Wed, 18 Nov 2026 02:52:04 +0000</div>
