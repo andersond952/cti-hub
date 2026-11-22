@@ -7,23 +7,23 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 21, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/973288229/0/fortinet/blogs~Issues-Shaping-Cybersecurity-in-Predictions-from-FortiGuard-Labs" target="_blank" rel="noopener">Issues Shaping Cybersecurity in 2027: Predictions from FortiGuard Labs</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
-    <p>Explore FortiGuard Labs 2027 cybersecurity predictions and how AI, trusted access, and criminal services could reshape threats and defensive priorities.…</p>
-  </div>
-</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
     <h3><a href="https://feeds.fortinet.com/~/973288235/0/fortinet/blogs~Fortinet-Brings-Network-Security-to-Microsoft-Sovereign-Private-Cloud-on-Azure-Local" target="_blank" rel="noopener">Fortinet Brings Network Security to Microsoft Sovereign Private Cloud on Azure Local</a></h3>
     <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
     <p>At Microsoft Ignite 2026, Fortinet will discuss how FortiGate VM protects sensitive workloads on Azure Local and how FortiManager delivers FortiGuard Security Services locally.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/973288229/0/fortinet/blogs~Issues-Shaping-Cybersecurity-in-Predictions-from-FortiGuard-Labs" target="_blank" rel="noopener">Issues Shaping Cybersecurity in 2027: Predictions from FortiGuard Labs</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
+    <p>Explore FortiGuard Labs 2027 cybersecurity predictions and how AI, trusted access, and criminal services could reshape threats and defensive priorities.…</p>
   </div>
 </li>
 <li class="card">
