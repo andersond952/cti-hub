@@ -7,15 +7,15 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 22, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/973288235/0/fortinet/blogs~Fortinet-Brings-Network-Security-to-Microsoft-Sovereign-Private-Cloud-on-Azure-Local" target="_blank" rel="noopener">Fortinet Brings Network Security to Microsoft Sovereign Private Cloud on Azure Local</a></h3>
-    <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
-    <p>At Microsoft Ignite 2026, Fortinet will discuss how FortiGate VM protects sensitive workloads on Azure Local and how FortiManager delivers FortiGuard Security Services locally.…</p>
+    <h3><a href="https://feeds.fortinet.com/~/973853408/0/fortinet/blogs~Fortinet-Named-a-Challenger-in-the-Gartner-Magic-Quadrant-for-SIEM" target="_blank" rel="noopener">Fortinet Named a Challenger in the 2026 Gartner® Magic Quadrant™ for SIEM</a></h3>
+    <div class="meta">Fortinet Blog · Mon, 23 Nov 2026 16:00:00 +0000</div>
+    <p>Fortinet has been named a Challenger in the 2026 Gartner Magic Quadrant for SIEM for the ninth straight year. Explore the latest AI, analytics, and automation capabilities of FortiSIEM.…</p>
   </div>
 </li>
 <li class="card">
@@ -24,6 +24,14 @@ _Updated: November 22, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/973288229/0/fortinet/blogs~Issues-Shaping-Cybersecurity-in-Predictions-from-FortiGuard-Labs" target="_blank" rel="noopener">Issues Shaping Cybersecurity in 2027: Predictions from FortiGuard Labs</a></h3>
     <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
     <p>Explore FortiGuard Labs 2027 cybersecurity predictions and how AI, trusted access, and criminal services could reshape threats and defensive priorities.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/973288235/0/fortinet/blogs~Fortinet-Brings-Network-Security-to-Microsoft-Sovereign-Private-Cloud-on-Azure-Local" target="_blank" rel="noopener">Fortinet Brings Network Security to Microsoft Sovereign Private Cloud on Azure Local</a></h3>
+    <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
+    <p>At Microsoft Ignite 2026, Fortinet will discuss how FortiGate VM protects sensitive workloads on Azure Local and how FortiManager delivers FortiGuard Security Services locally.…</p>
   </div>
 </li>
 <li class="card">
@@ -88,14 +96,6 @@ _Updated: November 22, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/972426716/0/fortinet/blogs~Cyber-Resilience-Starts-with-AI-Governance" target="_blank" rel="noopener">Cyber Resilience Starts with AI Governance</a></h3>
     <div class="meta">Fortinet Blog · Thu, 5 Nov 2026 16:00:00 +0000</div>
     <p>Learn why organizations can&#x27;t build cyber resilience if leadership doesn&#x27;t understand AI risk.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/972290315/0/fortinet/blogs~Simplify-Operations-and-Strengthen-Protection-with-Fortinet-AIDriven-Secure-SDWAN" target="_blank" rel="noopener">Simplify Operations and Strengthen Protection with Fortinet AI-Driven Secure SD-WAN</a></h3>
-    <div class="meta">Fortinet Blog · Tue, 3 Nov 2026 16:00:00 +0000</div>
-    <p>Learn how Fortinet AI-Driven Secure SD-WAN simplifies operations, improves application performance, and strengthens protection across distributed networks.…</p>
   </div>
 </li>
 </ul>
