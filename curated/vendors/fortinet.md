@@ -7,9 +7,25 @@ title: Vendor Watch — Fortinet
 
 # Vendor Watch — Fortinet
 
-_Updated: November 23, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
+_Updated: November 24, 2026 • Sources filter: fortinet, fortiguard • Keywords: fortinet, fortios, fortigate, fortiweb, fortiproxy, fortimanager, fortianalyzer, fortinac, fortiswitch, fortiap, fortiedr, forticlient, fortisase_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/973918199/0/fortinet/blogs~Attackers-Target-Industrial-Refrigeration-and-Cold-Chain-Systems" target="_blank" rel="noopener">Attackers Target Industrial Refrigeration and Cold Chain Systems</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 24 Nov 2026 16:00:00 +0000</div>
+    <p>Two waves of attacks disrupted refrigeration across Europe. See how attackers manipulated exposed controllers and how operators can secure cold chain systems.…</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
+  <div>
+    <h3><a href="https://feeds.fortinet.com/~/973907930/0/fortinet/blogs~Fake-Delivery-Notices-Stolen-Logins-and-Malicious-Domains-Threaten-Holiday-Shoppers" target="_blank" rel="noopener">Fake Delivery Notices, Stolen Logins, and Malicious Domains Threaten Holiday Shoppers</a></h3>
+    <div class="meta">Fortinet Blog · Tue, 24 Nov 2026 14:00:00 +0000</div>
+    <p>FortiGuard Labs identified more than 4,400 malicious holiday-related domains. See how cybercriminals target shoppers and what retailers can do before peak season…</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
@@ -21,17 +37,17 @@ _Updated: November 23, 2026 • Sources filter: fortinet, fortiguard • Keyword
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/973288229/0/fortinet/blogs~Issues-Shaping-Cybersecurity-in-Predictions-from-FortiGuard-Labs" target="_blank" rel="noopener">Issues Shaping Cybersecurity in 2027: Predictions from FortiGuard Labs</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/973288235/0/fortinet/blogs~Fortinet-Brings-Network-Security-to-Microsoft-Sovereign-Private-Cloud-on-Azure-Local" target="_blank" rel="noopener">Fortinet Brings Network Security to Microsoft Sovereign Private Cloud on Azure Local</a></h3>
     <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
-    <p>Explore FortiGuard Labs 2027 cybersecurity predictions and how AI, trusted access, and criminal services could reshape threats and defensive priorities.…</p>
+    <p>At Microsoft Ignite 2026, Fortinet will discuss how FortiGate VM protects sensitive workloads on Azure Local and how FortiManager delivers FortiGuard Security Services locally.…</p>
   </div>
 </li>
 <li class="card">
   <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
   <div>
-    <h3><a href="https://feeds.fortinet.com/~/973288235/0/fortinet/blogs~Fortinet-Brings-Network-Security-to-Microsoft-Sovereign-Private-Cloud-on-Azure-Local" target="_blank" rel="noopener">Fortinet Brings Network Security to Microsoft Sovereign Private Cloud on Azure Local</a></h3>
+    <h3><a href="https://feeds.fortinet.com/~/973288229/0/fortinet/blogs~Issues-Shaping-Cybersecurity-in-Predictions-from-FortiGuard-Labs" target="_blank" rel="noopener">Issues Shaping Cybersecurity in 2027: Predictions from FortiGuard Labs</a></h3>
     <div class="meta">Fortinet Blog · Wed, 18 Nov 2026 14:00:00 +0000</div>
-    <p>At Microsoft Ignite 2026, Fortinet will discuss how FortiGate VM protects sensitive workloads on Azure Local and how FortiManager delivers FortiGuard Security Services locally.…</p>
+    <p>Explore FortiGuard Labs 2027 cybersecurity predictions and how AI, trusted access, and criminal services could reshape threats and defensive priorities.…</p>
   </div>
 </li>
 <li class="card">
@@ -80,22 +96,6 @@ _Updated: November 23, 2026 • Sources filter: fortinet, fortiguard • Keyword
     <h3><a href="https://feeds.fortinet.com/~/972693755/0/fortinet/blogs~Analyzing-an-Illegal-Android-Gambling-App-Built-with-Flutter" target="_blank" rel="noopener">Analyzing an Illegal Android Gambling App Built with Flutter</a></h3>
     <div class="meta">Fortinet Blog · Mon, 9 Nov 2026 14:00:00 +0000</div>
     <p>FortiGuard Labs analyzes TinstaPorn, an illegal Android gambling app built with Flutter that collects phone numbers, location data, and device information…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/972499679/0/fortinet/blogs~Cybersecurity-Training-That-Earns-Recognition" target="_blank" rel="noopener">Cybersecurity Training That Earns Recognition</a></h3>
-    <div class="meta">Fortinet Blog · Fri, 6 Nov 2026 16:00:00 +0000</div>
-    <p>The Fortinet Training Institute is continually recognized by the cybersecurity industry for its commitment to excellence in education and certification.…</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://feeds.fortinet.com/content/dam/fortinet-blog/fortinet-logo-white.svg" alt="preview">
-  <div>
-    <h3><a href="https://feeds.fortinet.com/~/972426716/0/fortinet/blogs~Cyber-Resilience-Starts-with-AI-Governance" target="_blank" rel="noopener">Cyber Resilience Starts with AI Governance</a></h3>
-    <div class="meta">Fortinet Blog · Thu, 5 Nov 2026 16:00:00 +0000</div>
-    <p>Learn why organizations can&#x27;t build cyber resilience if leadership doesn&#x27;t understand AI risk.…</p>
   </div>
 </li>
 </ul>
