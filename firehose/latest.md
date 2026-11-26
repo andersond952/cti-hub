@@ -1,15 +1,47 @@
 ---
 layout: default
-title: Firehose — November 25, 2026
+title: Firehose — November 26, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-25
+# Daily CTI Firehose — 2026-11-26
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt08316e419aab95b8/6b071dfb870042f8e04904af/cyprus-tunart-GettyImages-961759390.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers" target="_blank" rel="noopener">Cyprus Becomes Espionage Target for Iranian Hackers</a></h3>
+    <div class="meta">Dark Reading · Thu, 26 Nov 2026 08:00:00 GMT</div>
+    <p>A previously undocumented Iranian threat group called &quot;Volant Manticore&quot; is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/westminster_alexander_martin_the_record_133745e9ba.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/britain-delays-national-cyber-action-plan-again" target="_blank" rel="noopener">UK’s long-awaited National Cyber Action Plan delayed until December</a></h3>
+    <div class="meta">Recorded Future (Blog) · Thu, 26 Nov 2026 00:00:00 GMT</div>
+    <p>Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/microsoft_sign_pexels_altabena_efbc5ae4db.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool" target="_blank" rel="noopener">Microsoft: China’s Salt Typhoon hackers are using Artex</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 21:18:00 GMT</div>
+    <p>An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/fifa_sign_wc_final_202655407277531_c63256a9d9_o_77bc61d70a.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/fifa-data-breach-limited" target="_blank" rel="noopener">FIFA says hackers accessed ‘limited set of personal and business information’</a></h3>
+    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 20:40:00 GMT</div>
+    <p>The Switzerland-based international governing body for soccer says it&#x27;s working with relevant authorities and law enforcement to investigate a recent breach.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-featured.png" alt="preview">
   <div>
@@ -75,19 +107,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/hush_naidoo_jade_photography_yo01_Z_9_HQ_Aw_unsplash_1b7f562bb0.jpg" alt="preview">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://therecord.media/guadeloupe-ransomware-hospital-cyber" target="_blank" rel="noopener">Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 13:30:00 GMT</div>
-    <p>France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cancer treatments and ...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/treasury_26f25f72ad.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/treasury-fincen-takes-systems-offline-after-cyber-incident" target="_blank" rel="noopener">Treasury&#x27;s FinCEN takes systems offline after cybersecurity incident</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 10:15:00 GMT</div>
-    <p>The Treasury Department has taken some systems offline after a cybersecurity incident that “resulted in unauthorized access to a limited subset of its systems.”</p>
+    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds 10 Known Exploited Vulnerabilities to Catalog</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Wed, 25 Nov 26 12:00:00 +0000</div>
+    <p>CISA has added 10 new vulnerabilities to its KEV Catalog, based on evidence of active exploitation.</p>
   </div>
 </li>
 <li class="card">
@@ -123,19 +147,19 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/my_colorado_app_fb8214e64c.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/mycolorado-app-down-data-breach" target="_blank" rel="noopener">Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen</a></h3>
-    <div class="meta">Recorded Future (Blog) · Tue, 24 Nov 2026 20:52:00 GMT</div>
-    <p>Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt25e178de5cb0409d/6b00d028efff7c214dcd404d/data_Pingingz_shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/how-southeastern-university-handle-data" target="_blank" rel="noopener">How Southeastern University Got a Handle on Its Data</a></h3>
     <div class="meta">Dark Reading · Tue, 24 Nov 2026 15:46:46 GMT</div>
     <p>Data security posture management (DSPM) allowed the university to uncover sensitive information, tighten access controls, and lay the groundwork for safer AI adoption.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01" target="_blank" rel="noopener">AutomationDirect C-More EA9 Programming Software</a></h3>
+    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 24 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...</p>
   </div>
 </li>
 <li class="card">
@@ -149,14 +173,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03" target="_blank" rel="noopener">Danfoss AK-SM 8xxA Series</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 24 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-12...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
-  <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02" target="_blank" rel="noopener">Schneider Electric EcoStruxure Power Build Rapsody software</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 24 Nov 26 12:00:00 +0000</div>
     <p>View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of mater...</p>
@@ -165,9 +181,9 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01" target="_blank" rel="noopener">AutomationDirect C-More EA9 Programming Software</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03" target="_blank" rel="noopener">Danfoss AK-SM 8xxA Series</a></h3>
     <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Tue, 24 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malic...</p>
+    <p>View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-12...</p>
   </div>
 </li>
 <li class="card">
@@ -475,7 +491,7 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://krebsonsecurity.com/b-flashpoint/1.png" alt="preview">
+  <img src="https://krebsonsecurity.com/wp-content/uploads/2026/11/zoom-reporturi.png" alt="preview">
   <div>
     <h3><a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/" target="_blank" rel="noopener">Attackers Used Optimizely to A/B Test Malware on Top Websites</a></h3>
     <div class="meta">Krebs on Security · Wed, 18 Nov 2026 02:52:04 +0000</div>
@@ -483,11 +499,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://isc.sans.edu/images/logos/isc/large.png" alt="preview">
+  <img src="https://icons.duckduckgo.com/ip3/isc.sans.edu.ico" alt="preview">
   <div>
     <h3><a href="https://isc.sans.edu/diary/rss/33528" target="_blank" rel="noopener">ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, (Wed, Nov 18th)</a></h3>
     <div class="meta">SANS Internet Storm Center · Wed, 18 Nov 2026 02:00:03 GMT</div>
-    <p>ISC Stormcast For Wednesday, November 18th, 2026 https://isc.sans.edu/podcastdetail/10184, Author: Johannes Ullrich</p>
+    <p>(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.</p>
   </div>
 </li>
 <li class="card">
@@ -541,9 +557,9 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04" target="_blank" rel="noopener">Siemens Industrial Software Products</a></h3>
     <div class="meta">CISA Alerts · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the sec...</p>
+    <p>View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The v...</p>
   </div>
 </li>
 <li class="card">
@@ -589,14 +605,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04" target="_blank" rel="noopener">Siemens Industrial Software Products</a></h3>
-    <div class="meta">CISA Alerts · Tue, 17 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The v...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
-  <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11" target="_blank" rel="noopener">Siemens meta-iot2050</a></h3>
     <div class="meta">CISA Alerts · Tue, 17 Nov 26 12:00:00 +0000</div>
     <p>View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file ...</p>
@@ -632,6 +640,14 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03" target="_blank" rel="noopener">Siemens Industrial Automation Software Products</a></h3>
     <div class="meta">CISA Alerts · Tue, 17 Nov 26 12:00:00 +0000</div>
     <p>View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as &quot;Node2Shell&quot; (tracked as CVE-2026-111497). The v...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
+  <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
+    <div class="meta">CISA Alerts · Tue, 17 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the sec...</p>
   </div>
 </li>
 <li class="card">
@@ -773,6 +789,14 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
 <li class="card">
   <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
+    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03" target="_blank" rel="noopener">Siemens Industrial Edge Management</a></h3>
+    <div class="meta">CISA Alerts · Thu, 12 Nov 26 12:00:00 +0000</div>
+    <p>View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth...</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
+  <div>
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-04" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
     <div class="meta">CISA Alerts · Thu, 12 Nov 26 12:00:00 +0000</div>
     <p>View CSAF Summary Palo Alto Networks has published information on a vulnerability in PAN-OS related to the Node2Shell vulnerability. This advisory lists the related Siemens Industrial products affected by this vulnerability. Customers ar...</p>
@@ -792,14 +816,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05" target="_blank" rel="noopener">Siemens RUGGEDCOM APE1808</a></h3>
     <div class="meta">CISA Alerts · Thu, 12 Nov 26 12:00:00 +0000</div>
     <p>View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers ar...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03" target="_blank" rel="noopener">Siemens Industrial Edge Management</a></h3>
-    <div class="meta">CISA Alerts · Thu, 12 Nov 26 12:00:00 +0000</div>
-    <p>View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required. Alth...</p>
   </div>
 </li>
 <li class="card">
@@ -835,14 +851,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10d089cc23c19918/6af23c18ddd4d34d271f90a5/GettyImages-511970077.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack" target="_blank" rel="noopener">Attackers Say &#x27;Hello&#x27; to a Different Scale of Cloud Attack</a></h3>
-    <div class="meta">Dark Reading · Wed, 11 Nov 2026 21:44:04 GMT</div>
-    <p>Researchers dubbed an attack chain &quot;Greeter&quot; after discovering that attackers deliberately covered their trail by leaving &quot;hello&quot; messages in logs.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/image-21.webp" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/" target="_blank" rel="noopener">The global socket: how threat actors are weaponizing GSocket for stealthy C2</a></h3>
@@ -872,14 +880,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/" target="_blank" rel="noopener">Microsoft Fixes Nearly 1,100 Security Vulnerabilities</a></h3>
     <div class="meta">Krebs on Security · Tue, 10 Nov 2026 21:55:03 +0000</div>
     <p>Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month’s Patch Tuesday addresses 63 critical flaws — including...</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
-  <div>
-    <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Six Known Exploited Vulnerabilities to Catalog</a></h3>
-    <div class="meta">CISA Alerts · Tue, 10 Nov 26 12:00:00 +0000</div>
-    <p>CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability C...</p>
   </div>
 </li>
 <li class="card">
