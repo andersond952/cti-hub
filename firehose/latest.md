@@ -1,15 +1,63 @@
 ---
 layout: default
-title: Firehose — November 26, 2026
+title: Firehose — November 27, 2026
 ---
 
 <link rel="stylesheet" href="{{ '/assets/css/cards.css' | relative_url }}">
 
-# Daily CTI Firehose — 2026-11-26
+# Daily CTI Firehose — 2026-11-27
 
 _Feeds: 8 | Items: 115 | Keyword filter: none_
 
 <ul class="cards">
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte7893676670a76d5/6aa13f3e0a3bef09c363535c/Data_security(1800)_ber1a_Alamy.png?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks" target="_blank" rel="noopener">Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks</a></h3>
+    <div class="meta">Dark Reading · Fri, 27 Nov 2026 15:27:20 GMT</div>
+    <p>The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Japan_school_ministry_4ac8c35089.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/japan-education-ministry-cyberattack" target="_blank" rel="noopener">Japan’s education ministry discloses breach of government procurement system</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 27 Nov 2026 14:15:00 GMT</div>
+    <p>Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf04ed1ecab1b2c42/66cc9d45781c434a1b20ebb3/airport1800_RoadPix_alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
+  <div>
+    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc" target="_blank" rel="noopener">&#x27;God Mode&#x27; Flaws Could Wreak Border-Control Havoc</a></h3>
+    <div class="meta">Dark Reading · Fri, 27 Nov 2026 14:00:00 GMT</div>
+    <p>Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/SAP_HQ_d46716f5d4.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/sap-germany-cyberattack-github" target="_blank" rel="noopener">Software giant SAP confirms cyber incident amid reports of source code breach</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 27 Nov 2026 13:15:00 GMT</div>
+    <p>German software giant SAP confirmed a cybersecurity incident following reports that hackers infiltrated its software development infrastructure, potentially gaining access to the company’s source code.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/paris_france_558ae68906.jpg" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/france-afp-hit-by-cyberattack" target="_blank" rel="noopener">Cyberattack disrupts global news distribution platform at France’s AFP</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 27 Nov 2026 00:00:00 GMT</div>
+    <p>French international news agency Agence France-Presse was hit by a cyberattack Thursday, forcing it to take offline one of its main platforms for distributing news content to media organizations worldwide.</p>
+  </div>
+</li>
+<li class="card">
+  <img src="https://cms.therecord.media/uploads/Screenshot_2026_11_27_at_10_31_16_df724c9ca7.png" alt="preview">
+  <div>
+    <h3><a href="https://therecord.media/uk-department-work-pensions-cyber-incident" target="_blank" rel="noopener">British government takes services offline following ‘cyber incident’</a></h3>
+    <div class="meta">Recorded Future (Blog) · Fri, 27 Nov 2026 00:00:00 GMT</div>
+    <p>The Department for Work and Pensions said Friday that it had experienced a cyber incident, with several services taken down as a precaution.</p>
+  </div>
+</li>
 <li class="card">
   <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt08316e419aab95b8/6b071dfb870042f8e04904af/cyprus-tunart-GettyImages-961759390.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
   <div>
@@ -27,22 +75,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/microsoft_sign_pexels_altabena_efbc5ae4db.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool" target="_blank" rel="noopener">Microsoft: China’s Salt Typhoon hackers are using Artex</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 21:18:00 GMT</div>
-    <p>An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/fifa_sign_wc_final_202655407277531_c63256a9d9_o_77bc61d70a.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/fifa-data-breach-limited" target="_blank" rel="noopener">FIFA says hackers accessed ‘limited set of personal and business information’</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 20:40:00 GMT</div>
-    <p>The Switzerland-based international governing body for soccer says it&#x27;s working with relevant authorities and law enforcement to investigate a recent breach.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/ARTEX-featured.png" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/" target="_blank" rel="noopener">What defenders need to know about ARTEX, the agentic AI framework threat actors abuse</a></h3>
@@ -51,27 +83,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://cms.therecord.media/uploads/cash_f097a2d770.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/ransomware-doj-indictment-recovery" target="_blank" rel="noopener">Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 17:30:00 GMT</div>
-    <p>The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.</p>
-  </div>
-</li>
-<li class="card">
   <img src="https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/11/Gartner-MQ-for-Email-Security-4-scaled.jpg" alt="preview">
   <div>
     <h3><a href="https://www.microsoft.com/en-us/security/blog/2026/11/25/microsoft-named-a-leader-in-the-2026-gartner-magic-quadrant-for-email-security/" target="_blank" rel="noopener">Microsoft named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security</a></h3>
     <div class="meta">Microsoft Security Blog · Wed, 25 Nov 2026 17:15:00 +0000</div>
     <p>Learn why Microsoft was named a Leader in the 2026 Gartner® Magic Quadrant™ for Email Security and explore advances in measurable email protection.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://cms.therecord.media/uploads/australia_flag_luis_chavez_unsplash_7d5fcdecdc.jpg" alt="preview">
-  <div>
-    <h3><a href="https://therecord.media/australia-passes-online-safety-legislation-preempt-harms" target="_blank" rel="noopener">Australia passes tough legislation requiring big tech to preempt foreseeable harms</a></h3>
-    <div class="meta">Recorded Future (Blog) · Wed, 25 Nov 2026 17:07:00 GMT</div>
-    <p>The Digital Duty of Care Act sailed through Australia&#x27;s Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause significant harms.</p>
   </div>
 </li>
 <li class="card">
@@ -136,14 +152,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn" target="_blank" rel="noopener">Webworm APT Slithers Into Networks With Customized SoftEther VPN</a></h3>
     <div class="meta">Dark Reading · Tue, 24 Nov 2026 21:48:06 GMT</div>
     <p>The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf04ed1ecab1b2c42/66cc9d45781c434a1b20ebb3/airport1800_RoadPix_alamy.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc" target="_blank" rel="noopener">&#x27;God Mode&#x27; Flaws Could Wreak Border-Control Havoc</a></h3>
-    <div class="meta">Dark Reading · Tue, 24 Nov 2026 21:36:11 GMT</div>
-    <p>Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.</p>
   </div>
 </li>
 <li class="card">
@@ -483,11 +491,11 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
   </div>
 </li>
 <li class="card">
-  <img src="https://www.cisa.gov/profiles/cisad8_gov/themes/custom/gesso/dist/images/us_flag_small.png" alt="preview">
+  <img src="https://www.cisa.gov/themes/custom/cisa/images/cisa-logo.svg" alt="preview">
   <div>
     <h3><a href="https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog" target="_blank" rel="noopener">CISA Adds Four Known Exploited Vulnerabilities to Catalog</a></h3>
-    <div class="meta">Cybersecurity and Infrastructure Security Agency CISA · Wed, 18 Nov 26 12:00:00 +0000</div>
-    <p>CISA has added four new vulnerabilities to its KEV Catalog, based on evidence of active exploitation.</p>
+    <div class="meta">CISA Alerts · Wed, 18 Nov 26 12:00:00 +0000</div>
+    <p>CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerabil...</p>
   </div>
 </li>
 <li class="card">
@@ -840,14 +848,6 @@ _Feeds: 8 | Items: 115 | Keyword filter: none_
     <h3><a href="https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches" target="_blank" rel="noopener">Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise</a></h3>
     <div class="meta">Dark Reading · Thu, 12 Nov 2026 00:00:00 GMT</div>
     <p>The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government&#x27;s new active cyber-defense powers.</p>
-  </div>
-</li>
-<li class="card">
-  <img src="https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc3d52fd595b74813/6af39e0cb6c48b43d1f3dedb/musashi-kojiro-attack-defense-statues-GARAGE38-shutterstock.jpg?width=720&amp;quality=80&amp;disable=upscale" alt="preview">
-  <div>
-    <h3><a href="https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches-japanese" target="_blank" rel="noopener">AIを活用したサイバー攻撃の増加を受け、日本がサイバーセキュリティへの緊急資金拠出を推進</a></h3>
-    <div class="meta">Dark Reading · Wed, 11 Nov 2026 22:14:44 GMT</div>
-    <p>この対策パッケージには、官民合同のサイバー対応チーム、経済省が主導するAI専門チーム、および政府の新たな能動的サイバー防衛権限の行使に関する裁量の拡大が含まれている。</p>
   </div>
 </li>
 <li class="card">
